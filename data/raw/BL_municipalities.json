@@ -1,0 +1,776 @@
+[
+  {
+    "bfsNumber": 2761,
+    "name": "Aesch",
+    "district": null,
+    "municipalMultiplier": 56.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2762,
+    "name": "Allschwil",
+    "district": null,
+    "municipalMultiplier": 58.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2763,
+    "name": "Arlesheim",
+    "district": null,
+    "municipalMultiplier": 47.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2764,
+    "name": "Biel-Benken",
+    "district": null,
+    "municipalMultiplier": 46.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2765,
+    "name": "Binningen",
+    "district": null,
+    "municipalMultiplier": 49.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2766,
+    "name": "Birsfelden",
+    "district": null,
+    "municipalMultiplier": 62.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2767,
+    "name": "Bottmingen",
+    "district": null,
+    "municipalMultiplier": 48.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2768,
+    "name": "Ettingen",
+    "district": null,
+    "municipalMultiplier": 61.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2769,
+    "name": "Münchenstein",
+    "district": null,
+    "municipalMultiplier": 60.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2770,
+    "name": "Muttenz",
+    "district": null,
+    "municipalMultiplier": 56.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2771,
+    "name": "Oberwil",
+    "district": null,
+    "municipalMultiplier": 50.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2772,
+    "name": "Pfeffingen",
+    "district": null,
+    "municipalMultiplier": 45.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2773,
+    "name": "Reinach",
+    "district": null,
+    "municipalMultiplier": 58.5,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2774,
+    "name": "Schönenbuch",
+    "district": null,
+    "municipalMultiplier": 54.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2775,
+    "name": "Therwil",
+    "district": null,
+    "municipalMultiplier": 52.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2781,
+    "name": "Blauen",
+    "district": null,
+    "municipalMultiplier": 59.5,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2782,
+    "name": "Brislach",
+    "district": null,
+    "municipalMultiplier": 57.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2783,
+    "name": "Burg i.L.",
+    "district": null,
+    "municipalMultiplier": 68.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2784,
+    "name": "Dittingen",
+    "district": null,
+    "municipalMultiplier": 64.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2785,
+    "name": "Duggingen",
+    "district": null,
+    "municipalMultiplier": 54.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2786,
+    "name": "Grellingen",
+    "district": null,
+    "municipalMultiplier": 62.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2787,
+    "name": "Laufen",
+    "district": null,
+    "municipalMultiplier": 59.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2788,
+    "name": "Liesberg",
+    "district": null,
+    "municipalMultiplier": 61.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2789,
+    "name": "Nenzlingen",
+    "district": null,
+    "municipalMultiplier": 62.5,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2790,
+    "name": "Roggenburg",
+    "district": null,
+    "municipalMultiplier": 62.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2791,
+    "name": "Röschenz",
+    "district": null,
+    "municipalMultiplier": 58.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2792,
+    "name": "Wahlen",
+    "district": null,
+    "municipalMultiplier": 60.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2793,
+    "name": "Zwingen",
+    "district": null,
+    "municipalMultiplier": 62.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2821,
+    "name": "Arisdorf",
+    "district": null,
+    "municipalMultiplier": 59.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2822,
+    "name": "Augst",
+    "district": null,
+    "municipalMultiplier": 53.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2823,
+    "name": "Bubendorf",
+    "district": null,
+    "municipalMultiplier": 60.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2824,
+    "name": "Frenkendorf",
+    "district": null,
+    "municipalMultiplier": 57.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2825,
+    "name": "Füllinsdorf",
+    "district": null,
+    "municipalMultiplier": 60.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2826,
+    "name": "Giebenach",
+    "district": null,
+    "municipalMultiplier": 55.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2827,
+    "name": "Hersberg",
+    "district": null,
+    "municipalMultiplier": 59.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2828,
+    "name": "Lausen",
+    "district": null,
+    "municipalMultiplier": 55.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2829,
+    "name": "Liestal",
+    "district": null,
+    "municipalMultiplier": 65.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2830,
+    "name": "Lupsingen",
+    "district": null,
+    "municipalMultiplier": 58.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2831,
+    "name": "Pratteln",
+    "district": null,
+    "municipalMultiplier": 58.5,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2832,
+    "name": "Ramlinsburg",
+    "district": null,
+    "municipalMultiplier": 52.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2833,
+    "name": "Seltisberg",
+    "district": null,
+    "municipalMultiplier": 59.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2834,
+    "name": "Ziefen",
+    "district": null,
+    "municipalMultiplier": 59.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2841,
+    "name": "Anwil",
+    "district": null,
+    "municipalMultiplier": 60.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2842,
+    "name": "Böckten",
+    "district": null,
+    "municipalMultiplier": 64.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2843,
+    "name": "Buckten",
+    "district": null,
+    "municipalMultiplier": 64.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2844,
+    "name": "Buus",
+    "district": null,
+    "municipalMultiplier": 58.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2845,
+    "name": "Diepflingen",
+    "district": null,
+    "municipalMultiplier": 65.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2846,
+    "name": "Gelterkinden",
+    "district": null,
+    "municipalMultiplier": 59.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2847,
+    "name": "Häfelfingen",
+    "district": null,
+    "municipalMultiplier": 61.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2848,
+    "name": "Hemmiken",
+    "district": null,
+    "municipalMultiplier": 67.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2849,
+    "name": "Itingen",
+    "district": null,
+    "municipalMultiplier": 63.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2850,
+    "name": "Känerkinden",
+    "district": null,
+    "municipalMultiplier": 63.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2851,
+    "name": "Kilchberg",
+    "district": null,
+    "municipalMultiplier": 67.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2852,
+    "name": "Läufelfingen",
+    "district": null,
+    "municipalMultiplier": 64.2,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2853,
+    "name": "Maisprach",
+    "district": null,
+    "municipalMultiplier": 56.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2854,
+    "name": "Nusshof",
+    "district": null,
+    "municipalMultiplier": 62.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2855,
+    "name": "Oltingen",
+    "district": null,
+    "municipalMultiplier": 64.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2856,
+    "name": "Ormalingen",
+    "district": null,
+    "municipalMultiplier": 59.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2857,
+    "name": "Rickenbach",
+    "district": null,
+    "municipalMultiplier": 62.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2858,
+    "name": "Rothenfluh",
+    "district": null,
+    "municipalMultiplier": 62.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2859,
+    "name": "Rümlingen",
+    "district": null,
+    "municipalMultiplier": 63.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2860,
+    "name": "Rünenberg",
+    "district": null,
+    "municipalMultiplier": 62.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2861,
+    "name": "Sissach",
+    "district": null,
+    "municipalMultiplier": 57.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2862,
+    "name": "Tecknau",
+    "district": null,
+    "municipalMultiplier": 60.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2863,
+    "name": "Tenniken",
+    "district": null,
+    "municipalMultiplier": 60.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2864,
+    "name": "Thürnen",
+    "district": null,
+    "municipalMultiplier": 56.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2865,
+    "name": "Wenslingen",
+    "district": null,
+    "municipalMultiplier": 58.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2866,
+    "name": "Wintersingen",
+    "district": null,
+    "municipalMultiplier": 56.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2867,
+    "name": "Wittinsburg",
+    "district": null,
+    "municipalMultiplier": 63.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2868,
+    "name": "Zeglingen",
+    "district": null,
+    "municipalMultiplier": 64.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2869,
+    "name": "Zunzgen",
+    "district": null,
+    "municipalMultiplier": 59.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2881,
+    "name": "Arboldswil",
+    "district": null,
+    "municipalMultiplier": 59.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2882,
+    "name": "Bennwil",
+    "district": null,
+    "municipalMultiplier": 64.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2883,
+    "name": "Bretzwil",
+    "district": null,
+    "municipalMultiplier": 58.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2884,
+    "name": "Diegten",
+    "district": null,
+    "municipalMultiplier": 56.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2885,
+    "name": "Eptingen",
+    "district": null,
+    "municipalMultiplier": 65.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2886,
+    "name": "Hölstein",
+    "district": null,
+    "municipalMultiplier": 63.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2887,
+    "name": "Lampenberg",
+    "district": null,
+    "municipalMultiplier": 62.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2888,
+    "name": "Langenbruck",
+    "district": null,
+    "municipalMultiplier": 56.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2889,
+    "name": "Lauwil",
+    "district": null,
+    "municipalMultiplier": 60.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2890,
+    "name": "Liedertswil",
+    "district": null,
+    "municipalMultiplier": 55.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2891,
+    "name": "Niederdorf",
+    "district": null,
+    "municipalMultiplier": 64.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2892,
+    "name": "Oberdorf",
+    "district": null,
+    "municipalMultiplier": 65.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2893,
+    "name": "Reigoldswil",
+    "district": null,
+    "municipalMultiplier": 66.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2894,
+    "name": "Titterten",
+    "district": null,
+    "municipalMultiplier": 65.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 2895,
+    "name": "Waldenburg",
+    "district": null,
+    "municipalMultiplier": 72.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  }
+]

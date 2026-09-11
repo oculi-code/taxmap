@@ -1,0 +1,9 @@
+[
+  { "bfsNumber": 1401, "name": "Alpnach", "district": null, "municipalMultiplier": 4.85, "municipalMultiplierUnit": "einheiten", "churchMultiplierReformed": 0.54, "churchMultiplierCatholic": 0.68 },
+  { "bfsNumber": 1402, "name": "Engelberg", "district": null, "municipalMultiplier": 4.65, "municipalMultiplierUnit": "einheiten", "churchMultiplierReformed": null, "churchMultiplierCatholic": null },
+  { "bfsNumber": 1403, "name": "Giswil", "district": null, "municipalMultiplier": 4.85, "municipalMultiplierUnit": "einheiten", "churchMultiplierReformed": 0.54, "churchMultiplierCatholic": 0.70 },
+  { "bfsNumber": 1404, "name": "Kerns", "district": null, "municipalMultiplier": 4.70, "municipalMultiplierUnit": "einheiten", "churchMultiplierReformed": 0.54, "churchMultiplierCatholic": 0.67 },
+  { "bfsNumber": 1405, "name": "Lungern", "district": null, "municipalMultiplier": 5.25, "municipalMultiplierUnit": "einheiten", "churchMultiplierReformed": 0.54, "churchMultiplierCatholic": 0.70 },
+  { "bfsNumber": 1406, "name": "Sachseln", "district": null, "municipalMultiplier": 4.70, "municipalMultiplierUnit": "einheiten", "churchMultiplierReformed": 0.54, "churchMultiplierCatholic": 0.68 },
+  { "bfsNumber": 1407, "name": "Sarnen", "district": null, "municipalMultiplier": 3.86, "municipalMultiplierUnit": "einheiten", "churchMultiplierReformed": 0.54, "churchMultiplierCatholic": 0.54 }
+]

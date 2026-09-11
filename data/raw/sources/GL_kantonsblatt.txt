@@ -1,0 +1,1430 @@
+                                              Eidgenössisches Finanzdepartement EFD
+                                              Eidgenössische Steuerverwaltung ESTV
+                                              Hauptabteilung Steuerpolitik
+                                              Abteilung Volkswirtschaft, Steuerstatistik und Steuerdokumentation
+
+
+
+
+                                    GLARUS
+
+                        VORWORT
+
+                        Das Kantonsblatt dient als Ergänzung der im
+                        Dossier Steuerinformationen behandelten Themen
+                        und ist mit den Steuermäppchen verknüpft. Es be­
+                        zieht sich aktuell auf die Besteuerung der natürli­
+                        chen und der juristischen Personen. Der Akzent liegt
+                        dabei auf den steuerlichen Besonderheiten und den
+                        dazugehörenden kantonalen gesetzlichen Regelun­
+                        gen, die aufgrund des Bundesgesetzes über die
+                        Harmonisierung der direkten Steuern der Kantone
+                        und Gemeinden (StHG) in der Kompetenz des Kan­
+                        tons liegen.
+
+
+
+
+                        Stand: Februar 2026
+
+
+
+
+Herausgeberin
+Eidgenössische
+Steuerverwaltung ESTV
+Steuerdokumentation
+Eigerstrasse 65
+3003 Bern
+ist@estv.admin.ch
+www.estv.admin.ch
+Kantonsblatt Glarus                                                     Begriffserklärung / Hinweise
+
+
+
+
+Begriffserklärung / Hinweise
+
+           Mit einem Klick auf das Auge gelangen Sie auf das Steuer­
+           mäppchen, das den betreffenden Abzug für die Steuerperiode
+           2025 beim Bund sowie in allen Kantonen aufzeigt.
+
+
+
+
+           Der Steuerrechner ermöglicht die Berechnung des ungefähren
+           Steuerbetrags.
+
+
+
+
+Dossier Steuerinformationen > Der Link führt jeweils zum betreffenden Artikel aus dem Dossier
+Steuerinformationen publiziert auf der Internetseite der ESTV.
+
+
+
+
+Für einen Überblick über die geltenden Steuern beim Bund und in den Kantonen siehe Dossier Steuer­
+informationen, C. Steuersystem, Geltende Steuern.
+
+
+
+
+                                                                                            04.03.2026
+Kantonsblatt Glarus                                                                                                            Inhaltsverzeichnis
+
+
+
+
+Inhaltsverzeichnis
+  GESETZLICHE GRUNDLAGEN ......................................................................................................................... 4
+
+  BESTEUERUNG DER NATÜRLICHEN PERSONEN ......................................................................................... 5
+
+  Einkommenssteuer ............................................................................................................................5
+
+     Einkünfte .......................................................................................................................................... 5
+     Steuerfreie Einkünfte ....................................................................................................................... 6
+     Ermittlung des Reineinkommens..................................................................................................... 7
+     Ermittlung des steuerbaren Einkommens ..................................................................................... 11
+     Steuerberechnung ......................................................................................................................... 12
+  Vermögenssteuer ............................................................................................................................ 14
+
+     Gegenstand der Vermögenssteuer ............................................................................................... 14
+     Bewertung des Vermögens ........................................................................................................... 14
+     Ermittlung des steuerbaren Vermögens ........................................................................................ 15
+     Steuerberechnung ......................................................................................................................... 15
+  Besteuerung nach dem Aufwand .................................................................................................. 16
+
+  Kalte Progression ............................................................................................................................ 16
+
+  Jährliches Vielfaches ...................................................................................................................... 17
+
+  Steuererleichterungen .................................................................................................................... 17
+
+  BESTEUERUNG DER JURISTISCHEN PERSONEN ...................................................................................... 18
+
+  Gewinnsteuer ................................................................................................................................... 18
+
+     Ermittlung des steuerbaren Reingewinns ..................................................................................... 18
+     Steuerberechnung ......................................................................................................................... 19
+  Kapitalsteuer .................................................................................................................................... 19
+
+     Steuerberechnung ......................................................................................................................... 20
+  Übergangsbestimmungen betreffend Holding- und Domizil-gesellschaften ............................ 20
+
+  Jährliches Vielfaches ...................................................................................................................... 20
+
+  Steuererleichterungen .................................................................................................................... 21
+
+  GRUNDSTÜCKGEWINNSTEUER .................................................................................................................... 22
+
+  Steuerberechnung ........................................................................................................................... 22
+
+     Verteilung der Grundstückgewinnsteuer ....................................................................................... 23
+  STEUERN IN DEN GEMEINDEN UND KIRCHGEMEINDEN ........................................................................... 24
+
+  Einkommens- und Vermögenssteuern sowie Gewinn- und Kapitalsteuern in den Gemeinden
+  und in den Kirchgemeinden ........................................................................................................... 24
+
+  Grundstückgewinnsteuer in den Gemeinden............................................................................... 24
+
+  KONTAKT KANTONALE STEUERVERWALTUNG ........................................................................................ 25
+
+
+
+                                                                                                                                                         3
+Kantonsblatt Glarus                                                         Gesetzliche Grundlagen
+
+
+
+
+Gesetzliche Grundlagen
+   •   VI C/1/1 Steuergesetz vom 7. Mai 2000 (StG)
+   •   VI C/1/1/1 Verordnung vom 1. Oktober 2024 über den Ausgleich der Folgen der kalten Progres­
+       sion für die natürlichen Personen bei den Kantons- und Gemeindesteuern (Kantonale Verord­
+       nung über die kalte Progression, KVKP)
+   •   VI C/1/2 Verordnung zum Steuergesetz vom 28. Februar 2001 (Steuerverordnung; StV)
+   •   VI C/1/3 Verordnung vom 21. November 2000 über die Pauschalierung von Berufsauslagen bei
+       unselbstständiger Erwerbstätigkeit und Gewinnungskosten bei Nebenerwerbstätigkeit (Berufs­
+       kostenverordnung, BKV)
+   •   VI C/1/4 Verordnung über die Bewertung der Grundstücke (VBG)*
+   •   VI C/1/6 Verordnung vom 23. Januar 2001 über den Abzug der Kosten von Liegenschaften des
+       Privatvermögens (Liegenschaftskostenverordnung, KLKV)
+   •   Weitere steuerrechtliche Verordnungen und Dekrete sind in der Sammlung des glarnerischen
+       Rechts (Gesetzessammlung), publiziert.
+*Die hier verwendete Abkürzung ist von uns speziell für dieses Kantonsblatt bestimmt worden.
+
+
+
+
+                                                                                                 4
+Kantonsblatt Glarus                                                                        Natürliche Personen
+
+
+
+
+Besteuerung der natürlichen Personen
+   Art. 1 Abs. 1 Ziff. 1 StG:
+   1 Der Kanton erhebt:
+
+   1.   Einkommens- und Vermögenssteuern von natürlichen Personen;
+
+
+
+Einkommenssteuer
+(Art. 16 – 36 StG)
+
+Dossier Steuerinformationen, D. Einzelne Steuern, Einkommenssteuer natürlicher Personen
+Dossier Steuerinformationen, D. Einzelne Steuern, Besteuerung bei selbstständiger Erwerbstätigkeit
+Dossier Steuerinformationen, F. Steuerprobleme, Besteuerung der Eigenmietwerte
+
+
+Einkünfte
+(Art. 16 – 23 und 255 StG; VBG)
+Zum Bruttogesamteinkommen gehören das Einkommen aus selbstständiger oder unselbstständiger Tä­
+tigkeit, das Ersatz- oder Nebeneinkommen, die Vermögenserträge aus beweglichem und unbewegli­
+chem Vermögen, die Kapitalabfindungen aus Vorsorge wie auch die Gewinne aus der Teilnahme an
+Geldspielen, ferner der Eigenmietwert für Personen, die ein Eigenheim bewohnen.
+
+
+Es bestehen folgende kantonale Besonderheiten:
+
+   Einkommen aus Patenten und vergleichbaren Rechten
+   Art. 18c StG:
+   1
+     Für das Einkommen aus Patenten und vergleichbaren Rechten bei selbstständiger Erwerbstätigkeit
+   sind die Artikel 63a und 63b sinngemäss anwendbar.
+
+
+   Einkünfte aus Vorsorge
+   Art. 22 StG:
+   1
+     Steuerbar sind alle Einkünfte aus der Alters-, Hinterlassenen- und Invalidenversicherung, aus Einrich­
+   tungen der beruflichen Vorsorge und aus anerkannten Formen der gebundenen Selbstvorsorge, mit Ein­
+   schluss der Kapitalabfindungen und Rückzahlungen von Einlagen, Prämien und Beiträgen.
+   2 Als Einkünfte aus der beruflichen Vorsorge gelten insbesondere Leistungen aus Vorsorgekassen, aus
+
+   Spar- und Gruppenversicherungen sowie aus Freizügigkeitspolicen.
+   3 Leibrenten sowie Einkünfte aus Verpfründung sind zu 40 Prozent steuerbar.*
+
+   * Ab Steuerperiode 2025 gilt: Art. 7 Abs. 2 Steuerharmonisierungsgesetz:
+   2
+     Leibrentenversicherungen sowie Leibrenten- und Verpfründungsverträge sind im Umfang ihres Er­
+   tragsanteils steuerbar. […].
+
+   Art. 255 Abs. 1 StG:
+   1
+     Renten und Kapitalabfindungen aus beruflicher Vorsorge, die vor dem 1. Januar 1987 zu laufen be­
+   gannen oder fällig wurden oder die vor dem 1. Januar 2002 zu laufen beginnen oder fällig werden und
+   auf einem Vorsorgeverhältnis beruhen, das am 31. Dezember 1986 bereits bestand, sind wie folgt steu­
+   erbar:
+   1.    zu drei Fünfteln, wenn die Leistungen (wie Einlagen, Beiträge, Prämienzahlungen), auf denen der
+         Anspruch des Steuerpflichtigen beruht, ausschliesslich vom Steuerpflichtigen erbracht worden
+         sind;
+   2.    zu vier Fünfteln, wenn die Leistungen, auf denen der Anspruch des Steuerpflichtigen beruht, nur
+         zum Teil, mindestens aber zu 20 Prozent vom Steuerpflichtigen erbracht worden sind;
+   3.    zum vollen Betrag in den übrigen Fällen.
+
+
+
+
+                                                                                                              5
+Kantonsblatt Glarus                                                                       Natürliche Personen
+
+
+   Teilbesteuerung der Einkünfte aus Beteiligungen des Geschäftsvermögens
+   Art. 18b Abs. 1 StG:
+   1 Dividenden, Gewinnanteile, Liquidationsüberschüsse und geldwerte Vorteile aus Aktien, Anteilen an
+
+   Gesellschaften mit beschränkter Haftung, Genossenschaftsanteilen und Partizipationsscheinen sowie
+   Gewinne aus der Veräusserung solcher Beteiligungsrechte sind nach Abzug des zurechenbaren Auf­
+   wandes im Umfang von 70 Prozent steuerbar, wenn diese Beteiligungsrechte mindestens 10 Prozent
+   des Grund- oder Stammkapitals einer Kapitalgesellschaft oder Genossenschaft darstellen.
+   2 Die Teilbesteuerung auf Veräusserungsgewinnen wird nur gewährt, wenn die veräusserten Beteili­
+
+   gungsrechte mindestens ein Jahr im Eigentum der steuerpflichtigen Person oder des Personenunter­
+   nehmens waren.
+
+
+   Teilbesteuerung der Einkünfte aus Beteiligungen des Privatvermögens
+   Art. 20 Abs. 1a StG:
+   1 Dividenden, Gewinnanteile, Liquidationsüberschüsse und geldwerte Vorteile aus Aktien, Anteilen an
+
+   Gesellschaften mit beschränkter Haftung, Genossenschaftsanteilen und Partizipationsscheinen sowie
+   Gewinne aus der Veräusserung solcher Beteiligungsrechte sind nach Abzug des zurechenbaren Auf­
+   wandes im Umfang von 70 Prozent steuerbar, wenn diese Beteiligungsrechte mindestens 10 Prozent
+   des Grund- oder Stammkapitals einer Kapitalgesellschaft oder Genossenschaft darstellen.
+
+
+   Eigenmietwert
+   Art. 21 Abs. 1 Ziff. 2 und Abs. 2 StG:
+   1
+     Steuerbar sind alle Erträge aus unbeweglichem Vermögen, insbesondere:
+   2.    der Mietwert von Liegenschaften oder Liegenschaftsteilen, die dem Steuerpflichtigen aufgrund von
+         Eigentum oder eines unentgeltlichen Nutzungsrechts für den Eigengebrauch zur Verfügung stehen;
+   2 Der Eigenmietwert ist unter Berücksichtigung des Marktwertes, der Förderung von Eigentumsbildung
+
+   und Selbstvorsorge massvoll festzulegen. Der Landrat regelt die Einzelheiten durch eine Verordnung.
+   Art. 18 Abs. 3 und 4 VBG:
+   3
+     Nutzt der Eigentümer oder Nutzniesser eine Liegenschaft selbst und erzielt er infolgedessen keinen
+   Mietzins, so wird als Mietwert der erzielbare Normmietwert festgelegt.
+   4 Der Normmietwert von Wohnungen wird aufgrund des örtlichen Mietpreisniveaus und der individuell
+
+   nach Objekt zu bestimmenden Faktoren wie Grösse der Wohnung, Ausbau, Anordnung, Heizung, Bau­
+   weise, Stockwerklage, wirtschaftliches Baujahr, Wohnlage sowie zusätzliche Anlagen und Einbauten
+   bestimmt.
+   Art. 24 Abs. 1 VBG:
+   1
+      Der Eigenmietwert von selbstgenutzten Liegenschaften wie Einfamilienhaus, Stockwerkeigentum,
+   Wohnung im Mehrfamilien- und Geschäftshaus sowie Nutzniessungen hieran ist massvoll (60 % des
+   Marktwertes) festzulegen. Für Ferien- und Weekendhäuser ist der Marktwert heranzuziehen. Artikel 18
+   findet sinngemäss Anwendung.
+
+
+Steuerfreie Einkünfte
+(Art. 24 StG; KVKP)
+
+
+   Sold der Milizfeuerwehrleute
+   Art. 24 Abs. 1 Ziff. 9a StG:
+   1
+     Steuerfrei sind:
+   9a. der Sold der Milizfeuerwehrleute bis zum Betrag von 5400 (5300*) Franken für Dienstleistungen im
+         Zusammenhang mit der Erfüllung der Kernaufgaben der Feuerwehr, wie Übungen, Pikettdienste,
+         Kurse, Inspektionen und Ernstfalleinsätze zur Rettung, Brandbekämpfung, allgemeine Schaden­
+         wehr, Elementarschadenbewältigung. Ausgenommen sind Pauschalzulagen für Kader sowie Funk­
+         tionszulagen und Entschädigungen für administrative Arbeiten und für Dienstleistungen, welche die
+         Feuerwehr freiwillig erbringt;
+   * Gültig bis Steuerperiode 2025.
+
+
+
+
+                                                                                                             6
+Kantonsblatt Glarus                                                                      Natürliche Personen
+
+
+   Gewinne aus der Teilnahme an Geldspielen
+   Art. 24 Abs. 1 Ziff. 11 – 12 StG:
+   1 Steuerfrei sind:
+
+   11. die Gewinne, die in Spielbanken mit Spielbankenspielen erzielt werden, die nach dem Geldspiel­
+         gesetz vom 29. September 2017 (BGS) zugelassen sind, sofern diese Gewinne nicht aus selbst­
+         ständiger Erwerbstätigkeit stammen;
+   11a. die einzelnen Gewinne bis zum Betrag von 1 071 000 (1 070 400*) Franken aus der Teilnahme an
+         Grossspielen, die nach dem BGS zugelassen sind, und aus der Online-Teilnahme an Spielbanken­
+         spielen, die nach dem BGS zugelassen sind;
+   11b. die Gewinne aus Kleinspielen, die nach dem BGS zugelassen sind;
+   12. die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach
+         Artikel 1 Absatz 2 Buchstaben d und e BGS diesem nicht unterstehen, sofern die Grenze von 1100
+         Franken nicht überschritten wird.
+   * Gültig bis Steuerperiode 2025.
+
+
+Ermittlung des Reineinkommens
+(Art. 25 – 31 StG; BKV; KLKV)
+Zur Ermittlung des Reineinkommens werden von den gesamten steuerbaren Einkünften die Aufwen­
+dungen und allgemeinen Abzüge abgezogen.
+
+Abzüge
+(Art. 26 – 31 StG; KVKP, BKV; KLKV)
+
+   Aufwendungen
+   (Art. 26 und 30 StG; BKV; KLKV)
+
+
+
+   Pauschalabzug für Mehrkosten für Verpflegung
+
+
+   Abzüge bei auswärtigem Wochenaufenthalt
+
+
+   Fahrkosten zwischen Wohn- und Arbeitsstätte
+   Art. 26 Abs. 1 Ziff. 1 StG:
+   1 Bei unselbstständiger Erwerbstätigkeit können alle berufsnotwendigen Kosten abgezogen werden.
+
+   Dazu gehören insbesondere
+   1.    die notwendigen Kosten für Fahrten zwischen Wohn- und Arbeitsstätte;
+   Art. 4 BKV:
+   1 Als notwendige Kosten für Fahrten zwischen Wohn- und Arbeitsstätte können bei Benützung der öf-
+
+   fentlichen Verkehrsmittel die tatsächlich entstehenden Auslagen abgezogen werden.
+   2 Bei Benützung privater Fahrzeuge sind als notwendige Kosten die Auslagen abziehbar, die bei Benüt-
+
+   zung der öffentlichen Verkehrsmittel anfallen würden.
+   3 Steht kein öffentliches Verkehrsmittel zur Verfügung oder ist dessen Benützung objektiv nicht zumut-
+   bar, so können die Kosten des privaten Fahrzeugs gemäss den Pauschalen im Anhang abgezogen wer-
+   den. Der Nachweis höherer berufsnotwendiger Kosten bleibt vorbehalten (Art. 3).
+   4 Die Steuerbehörde kann eine Abstufung der Fahrkostenpauschalen gemäss Anhang im Verhältnis zur
+   Fahrleistung anordnen. Für die Hin- und Rückfahrt über Mittag ist der Fahrkostenabzug auf die Höhe
+   des vollen Abzugs für auswärtige Verpflegung (Art. 5 Abs. 1) beschränkt.
+
+
+
+
+                                                                                                            7
+Kantonsblatt Glarus                                                                       Natürliche Personen
+
+
+   Art. A1–1 BKV:
+   Die Pauschalansätze für die Fahrkosten privater Fahrzeuge (Art. 4 Abs. 3) betragen:
+      Kategorie                                               Berechnungseinheit             Pauschale
+      Fahrräder, Motorfahrräder, Motorräder mit gelbem
+                                                              im Jahr                         700 Fr.
+      Kontrollschild
+      Motorräder mit weissem Kontrollschild                   pro Fahrkilometer              0.40 Fr.
+      Autos                                                   pro Fahrkilometer              0.75* Fr.
+   * Gültig ab Steuerperiode 2026.
+   Vorbehalten bleibt Artikel 4 Absatz 4 (Abstufung im Verhältnis zur Fahrleistung, Beschränkung für Hin-
+   und Rückfahrt über Mittag auf den vollen Abzug für auswärtige Verpflegung).
+   Auszug aus der Wegleitung zur Steuererklärung 2025, Punkt 2.3, S. 15:
+   Für den Autoabzug gelten, je nach jährlich notwendigen und tatsächlich gefahrenen Kilometern für den
+   Arbeitsweg, folgende Ansätze:
+   bis 10'000 km           70 Rp.
+   Bis 20'000 km           60 Rp.
+   Über 20'000 km          50 Rp.
+   Mit diesen Pauschalen sind sämtliche Fahrzeugkosten (auch Parkplatz- oder Park-and-Ride-Gebühren)
+   abgegolten. Bei der Berechnung der notwendigen Fahrkosten für den Arbeitsweg ist von 220 Arbeits­
+   tagen im Jahr auszugehen.
+
+
+   Übrige Berufskosten
+   Art. 6 Abs. 1 Ziff. 3 StG:
+   1
+     Als übrige Berufskosten können die für die Berufsausübung erforderlichen Auslagen für Berufswerk
+   die übrigen für die Ausübung des Berufes erforderlichen Kosten; Artikel 31 Absatz 1 Ziffer 12 bleibt
+   vorbehalten.
+   Art. 6 Abs. 1 BKV:
+   1 Als übrige Berufskosten können die für die Berufsausübung erforderlichen Auslagen für Berufswerk­
+
+   zeuge (inkl. EDV-Hard- und -Software), Beiträge an Berufsverbände, Fachliteratur, privates Arbeitszim­
+   mer, Berufskleider, besonderer Schuh- und Kleiderverschleiss, Schwerarbeit usw. als Pauschale ge­
+   mäss Anhang abgezogen werden. Vorbehalten bleiben der Nachweis höherer Kosten (Art. 3) sowie der
+   Abzug der Weiterbildungs- und Umschulungskosten.
+   Art. A1–3 BKV:
+   1
+     Die Pauschale für die übrigen Berufskosten (Art. 6 Abs. 1) beträgt 3 Prozent des Nettolohnes, mindes­
+   tens jedoch 2000 und höchstens 4000 Franken im Jahr.
+   Auszug aus der Wegleitung zur Steuererklärung 2024, Punkt 4, S. 16:
+   Allgemeine Berufsauslagen wie Aufwendungen für Berufswerkzeuge (inkl. EDV-Hard- und -Software,
+   nach Abzug eines Privatanteils von 50%), Fachliteratur, privates Arbeitszimmer, Kleider- und Schuhver­
+   schleiss, Mehrauslagen für Schwerarbeit, Beiträge an Berufsverbände und Gewerkschaften werden mit
+   einem Pauschalabzug von 3% des Nettolohnes, mindestens Fr. 2’000 und höchstens Fr. 4’000 abge­
+   golten. Für Teilzeitbeschäftigte mit einem Jahreseinkommen bis Fr. 20'000 beträgt der Abzug 10% des
+   Nettoeinkommens. Der Unkostenersatz kann von jedem unselbständig erwerbstätigen Steuerpflichtigen
+   beansprucht werden. Anstelle der Pauschale können auch die effektiven Kosten geltend gemacht wer­
+   den. Diese tatsächlichen Auslagen sind aufzulisten und die Belege beizulegen.
+
+
+   Auslagen bei Nebenerwerb
+   Art. 9 BKV:
+   1 Für die mit gelegentlicher Nebenerwerbstätigkeit verbundenen Berufskosten ist ein Pauschalabzug
+
+   gemäss Anhang zulässig. Der Nachweis höherer Kosten bleibt vorbehalten (Art. 3).
+   Art. A1–4 BKV:
+   1 Der Pauschalabzug für die mit gelegentlicher Nebenerwerbstätigkeit verbundenen Berufskosten
+
+   (Art. 9) beträgt 20 Prozent der Nettoeinkünfte, mindestens jedoch 800 und höchstens 2400 Franken im
+   Jahr.
+
+
+
+
+                                                                                                             8
+Kantonsblatt Glarus                                                                       Natürliche Personen
+
+
+   Sofortabschreibungen
+   Art. 27 Abs. 1 und 2 Bst. 1 StG:
+   1 Bei selbstständiger Erwerbstätigkeit werden die geschäfts- oder berufsmässig begründeten Kosten ab­
+
+   gezogen.
+   2
+     Dazu gehören insbesondere.
+   1. die ausgewiesenen Abschreibungen des Geschäftsvermögens;
+   Auszug aus der Wegleitung zur Steuererklärung 2024, Punkt 2.1, S. 9:
+     •   wird die Methode der Direkt- oder Sofortabschreibungen für bewegliches Anlagevermögen ge­
+         wählt, so muss diese für mindestens 5 Jahre beibehalten werden. Dies gilt auch für Ersatzobjekte;
+
+
+   Rückstellungen für Ersatzbeschaffungen
+   Art. 28 Abs. 1 und 2 StG:
+   1
+     Beim Ersatz von betriebsnotwendigem Anlagevermögen können die stillen Reserven auf ein Ersatzob­
+   jekt mit gleicher Funktion übertragen werden; ausgeschlossen ist die Übertragung auf Vermögen aus­
+   serhalb der Schweiz.
+   2
+     Erfolgt die Ersatzbeschaffung nicht im gleichen Geschäftsjahr, kann im Umfang der stillen Reserven
+   eine Rückstellung gebildet werden. Diese Rückstellung ist innert angemessener Frist zur Abschreibung
+   auf dem Ersatzobjekt zu verwenden oder zugunsten der Erfolgsrechnung aufzulösen.
+
+
+   Liegenschaftsunterhalt
+   Art. 30 Abs. 2, 2a, 4 und 5 StG:
+   2 Bei Liegenschaften im Privatvermögen können die Unterhaltskosten, die Kosten der Instandstellung
+
+   von neu erworbenen Liegenschaften, die Versicherungsprämien und die Kosten der Verwaltung durch
+   Dritte abgezogen werden. Den Unterhaltskosten sind Investitionen gleichgestellt, die dem Energiesparen
+   und dem Umweltschutz dienen, soweit sie bei der direkten Bundessteuer abziehbar sind. Den Unter­
+   haltskosten gleichgestellt sind auch die Rückbaukosten im Hinblick auf den Ersatzneubau, soweit sie bei
+   der direkten Bundessteuer abziehbar sind.
+   2a Bei Investitionskosten sowie Rückbaukosten im Hinblick auf einen Ersatzneubau nach Absatz 2 sind
+
+   in den zwei nachfolgenden Steuerperioden abziehbar, soweit sie in der laufenden Steuerperiode, in wel­
+   cher die Aufwendungen angefallen sind, steuerlich nicht vollständig berücksichtigt werden können.
+   4 Abziehbar sind ferner die Kosten denkmalpflegerischer Arbeiten, die der Steuerpflichtige aufgrund ge­
+
+   setzlicher Vorschriften, im Einvernehmen mit den Behörden oder auf deren Anordnung hin vorgenom­
+   men hat, soweit diese Arbeiten nicht subventioniert sind.
+   5 Der Steuerpflichtige kann für Grundstücke des Privatvermögens anstelle der tatsächlichen Kosten und
+
+   Prämien einen Pauschalabzug geltend machen. Der Regierungsrat legt diesen Pauschalabzug fest.
+   Art. 1 Abs. 1 KLKV:
+   1 Bei Liegenschaften des Privatvermögens können die Unterhalts- und Betriebskosten, die Versiche­
+
+   rungsprämien und die Kosten der Verwaltung durch Dritte abgezogen werden.
+   Art. 2 KLKV:
+   1
+      Anstelle der tatsächlichen Kosten und Prämien sowie der den Unterhaltskosten gleichgestellten ener­
+   giesparenden und denkmalpflegerischen Investitionen kann der Steuerpflichtige einen Pauschalabzug
+   geltend machen.
+   2
+      Dieser Pauschalabzug beträgt:
+   1.    wenn das Gebäude zu Beginn der Steuerperiode bis zehn Jahre alt ist, 10 Prozent vom Brutto-
+         Mietertrag bzw. -Mietwert;
+   2.    wenn das Gebäude zu Beginn der Steuerperiode älter ist als zehn Jahre, 20 Prozent vom Brutto-
+         Mietertrag bzw. -Mietwert.
+   Art. 3 KLKV:
+   1 Der Steuerpflichtige kann in jeder Steuerperiode und für jede Liegenschaft zwischen dem Abzug der
+
+   tatsächlichen Kosten und dem Pauschalabzug wählen.
+   Art. 4 KLKV:
+   1 Ein Pauschalabzug kommt nicht in Betracht für Liegenschaften, die von Dritten vorwiegend geschäftlich
+
+   genutzt werden sowie für unüberbaute und baurechtsbelastete Grundstücke.
+   Auszug aus dem Merkblatt Besteuerung Photovoltaikanlagen:
+   2.1 a) bei bestehenden Gebäuden
+   Wird an einem bestehenden Gebäude eine Photovoltaikanlage erstellt, können die tatsächlichen Inves­
+   titionskosten zu 100% beim Einkommen in Abzug gebracht werden. […] Während einer fünfjährigen
+
+
+
+
+                                                                                                             9
+Kantonsblatt Glarus                                                                          Natürliche Personen
+
+
+   «Sperrfrist» nach dem Zeitpunkt der Erstellung des Gebäudes verweigert die Steuerverwaltung des Kan­
+   tons Glarus einen Abzug für Energiesparmassnahmen; während dieser Zeit kann es sich noch nicht um
+   einen Altbau handeln.
+
+
+   Allgemeine Abzüge
+   (Art. 31 StG; KVKP)
+
+
+   Versicherungsprämien und Zinsen von Sparkapitalien
+   Art. 31 Abs. 1 Ziff. 7 StG:
+   1
+     Von den Einkünften werden abgezogen:
+   7.    die Einlagen, Prämien und Beiträge für die Lebens-, die Kranken- und die nicht unter Ziffer 6 fal­
+         lende Unfallversicherung sowie die Zinsen von Sparkapitalien des Steuerpflichtigen und der von
+         ihm unterhaltenen Personen, bis zum Gesamtbetrag von 6200 Franken für in ungetrennter Ehe
+         lebende Steuerpflichtige und von bis zu 3100 Franken für die übrigen Steuerpflichtigen. Für Steu­
+         erpflichtige ohne Beiträge gemäss den Ziffern 4 und 5 erhöhen sich diese Ansätze um die Hälfte.
+         Zudem erhöhen sich diese Abzüge um 1000 Franken für jedes Kind, für das der Steuerpflichtige
+         einen Kinderabzug geltend machen kann;
+
+
+   Krankheits- und Unfallkosten
+   Art. 31 Abs. 1 Ziff. 8 StG:
+   1 Von den Einkünften werden abgezogen:
+
+   8.    die Krankheits- und Unfallkosten des Steuerpflichtigen und der von ihm unterhaltenen Personen,
+         soweit der Steuerpflichtige die Kosten selbst trägt und diese 2 Prozent der Nettoeinkünfte überstei­
+         gen;
+
+
+   Freiwillige Leistungen
+   Art. 31 Abs. 1 Ziff. 9 StG:
+   1 Von den Einkünften werden abgezogen:
+
+   9.    die freiwilligen Leistungen von Geld und übrigen Vermögenswerten an juristische Personen mit Sitz
+         in der Schweiz, die im Hinblick auf ihre öffentlichen oder gemeinnützigen Zwecke von der Steuer­
+         pflicht befreit sind (Art. 60 Abs. 1 Ziff. 7), wenn diese Leistungen im Steuerjahr 100 Franken errei­
+         chen und insgesamt 20 Prozent der um die Aufwendungen (Art. 26–31) verminderten Einkünfte
+         nicht übersteigen. Im gleichen Umfang abzugsfähig sind entsprechende freiwillige Leistungen an
+         Bund, Kantone, Gemeinden und deren Anstalten (Art. 60 Abs. 1 Ziff. 1–4).
+
+
+   Abzug für Kinderdrittbetreuung
+   Art. 31 Abs. 1 Ziff. 10 StG:
+   1
+     Von den Einkünften werden abgezogen:
+   10. die nachgewiesenen Kosten, jedoch höchstens 25 800 Franken, für die Drittbetreuung jedes Kin­
+         des, das das 14. Altersjahr noch nicht vollendet hat und mit der steuerpflichtigen Person, die für
+         seinen Unterhalt sorgt, im gleichen Haushalt lebt, soweit diese Kosten in direktem und kausalem
+         Zusammenhang mit der Erwerbstätigkeit, Ausbildung oder Erwerbsunfähigkeit der steuerpflichtigen
+         Person stehen;
+
+
+   Abzug für Mitgliederbeiträge und Zuwendungen an politische Parteien
+   Art. 31 Abs. 1 Ziff. 11 StG:
+   1 Von den Einkünften werden abgezogen:
+
+   11. die Mitgliederbeiträge und Zuwendungen bis zum Gesamtbetrag von 10 600 Franken an politische
+         Parteien, die:
+         a.   im Parteienregister nach Artikel 76a des Bundesgesetzes vom 17. Dezember 1976 über die
+              politischen Rechte eingetragen sind,
+         b.   in einem kantonalen Parlament vertreten sind, oder
+         c.   in einem Kanton bei den letzten Wahlen des kantonalen Parlaments mindestens 3 Prozent
+              der Stimmen erreicht haben.
+
+
+
+
+                                                                                                                 10
+Kantonsblatt Glarus                                                                         Natürliche Personen
+
+
+   Aus- und Weiterbildung
+   Art. 31 Abs. 1 Ziff. 12 StG:
+   1 Von den Einkünften werden abgezogen:
+
+   12. die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich der Umschulungskosten,
+         bis zum Gesamtbetrag von 13 000 Franken, sofern:
+   a.      ein erster Abschluss auf der Sekundarstufe II vorliegt, oder
+   b.      das 20. Altersjahr vollendet ist und soweit es sich nicht um die Ausbildungskosten bis zum ers­
+           ten Abschluss auf der Sekundarstufe II handelt.
+
+
+   Sonderabzug bei Erwerbstätigkeit beider Ehegatten / Partner
+   Art. 31 Abs. 2 StG:
+   2 Leben Ehegatten in rechtlich und tatsächlich ungetrennter Ehe und erzielen beide ein Erwerbseinkom­
+
+   men, so werden vom niedrigeren Erwerbseinkommen 10 Prozent, jedoch mindestens 3600 Franken und
+   höchstens 10 300 Franken abgezogen. Als Erwerbseinkommen gelten die steuerbaren Einkünfte aus
+   unselbständiger oder selbständiger Erwerbstätigkeit abzüglich der Aufwendungen nach den Artikeln 26–
+   29 und der allgemeinen Abzüge nach Absatz 1 Ziffern 4–6. Bei erheblicher Mitarbeit eines Ehegatten im
+   Beruf, Geschäft oder Gewerbe des andern Ehegatten oder bei gemeinsamer selbständiger Erwerbstä­
+   tigkeit wird jedem Ehegatten die Hälfte des gemeinsamen Erwerbseinkommens zugewiesen. Eine ab­
+   weichende Aufteilung ist vom Ehepaar nachzuweisen.
+
+
+   Einsatzkosten von den einzelnen Gewinnen aus der Teilnahme an Geldspielen
+   Art. 31 Abs. 3 StG:
+   3 Von den einzelnen Gewinnen aus der Teilnahme an Geldspielen, welche nicht nach Artikel 24 Ziffern
+
+   11–12 steuerfrei sind, werden 5 Prozent, jedoch höchstens 5400 Franken, als Einsatzkosten abgezogen.
+   Von den einzelnen Gewinnen aus der Online-Teilnahme an Spielbankenspielen nach Artikel 24 Ziffer
+   11a werden die vom Online-Spielerkonto abgebuchten Spieleinsätze im Steuerjahr, jedoch höchstens
+   26 400 Franken abgezogen.
+
+
+Ermittlung des steuerbaren Einkommens
+(Art. 32 und 33 StG; KVKP)
+Das Reineinkommen vermindert um die Sozialabzüge ergibt das steuerbare Einkommen. Dieses dient
+als Bemessungsgrundlage für die Einkommenssteuer.
+
+Sozialabzüge
+(Art. 33 StG; KVKP)
+
+
+   Kinderabzug
+   Art. 33 Abs. 1 Ziff. 1 StG:
+   1
+     Vom Reineinkommen werden für die Steuerberechnung abgezogen:
+   1.    als Kinderabzug
+         a.    für minderjährige Kinder unter der elterlichen Sorge oder Obhut des Steuerpflichtigen sowie
+               für volljährige Kinder, die in der schulischen oder beruflichen Ausbildung stehen und deren
+               Unterhalt der Steuerpflichtige zur Hauptsache bestreitet, je 7200 Franken;
+         b.    für jedes unter der elterlichen Sorge oder Obhut des Steuerpflichtigen stehende oder volljäh­
+               rige Kind, das in der schulischen oder beruflichen Ausbildung steht und sich hiefür ständig am
+               Ausbildungsort ausserhalb des Kantons aufhalten muss und dessen Unterhalt der Steuer­
+               pflichtige zur Hauptsache bestreitet; zusätzlich je 7200 Franken;
+         c.    stehen Kinder unter gemeinsamer elterlicher Sorge nicht gemeinsam besteuerter Eltern,
+               kommt der Kinderabzug jenem Elternteil zu, der für das Kind Unterhaltsbeiträge gemäss Arti­
+               kel 23 Ziffer 6 dieses Gesetzes erhält; werden keine Unterhaltsbeiträge geleistet, kommt der
+               Kinderabzug jenem Elternteil zu, der für den Unterhalt des Kindes zur Hauptsache aufkommt
+               und keinen Abzug gemäss Artikel 23 Ziffer 6 dieses Gesetzes beansprucht;
+
+
+
+
+                                                                                                                11
+Kantonsblatt Glarus                                                                     Natürliche Personen
+
+
+   Abzug für alleinstehende AHV- und IV-Rentner
+   Art. 33 Abs. 1 Ziff. 2 StG:
+   1 Vom Reineinkommen werden für die Steuerberechnung abgezogen:
+
+   2.    als weiterer Abzug für alleinstehende AHV/IV-Rentner soweit das satzbestimmende Einkommen
+         30 000 Franken und das satzbestimmende Vermögen 300 000 Franken nicht übersteigt
+         2100 Franken;
+
+
+   Unterstützungsabzug
+   Art. 33 Abs. 1 Ziff. 3 und Abs. 2 StG:
+   1 Vom Reineinkommen werden für die Steuerberechnung abgezogen:
+
+   3.    als Unterstützungsabzug: für erwerbsunfähige oder beschränkt erwerbsfähige Personen, an deren
+         Unterhalt der Steuerpflichtige mindestens in der Höhe des Abzuges beiträgt, je 2100 Franken.
+   2 Der Unterstützungsabzug kann nicht beansprucht werden für den Ehegatten und für Kinder, für die ein
+
+   Abzug gemäss Ziffer 1 oder Artikel 31 Absatz 1 Ziffer 3 dieses Gesetzes gewährt wird.
+
+
+Steuerberechnung
+(Art. 34 StG)
+
+Steuertarife
+(Art. 34 StG; KVKP)
+   Art. 34 Abs. 1 StG:
+   1 Die einfache Einkommenssteuer beträgt (Grundtarif):
+
+   a.    bis 10 300 Franken Einkommen
+         1.    Basis        –.–      Franken
+         2.    und für je weitere 100 Franken         8.00 Franken
+   b.    für 20 600 Franken Einkommen
+         1.    Basis        824.00 Franken
+         2.    und für je weitere 100 Franken         11.00 Franken
+   c.    für 30 900 Franken Einkommen
+         1.    Basis        1 957.00 Franken
+         2.    und für je weitere 100 Franken         13.00 Franken
+   d.    für 51 500 (51 600*) Franken Einkommen
+         1.    Basis        4 635.00 (4 648.00*) Franken
+         2.    und für je weitere 100 Franken         15.00 Franken
+   e.    für 103 100 (103 200*) Franken Einkommen
+         1.    Basis        12 372.00 (12 388.00*)Franken
+         2.    und für je weitere 100 Franken         16.00 Franken
+   f.    für 154 600 (154 700*) Franken Einkommen
+         1.    Basis        20 613.33 (20 628.00*) Franken
+         2.    und für je weitere 100 Franken         17.50 Franken
+   g.    für 257 700 (257 900*) Franken Einkommen
+         1.    Basis        38 655.00 (38 688.00*) Franken
+         2.    und für je weitere 100 Franken         19.00 Franken
+   h.    für 412 400 (412 600*) Franken Einkommen
+         1.    Basis        68 046.00 (68 081.00*) Franken
+         2.    und für je weitere 100 Franken         21.00 Franken
+   i.    für 463 900 (464 200*) Franken Einkommen
+         1.    Basis        78 863.00 (78 917.00*) Franken
+         2.    für höhere Einkommen beträgt der Satz einheitlich 17 Prozent.
+   * Gültig ab Steuerperiode 2026.
+
+   Einkommenstarif
+
+
+
+
+                                                                                                           12
+Kantonsblatt Glarus                                                                         Natürliche Personen
+
+
+   Reduzierter Steuersatz
+   Art. 34 Abs. 2 StG:
+   2 Für in ungetrennter Ehe lebende Steuerpflichtige sowie für getrennt lebende, geschiedene, verwitwete
+
+   und ledige Steuerpflichtige, die mit Kindern im Sinne von Artikel 33 dieses Gesetzes zusammenleben,
+   ist für die Ermittlung des satzbestimmenden Einkommens das steuerbare Gesamteinkommen durch den
+   Divisor 1,7 zu teilen.
+
+Sonderfälle
+(Art. 35 und 36 StG)
+
+
+   Liquidationsgewinne
+   Art. 35b StG:
+   1 Wird die selbstständige Erwerbstätigkeit nach dem vollendeten 55. Altersjahr oder wegen Unfähigkeit
+
+   zur Weiterführung infolge Invalidität definitiv aufgegeben, so ist die Summe der in den letzten zwei Ge­
+   schäftsjahren realisierten stillen Reserven getrennt vom übrigen Einkommen zu besteuern. Einkaufsbei­
+   träge gemäss Artikel 31 Absatz 1 Ziffer 4 sind abziehbar. Werden keine solchen Einkäufe vorgenommen,
+   so wird die Steuer auf dem Betrag der realisierten stillen Reserven, für den der Steuerpflichtige die Zu­
+   lässigkeit eines Einkaufs gemäss Artikel 31 Absatz 1 Ziffer 4 nachweist, gemäss Artikel 36 berechnet.
+   Die Steuer auf den verbleibenden realisierten stillen Reserven wird ebenfalls gemäss Artikel 36 berech­
+   net.
+   2
+     Absatz 1 gilt auch für den überlebenden Ehegatten, die anderen Erben und die Vermächtnisnehmer,
+   sofern sie das übernommene Unternehmen nicht fortführen; die steuerliche Abrechnung erfolgt spätes­
+   tens fünf Kalenderjahre nach Ablauf des Todesjahres des Erblassers.
+
+
+   Kapitalzahlungen aus Versicherung und Vorsorge
+   Art. 36 Abs. 1 StG:
+   1
+     Kapitalleistungen gemäss Artikel 22 dieses Gesetzes, gleichartige Kapitalabfindungen des Arbeitge­
+   bers sowie Zahlungen bei Tod und für bleibende körperliche oder gesundheitliche Nachteile werden
+   gesondert besteuert. Es wird stets eine volle Jahressteuer erhoben. Die einfache Steuer beträgt 4 Pro­
+   zent.
+
+
+
+
+                                                                                                               13
+Kantonsblatt Glarus                                                                       Natürliche Personen
+
+
+
+Vermögenssteuer
+(Art. 37 – 46 StG)
+
+Dossier Steuerinformationen, D. Einzelne Steuern, Vermögenssteuer natürlicher Personen
+
+
+Gegenstand der Vermögenssteuer
+(Art. 37 StG)
+Gegenstand der Steuer bildet das Gesamtvermögen. Dieses umfasst alle vermögenswerten Sachen
+und Rechte, die der Steuerpflichtige zu Eigentum oder Nutzniessung hat, insbesondere bewegliches
+und unbewegliches Vermögen, rückkaufsfähige Lebens- und Rentenversicherungen sowie das in einen
+Geschäfts- oder Landwirtschaftsbetrieb investierte Vermögen.
+
+
+Bewertung des Vermögens
+(Art. 38 – 44 StG)
+Gemäss StHG und kantonalem Steuerrecht sind die Aktiven grundsätzlich zum Verkehrswert zu bewer­
+ten. Für Versicherungen, Wertpapiere und Grundstücke können andere Bewertungen zur Anwendung
+kommen. Das Geschäftsvermögen der steuerpflichtigen Person wird zu dem für die Einkommenssteuer
+massgeblichen Wert bewertet.
+
+
+Es bestehen folgende kantonale Besonderheiten:
+
+   Ermässigte Besteuerung des Geschäftsvermögens
+   Art. 38 Abs. 2a StG:
+   2a
+      Das steuerbare Vermögen ermässigt sich im Verhältnis der Patente und vergleichbaren Rechte nach
+   Artikel 63a zum gesamten Geschäftsvermögen.
+
+
+   Landwirtschaftliche Grundstücke
+   Art. 39 StG:
+   1 Die unter den Geltungsbereich der Bundesgesetzgebung über das bäuerliche Bodenrecht fallenden
+
+   Grundstücke, die überwiegend land- oder forstwirtschaftlich genutzt werden, werden zum Ertragswert
+   berechnet.
+
+
+   Ergänzende Vermögenssteuer für landwirtschaftliche Grundstücke
+   Art. 40 Abs. 1 StG:
+   1
+     Wird ein Grundstück, das zum Ertragswert bewertet wurde, ganz oder teilweise veräussert oder der
+   bisherigen land- oder forstwirtschaftlichen Bewirtschaftung entfremdet, wird vom Eigentümer eine ergän­
+   zende Vermögenssteuer erhoben.
+
+
+   Berechnung ergänzende Vermögenssteuer für landwirtschaftliche Grundstücke
+   Art. 42 StG:
+   1 Das steuerbare Vermögen berechnet sich nach der Differenz zwischen dem Mittel der Ertragswerte
+
+   und dem Mittel der amtlichen Werte des Grundstücks am Anfang und am Ende der massgeblichen
+   Dauer.
+   2
+     Wurde das Grundstück aus steueraufschiebender Veräusserung erworben, wird für die Berechnung
+   der ergänzenden Vermögenssteuer auf die letzte Veräusserung abgestellt, die keinen Steueraufschub
+   bewirkt hat.
+   3
+     Die ergänzende Vermögenssteuer wird getrennt vom übrigen Vermögen erhoben. Sie wird für die
+   Dauer berechnet, während der das Grundstück zum Ertragswert berechnet wurde, längstens für 20
+   Jahre. Artikel 45 dieses Gesetzes findet keine Anwendung.
+
+
+
+
+                                                                                                             14
+Kantonsblatt Glarus                                                                         Natürliche Personen
+
+
+Ermittlung des steuerbaren Vermögens
+(Art. 44 und 45 StG)
+Das Bruttovermögen vermindert um die Schulden ergibt das Reinvermögen. Um das steuerbare Ver­
+mögen zu ermitteln, werden davon noch Sozialabzüge und Freibeträge abgezogen.
+
+
+Steuerberechnung
+(Art. 45 und 46 StG; KVKP)
+
+Steuerfreie Beträge
+(Art. 45 StG; KVKP)
+
+
+   Steuerfreie Beträge
+   Art. 45 Abs. 1 Ziff. 1 und 2 StG:
+   1
+     Vom Reinvermögen werden für die Berechnung des steuerbaren Vermögens abgezogen:
+   1.    77 400 (77 300*) Franken für alleinstehende Steuerpflichtige;
+   2.    154 700 (154 600*) Franken für gemeinsam steuerpflichtige Ehegatten sowie verwitwete, gericht­
+         lich oder tatsächlich getrennt lebende, geschiedene und ledige Steuerpflichtige, die allein mit Kin­
+         dern im Sinne von Artikel 33 dieses Gesetzes zusammenleben;
+   * Gültig bis Steuerperiode 2025.
+
+
+   Abzug für jedes Kind
+   Art. 45 Abs. 1 Ziff. 3 StG:
+   1
+     Vom Reinvermögen werden für die Berechnung des steuerbaren Vermögens abgezogen:
+   3.    25 800 Franken für jedes minderjährige, unter der elterlichen Sorge oder Obhut des Steuerpflichti­
+         gen stehende Kind;
+
+
+   Zusätzlicher Abzug für IV-Rentner
+   Art. 45 Abs. 1 Ziff. 4 StG:
+   1 Vom Reinvermögen werden für die Berechnung des steuerbaren Vermögens abgezogen:
+
+   4.    zusätzlich 25 800 Franken für Steuerpflichtige, die mindestens eine halbe Rente der eidgenössi­
+         schen Invalidenversicherung beziehen.
+
+Steuertarif
+(Art. 46 StG)
+   1
+    Die einfache Steuer vom Vermögen beträgt 3 Promille.
+   2
+    Restbeträge des steuerbaren Vermögens unter 1000 Franken fallen für die Steuerberechnung ausser
+   Betracht.
+
+
+
+
+                                                                                                                15
+Kantonsblatt Glarus                                                                       Natürliche Personen
+
+
+
+Besteuerung nach dem Aufwand
+(Art. 13 StG; Verordnung über die Besteuerung nach dem Aufwand bei der direkten Bundessteuer vom 20. Feb­
+ruar 2013)
+
+
+Es bestehen folgende kantonale Besonderheiten:
+
+   Besteuerung nach dem Aufwand
+   Art. 13 Abs. 3 – 7 StG:
+   3 Die Steuer wird nach den jährlichen, in der Bemessungsperiode im In- und Ausland entstandenen
+
+   Lebenshaltungskosten der steuerpflichtigen Person und der von ihr unterhaltenen Personen, mindestens
+   aber nach dem höchsten der folgenden Beträge bemessen:
+   1. 435 000 (434 700*) Franken;
+   2. für Steuerpflichtige mit eigenem Haushalt: dem Siebenfachen des jährlichen Mietzinses oder Ei­
+         genmietwerts;
+   3. für die übrigen Steuerpflichtigen: dem Dreifachen des jährlichen Pensionspreises für Unterkunft
+         und Verpflegung.
+   4 Die Steuer wird nach dem ordentlichen Steuertarif berechnet [Art. 34 StG].
+
+   5 Die Steuer vom Vermögen wird nach einem Vermögen bemessen, das mindestens dem zwanzigfachen
+
+   massgeblichen Aufwand nach Absatz 3 dieses Artikels entspricht und nach dem ordentlichen Steuersatz
+   [Art. 46 StG] berechnet.
+   6 Die Steuer nach dem Aufwand wird insgesamt mindestens gleich hoch angesetzt wie die Summe der
+
+   nach den ordentlichen Tarifen berechneten Einkommens- und Vermögenssteuern vom gesamten Brut­
+   tobetrag:
+   1.      des in der Schweiz gelegenen unbeweglichen Vermögens und von dessen Einkünften;
+   2.      der in der Schweiz gelegenen Fahrnis und von deren Einkünften;
+   3.      des in der Schweiz angelegten beweglichen Kapitalvermögens, einschliesslich der grundpfänd­
+           lich gesicherten Forderungen, und von dessen Einkünften;
+   4.      der in der Schweiz verwerteten Urheberrechte, Patente und ähnlichen Rechte und von deren
+           Einkünften;
+   5.      der Ruhegehälter, Renten und Pensionen, die aus schweizerischen Quellen fliessen;
+   6.      der Einkünfte, für die die steuerpflichtige Person aufgrund eines von der Schweiz abgeschlosse­
+           nen Abkommens zur Vermeidung der Doppelbesteuerung gänzliche oder teilweise Entlastung
+           von ausländischen Steuern beansprucht.
+   7 Werden Einkünfte aus einem Staat nur dann von dessen Steuern entlastet, wenn die Schweiz diese
+
+   Einkünfte allein oder mit anderen Einkünften zum Satz des Gesamteinkommens besteuert, so wird die
+   Steuer nicht nur nach den in Absatz 6 bezeichneten Einkünften, sondern auch nach allen aufgrund des
+   betreffenden Doppelbesteuerungsabkommens der Schweiz zugewiesenen Einkommensbestandteilen
+   aus dem Quellenstaat bemessen.
+   * Gütlig bis Steuerperiode 2025.
+
+
+
+Kalte Progression
+(Art. 47 StG)
+
+Dossier Steuerinformationen, E. Steuerbegriffe, Kalte Progression
+
+
+   Ausgleich der kalten Progression
+   Art. 47 Abs. 1, 1a und 4 StG:
+   1
+     Bei den Steuern vom Einkommen und Vermögen der natürlichen Personen werden die Folgen der
+   kalten Progression durch gleichmässige Anpassung der Tarifstufen gemäss Artikel 34 und der in Fran­
+   kenbeträgen festgesetzten Abzüge vom Einkommen gemäss den Artikeln 31, 33 und 45 voll ausgegli­
+   chen. Die Beträge sind auf 100 Franken auf- oder abzurunden.
+   1a
+      Der Regierungsrat passt die Tarifstufen und die Abzüge jährlich an den Landesindex der Konsumen­
+   tenpreise an. Massgebend ist der Indexstand am 30. Juni vor Beginn der Steuerperiode. Bei negativem
+   Teuerungsverlauf ist eine Anpassung ausgeschlossen. Der auf eine negative Teuerung folgende Aus­
+   gleich erfolgt auf Basis des letzten Ausgleichs. Ausgegangen wird vom Indexstand per 30. Juni 2022.
+
+
+
+
+                                                                                                             16
+Kantonsblatt Glarus                                                                         Natürliche Personen
+
+
+   4
+    Der Regierungsrat kann zwecks Koordination mit der direkten Bundessteuer bei Artikel 13 Absatz 3
+   Ziffer 1, Artikel 24 Absatz 1 Ziffern 9a, 11a und 12, Artikel 26 Absatz 1 Ziffer 3 und Artikel 31 eine An­
+   passung ungeachtet der Voraussetzungen von Absatz 1 vornehmen.
+
+
+
+Jährliches Vielfaches
+(Art. 2 StG)
+
+Dossier Steuerinformationen, E. Steuerbegriffe, Steuersatz und Steuerfuss
+
+   Art. 2 StG:
+   1
+     Die aufgrund der in diesem Gesetz festgelegten Steuersätze berechnete Steuer ist die einfache Steuer.
+   2
+     Die Landsgemeinde setzt alljährlich auf Antrag des Landrates den Steuerfuss für das folgende Jahr in
+   Prozenten der einfachen Steuer fest.
+   3 Der Steuerfuss gilt für die Einkommens- und Vermögenssteuern natürlicher Personen, für die Gewinn-
+
+   und Kapitalsteuern juristischer Personen sowie für die Quellensteuern von bestimmten natürlichen und
+   juristischen Personen.
+   Steuerfüsse der Kantonshauptorte
+
+
+
+Steuererleichterungen
+(Art. 15 StG)
+
+   Art. 15 Abs. 1 StG:
+   1
+     Für Personenunternehmen, die im Kanton neu eröffnet werden und dem volkswirtschaftlichen Interesse
+   des Kantons dienen, kann der Regierungsrat nach Anhören der zuständigen Gemeinde höchstens für
+   das Eröffnungsjahr und die neun folgenden Jahre angemessene Steuererleichterungen gewähren. Eine
+   wesentliche Änderung der betrieblichen Tätigkeit kann einer Neueröffnung gleichgestellt werden. Gegen
+   die Entscheide des Regierungsrates betreffend Steuererleichterungen besteht kein kantonales Rechts­
+   mittel; vorbehalten bleiben Entscheide betreffend den Widerruf gewährter Steuererleichterungen.
+
+
+
+
+                                                                                                                17
+Kantonsblatt Glarus                                                                       Juristische Personen
+
+
+
+
+Besteuerung der juristischen Personen
+Dossier Steuerinformationen, D. Einzelne Steuern, Besteuerung der juristischen Personen
+
+
+   Art. 1 Abs. 1 Ziff. 2 StG:
+   1 Der Kanton erhebt:
+
+   2.    Gewinn- und Kapitalsteuern von juristischen Personen;
+
+
+
+Gewinnsteuer
+(Art. 62 – 76 StG)
+
+
+Ermittlung des steuerbaren Reingewinns
+(Art. 63 – 69 StG)
+Zur Ermittlung des steuerbaren Reingewinns werden dem Saldo der Erfolgsrechnung der geschäfts­
+mässig nicht begründete Aufwand, nicht gutgeschriebene Erträge, Kapital-, Liquidations- und Aufwer­
+tungsgewinne sowie die Zinsen auf verdecktem Eigenkapital hinzugerechnet. Geschäftsmässig begrün­
+deter Aufwand und allfällige Verluste aus den sieben der Steuerperiode vorangegangenen Geschäfts­
+jahren können abgezogen werden.
+Bei den Vereinen werden Mitgliederbeiträge nicht zum steuerbaren Gewinn gerechnet, Aufwendungen
+zur Erzielung der steuerbaren Erträge können abgezogen werden, weitere Aufwendungen nur insoweit,
+als sie die Mitgliederbeiträge übersteigen.
+Die Einlagen in das Vermögen von Stiftungen werden nicht zum steuerbaren Gewinn gerechnet.
+Die kollektiven Kapitalanlagen mit direktem Grundbesitz unterliegen der Gewinnsteuer für den Ertrag
+aus diesem.
+
+
+Es bestehen folgende kantonale Besonderheiten:
+
+   Patente und vergleichbare Rechte
+   Art. 63b Abs. 1 und 3 StG:
+   1 Der Reingewinn aus Patenten und vergleichbaren Rechten wird auf Antrag der steuerpflichtigen Person
+
+   im Verhältnis des qualifizierenden Forschungs- und Entwicklungsaufwands zum gesamten Forschungs-
+   und Entwicklungsaufwand pro Patent oder vergleichbares Recht (Nexusquotient) mit einer Ermässigung
+   von 10 Prozent in die Berechnung des steuerbaren Reingewinns einbezogen.
+   3
+     Wird der Reingewinn aus Patenten und vergleichbaren Rechten erstmals ermässigt besteuert, so wer­
+   den der in vergangenen Steuerperioden bereits berücksichtigte Forschungs- und Entwicklungsaufwand
+   zum steuerbaren Reingewinn hinzugerechnet. Im Umfang des hinzugerechneten Betrags ist eine ver­
+   steuerte stille Reserve zu bilden.
+
+
+   Entlastungsbegrenzung
+   Art. 63c Abs. 1 StG:
+   1
+     Die gesamte steuerliche Ermässigung nach Artikel 63b Absätze 1 und 2 darf nicht höher sein als 10
+   Prozent des steuerbaren Gewinns vor Verlustverrechnung, wobei der Nettobeteiligungsertrag nach Arti­
+   kel 71 und 72 ausgeklammert wird, und vor Abzug der vorgenommenen Ermässigungen.
+
+
+
+
+                                                                                                            18
+Kantonsblatt Glarus                                                                      Juristische Personen
+
+
+   Freiwillige Leistungen
+   Art. 64 Abs. 1 Bst. 3 StG:
+   1 Zum geschäftsmässig begründeten Aufwand gehören auch:
+
+   3.    die freiwilligen Leistungen von Geld und übrigen Vermögenswerten bis zu 20 Prozent des Reinge­
+         winns an juristische Personen mit Sitz in der Schweiz, die im Hinblick auf ihre öffentlichen oder
+         gemeinnützigen Zwecke von der Steuerpflicht befreit sind (Art. 60 Abs. 1 Ziff. 7), sowie an Bund,
+         Kantone, Gemeinden und deren Anstalten (Art. 60 Abs. 1 Ziff. 1–4);
+
+
+   Rücklagen für künftige Forschungs- und Entwicklungsaufträge
+   Art. 64 Abs. 1 Ziff. 5 StG:
+   1 Zum geschäftsmässig begründeten Aufwand gehören auch:
+
+   5.    die Rücklagen für künftige Forschungs- und Entwicklungsaufträge an Dritte bis zu 10 Prozent des
+         steuerbaren Gewinns, insgesamt jedoch höchstens bis 1 Million Franken;
+
+
+   Gewinne von juristischen Personen mit ideellen Zwecken
+   Art. 68a StG:
+   1
+     Gewinne von juristischen Personen mit ideellen Zwecken werden nicht besteuert, sofern sie höchstens
+   20 000 Franken betragen und ausschliesslich und unwiderruflich diesen Zwecken gewidmet sind.
+
+
+Steuerberechnung
+(Art. 70 – 76 StG)
+
+
+   Kapitalgesellschaften und Genossenschaften
+   Art. 70 StG:
+   1 Die einfache Gewinnsteuer der Kapitalgesellschaften und Genossenschaften beträgt 4,5 Prozent des
+
+   steuerbaren Gewinnes.
+
+
+   Vereine, Stiftungen und übrige juristische Personen      sowie Anlagefonds
+   Art. 76 Abs. 1 StG:
+   1
+     Die Gewinnsteuer der Vereine, Stiftungen und übrigen juristischen Personen sowie Anlagefonds mit
+   direktem Grundbesitz beträgt 4,5 Prozent des Reingewinns.
+   Art. 76 Abs. 2 StG:
+   2 Gewinne von Vereinen, Stiftungen und übrigen juristischen Personen, die auf ein Jahr berechnet
+
+   5000 Franken nicht erreichen, werden nicht besteuert.
+
+
+
+Kapitalsteuer
+(Art. 77 – 81 StG)
+Gegenstand der Kapitalsteuer ist das Eigenkapital. Bei Kapitalgesellschaften und Genossenschaften
+umfasst das steuerbare Eigenkapital das einbezahlte Aktien-, Grund- oder Stammkapital, die offenen
+Reserven, die aus versteuertem Gewinn gebildeten stillen Reserven und das verdeckte Eigenkapital.
+Bei Vereinen, Stiftungen und übrigen juristischen Personen besteht das Eigenkapital aus dem Reinver­
+mögen, wie es nach den Bestimmungen für die natürlichen Personen bewertet wird.
+
+
+Es bestehen folgende kantonale Besonderheiten:
+
+   Ermässigung bei gemischten Beteiligungsgesellschaften und bei Darlehen an
+   Konzerngesellschaften
+   Art. 78 Abs. 3 StG:
+   3 Das steuerbare Eigenkapital ermässigt sich im Verhältnis der Beteiligungen nach Artikel 71 Absatz 1,
+
+   der Patente und vergleichbaren Rechte nach Artikel 63a sowie der Darlehen an die Konzerngesellschaft
+   zu den gesamten Aktiven.
+
+
+
+
+                                                                                                             19
+Kantonsblatt Glarus                                                                       Juristische Personen
+
+
+   Land- oder forstwirtschaftliche Liegenschaften
+   Art. 80 Abs. 3 StG:
+   3 Bei Veräusserung oder Zweckentfremdung von zum Ertragswert bewerteten land- oder forstwirtschaft­
+
+   lichen Liegenschaften wird eine ergänzende Kapitalsteuer zum Steuersatz von 3 Promille erhoben; im
+   Übrigen werden die Bestimmungen über die ergänzende Vermögenssteuer natürlicher Personen sinn­
+   gemäss angewendet.
+
+
+Steuerberechnung
+(Art. 81 StG)
+
+
+   Kapitalgesellschaften und Genossenschaften
+   Vereine, Stiftungen und übrige juristische Personen
+   Anlagefonds
+   Art. 81 Abs. 1 StG:
+   1 Die Kapitalsteuer beträgt 2 Promille des steuerbaren Eigenkapitals.
+
+   2
+     Eigenkapital der Vereine, Stiftungen und übrigen juristischen Personen, einschliesslich der Anlage­
+   fonds, unter 50 000 Franken wird nicht besteuert.
+
+
+
+Übergangsbestimmungen betreffend Holding- und Domizil-
+gesellschaften (2020 – 2024)
+(Art. 260b StG)
+
+
+   Übergangsbestimmung zur Änderung vom 5. Mai 2019
+   Art. 260b StG:
+   1
+     Wurden juristische Personen nach Artikel 73 und 74 des bisherigen Rechts besteuert, so werden die
+   bei Ende dieser Besteuerung bestehenden stillen Reserven einschliesslich des selbst geschaffenen
+   Mehrwerts, soweit diese bisher nicht steuerbar gewesen wären, im Falle ihrer Realisation innert den
+   nächsten fünf Jahren gesondert besteuert. Die einfache Steuer beträgt in diesem Fall 1,5 Prozent.
+   2
+     Die Höhe der von der juristischen Person geltend gemachten stillen Reserven einschliesslich des selbst
+   geschaffenen Mehrwerts wird von der Veranlagungsbehörde mit Verfügung festgesetzt.
+   3
+     Abschreibungen auf stillen Reserven einschliesslich des selbst geschaffenen Mehrwerts, die bei Ende
+   der Besteuerung nach Artikel 73 und 74 des bisherigen Rechts aufgedeckt wurden, werden in die Be­
+   rechnung der Entlastungsbegrenzung nach Artikel 63c einbezogen.
+
+
+
+Jährliches Vielfaches
+(Art. 2 StG)
+
+Dossier Steuerinformationen, E. Steuerbegriffe, Steuersatz und Steuerfuss
+
+   Art. 2 StG:
+   1 Die aufgrund der in diesem Gesetz festgelegten Steuersätze berechnete Steuer ist die einfache Steuer.
+
+   2 Die Landsgemeinde setzt alljährlich auf Antrag des Landrates den Steuerfuss für das folgende Jahr in
+
+   Prozenten der einfachen Steuer fest.
+   3 Der Steuerfuss gilt für die Einkommens- und Vermögenssteuern natürlicher Personen, für die Gewinn-
+
+   und Kapitalsteuern juristischer Personen sowie für die Quellensteuern von bestimmten natürlichen und
+   juristischen Personen.
+   Steuerfüsse der Kantonshauptorte
+
+
+
+
+                                                                                                              20
+Kantonsblatt Glarus                                                                     Juristische Personen
+
+
+
+Steuererleichterungen
+(Art. 61 StG)
+
+
+   Steuererleichterungen Unternehmen
+   Art. 61 StG:
+   1
+     Für Unternehmen von juristischen Personen, die neu eröffnet werden und dem volkswirtschaftlichen
+   Interesse des Kantons dienen, kann der Regierungsrat nach Anhören der zuständigen Gemeinde höchs­
+   tens für das Eröffnungsjahr und die neun folgenden Jahre angemessene Steuererleichterungen gewäh­
+   ren. Eine wesentliche Änderung der betrieblichen Tätigkeit kann einer Neueröffnung gleichgestellt wer­
+   den. Gegen die Entscheide des Regierungsrates betreffend Steuererleichterungen besteht kein kanto­
+   nales Rechtsmittel; vorbehalten bleiben Entscheide betreffend den Widerruf gewährter Steuererleichte­
+   rungen.
+   Steuererleichterungen
+
+
+
+
+                                                                                                            21
+Kantonsblatt Glarus                                                               Grundstückgewinnsteuer
+
+
+
+
+Grundstückgewinnsteuer
+(Art. 105 – 115 StG)
+
+Dossier Steuerinformationen, D. Einzelne Steuern, Besteuerung der Grundstückgewinne
+
+
+   Art. 1 Abs. 1 Ziff. 4 StG:
+   1 Der Kanton erhebt:
+
+   4.   Grundstückgewinnsteuern;
+
+
+Es bestehen folgende kantonale Besonderheiten:
+
+   Besteuerung der Grundstückgewinne, Steuerhoheit und Berechnung der Grundstückgewinnsteuer
+
+
+   Gegenstand
+   Art. 105 Abs. 1 und 2 Ziff. 1 und 3 StG:
+   1
+     Der Grundstückgewinnsteuer unterliegen die Gewinne, die aus Veräusserung von Grundstücken des
+   Privatvermögens oder von Anteilen an solchen erzielt werden.
+   2
+     Der Grundstückgewinnsteuer unterliegen ausserdem:
+   1.    Gewinne aus Veräusserung land- und forstwirtschaftlicher Grundstücke natürlicher Personen, so­
+         weit der Erlös die Anlagekosten (Erwerbspreis oder Ersatzwert zuzüglich Aufwendungen) über­
+         steigt;
+   3.    Gewinne aus Veräusserung von Grundstücken juristischer Personen, die gemäss Artikel 60 Ziffern
+         5–9 dieses Gesetzes von der Steuerpflicht befreit sind.
+
+
+   Grundstückgewinn
+   Art. 109 StG:
+   1
+     Der Grundstückgewinn entspricht dem Betrag, um den der Erlös die Anlagekosten (Erwerbspreis und
+   Aufwendungen) übersteigt.
+
+
+
+Steuerberechnung
+(Art. 115 StG)
+   Art. 115 StG:
+   1
+     Die Grundstückgewinnsteuer beträgt:
+   a.     10 Prozent für die ersten         5 000 Franken,
+   b.     15 Prozent für die weiteren       5 000 Franken,
+   c.     20 Prozent für die weiteren       5 000 Franken,
+   d.     25 Prozent für die weiteren       5 000 Franken,
+   e.     30 Prozent für die weiteren Beträge über 20 000 Franken.
+   2 Die gemäss Absatz 1 berechnete Grundstückgewinnsteuer erhöht sich bei einer anrechenbaren Eigen­
+
+   tumsdauer
+   a.     von weniger als 1 Jahr um         30 Prozent,
+   b.     von weniger als 2 Jahren um       20 Prozent,
+   c.     von weniger als 3 Jahren um       15 Prozent,
+   d.     von weniger als 4 Jahren um       10 Prozent.
+
+
+
+
+                                                                                                          22
+Kantonsblatt Glarus                                                              Grundstückgewinnsteuer
+
+
+   3
+      Die gemäss Absatz 1 berechnete Grundstückgewinnsteuer ermässigt sich bei einer anrechenbaren
+   Eigentumsdauer
+   a.      von vollen 5 Jahren um 5 Prozent,
+   b.      von vollen 6 Jahren um 8 Prozent,
+   c.      von vollen 7 Jahren um 11 Prozent,
+   d.      von vollen 8 Jahren um 14 Prozent,
+   e.      von vollen 9 Jahren um 17 Prozent,
+   f.      von vollen 10 Jahren um 20 Prozent,
+   g.      von vollen 11 Jahren um 23 Prozent,
+   h.      von vollen 12 Jahren um 26 Prozent,
+   i.      von vollen 13 Jahren um 29 Prozent,
+   j.      von vollen 14 Jahren um 32 Prozent,
+   k.      von vollen 15 Jahren um 35 Prozent,
+   l.      von vollen 16 Jahren um 40 Prozent,
+   m.      von vollen 17 Jahren um 45 Prozent,
+   n.      von vollen 18 Jahren um 50 Prozent,
+   o.      von vollen 19 Jahren um 55 Prozent,
+   p.      von vollen 20 Jahren um 60 Prozent,
+   q.      von vollen 21 Jahren um 65 Prozent,
+   r.      von vollen 22 Jahren um 70 Prozent,
+   s.      von vollen 23 Jahren um 75 Prozent,
+   t.      von vollen 24 Jahren um 80 Prozent,
+   u.      von vollen 25 Jahren um 85 Prozent,
+   v.      von vollen 30 Jahren und mehr um 90 Prozent.
+   4
+      Grundstückgewinne unter 5000 Franken, bei parzellenweiser Veräusserung unter 2000 Franken, wer­
+   den nicht besteuert.
+
+
+Verteilung der Grundstückgewinnsteuer
+(Art. 249 StG)
+   Art. 249 StG:
+   1 Vom Ertrag der Grundstückgewinnsteuer erhalten:
+
+   50 Prozent der Kanton,
+   50 Prozent diejenige Ortsgemeinde, in deren Gebiet das Grundstück liegt.
+
+Kantonale Steuerverwaltung Glarus – Online-Schalter > Grundstückgewinnsteuer
+
+
+
+
+                                                                                                        23
+Kantonsblatt Glarus                                                      Gemeinden und Kirchgemeinden
+
+
+
+
+Steuern in den Gemeinden und Kirchgemeinden
+Dossier Steuerinformationen, E. Steuerbegriffe, Steuersatz und Steuerfuss
+Dossier Steuerinformationen, D. Einzelne Steuern, Kirchensteuern
+Dossier Steuerinformationen, D. Einzelne Steuern, Besteuerung der Grundstückgewinne
+
+
+
+Einkommens- und Vermögenssteuern sowie Gewinn- und
+Kapitalsteuern in den Gemeinden und in den Kirchgemein­
+den
+(Art. 200 – 207 StG)
+   Art. 200 Abs. 1 StG:
+   1 Die politischen Gemeinden sowie die Kirchgemeinden sind befugt, soweit der Ertrag der Gemeindegü­
+
+   ter und die übrigen Einkünfte nicht ausreichen, Steuern zu erheben.
+   Art. 201 StG:
+   1 Die politischen Gemeinden und die Kirchgemeinden erheben als ordentliche Gemeindesteuern jähr­
+
+   lich:
+   1. eine Einkommens- und Vermögenssteuer von natürlichen Personen;
+   2. Gewinn- und Kapitalsteuern von juristischen Personen.
+   Art. 202 StG:
+   1 Die politischen Gemeinden sowie die Kirchgemeinden setzen jährlich den Steuerfuss für die Einkom­
+
+   mens- und Vermögenssteuer bzw. für die Gewinn- und Kapitalsteuer für das folgende Jahr fest.
+   Gemeindezuschläge
+   Art. 207 StG:
+   1 Die staatlich anerkannten Kirchgemeinden erheben von den Angehörigen ihrer Konfession und den
+
+   juristischen Personen die Kirchensteuer.
+
+
+
+Grundstückgewinnsteuer in den Gemeinden
+(Art. 249 StG)
+
+
+   Besteuerung der Grundstückgewinne, Steuerhoheit und Berechnung der Grundstückgewinnsteuer
+   Art. 249 StG:
+   1 Vom Ertrag der Grundstückgewinnsteuer erhalten:
+
+   50 Prozent der Kanton,
+   50 Prozent diejenige Ortsgemeinde, in deren Gebiet das Grundstück liegt.
+   .
+
+
+
+
+                                                                                                         24
+Kantonsblatt Glarus                   Kontakt Kantonale Steuerverwaltung
+
+
+
+
+Kontakt Kantonale Steuerverwaltung
+Departement Finanzen und Gesundheit
+Steuerverwaltung
+Hauptstrasse 11
+CH-8750 Glarus
+
+steuerverwaltung@gl.ch
+
+Tel. +41 55 646 61 50
+www.gl.ch
+
+
+
+
+                                                                      25
+

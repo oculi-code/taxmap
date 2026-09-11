@@ -1,0 +1,1790 @@
+                                                 Département fédéral des finances DFF
+                                                 Administration fédérale des contributions AFC
+                                                 Division principale Politique fiscale
+                                                 Division Economie, Statistique et Documentation Fiscales
+
+
+
+
+                                      GENÈVE
+                          PREFACE
+
+
+                          La Feuille cantonale sert de complément aux thèmes
+                          traités dans le recueil Informations fiscales et renvoie
+                          aux Brochures fiscales. A ce jour, elle se réfère à l’im­
+                          position des personnes physiques et des personnes
+                          morales. L’accent est mis sur les particularités fiscales
+                          de la compétence du canton en vertu de la Loi fédérale
+                          sur l'harmonisation des impôts directs des cantons et
+                          des communes (LHID) en faisant référence aux ex­
+                          traits de lois ad hoc.
+
+
+
+
+                          Etat en février 2026
+
+
+
+
+Editeur / Auteur
+Administration fédérale
+des contributions AFC
+Documentation Fiscale
+Eigerstrasse 65
+3003 Berne
+ist@estv.admin.ch
+www.estv.admin.ch
+Feuille cantonale Genève                                                       Légende / Observations
+
+
+
+
+Légende / Observations
+
+            En cliquant sur ce symbole, vous accédez directement à la bro­
+            chure fiscale en question (tabelle qui synthétise les données
+            de la Confédération et des cantons) valable pour la période
+            fiscale 2025.
+
+
+
+
+            Le simulateur fiscal vous permet de calculer approximative­
+            ment vos impôts.
+
+
+
+
+Recueil Informations fiscales > Le lien mène à l’article correspondant du recueil Informations fiscales
+publié sur le site Internet de l’AFC.Pour un aperçu des impôts en vigueur à la Confédération et dans les
+cantons, voir le recueil Informations fiscales, C. Système fiscal, Impôts en vigueur.
+
+
+
+
+                                                                                               03.05.2021
+Feuille cantonale Genève                                                                                                                                       Bases légales
+
+
+
+
+Table des matières
+BASES LÉGALES................................................................................................................................................... 4
+
+IMPOSITION DES PERSONNES PHYSIQUES ...................................................................................................... 5
+   Impôt sur le revenu ..................................................................................................................................................5
+
+       Revenus .......................................................................................................................................... 5
+       Revenus exonérés........................................................................................................................... 7
+       Détermination du revenu net ........................................................................................................... 8
+       Détermination du revenu imposable.............................................................................................. 12
+       Calcul de l’impôt ............................................................................................................................ 15
+   Impôt sur la fortune............................................................................................................................................... 17
+
+       Objet de l’impôt sur la fortune ....................................................................................................... 17
+       Estimation de la fortune ................................................................................................................. 17
+       Calcul de l’impôt ............................................................................................................................ 19
+   Charge maximale .................................................................................................................................................. 20
+
+   Imposition d'après la dépense............................................................................................................................ 21
+
+   Progression à froid ............................................................................................................................................... 22
+
+   Multiple annuel....................................................................................................................................................... 22
+
+   Allégements fiscaux ............................................................................................................................................. 23
+
+IMPOSITION DES PERSONNES MORALES ....................................................................................................... 24
+   Impôt sur le bénéfice ............................................................................................................................................ 24
+
+       Détermination du bénéfice net imposable ................................................................................ 24
+       Calcul de l’impôt ............................................................................................................................ 25
+   Impôt sur le capital................................................................................................................................................ 26
+
+       Calcul de l’impôt ............................................................................................................................ 26
+   Disposition transitoire relative aux impôts des holdings et des sociétés de domicile (2020 – 2024) .... 27
+
+   Multiple annuel....................................................................................................................................................... 27
+
+   Allégements fiscaux ............................................................................................................................................. 28
+
+IMPÔT SUR LES BÉNÉFICES ET GAINS IMMOBILIERS ................................................................................... 29
+   Calcul de l’impôt .................................................................................................................................................... 29
+
+IMPÔTS DANS LES COMMUNES ET LES PAROISSES .................................................................................... 31
+   Impôt sur le revenu et sur la fortune ainsi qu’impôt sur le bénéfice et sur le capital dans les communes
+    .................................................................................................................................................................................. 31
+
+   Impôt sur le revenu et sur la fortune dans les paroisses .............................................................................. 32
+
+   Impôt sur le bénéfice et sur le capital dans les paroisses............................................................................. 33
+
+CONTACT ADMINISTRATION FISCALE CANTONALE ...................................................................................... 34
+
+
+                                                                                                                                                                          03.05.2021
+Feuille cantonale Genève                                                               Bases légales
+
+
+BASES LÉGALES
+
+   •   D 3 05 Loi générale du 9 novembre 1887 sur les contributions publiques (LCP)
+   •   D 3 05.04 Règlement du 30 décembre 1958 d’application de diverses dispositions de la loi gé­
+       nérale sur les contributions publiques (RDLCP)
+   •   D 3 05.30 Arrêté du 18 mars 2026 approuvant le nombre des centimes additionnels à percevoir
+       pour l’année 2026 par les communes du canton de Genève (ArCA-2026)
+   •   D 3 06 Loi du 26 septembre 1999 relative à la diminution de l'impôt sur le revenu des personnes
+       physiques (LDIRPP)
+   •   D 3 07 Loi du 13 septembre 2019 sur les centimes additionnels cantonaux (LCACant)
+   •   D 3 08 Loi du 27 septembre 2009 sur l'imposition des personnes physiques (LIPP)
+   •   D 3 08.01 Règlement d'application du 13 janvier 2010 de la loi sur l'imposition des personnes
+       physiques (RIPP)
+   •   D 3 08.05 Règlement du 8 octobre 2025 relatif à la compensation des effets de la progression
+       à froid (RCEPF)
+   •   D 3 08.08 Règlement du 31 octobre 2018 relatif à la valeur locative (RVL)
+   •   D 3 10 Loi du 4 novembre 2022 sur les estimations fiscales de certains immeubles (LEFI)
+   •   D 3 15 Loi du 23 septembre 1994 sur l'imposition des personnes morales (LIPM)
+   •   A 2 75 Loi du 26 avril 2018 sur la laïcité de l’Etat (LLE)
+   D’autres ordonnances et arrêtés sont publiés dans le Recueil systématique genevois (rs/GE).
+
+
+
+
+                                                                                                     4
+Feuille cantonale Genève                                                                Personnes physiques
+
+
+
+
+Imposition des personnes physiques
+   Art. 1 LIPP
+   Au titre de la présente loi, le canton perçoit un impôt sur le revenu et un impôt sur la fortune des
+   personnes physiques.
+
+
+
+Impôt sur le revenu
+(Art. 17 à 45 LIPP; Art. 7 à 24 RIPP ; Art. 5 à 14 et 17 RCEPF ; RDFD)
+
+Recueil Informations fiscales, D. Impôts divers, Impôt sur le revenu des personnes physiques
+Recueil Informations fiscales, D. Impôts divers, Imposition de l’activité lucrative indépendante
+Recueil Informations fiscales, F. Problèmes fiscaux, Imposition de la valeur locative
+
+
+Revenus
+(Art. 17 à 26 et 72 LIPP ; Art. 7 à 11 RIPP)
+Le revenu total brut se compose notamment du revenu provenant de l’activité dépendante ou indé­
+pendante, y compris les revenus accessoires ou ceux acquis en compensation, des rendements
+imposables de la fortune mobilière et immobilière, des prestations en capital découlant de la pré­
+voyance ainsi que des gains provenant des jeux d’argent mais aussi de la valeur locative pour des
+personnes utilisant leur propre logement.
+
+
+   Les particularités cantonales suivantes sont à relever :
+
+   Produit de l’activité lucrative indépendante
+   Art. 19, al. 5 LIPP
+   5 Les bénéfices provenant de l’aliénation d’immeubles agricoles ou sylvicoles ne sont ajoutés au re­
+
+   venu imposable que jusqu’à concurrence des dépenses d’investissement; la part de bénéfice qui
+   excède les dépenses d’investissement est quant à elle soumise à l’impôt sur les bénéfices et gains
+   immobiliers à titre définitif.
+
+
+   Participations qualifiées de la fortune commerciale
+   Art. 19B, al. 1 LIPP
+   1
+     Les dividendes, les parts de bénéfice, les excédents de liquidation et les avantages appréciables
+   en argent provenant d’actions, de parts à des sociétés à responsabilité limitée, de parts à des socié­
+   tés coopératives et de bons de participation ainsi que les bénéfices provenant de l’aliénation de tels
+   droits de participation sont imposables, après déduction des charges imputables, à hauteur de 60%,
+   lorsque ces droits de participation équivalent à 10% au moins du capital-actions ou du capital social
+   d’une société de capitaux ou d’une société coopérative.
+
+
+   Revenus provenant de brevets et de droits comparables en cas d’activité lucrative
+   indépendante
+   Art. 19C LIPP
+   Les articles 12A et 12B de la loi sur l’imposition des personnes morales, du 23 septembre 1994,
+   s’appliquent par analogie aux revenus provenant de brevets et de droits comparables en cas d’acti­
+   vité lucrative indépendante.
+
+
+
+
+                                                                                                            5
+Feuille cantonale Genève                                                                 Personnes physiques
+
+
+  Remploi
+  Art. 21 LIPP
+  Lorsque des biens immobilisés nécessaires à l’exploitation sont remplacés, les réserves latentes de
+  ces biens peuvent être reportées, dans un délai raisonnable, sur les biens immobilisés acquis en
+  remploi, si ces biens sont également nécessaires à l’exploitation et se trouvent en Suisse. L’imposi­
+  tion en cas de remplacement d’immeubles par des biens mobiliers est réservée.
+  Guide fiscal pour les indépendants 2024
+
+
+  Participations qualifiées de la fortune privée
+  Art. 22, al. 2 LIPP
+  2
+    Les dividendes, les parts de bénéfice, les excédents de liquidation et les avantages appréciables
+  en argent provenant d’actions, de parts à des sociétés à responsabilité limitée, de parts à des socié­
+  tés coopératives et de bons de participation (y compris les actions gratuites, les augmentations gra­
+  tuites de la valeur nominale, etc.) sont imposables à hauteur de 70%, lorsque ces droits de partici­
+  pation équivalent à 10% au moins du capital-actions ou du capital social d’une société de capitaux
+  ou d’une société coopérative.
+
+
+  Valeur locative
+  Art. 24, al. 1, let. b et al. 2 LIPP
+  1 Le rendement de la fortune immobilière est imposable, en particulier :
+
+     b) la valeur locative des immeubles ou de parties d'immeubles dont le contribuable se réserve
+         l'usage en raison de son droit de propriété ou d'un droit de jouissance obtenu à titre gratuit :
+  2
+    La valeur locative est déterminée en tenant compte des conditions locales. Le loyer théorique des
+  villas et des appartements en copropriété par étage occupés par leur propriétaire est fixé en fonction
+  notamment de la surface habitable, du nombre de pièces, de l’aménagement, de la vétusté, de l’an­
+  cienneté, des nuisances éventuelles et de la situation du logement. Le loyer théorique est pondéré
+  par la durée d’occupation continue de l’immeuble conformément au barème applicable en matière
+  d’évaluation des immeubles situés dans le canton; il ne saurait excéder un taux d’effort de 20% des
+  revenus bruts totaux. Ce taux d’effort est calculé sur les revenus bruts totaux, mais au minimum sur
+  le montant de la première tranche exonérée d’impôt selon le barème inscrit à l’article 41, alinéa 1,
+  pour les personnes seules*, sur le double de ce montant pour les contribuables visés à l’article 41,
+  alinéas 2 et 3, et sur ce même montant multiplié par un facteur de 1,8 pour les contribuables visés à
+  l’article 41, alinéa 4. La valeur locative limitée à ce taux d’effort n’est toutefois prise en compte qu’à
+  la condition que les intérêts sur le financement de l’immeuble ne soient pas supérieurs à son montant.
+  * Pour la période fiscale 2026, ce montant s’élève à 18'700 francs.
+
+
+  Prestations provenant de la prévoyance
+  Art. 25, al. 1 à 3 LIPP
+  1
+    Sont imposables tous les revenus provenant de l’assurance-vieillesse et survivants, de l’assurance-
+  invalidité ainsi que tous ceux provenant d’institutions de prévoyance professionnelle ou fournies se­
+  lon des formes reconnues de prévoyance individuelle liée, y compris les prestations en capital et le
+  remboursement des versements, primes et cotisations.
+  2 Sont notamment considérées comme revenus provenant d’institutions de prévoyance profession­
+
+  nelle les prestations de caisses de prévoyance, des assurances d’épargne et de groupe ainsi que
+  des polices de libre-passage.
+  3
+    Les assurances de rentes viagères ainsi que les contrats de rentes viagères et d’entretien viager
+  sont imposables à raison de leur part de rendement. […]*
+  *Valable dès la période fiscale 2025.
+  Art. 72, al. 2 LIPP
+  2
+    Les rentes provenant de la prévoyance professionnelle, qui commençaient à courir avant le 1er
+  janvier 1987 ou qui reposaient sur un rapport de prévoyance existant déjà au 31 décembre 1986 et
+  commençaient à courir avant le 1er janvier 2002, sont, dès l’entrée en vigueur de la présente loi,
+  imposables comme il suit :
+    a) à raison de 80%, si le contribuable a versé au moins 20% des cotisations sur lesquelles se
+        fonde sa prétention;
+    b) entièrement, dans les autres cas.
+
+
+
+
+                                                                                                               6
+Feuille cantonale Genève                                                                   Personnes physiques
+
+
+Revenus exonérés
+(Art. 27 LIPP ; Art. 5 RCEPF)
+
+
+   Gains de jeux d’argent
+   Art. 27, let. k – n LIPP
+   Sont seuls exonérés de l'impôt :
+    k) les gains provenant des jeux de casino exploités dans les maisons de jeu et autorisés par la loi
+         fédérale sur les jeux d’argent, du 29 septembre 2017, pour autant que ces gains ne soient pas
+         issus d’une activité lucrative indépendante ;
+    l) les gains unitaires jusqu’à concurrence d’un montant d’un million de francs provenant de la
+         participation à un jeu de grande envergure autorisé par la loi fédérale sur les jeux d’argent, du
+         29 septembre 2017, et de la participation en ligne à des jeux de casino autorisés par la loi
+         fédérale sur les jeux d’argent, du 29 septembre 2017 ;
+    m) les gains provenant d’un jeu de petite envergure autorisé par la loi fédérale sur les jeux d’argent,
+         du 29 septembre 2017 ;
+    n) les gains unitaires jusqu’à concurrence de 1 000 francs provenant d’un jeu d’adresse ou d’une
+         loterie destinés à promouvoir les ventes qui ne sont pas soumis à la loi fédérale sur les jeux
+         d’argent, du 29 septembre 2017, selon l’article 1, alinéa 2, lettres d et e, de cette loi ;
+
+
+   Extrait du guide fiscal 2025 :
+
+
+
+
+   Solde versée aux sapeurs-pompiers
+   Art. 27, let. o LIPP
+   Sont seuls exonérés de l‘impôt :
+    o) la solde des sapeurs-pompiers de milice, jusqu’à concurrence d’un montant annuel de
+         9 000 francs, pour les activités liées à l’accomplissement de leurs tâches essentielles (exer­
+         cices, services de piquet, cours, inspections et interventions, notamment pour le sauvetage, la
+         lutte contre le feu, la lutte contre les sinistres en général et la lutte contre les sinistres causés
+         par les éléments naturels); les indemnités supplémentaires forfaitaires pour les cadres, les in­
+         demnités supplémentaires de fonction, les indemnités pour les travaux administratifs et les in­
+         demnités pour les prestations fournies volontairement ne sont pas exonérées.
+   Art. 5 RCEPF*
+   Le montant maximal de l'exonération de la solde des sapeurs-pompiers de milice prévu à l'article 27,
+   lettre o, de la loi s'élève à 9 538 francs.
+   *Montant applicable pour la période fiscale 2026.
+
+
+
+
+                                                                                                                 7
+Feuille cantonale Genève                                                                   Personnes physiques
+
+
+Détermination du revenu net
+(Art. 28 LIPP)
+Le revenu net se calcule en défalquant du total des revenus imposables les frais et les déductions
+générales.
+
+Déductions
+(Art. 29 à 37 LIPP ; Art. 20 à 23 RIPP ; Art. 6 à 12 RCEPF ; RDFD)
+
+
+   Les particularités cantonales suivantes sont à relever :
+
+
+   Frais
+   (Art. 29 à 37 LIPP ; Art. 20 à 23 RIPP ; Art. 6 à 12 RCEPF ; RDFD)
+
+
+   Déduction forfaitaire en cas de surplus de dépenses pour repas
+
+   Déductions pour le séjour hors du domicile
+
+   Frais de déplacement
+   Art. 29, al. 1, let. a LIPP
+   1
+     Sont déduits du revenu :
+     a) les frais de déplacement nécessaires entre le domicile et le lieu de travail jusqu’à concurrence
+         de 500 francs ;
+   Art. 6, al. 1 RCEPF
+   1
+     Le montant maximal de la déduction pour les frais de déplacement prévu à l'article 29, alinéa 1,
+   lettre a, de la loi s'élève à 536 francs*.
+   *Montant applicable pour la période fiscale 2026.
+
+
+   Déduction forfaitaire pour frais professionnels
+   Art. 29, al. 2 LIPP
+   2
+     La totalité des frais professionnels mentionnés à l’alinéa 1, lettres a à c, est fixée forfaitairement à
+   3% du revenu de chaque contribuable, correspondant au revenu brut après les déductions prévues
+   à l’article 31, lettres a et b (avant déduction des rachats), à concurrence d'un montant minimum de
+   600 francs et d'un maximum de 1 700 francs. La justification de frais effectifs plus élevés demeure
+   réservée.
+   Art. 6, al. 2 RCEPF
+   2 Le montant de la déduction forfaitaire pour les frais professionnels prévu à l'article 29, alinéa 2, de
+
+   la loi s'élève à 641 francs* au minimum et à 1 817 francs au maximum.
+   *Montants applicables pour la période fiscale 2026.
+
+
+   Déduction liée à l’exercice d’une activité lucrative dépendante accessoire
+   Art. 29A LIPP
+   1 Une déduction forfaitaire est accordée pour le contribuable exerçant une activité lucrative dépen­
+
+   dante accessoire au sens de l’alinéa 2. Cette déduction forfaitaire s’élève à 20% des revenus nets
+   provenant d’activités accessoires, à concurrence d’un montant minimum de 800 francs et d’un mon­
+   tant maximum de 2 400 francs.
+   2 Par activité lucrative dépendante accessoire, on entend toute activité rémunérée exercée en plus
+
+   de l’activité lucrative principale (salariée ou indépendante) qui procure un revenu complémentaire.
+   Cette activité accessoire doit être parfaitement distincte de l’activité lucrative principale.
+   3 La justification de frais effectifs plus élevés est réservée.
+
+
+   Art. 7 RCEPF
+   Le montant de la déduction forfaitaire pour les frais professionnels prévu à l'article 29A, alinéa 1, de
+   la loi s'élève au minimum à 810 francs et au maximum à 2 429 francs*.
+   *Montants applicables pour la période fiscale 2026.
+
+
+
+                                                                                                                8
+Feuille cantonale Genève                                                                  Personnes physiques
+
+
+  Futurs mandats de recherche et de développement confiés à des tiers
+  Art. 30, let. e, ch. 4 LIPP
+  Sont déduits du revenu les frais qui sont justifiés par l'usage commercial ou professionnel. Font no­
+  tamment partie de ces frais :
+    e) les provisions constituées à la charge du compte de résultat pour :
+        4 les futurs mandats de recherche et de développement confiés à des tiers, jusqu'à 10%
+            au plus du bénéfice commercial imposable, mais au total jusqu'à 1 000 000 de francs au
+            maximum;
+
+
+  Déduction des dépenses de recherche et de développement
+  Art. 30A LIPP
+  L’article 13A de la loi sur l’imposition des personnes morales, du 23 septembre 1994, s’applique par
+  analogie à la déduction des dépenses de recherche et de développement en cas d’activité lucrative
+  indépendante.
+
+
+  Primes d’assurances-vie et intérêts des capitaux d‘épargne
+  Art. 31, let. d LIPP
+  1
+    Sont déduits du revenu
+    d) 1 les primes d'assurances sur la vie et les intérêts échus des capitaux d'épargne, à concur-
+            rence de 3 300 francs pour les époux vivant en ménage commun, respectivement
+            2 200 francs pour le contribuable célibataire, veuf, divorcé, séparé de corps ou de fait.
+            Ces limites sont portées au double lorsque les deux époux, respectivement le contribuable
+            célibataire, veuf, divorcé ou séparé, ne sont pas affiliés à une institution de prévoyance
+            professionnelle ou de prévoyance individuelle liée. Lorsque, au sein du couple, un seul des
+            deux conjoints est affilié à une telle institution, la limite prévue pour les époux est portée à
+            une fois et demie;
+        2 cette déduction est augmentée de 900 francs pour chaque charge de famille au sens de
+            l'article 39, alinéa 2.
+            Lorsque le contribuable célibataire, veuf, divorcé, séparé de corps ou de fait et qui tient
+            ménage indépendant avec ses enfants mineurs ou majeurs, qui constituent des charges de
+            famille au sens de l'article 39, alinéa 2, n'est pas affilié à une institution de prévoyance pro­
+            fessionnelle ou de prévoyance individuelle liée ou lorsque, au sein du couple, aucun des
+            deux époux n'est affilié à une telle institution, cette déduction est doublée.
+            La déduction pour charge de famille est portée à 1 350 francs lorsque, au sein du couple,
+            un seul des deux conjoints est affilié à une institution de prévoyance professionnelle ou de
+            prévoyance individuelle liée.
+  Art. 8 RCEPF
+  Le montant maximal de la déduction des primes d'assurances sur la vie et des intérêts échus des
+  capitaux d'épargne prévu à l'article 31, lettre d, de la loi s'élève à :
+   a) 3 528 francs* pour les époux vivant en ménage commun, respectivement 2 352 francs* pour le
+        contribuable célibataire, veuf, divorcé, séparé de corps ou de fait.
+        Ces limites sont portées au double lorsque les deux époux, respectivement le contribuable cé­
+        libataire, veuf, divorcé ou séparé, ne sont pas affiliés à une institution de prévoyance profes­
+        sionnelle ou de prévoyance individuelle liée. Lorsque, au sein du couple, un seul des deux
+        conjoints est affilié à une telle institution, la limite prévue pour les époux est portée à une fois
+        et demie;
+   b) 962 francs* supplémentaires pour chaque charge de famille.
+        Cette limite est doublée lorsque le contribuable célibataire, veuf, divorcé ou séparé et qui tient
+        ménage indépendant avec ses enfants qui constituent des charges de famille n'est pas affilié à
+        une institution de prévoyance professionnelle ou de prévoyance individuelle liée ou lorsque, au
+        sein du couple, aucun des deux époux n'est affilié à une telle institution.
+        Elle est portée à 1 443 francs* lorsque, au sein du couple, un seul des deux conjoints est affilié
+        à une telle institution.
+        *Montants applicables pour la période fiscale 2026.
+
+
+
+
+                                                                                                                9
+Feuille cantonale Genève                                                                   Personnes physiques
+
+
+  Déduction des primes d'assurance-maladie et d'assurance-accidents
+  Art. 32, let. a LIPP
+  Sont déduits du revenu :
+   a) les primes d'assurance-maladie et celles d'assurances-accidents qui ne tombent pas sous le
+        coup de l'article 31, lettre a, du contribuable et des personnes à sa charge, à concurrence d'un
+        montant équivalant, pour l'année fiscale considérée, au double de la prime moyenne cantonale
+        relative à l'assurance obligatoire des soins déterminée par l'Office fédéral de la santé publique
+        par classe d'âge des assurés;
+
+
+  Déduction de santé
+  Art. 32, let. b LIPP
+  Sont déduits du revenu :
+   b) les frais provoqués par la maladie et les accidents du contribuable ou d’une personne à sa
+        charge, lorsque le contribuable supporte lui-même ces frais et que ceux-ci excèdent 0,5% des
+        revenus imposables diminués des déductions prévues aux articles 29 à 36B de la présente loi
+        (avant déduction des frais eux-mêmes);
+
+
+  Frais d’entretien d’immeubles
+  Art. 34, let. d à f LIPP
+  Sont déduits du revenu :
+   d) les frais nécessaires à l’entretien des immeubles privés que possède le contribuable, les frais
+        de remise en état d’immeubles acquis récemment, les primes d’assurances relatives à ces im­
+        meubles et les frais d’administration par des tiers. Pour son propre logement, le contribuable
+        peut faire valoir une déduction forfaitaire au lieu du montant effectif de ces frais et primes.
+        Cette déduction forfaitaire, calculée sur la valeur locative selon l’article 24, alinéa 2, est la sui­
+        vante :
+        1         15%, si l’âge du bâtiment au début de la période fiscale est inférieur ou égal à 10 ans,
+        2         25%, si l’âge du bâtiment au début de la période fiscale est supérieur à 10 ans;
+   e) les coûts d’investissement destinés à économiser l’énergie et à ménager l’environnement con­
+        cernant les bâtiments existants en tant que frais d’entretien. Il en va de même des frais de
+        démolition en vue d’une construction de remplacement. Ces frais sont déductibles selon les
+        conditions fixées, en collaboration avec le canton, par le Département fédéral des finances en
+        matière d’impôt fédéral direct. Lorsque ces frais ne peuvent pas être entièrement pris en consi­
+        dération durant la période fiscale en cours pendant laquelle les dépenses ont été effectuées,
+        ces coûts sont déductibles au cours des deux périodes fiscales suivantes. Pour son propre
+        logement, le contribuable peut choisir de faire valoir, au lieu du montant effectif de ces frais, la
+        déduction forfaitaire prévue à la lettre d;
+   f) les frais occasionnés par des travaux de restauration de monuments historiques, que le contri­
+        buable entreprend en vertu de dispositions légales, en accord avec les autorités ou sur leur
+        ordre, pour autant qu'ils ne soient pas subventionnés par ailleurs.
+  Art. 21 RIPP
+  Le contribuable peut choisir entre la déduction des frais effectifs et la déduction forfaitaire lors de
+  chaque période fiscale et pour chaque immeuble qu’il occupe à titre privé.
+  Information fiscale 1/2021 - Déductibilité des frais d'entretien des immeubles privés
+
+
+  Déduction pour frais de garde des enfants
+  Art. 35 LIPP
+  Un montant de 26 000 francs au plus par enfant dont la garde est assurée par un tiers est déduit du
+  revenu si l’enfant a moins de 14 ans et vit dans le même ménage que le contribuable assurant son
+  entretien et si les frais de garde, documentés, ont un lien de causalité direct avec l’activité lucrative,
+  la formation ou l’incapacité de gain du contribuable.
+  Art. 9 RCEPF
+  Le montant maximal de la déduction pour frais de garde par enfant concerné prévu à l'article 35 de
+  la loi s'élève à 26 392 francs*.
+  *Montant applicable pour la période fiscale 2026.
+
+
+
+
+                                                                                                                 10
+Feuille cantonale Genève                                                                Personnes physiques
+
+
+  Déduction en cas d’activité lucrative des deux conjoints
+  Art. 36 LIPP
+  Lorsque les époux vivent en ménage commun, un montant de 1 000 francs est déduit du produit du
+  travail le plus bas qu’obtient l’un des conjoints pour une activité indépendante de la profession, du
+  commerce ou de l’entreprise de l’autre; une déduction analogue est accordée lorsque l’un des con­
+  joints fournit un travail important pour seconder l’autre dans sa profession, son commerce ou son
+  entreprise;
+  Art. 10 RCEPF
+  La déduction en cas d'activité lucrative des deux conjoints prévue par l'article 36 de la loi s'élève à
+  1 054 francs*.
+  *Montant applicable pour la période fiscale 2026.
+
+
+  Gains de jeux d’argent
+  Art. 36A LIPP
+  Sont déduits des gains unitaires provenant des jeux d’argent non exonérés de l’impôt selon l’article
+  27, lettres l à n, 5% à titre de mise, mais au plus 5 000 francs. Sont déduites des gains unitaires
+  provenant de la participation en ligne à des jeux de casino visés à l’article 27, lettre l, les mises
+  prélevées du compte en ligne du joueur au cours de l’année fiscale, mais au plus 25 000 francs.
+  Art. 11 RCEPF
+  1
+    Le montant maximal de la déduction à titre de mise sur les gains unitaires provenant des jeux
+  d’argent non exonérés de l’impôt, selon l’article 27, lettres l à n, de la loi, s'élève à 5 179 francs*.
+  2 Le montant maximal de la déduction à titre de mise sur les gains unitaires provenant de la partici­
+
+  pation en ligne à des jeux de casino, selon l’article 27, lettre l, de la loi, s'élève à 25 895 francs*.
+  *Montants applicables pour la période fiscale 2026.
+
+
+  Frais de formation et de formation continue à des fins professionnelles
+  Art. 36B LIPP
+  Sont déduits du revenu les frais de formation et de formation continue à des fins professionnelles,
+  frais de reconversion compris, jusqu’à concurrence de 12 000 francs pour autant que le contribuable
+  remplisse l’une des conditions suivantes :
+    a) il est titulaire d’un diplôme du degré secondaire II ;
+    b) il a atteint l’âge de 20 ans et suit une formation visant à l’obtention d’un diplôme autre qu’un
+        premier diplôme du degré secondaire II.
+  Art. 12 RCEPF
+  Le montant maximal de la déduction pour les frais de formation et de formation continue à des fins
+  professionnelles prévu par l'article 36B de la loi s'élève à 12 791 francs*.
+  *Montant applicable pour la période fiscale 2026.
+
+
+  Déduction des dons
+  Art. 37, al. 1 LIPP
+  1 Sont déduits du revenu les dons en espèces et sous forme d’autres valeurs patrimoniales en faveur
+
+  de personnes morales qui ont leur siège en Suisse et sont exonérées de l’impôt en raison de leurs
+  buts de service public ou d’utilité publique, jusqu’à concurrence de 20% des revenus diminués des
+  déductions prévues aux articles 29 à 36B. Les dons en faveur de la Confédération, des cantons, des
+  communes et de leurs établissements sont déductibles dans la même mesure.
+  Art. 22, al. 1 et 2 RIPP
+  1 Le contribuable qui prétend à la déduction de dons au sens de l’article 37 LIPP doit joindre à sa
+
+  déclaration d’impôts une liste des dons effectués au cours de la période fiscale avec l’indication de
+  leur nature, de leur montant ou de leur valeur et de l’identité de l’institution bénéficiaire.
+  2 Le contribuable doit en outre joindre une quittance des dons dont le montant ou la valeur sont égaux
+
+  ou supérieurs à 300 francs.
+  Art. 23 RIPP
+  La contribution ecclésiastique versée à l’Etat pour le compte des Eglises reconnues, au sens de la
+  loi autorisant le Conseil d’Etat à percevoir pour les Eglises reconnues qui lui en font la demande, une
+  contribution ecclésiastique, du 7 juillet 1945, est considérée comme un don. La justification du ver­
+  sement peut être exigée du contribuable.
+
+
+
+
+                                                                                                             11
+Feuille cantonale Genève                                                                Personnes physiques
+
+
+   Versements aux partis politiques
+   Art. 37, al. 2 LIPP
+   2
+     Sont déduits du revenu :
+   les cotisations et les versements à concurrence d'un montant de 10.000 francs en faveur d'un parti
+   politique, à l'une des conditions suivantes :
+     a) être inscrit au registre des partis conformément à l'article 76a de la loi fédérale sur les droits
+          politiques (LDP), du 17 décembre 1976 ;
+     b) soit représenté au Grand Conseil ;
+     c) ait obtenu au moins 3% des voix lors de la dernière élection du Grand Conseil.
+
+
+Détermination du revenu imposable
+(Art. 38 LIPP)
+Le revenu imposable correspond au revenu net diminué des déductions sociales. Celui-ci sert de
+base pour l’impôt sur le revenu.
+
+Déductions sociales
+(Art. 39 et 40 LIPP ; Art. 24 RIPP ; Art. 13 et 14 RCEPF)
+
+
+   Déduction pour charges de famille              /
+   Art. 39 al. 1 LIPP
+   1
+     Est déduit du revenu net annuel :
+     a) 13 000 francs pour chaque charge de famille; lorsque le contribuable fait valoir pour la charge
+         de famille une déduction pour frais de garde des enfants conformément à l’article 35, ce montant
+         est réduit à 10 000 francs;
+     b) 6 500 francs pour chaque demi-charge de famille; lorsque le contribuable fait valoir pour la
+         demi-charge de famille une déduction pour frais de garde des enfants conformément à l’article
+         35, ce montant est réduit à 5 000 francs.
+   Lorsqu’une personne est à charge de plusieurs contribuables, la déduction est répartie entre ceux-
+   ci.
+   Art. 13, al. 1 RCEPF
+   1
+     La déduction pour charges de famille prévue à l'article 39, alinéa 1, de la loi est adaptée comme
+   suit :
+     a) 13 698 francs* pour chaque charge de famille; lorsque le contribuable fait valoir pour la charge
+          de famille une déduction pour frais de garde des enfants conformément à l'article 35 de la loi,
+          ce montant est réduit à 10 536 francs*;
+     b) 6 849 francs* pour chaque demi-charge de famille; lorsque le contribuable fait valoir pour la
+          charge de famille une déduction pour frais de garde des enfants conformément à l'article 35 de
+          la loi, ce montant est réduit à 5 268 francs*.
+   *Montants applicables pour la période fiscale 2026.
+
+
+   Enfants à charge
+   Art. 39, al. 2, let. a à c LIPP
+   2 Constituent des charges de famille :
+
+
+   Enfants mineurs
+    a) chaque enfant mineur sans activité lucrative ou dont le gain annuel ne dépasse pas
+       15 333 francs (charge entière) ou 23 000 francs (demi-charge), pour celui des parents qui en
+       assure l’entretien;
+   Enfants majeurs jusqu’à l’âge de 25 ans révolus
+    b) chaque enfant majeur, jusqu’à l’âge de 25 ans révolus, dont la fortune ne dépasse pas 87 500
+       francs, lorsqu’il n’a pas un revenu supérieur à 15 333 francs (charge entière) ou 23 000 francs
+       (demi-charge), pour celui des parents qui pourvoit à son entretien ;
+
+
+
+
+                                                                                                             12
+Feuille cantonale Genève                                                                 Personnes physiques
+
+
+  Enfants majeurs après l’âge de 25 ans révolus
+   c) chaque enfant majeur, après l’âge de 25 ans révolus, qui, durant l’année civile, est apprenti au
+      bénéfice d’un contrat d’apprentissage ou étudiant régulièrement inscrit dans un établissement
+      d’enseignement secondaire ou supérieur, et dont la fortune ne dépasse pas 87 500 francs,
+      lorsqu’il n’a pas un revenu supérieur à 15 333 francs (charge entière) ou 23 000 francs (demi-
+      charge), pour celui des parents qui pourvoit à son entretien;
+  Art. 13, al. 2, let. a à c RCEPF
+  2
+    Les montants maximaux de revenu et de fortune des personnes qui constituent des charges de
+  famille prévus à l'article 39, alinéa 2, de la loi sont adaptés comme suit :
+    a) enfant mineur : gain annuel de 16 391 francs* (charge entière) ou de 24 587 francs* (demi-
+        charge) ;
+    b) enfant majeur, jusqu'à l’âge de 25 ans révolus : fortune de 93 537 francs et revenu de
+        16 391 francs* (charge entière) ou de 24 587 francs* (demi-charge);
+    c) enfant majeur après l’âge de 25 ans révolus, apprenti ou étudiant au sens de la loi : fortune de
+        93 537 francs* et revenu de 16 391 francs* (charge entière) ou de 24 587 francs* (demi-
+        charge);
+    *Montants applicables pour la période fiscale 2026.
+
+
+  Proches incapables de subvenir entièrement à leurs besoins
+  Art. 39, al. 2, let. d LIPP
+  2 Constituent des charges de famille :
+
+    Proches incapables de subvenir entièrement à leurs besoins
+    d) les ascendants et descendants (dans les autres cas que ceux visés aux lettres a à c), frères,
+        soeurs, oncles, tantes, neveux et nièces, incapables de subvenir entièrement à leurs besoins,
+        qui n’ont pas une fortune supérieure à 87 500 francs ni un revenu annuel supérieur à 15 333
+        francs (charge entière) ou à 23 000 francs (demi-charge), pour celui de leur proche qui pourvoit
+        à leur entretien. La déduction est toutefois limitée aux dépenses effectivement encourues mais
+        au maximum aux montants figurant à l’alinéa 1.
+  Art. 13, al. 2, let. d RCEPF
+   2 Les montants maximaux de revenu et de fortune des personnes qui constituent des charges de
+
+        famille prévus à l'article 39, alinéa 2, de la loi sont adaptés comme suit :
+   d) proche incapable de subvenir entièrement à ses besoins : fortune de 93 537 francs* et revenu
+        de 16 391 francs* (charge entière) ou de 24 587 francs* (demi-charge).
+   *Montants applicables pour la période fiscale 2026.
+
+
+  Déduction pour bénéficiaire de rentes AVS / AI
+  Art. 40 LIPP
+  1
+    Les époux vivant en ménage commun dont l'un d'eux rempli les conditions exigées pour bénéficier
+  d’une rente au sens de la loi fédérale sur l’assurance-vieillesse et survivants, du 20 décembre 1946,
+  ou de la loi fédérale sur l’assurance-invalidité, du 19 juin 1959, ont droit à une déduction d'un montant
+  maximal de 10 000 francs. Cette déduction est portée à un montant maximal de 11 500 francs lors­
+  que l'autre époux est également bénéficiaire d'une rente de l'assurance-vieillesse et survivants ou
+  de l'assurance-invalidité. La déduction est octroyée pour autant que le revenu net avant la déduction
+  prévue à l'article 37 n'excède pas 92 000 francs, et décroît comme suit :
+
+
+
+
+                                                                                                              13
+Feuille cantonale Genève                                                                 Personnes physiques
+
+
+  2
+    Peuvent faire valoir la même déduction d'un montant maximal de 10 000 francs, telle que prévue à
+  l’alinéa 1, les contribuables célibataires, veufs, divorcés, séparés de corps ou de fait remplissant les
+  conditions exigées pour bénéficier d’une rente au sens de la loi fédérale sur l’assurance-vieillesse et
+  survivants, du 20 décembre 1946, ou de la loi fédérale sur l’assurance-invalidité, du 19 juin 1959, qui
+  font ménage commun avec leurs enfants mineurs ou majeurs ou un proche qui constituent des
+  charges de famille, au sens de l’article 39, alinéa 2, et dont ils assurent pour l'essentiel l'entretien.
+  3
+    Pour les autres contribuables remplissant les conditions exigées pour bénéficier d’une rente au
+  sens de la loi fédérale sur l’assurance-vieillesse et survivants, du 20 décembre 1946, ou de la loi
+  fédérale sur l’assurance-invalidité, du 19 juin 1959, une déduction d'un montant maximal de
+  10 000 francs est octroyée, pour autant que le revenu déterminant n'excède pas 80 000 francs, et
+  décroît comme suit :
+
+
+
+
+  Art. 14 RCEPF (déduction applicable pour l’année fiscale 2026)
+  1
+    La déduction pour bénéficiaires de rentes de l'assurance-vieillesse et survivants ou de l'assurance-
+  invalidité prévue à l'article 40 de la loi est adaptée selon les alinéas suivants.
+   Déduction selon l'article 40, alinéa 1 de la loi
+  2 Pour les époux vivant en ménage commun visés à l'article 40, alinéa 1, 1re et 2e phrases, de la loi,
+
+  le montant maximal de la déduction s'élève, respectivement, à 10 690 francs ou 12 293 francs. La
+  déduction est octroyée pour autant que le revenu net avant la déduction prévue à l'article 37 de la loi
+  n'excède pas 98 348 francs, et décroît comme suit :
+
+
+
+
+  Déduction selon l'article 40, alinéa 2 de la loi
+  3
+   Les contribuables visés à l'article 40, alinéa 2, de la loi peuvent faire valoir la même déduction, d'un
+  montant maximal de 10 690 francs, telle que prévue à l'article 40, alinéa 1, de la loi.
+   Déduction selon l'article 40, alinéa 3 de la loi
+  4 Pour les autres contribuables, au sens de l'article 40, alinéa 3, de la loi, le montant maximal de la
+
+  déduction s'élève à 10 690 francs*. La déduction est octroyée pour autant que le revenu déterminant
+  n'excède pas 85 520 francs*, et décroît comme suit :
+
+
+
+
+                                                                                                              14
+Feuille cantonale Genève                                                                  Personnes physiques
+
+
+Calcul de l’impôt
+(Art. 41 à 45 LIPP ; Art. 17 RCEPF)
+
+Taux
+   Art. 41, al. 1 LIPP
+   1 L’impôt de base dû pour une année fiscale est calculé, par tranche, selon le barème ci-après :
+
+
+
+
+   Art. 17 RCEPF (Barème indexé pour l’année fiscale 2026)
+   1 Le barème de l'article 41, alinéa 1 de la loi est adapté comme suit :
+
+
+
+
+   Taux de l’impôt
+   Art. 41, al. 2, 3 et 4 LIPP
+   2 Pour les époux vivant en ménage commun, le taux appliqué à leur revenu est celui qui correspond
+
+   à 50% de ce dernier.
+   3 L’alinéa 2 est également applicable aux contribuables célibataires, veufs, divorcés, séparés de
+
+   corps ou de fait, qui font ménage commun avec leurs enfants mineurs ou majeurs ou un proche qui
+   constituent des charges de famille, au sens de l’article 39, alinéa 2, et dont ils assurent pour l'essen­
+   tiel l'entretien.
+
+
+
+
+                                                                                                               15
+Feuille cantonale Genève                                                                   Personnes physiques
+
+
+  4
+    Pour le parent célibataire, divorcé, séparé de corps ou de fait, qui fait ménage avec son ou ses
+  enfants mineurs ou majeurs, qui constituent des charges de famille au sens de l’article 39, alinéa 2,
+  pour lesquels il est tenu d’assurer pour moitié avec l’autre parent, dont il vit séparé, la prise en charge,
+  l’entretien et le paiement des frais, le taux appliqué à son revenu est celui qui correspond à 55,56%
+  de ce dernier.
+
+
+  Imputation de l’impôt sur les bénéfices et gains immobiliers
+  Art. 42 LIPP
+  Lorsque le bénéfice réalisé lors de l'aliénation d'immeubles est soumis à l'impôt sur le revenu, l'impôt
+  sur les bénéfices et gains immobiliers, perçu en application des articles 80 à 87 de la loi générale sur
+  les contributions publiques, du 9 novembre 1887, est imputé sur l'impôt sur le revenu ou remboursé
+  pour la part qui en excède le montant.
+
+
+  Bénéfices de liquidation
+  Art. 44A LIPP
+  1
+    Le total des réserves latentes réalisées au cours des deux derniers exercices commerciaux est
+  imposable séparément des autres revenus si le contribuable âgé de 55 ans révolus cesse définiti­
+  vement d’exercer son activité lucrative indépendante ou s’il est incapable de poursuivre cette activité
+  pour cause d’invalidité. Les rachats au sens de l’article 31, lettre b, sont déductibles. Si un tel rachat
+  n’est pas effectué, l’impôt est calculé, sur la base du taux représentant le cinquième du barème inscrit
+  à l’article 41, sur la part des réserves latentes réalisées correspondant au montant dont le contri­
+  buable prouve l’admissibilité comme rachat au sens de l’article 31, lettre b. Sur le solde des réserves
+  latentes réalisées, seul un cinquième de ce montant est déterminant pour la fixation du taux appli­
+  cable. L’application de l’article 41, alinéas 2 à 4, demeure réservée.
+  2
+    L’alinéa 1 s’applique également au conjoint survivant, aux autres héritiers et aux légataires, pour
+  autant qu’ils ne poursuivent pas l’exploitation de l’entreprise qu’ils ont reprise; le décompte fiscal a
+  lieu au plus tard cinq années civiles après la fin de l’année civile dans laquelle le contribuable est
+  décédé.
+
+
+  Prestations en capital provenant de la prévoyance
+  Art. 45 LIPP
+  1
+    Les prestations en capital selon l’article 25, ainsi que les sommes versées ensuite de décès, de
+  dommages corporels permanents ou d'atteinte durable à la santé sont imposées séparément. Elles
+  sont dans tous les cas soumises à un impôt annuel entier.
+  2
+    L'impôt est calculé sur la base du taux représentant le cinquième du barème inscrit à l’article 41.
+  3 Pour déterminer ce taux, les diverses prestations telles que celles mentionnées à l’alinéa 1 du pré­
+
+  sent article sont additionnées. Il en va de même des prestations touchées par les époux vivant en
+  ménage commun. L’application de l’article 41, alinéas 2 à 4, demeure réservée.
+  4
+    Les déductions sociales prévues aux articles 39 et 40 ne sont pas autorisées.
+
+
+
+
+                                                                                                                 16
+Feuille cantonale Genève                                                                Personnes physiques
+
+
+
+Impôt sur la fortune
+(Art. 46 à 66 LIPP ; Art. 25 RIPP ; Art. 15, 16 et 18 RECPF)
+
+Recueil Informations fiscales, D. Impôts divers, Impôt sur la fortune des personnes physiques
+
+
+Objet de l’impôt sur la fortune
+L’objet de l’impôt est constitué de la fortune nette. Celle-ci comprend toutes les valeurs et tous les
+droits appartenant au contribuable ou dont il est usufruitier, principalement la fortune mobilière et
+immobilière, les assurances-vie et de rentes susceptibles de rachats ainsi que la fortune investie
+dans l’exploitation d’une entreprise commerciale ou agricole.
+
+
+Estimation de la fortune
+(Art. 46 à 54 LIPP ; Art. 15 RCEPF)
+Selon la LIHD et selon le droit fiscal cantonal les actifs doivent en principe être estimés à leur valeur
+vénale. D’autres estimations peuvent être appliquées notamment pour les assurances, les papiers-
+valeurs ainsi que les immeubles. La fortune commerciale du contribuable est estimée à la valeur
+déterminante pour l’impôt sur le revenu.
+
+
+   Les particularités cantonales suivantes sont à relever :
+
+   Bijouterie et argenterie
+   Art 47, let. h LIPP
+   Sont notamment soumis à l’impôt sur la fortune :
+    h) les bijoux et l'argenterie, lorsque leur valeur dépasse 2 000 francs;
+   Art 15 RCEPF
+   Le montant déterminant pour l’imposition des bijoux et de l’argenterie prévue à l’article 47, lettre h,
+   de la loi s’élève à 2 138 francs*.
+   *Montant applicable pour la période fiscale 2026.
+
+
+   Cheptel
+   Art 47, let. i LIPP
+   Sont notamment soumis à l’impôt sur la fortune :
+    i) le cheptel, tant mort que vif.
+
+
+   Règle d’évaluation
+   Art 49, al. 2 et 3 LIPP
+   2
+     La fortune est estimée, en général, à la valeur vénale.
+   3
+     Les biens immatériels et la fortune mobilière qui font partie de la fortune commerciale du contri­
+   buable sont estimés à la valeur déterminante pour l’impôt sur le revenu.
+
+
+   Brevets et droits comparables
+   Art. 49, al. 4 LIPP
+   4 Pour la fortune nette imposable, les brevets et droits comparables entrant dans le champ d’appli­
+
+   cation de l’article 19C ne sont pris en compte qu’à hauteur de 50% de leur valeur déterminante pour
+   l’impôt sur le revenu. Seules 50% des dettes sont déductibles à hauteur du rapport entre les brevets
+   et droits comparables, d’une part, et la fortune brute, d’autre part.
+
+
+
+
+                                                                                                             17
+Feuille cantonale Genève                                                                Personnes physiques
+
+
+   Immeubles
+   Art. 50, let. c et e LIPP
+   L'évaluation des immeubles situés dans le canton est faite d'après les principes suivants :
+     c) les immeubles servant à l'exploitation agricole et sylvicole y compris la partie de logement né­
+         cessaire au propriétaire et à sa famille sont évalués à leur valeur de rendement calculée selon
+         le droit fédéral;
+     e) les autres immeubles, notamment les villas, parcs, jardins d'agrément, ainsi que les immeubles
+         en copropriété par étage, sont estimés en tenant compte du coût de leur construction, de leur
+         état de vétusté, de leur ancienneté, des nuisances éventuelles, de leur situation, des servitudes
+         et autres charges foncières les grevant, de prix d'achats récents ou d'attribution ensuite de
+         succession ou de donation et des prix obtenus pour d'autres propriétés de même nature qui se
+         trouvent dans des conditions analogues, à l'exception des ventes effectuées à des prix de ca­
+         ractère spéculatif.
+         Cette estimation est diminuée de 4% par année d'occupation continue par le même propriétaire
+         ou usufruitier, jusqu'à concurrence de 40%. Il est également tenu compte de la durée d'occu­
+         pation continue par le précédent propriétaire, lorsqu'il s'agit, en cas de liquidation du régime
+         matrimonial, de donation, d'acquisition par avancement d'hoirie ou par succession, du conjoint,
+         de ses parents en ligne directe ou de ses frères et sœurs.
+         Le contribuable qui, en remploi d'un bien, acquiert ou fait construire un bien immobilier de rem­
+         placement, bénéficie du taux de réduction auquel il aurait eu droit en demeurant dans la précé­
+         dente propriété, mais jusqu'à concurrence seulement du prix de la cession.
+         Le propriétaire qui, par des travaux de rénovation, augmente la valeur de l'immeuble bénéficie
+         de l'abattement prévu par le 2e paragraphe de la lettre e ci-dessus pour le montant des travaux
+         effectués.
+
+Détermination de la fortune imposable
+(Art. 56 à 58 LIPP ; Art. 16 RCEPF)
+La fortune nette résulte de la fortune brute dont les dettes ont été défalquées. Pour déterminer la fortune impo­
+sable il faut encore en déduire les déductions sociales.
+
+
+   Déductions sociales           et déduction pour enfant
+   Art. 58, al. 1 LIPP
+   1 De l’ensemble de la fortune nette déclarée par les contribuables assujettis à l’impôt dans le canton,
+
+   le département déduit :
+     a) 82 200 francs pour le contribuable célibataire, veuf, séparé de corps ou de fait ou divorcé;
+         164 400 francs pour les époux vivant en ménage commun et les contribuables célibataires,
+         veufs, séparés de corps ou de fait ou divorcés qui tiennent ménage indépendant avec leur(s)
+         enfant(s) mineur(s) considéré(s) comme charge(s) de famille au sens de la lettre b;
+     b) 41 100 francs pour chaque charge de famille au sens des dispositions qui traitent de l’impôt sur
+         le revenu, la fortune personnelle de l’apprenti ou de l’étudiant étant cependant soustraite de
+         cette somme de 41 100 francs.
+   Art. 16, al. 1 RCEPF
+   1 Les déductions sociales prévues à l'article 58, alinéa 1, de la loi sont adaptées comme suit :
+
+     a) 87 872 francs* pour le contribuable célibataire, veuf, séparé de corps ou de fait ou divorcé;
+     b) 175 743 francs* pour les époux vivant en ménage commun et les contribuables célibataires,
+         veufs, séparés de corps ou de fait ou divorcés qui tiennent ménage indépendant avec leur(s)
+         enfant(s) mineur(s) considéré(s) comme charge(s) de famille;
+     c) 43 936 francs* pour chaque charge de famille, la fortune personnelle de l’apprenti ou de l’étu­
+         diant majeur étant cependant soustraite de cette somme de 43 936 francs*.
+     *Montants applicables pour la période fiscale 2026.
+
+
+
+
+                                                                                                              18
+Feuille cantonale Genève                                                                  Personnes physiques
+
+
+   Déduction sur la fortune commerciale investie
+   Art. 58, al. 2 LIPP
+   2
+     Il est en outre accordé une déduction égale à la moitié des éléments de fortune investis dans l’ex­
+   ploitation commerciale, artisanale ou industrielle du contribuable, au prorata de sa participation, mais
+   au maximum 500 000 francs.
+   Art. 16, al. 2 RCEPF
+   2 Le montant maximal de la déduction sur les éléments de fortune investis dans l'exploitation com­
+
+   merciale, artisanale ou industrielle, prévu à l'article 58, alinéa 2, de la loi s'élève à 534 500 francs*.
+   *Montant applicable pour la période fiscale 2026.
+
+
+Calcul de l’impôt
+(Art. 59 à 60 LIPP ; Art. 18 RCEPF)
+
+
+   Taux de l’impôt sur la fortune
+   Art. 59, al. 1 LIPP
+   1
+     La fortune de chaque contribuable célibataire, veuf, séparé de corps ou de fait ou divorcé est divisée
+   en tranches taxées conformément au tableau suivant. Il en est de même de la fortune des époux
+   vivant en ménage commun.
+
+
+
+
+   Art. 18, al. 1 RCEPF (Applicable pour la période fiscale 2026)
+   1 Le barème de l'article 59, alinéa 1, de la loi est adapté comme suit :
+
+
+
+
+                                                                                                                19
+Feuille cantonale Genève                                                               Personnes physiques
+
+
+   Art. 59, al. 2 LIPP
+   2
+     La fortune de chaque contribuable célibataire, veuf, séparé de corps ou de fait ou divorcé est en
+   outre divisée en tranches soumises à un impôt supplémentaire, conformément au tableau suivant. Il
+   en est de même de la fortune des époux vivant en ménage commun.
+
+
+
+
+   Il n'est perçu aucun centime additionnel sur cet impôt supplémentaire sur la fortune.
+   Art. 18, al. 2 RCEPF (Applicable pour la période fiscale 2026)
+   2 Le barème de l’article 59, alinéa 2, LIPP est adapté comme suit :
+
+
+
+
+   Il n'est perçu aucun centime additionnel sur cet impôt supplémentaire sur la fortune.
+
+
+
+Charge maximale
+(Art. 60 LIPP)
+
+
+   Charge maximale
+   Art. 60, al. 1, 3 et 4 LIPP
+   1
+     Pour les contribuables domiciliés en Suisse, les impôts sur la fortune et sur le revenu – centimes
+   additionnels cantonaux et communaux compris – ne peuvent excéder au total 60% du revenu net
+   imposable. Toutefois, pour ce calcul, le rendement net de la fortune est fixé au moins à 1% de la
+   fortune nette.
+   3 La charge maximale des époux vivant en ménage commun est calculée sur la base de l'ensemble
+
+   de leurs éléments de fortune et de revenu.
+   4 S’il y a lieu à réduction, celle-ci est imputée sur les impôts sur la fortune, centimes additionnels
+
+   cantonaux et communaux compris. L’Etat et les communes intéressées la supportent proportionnel­
+   lement à leurs droits.
+
+
+
+
+                                                                                                            20
+Feuille cantonale Genève                                                                     Personnes physiques
+
+
+
+Imposition d'après la dépense
+(Art. 14 LIPP; Art. 4 RCEPF; Art. 1 à 6 RIPP)
+
+
+Les particularités cantonales suivantes sont à relever :
+
+   Imposition d'après la dépense
+   Art. 14, al. 3 – 7 LIPP:
+   3
+     L’impôt qui remplace l’impôt sur le revenu est calculé sur la base des dépenses annuelles du con­
+   tribuable et des personnes dont il a la charge effectuées durant la période de calcul en Suisse et à
+   l’étranger pour assurer leur train de vie, mais au minimum d’après le plus élevé des montants sui­
+   vants :
+      a) 400 000 francs;
+      b) pour les contribuables chefs de ménage : 7 fois le loyer annuel ou la valeur locative au sens de
+          l’article 24, alinéa 1, lettre b; dans le calcul de la valeur locative, la pondération pour occupation
+          continue et la limite correspondant au taux d’effort prévues à l’article 24, alinéa 2, ne sont pas
+          applicables;
+      c) pour les autres contribuables : 3 fois le prix de la pension annuelle pour le logement et la nour­
+          riture au lieu du domicile au sens de l’article 2.
+   4
+     Il est en outre tenu compte de l’imposition sur la fortune par une majoration de 10% du montant de
+   la dépense déterminé d’après l’alinéa 3.
+   5
+     L’impôt est perçu d’après le barème de l’impôt ordinaire [art. 41 LIPP].
+   6
+     Le montant de l’impôt d’après la dépense doit être au moins égal à la somme des impôts sur le
+   revenu et sur la fortune calculés selon les barèmes ordinaires sur le montant total des éléments bruts
+   suivants :
+      a) la fortune immobilière sise en Suisse et son rendement;
+      b) les objets mobiliers se trouvant en Suisse et les revenus qu’ils produisent;
+      c) les capitaux mobiliers placés en Suisse, y compris les créances garanties par gage immobilier
+          et les revenus qu’ils produisent;
+      d) les droits d’auteur, brevets et droits analogues exploités en Suisse et les revenus qu’ils produi­
+          sent;
+      e) les retraites, rentes et pensions de sources suisses;
+      f) les revenus pour lesquels le contribuable requiert un dégrèvement partiel ou total d’impôts étran­
+          gers en application d’une convention contre les doubles impositions conclue par la Suisse.
+   7
+     Si les revenus provenant d’un Etat étranger y sont exonérés à la condition que la Suisse les impose,
+   seuls ou avec d’autres revenus, au taux du revenu total, l’impôt est calculé non seulement sur la
+   base des revenus mentionnés à l’alinéa 6, mais aussi de tous les éléments du revenu provenant de
+   l’Etat-source qui sont attribués à la Suisse en vertu de la convention correspondante contre les
+   doubles impositions.
+   Art. 4 RCEPF
+   Le montant minimal de la dépense prévu à l'article 14, alinéa 3, lettre a, de la loi s'élève à
+   426 357 francs*.
+   *Montant applicable pour la période fiscale 2026.
+Administration fiscale cantonale Genève > L'imposition d'après la dépense
+
+
+
+
+                                                                                                                   21
+Feuille cantonale Genève                                                                     Personnes physiques
+
+
+
+Progression à froid
+(Art. 67 et 72 LIPP ; Art. 3 RCEPF)
+
+Recueil Informations fiscales, E. Notions fiscales, Progression à froid
+
+
+   Adaptation au renchérissement en matière d’impôt sur le revenu
+   Art. 67, al. 1, 2 et 4 LIPP
+   1
+     Les barèmes prévus aux articles 41 et 59 sont adaptés, chaque année, en fonction de l’évolution
+   de l’indice de renchérissement pour la période fiscale considérée.
+   2 Chaque année, le Conseil d’Etat adapte, en fonction de l’évolution de l’indice de renchérissement
+
+   pour la période fiscale considérée, les montants en francs prévus aux articles 14, alinéa 3, lettre a,
+   27, lettre o, 29, alinéa 1, lettre a, et alinéa 2, 29A, alinéa 1, 31, lettre d, 35, 36, 36A, 36B, 39, 40, 47,
+   lettre h, et 58.
+   4 L’adaptation visée aux alinéas 1 et 2 est exclue si le renchérissement est négatif. L’adaptation qui
+
+   a lieu après un renchérissement négatif se fait sur la base de l’indice déterminant lors de la dernière
+   compensation.
+   Art. 72, al. 16 LIPP (dès la période fiscale 2025)
+   16
+      La première adaptation au renchérissement, selon l’article 67, alinéa 2, des montants prévus à
+   l’article 36A a lieu pour la période fiscale 2025. L’indice de renchérissement pour l’année de référence
+   est celui pour l’année de l’entrée en vigueur du nouveau droit.
+   Art. 72, al. 17 LIPP (dès la période fiscale 2025)
+   17 La première adaptation au renchérissement, selon l’article 67, alinéa 2, des montants prévus à
+
+   l’article 29A, al. 1, a lieu pour la période fiscale 2025. L’indice de renchérissement pour l’année de
+   référence est celui pour l’année de l’entrée en vigueur du nouveau droit.
+   Art. 72, al. 18 LIPP (dès la période fiscale 2025)
+   18 L’alinéa 4 s’applique à l’indexation des barèmes de l’impôt sur la fortune prévus à l’article 59,
+
+   alinéas 1 et 2.
+   Art. 3 RCEPF (dès la période fiscale 2026)
+   Les montants prévus aux articles 14, alinéa 3, lettre a, 27, lettre o, 29, alinéa 1, lettre a, et alinéa 2,
+   29A, alinéa 1, 31, lettre d, 35, 36, 36A, 36B, 39, 40, 47, lettre h, et 58 de la loi sont adaptés au
+   renchérissement pour l'année fiscale 2026; sont applicables, dès cette même année, les montants
+   mentionnés aux articles 4 à 16 du présent règlement.
+
+
+
+Multiple annuel
+(Art. 289 LCP ; Art. 2 LCACant ; Art. 1 LDIRPP)
+
+Recueil Informations fiscales, E. Notions fiscales, Taux et coefficients d’impôts
+
+   Art. 289, al. 1 LCP
+   1
+     La loi sur les centimes additionnels cantonaux, du 13 septembre 2019, décrète s’il y a lieu de per­
+   cevoir des centimes additionnels au profit de l’Etat; elle détermine sur quels impôts et sur quelles
+   taxes ils doivent être perçus et en fixe la quotité.
+   Art. 2 LCACant
+   1 Il est perçu 47,5 centimes, par franc et fraction de franc, sur le montant des impôts cantonaux sur
+
+   le revenu et la fortune des personnes physiques.
+   2
+     En couverture partielle des charges relatives au maintien, à l’aide et aux soins à domicile, il est
+   perçu 1 centime additionnel supplémentaire, par franc et fraction de franc, sur le montant des impôts
+   cantonaux sur le revenu et la fortune des personnes physiques.
+   Art. 1 LDIRPP
+   L'impôt direct sur le revenu des personnes physiques, à l'exception des centimes additionnels com­
+   munaux, est diminué de 12%.
+
+
+
+
+                                                                                                                   22
+Feuille cantonale Genève                                                                 Personnes physiques
+
+
+
+Allégements fiscaux
+(Art. 15 LIPP)
+
+
+   Allégements fiscaux
+   Art. 15, al. 1 et 3 LIPP
+   1 Le Conseil d’Etat peut, après consultation des communes concernées, accorder des allégements
+
+   fiscaux en faveur des entreprises nouvellement créées, afin de faciliter leur installation et leur déve­
+   loppement s'ils sont dans l'intérêt de l'économie du canton; ces allégements ne peuvent aller au-delà
+   d'une période de 10 ans. La modification importante de l'activité de l'entreprise peut être assimilée à
+   une fondation nouvelle.
+   Le Conseil d'Etat statue sur toute demande d'allégements fiscaux dans un délai de 60 jours à compter
+   de la date d'enregistrement de la demande.
+   Lorsque des pièces ou renseignements complémentaires nécessaires à l'instruction de la requête
+   sont sollicités, ce délai est suspendu jusqu'à réception des documents.
+   3
+     Le Conseil d’Etat informe les communes concernées des allégements fiscaux accordés et présente
+   un rapport annuel au Grand Conseil, dans le cadre du compte rendu, sur sa politique en matière
+   d’allégements fiscaux.
+
+
+
+
+                                                                                                              23
+Feuille cantonale Genève                                                                     Personnes morales
+
+
+
+
+Imposition des personnes morales
+Recueil Informations fiscales, D. Impôts divers, Imposition des personnes morales
+
+   Art. 1, al. 1 LIPM
+   1 Le canton perçoit, conformément à la présente loi, un impôt sur le bénéfice et un impôt sur le capital
+
+   des personnes morales.
+
+
+
+Impôt sur le bénéfice
+(Art. 11 à 26 LIPM)
+
+
+Détermination du bénéfice net imposable
+(Art. 12 à 19 LIPM)
+Pour la détermination du bénéfice net imposable, sont rajoutés au solde du compte de résultat les
+charges non justifiées par l’usage commercial, les produits et les bénéfices en capital, de liquidation et
+de réévaluation qui n’ont pas été portés au crédit de ce compte ainsi que les intérêts sur le capital propre
+dissimulé. Sont déduites les charges justifiées par l’usage commercial et les pertes éventuelles des sept
+exercices précédant la période fiscale.
+
+Les cotisations versées aux associations par leurs membres ne font pas partie du bénéfice imposable.
+Les dépenses liées à l’acquisition des recettes imposables des associations peuvent être entièrement
+déduites de ces recettes. Les autres dépenses ne peuvent l’être que dans la mesure où elles excédent
+les cotisations des membres.
+
+Les apports à la fortune des fondations ne font pas partie du bénéfice imposable.
+
+Les placements collectifs qui possèdent des immeubles en propriété directe sont soumis à l’impôt sur
+le bénéfice pour le rendement de ces immeubles.
+
+
+Les particularités cantonales suivantes sont à relever :
+
+   Brevets et droits comparables
+   Art. 12B, al. 1 et 3 LIPM
+   1
+     Si le contribuable en fait la demande, le bénéfice net provenant de brevets et de droits comparables
+   est pris en compte dans le calcul du bénéfice net imposable en proportion des dépenses de recherche
+   et de développement éligibles par rapport aux dépenses totales de recherche et de développement par
+   brevet ou droit comparable (quotient Nexus) avec une réduction de 10%.
+   3
+     Lorsque le bénéfice net provenant de brevets et de droits comparables est imposé pour la première
+   fois de façon réduite, les dépenses de recherche et de développement qui ont déjà été prises en compte
+   lors de périodes fiscales antérieures, ainsi qu’une éventuelle déduction au sens de l’article 13A, sont
+   ajoutées au bénéfice net imposable. Une réserve latente imposée doit être constituée dans la mesure
+   du montant ajouté.
+
+
+   Dons
+   Art. 13 al. 1, let. c LIPM
+   1 Les charges justifiées par l’usage commercial comprennent notamment :
+
+     c) les dons en espèces et sous forme d’autres valeurs patrimoniales en faveur de personnes morales
+         qui ont leur siège en Suisse et sont exonérées de l’impôt en raison de leurs buts de service public
+         ou d’utilité publique, jusqu’à concurrence de 20% du bénéfice net. Les dons en faveur de la Con­
+         fédération, des cantons, des communes et de leurs établissements sont déductibles dans la même
+         mesure;
+
+
+
+
+                                                                                                               24
+Feuille cantonale Genève                                                                      Personnes morales
+
+
+   Déduction supplémentaire des dépenses de recherche et de développement
+   Art. 13A, al. 1 LIPM
+   1
+     Sur demande, le département chargé des finances autorise la déduction des dépenses de recherche
+   et de développement que le contribuable a engagées en Suisse, directement ou par l’intermédiaire de
+   tiers, à raison d’un montant dépassant de 50% les dépenses de recherche et de développement justi­
+   fiées par l’usage commercial.
+
+
+   Limites de la réduction fiscale
+   Art. 13B LIPM
+   1 La réduction fiscale totale fondée sur les articles 12B, alinéas 1 et 2, et 13A ne doit pas dépasser 9%
+
+   du bénéfice imposable avant compensation des pertes, à l’exclusion du rendement net des participations
+   au sens de l’article 21, alinéas 1, 2 et 5, et avant déduction des réductions effectuées.
+   2 Ni les diverses réductions ni la réduction fiscale totale ne doivent entraîner de reports de pertes.
+
+
+
+
+   Remploi
+   Art. 17, al. 2 et 3 LIPM
+   2 En cas de remplacement de participations, les réserves latentes peuvent être reportées sur une nou­
+
+   velle participation si la participation aliénée était égale à 10% au moins du capital-actions ou du capital
+   social ou à 10% au moins du bénéfice et des réserves de l’autre société et si la société de capitaux ou
+   la société coopérative a détenu cette participation pendant un an au moins.
+   3
+     Lorsque le remploi n’intervient pas pendant le même exercice, une provision correspondant aux ré­
+   serves latentes peut être constituée. Cette provision doit être dissoute et utilisée pour l’amortissement
+   de l’élément acquis en remploi ou portée au crédit du compte de résultats, dans un délai raisonnable.
+
+
+   Personnes morales poursuivant des buts idéaux
+   Art. 18A, al. 5 LIPM
+   5 Sont exonérés de l’impôt les bénéfices des personnes morales qui poursuivent des buts idéaux pour
+
+   autant qu’ils n’excèdent pas 20 000 francs et qu’ils soient affectés exclusivement et irrévocablement à
+   ces buts.
+
+
+Calcul de l’impôt
+(Art. 20 à 26 LIPM)
+
+
+   Sociétés de capitaux et coopératives
+   Art. 20 LIPM
+   1 Le taux de l’impôt sur le bénéfice net est fixé à 3,33%.
+
+   2
+     Ce taux peut être majoré dans des cas particuliers en lien avec les relations internationales.
+
+
+   Associations, fondations, placements collectifs de capitaux et autres personnes morales
+   Art. 25 LIPM
+   L’impôt dû par les associations, fondations, placements collectifs de capitaux et autres personnes mo­
+   rales est fixé à 4,951%.
+
+
+   Imputation de l’impôt sur les bénéfices et gains immobiliers
+   Art. 26 LIPM
+   Lorsque le bénéfice réalisé lors de l’aliénation d’immeubles est soumis à un impôt annuel entier sur le
+   bénéfice net ou le revenu net, l’impôt sur les bénéfices et gains immobiliers perçus en application des
+   articles 80 à 87 de la loi générale sur les contributions publiques, du 9 novembre 1887, est imputé sur
+   l’impôt annuel ou remboursé pour la part qui en excède le montant.
+
+
+
+
+                                                                                                                 25
+Feuille cantonale Genève                                                                         Personnes morales
+
+
+
+Impôt sur le capital
+(Art. 27 à 36A LIPM)
+L’impôt sur le capital a pour objet le capital propre. S’agissant tout d’abord des sociétés de capitaux et
+des sociétés coopératives, le capital propre imposable comprend le capital-actions ou le capital social
+libéré, les réserves ouvertes et les réserves latentes constituées au moyen de bénéfices imposés ainsi
+que le capital propre dissimulé.
+
+Le capital propre imposable pour les associations, les fondations et les autres personnes morales, com­
+prend la fortune nette déterminée conformément aux dispositions applicables aux personnes physiques.
+
+
+Les particularités cantonales suivantes sont à relever :
+
+
+Calcul de l’impôt
+(Art. 33 à 36A LIPM)
+
+
+   Sociétés de capitaux et coopératives
+   Art. 33 LIPM
+   L’impôt sur le capital propre est de 1,8‰.
+
+
+   Imposition réduite
+   Art. 34 LIPM
+   Le taux de l’impôt sur le capital propre est réduit à 0,005‰ pour la partie du capital propre afférent aux
+   droits de participations visés à l’article 21, aux droits visés à l’article 12A ainsi qu’aux prêts consentis à
+   des sociétés du groupe.
+
+
+   Associations, fondations, placements collectifs de capitaux et autres personnes morales
+   Art. 36 LIPM
+   Le capital propre des associations, fondations, placements collectifs de capitaux et autres personnes
+   morales est divisé en tranches taxées selon le tableau suivant :
+
+
+
+
+                                                                                                                    26
+Feuille cantonale Genève                                                                        Personnes morales
+
+
+   Réduction de l’impôt sur le capital
+   Art. 36A LIPM
+   L’impôt sur le capital, calculé selon les dispositions des articles 33 à 36, est réduit du montant de l’impôt
+   sur le bénéfice calculé selon les articles 20, 21 et 25 à hauteur de :
+         – 8 500 francs la première année;
+         – 25% pour la deuxième année;
+         – 50% pour la troisième année;
+         – 75% pour la quatrième année;
+         – Puis à 100%.
+   L’année de référence correspond à l’année d’entrée en vigueur de la loi 12006 du 19 mai 2019.
+
+
+
+Disposition transitoire relative aux impôts des holdings et
+des sociétés de domicile (2020 – 2024)
+(Art. 45b LIPM)
+
+
+   Imposition des réserves latentes
+   Art. 45b LIPM
+   1
+     Si des personnes morales ont été imposées sur la base des articles 22 et 23 de l’ancien droit, les
+   réserves latentes existant à la fin de cette imposition, y compris la plus-value créée par le contribuable
+   lui-même, doivent, lors de leur réalisation, être imposées séparément dans les 5 ans qui suivent, dans
+   la mesure où elles n’ont pas été imposables jusqu’alors, au taux de 2,76%.
+   2
+     Le montant des réserves latentes que le contribuable fait valoir, y compris la plus-value qu’il a créée
+   lui-même, est fixé par une décision du département chargé des finances.
+   3 Les amortissements de réserves latentes, y compris la plus-value créée par le contribuable lui-même,
+
+   qui ont été déclarés à la fin de l’imposition fondée sur les articles 22 et 23 de l’ancien droit sont pris en
+   compte dans le calcul de la limitation de la réduction fiscale visée à l’article 13B.
+
+
+
+Multiple annuel
+(Art. 289 LCP ; Art. 3 LCACant)
+
+Recueil Informations fiscales, E. Notions fiscales, Taux et coefficients d’impôts
+
+   Art. 289 LCP
+   1
+      La loi sur les centimes additionnels cantonaux, du 13 septembre 2019, décrète s’il y a lieu de percevoir
+   des centimes additionnels au profit de l’Etat; elle détermine sur quels impôts et sur quelles taxes ils
+   doivent être perçus et en fixe la quotité.
+   2
+      Il n'est pas perçu de centimes additionnels cantonaux sur l'impôt sur le capital des nouvelles entreprises
+   organisées sous forme de sociétés de capitaux, au sens de l'article 1, alinéa 2, lettre a, de la loi sur
+   l’imposition des personnes morales, du 23 septembre 1994; la durée de l'allégement est de 3 ans.
+   3
+      Le Conseil d'Etat fixe les modalités d'application des dispositions de l'alinéa 2.
+   Art. 3 LCACant
+   Il est perçu :
+      a) 88,5 centimes, par franc et fraction de franc, sur le montant de l’impôt cantonal sur le bénéfice des
+          personnes morales;
+      b) 77,5 centimes, par franc et fraction de franc, sur le montant de l’impôt cantonal sur le capital des
+          personnes morales.
+
+
+
+
+                                                                                                                   27
+Feuille cantonale Genève                                                                     Personnes morales
+
+
+
+Allégements fiscaux
+(Art. 10 LIPM)
+
+
+   Allégements fiscaux
+   Art. 10, al. 1 et 3 LIPM
+   1 Le Conseil d’Etat peut, après consultation des communes concernées, accorder des allégements fis­
+
+   caux à des personnes morales nouvellement créées ou en cours de restructuration, afin de faciliter leur
+   installation et leur développement, si elles sont dans l’intérêt de l’économie du canton; ces allégements
+   ne peuvent aller au-delà de 10 ans.
+   3 Le Conseil d’Etat informe les communes concernées des allégements fiscaux accordés et présente un
+
+   rapport annuel au Grand Conseil, dans le cadre du compte rendu, sur sa politique en matière d’allége­
+   ments fiscaux.
+
+
+
+
+                                                                                                               28
+Feuille cantonale Genève                                           Impôt sur les bénéfices et gains immobiliers
+
+
+
+
+Impôt sur les bénéfices et gains immobiliers
+(Art. 80 – 91 LCP)
+
+Recueil Informations fiscales, D. Impôts divers, Imposition des gains immobiliers
+
+
+Les particularités cantonales suivantes sont à relever :
+
+   Objet
+   Art. 80 LCP
+   1 L’impôt sur les bénéfices et gains immobiliers a pour objet le bénéfice net provenant de l’aliénation
+
+   d’immeubles ou de parts d’immeubles sis dans le canton, ainsi que certains gains que ces immeubles
+   procurent sans aliénation.
+
+
+   Bénéfice ou gain imposable
+   Art. 82 LCP
+   1 Le bénéfice ou gain imposable est constitué par la différence entre la valeur d’aliénation et la valeur
+
+   d’acquisition.
+
+
+
+Calcul de l’impôt
+(Art. 84 à 87 LCP)
+
+
+   Taux de l’impôt
+   Art. 84 LCP
+   1 L’impôt est perçu de l’aliénateur ou du bénéficiaire du gain sur le montant global du bénéfice ou du
+
+   gain nets aux taux suivants :
+     a) 50% lorsqu’il a été propriétaire des biens ou actifs immobiliers, ou titulaire des droits immobiliers
+         (réels ou personnels) pendant moins de 2 ans ;
+     b) 40% lorsqu’il l’a été pendant 2 ans au moins, mais moins de 4 ans ;
+     c) 30% lorsqu’il l’a été pendant 4 ans au moins, mais moins de 6 ans ;
+     d) 20% lorsqu’il l’a été pendant 6 ans au moins, mais moins de 8 ans ;
+     e) 15% lorsqu’il l’a été pendant 8 ans au moins, mais moins de 10 ans ;
+     f) 10% lorsqu’il l’a été pendant 10 ans au moins, mais moins de 25 ans ;
+     g) 2% lorsqu’il l’a été pendant 25 ans et plus.
+   2
+     Lorsque, postérieurement à l’acquisition d’un immeuble, des travaux lui ont apporté une plus-value
+   d’une certaine importance, le gain est déterminé et imposé séparément pour les divers éléments selon
+   la durée de propriété de chacun d’eux ; si la répartition du bénéfice entre les divers éléments ne peut
+   être déterminée, elle est fixée par estimation.
+
+
+   Centimes additionnels
+   Art. 87 LCP
+   Il n'est pas perçu de centimes additionnels.
+
+
+   Imputation de l’impôt sur les bénéfices et gain immobiliers
+   Art. 42 LIPP
+   Lorsque le bénéfice réalisé lors de l'aliénation d'immeubles est soumis à l'impôt sur le revenu, l'impôt sur
+   les bénéfices et gains immobiliers, perçu en application des articles 80 à 87 de la loi générale sur les
+   contributions publiques, du 9 novembre 1887, est imputé sur l'impôt sur le revenu ou remboursé pour la
+   part qui en excède le montant.
+
+
+
+
+                                                                                                                  29
+Feuille cantonale Genève                                        Impôt sur les bénéfices et gains immobiliers
+
+
+   Art. 26 LIPM
+   Lorsque le bénéfice réalisé lors de l’aliénation d’immeubles est soumis à un impôt annuel entier sur le
+   bénéfice net ou le revenu net, l’impôt sur les bénéfices et gains immobiliers perçus en application des
+   articles 80 à 87 de la loi générale sur les contributions publiques, du 9 novembre 1887, est imputé sur
+   l’impôt annuel ou remboursé pour la part qui en excède le montant.
+
+Administration cantonale du canton de Genève > L’impôt sur les bénéfices et gains immobiliers
+
+
+
+
+                                                                                                             30
+Feuille cantonale Genève                                                                  Communes et paroisses
+
+
+
+
+Impôts dans les communes et les paroisses
+Recueil Informations fiscales, E. Notions fiscales, Taux et coefficients d’impôts
+Recueil Informations fiscales, D. Impôts divers, Impôt ecclésiastique
+
+
+
+Impôt sur le revenu et sur la fortune ainsi qu’impôt sur le
+bénéfice et sur le capital dans les communes
+(Art. 291 à 295 et 298 LCP ; Art. 12 RDLCP Art. 60 LIPP ; ArCA-2026)
+
+   Art. 291, let. a, ch. 1 LCP
+   Lorsque les recettes d’une commune, provenant de ses propres biens, des allocations ou des réparti­
+   tions qui lui sont faites par l’Etat sur des taxes ou impôts, ou de ses autres ressources, ne lui permettent
+   pas de subvenir à ses dépenses, elle est autorisée à percevoir un impôt communal, sous forme de
+   centimes additionnels applicables en supplément :
+     a) aux impôts cantonaux sur le revenu et la fortune des personnes physiques et sur le bénéfice net et
+         le capital des personnes morales;
+   Art. 292, al. 1 et 4 LCP
+   1 Ces impôts sont perçus en vertu de délibérations des conseils municipaux, qui sont soumises au réfé­
+
+   rendum municipal à l’approbation du Conseil d’Etat.
+   4
+     Les centimes additionnels complémentaires sur l’impôt sur le bénéfice des personnes morales au sens
+   du titre III de la 2e partie de la présente loi ne sont pas soumis à la délibération des communes et perçus
+   sans limitation de durée.
+   Centimes additionnels pour l’année 2026
+   Art. 293, let. A et B LCP
+   Les communes peuvent percevoir des centimes additionnels :
+   A) sur l’impôt cantonal sur le revenu et la fortune :
+         Personnes physiques sur le territoire de la commune
+             1° des personnes physiques domiciliées sur leur territoire, sur l’ensemble de leurs revenus
+             et sur la totalité de leur fortune, sous déduction :
+     a) des immeubles que ces personnes possèdent dans une autre commune et du revenu qu’elles en
+        retirent;
+     b) du capital des commerces, industries et entreprises qu’elles exploitent dans une autre commune
+        et du revenu qu’elles en retirent;
+     c) du revenu provenant d’une profession que le contribuable exerce exclusivement dans une autre
+        commune;
+         Personnes physiques domiciliées hors de la commune
+            2° des personnes physiques domiciliées hors de leur territoire :
+     a) sur les immeubles qu’elles possèdent dans la commune et sur le revenu qu’elles en retirent;
+     b) sur le capital et le revenu des commerces, industries et entreprises qu’elles exploitent dans la com­
+        mune et sur la partie du capital et du revenu pour laquelle elles y sont intéressées, comme asso­
+        ciées, participantes ou commanditaires;
+     c) sur le revenu des professions, fonctions ou emplois qu’elles exercent dans la commune;
+         Personnes morales
+   B) sur 80% de l’impôt cantonal sur le bénéfice net et le capital :
+            1° des personnes morales qui ont leur siège dans la commune, sur la totalité de leur bénéfice
+            net et de leur capital, sous déduction des immeubles qu’elles possèdent dans une autre com­
+            mune et sous réserve de la répartition prévue à l’article 295A,
+            2° des personnes morales qui ont leur siège hors de la commune, sur les succursales,
+            agences ou entreprises qu’elles exploitent dans la commune,
+            3° des personnes morales qui ont leur siège hors de la commune, sur la valeur et le revenu
+            des immeubles qu’elles possèdent dans la commune;
+   Art. 294 LCP
+   1
+     Les communes qui appliquent des centimes additionnels sur les impôts cantonaux sur le revenu et la
+   fortune des personnes physiques doivent les appliquer à tous les contribuables soumis à ces impôts
+   d’une manière et à un taux uniforme.
+
+
+
+                                                                                                                  31
+Feuille cantonale Genève                                                                   Communes et paroisses
+
+
+   2
+    Elles ne peuvent pas appliquer des centimes additionnels seulement à l’impôt sur le revenu ou seule­
+   ment à l’impôt sur la fortune, et le taux qu’elles fixent doit être le même pour les deux genres d’impôts.
+   Art. 295, al. 1 à 3 LCP
+   1 Il est constitué un fonds de péréquation financière intercommunale géré par le département.
+
+   2
+     Ce fonds est alimenté par la perception de centimes additionnels sur 20% de l’impôt cantonal sur le
+   bénéfice et le capital des personnes morales.
+   3
+     Le Conseil d’Etat fixe chaque année le nombre de centimes à percevoir. Ce dernier correspond à la
+   moyenne pondérée, arrondie au demi-centime inférieur, de l’ensemble des centimes additionnels per­
+   sonnes morales perçus par les communes l’année précédente.
+   Art. 12 RDLCP
+   Le nombre de centimes additionnels à percevoir en 2026 au profit du fonds de péréquation financière
+   intercommunale est de 44,50. Une part, égale à 20% de l'impôt cantonal sur le bénéfice et le capital des
+   personnes morales, leur sert de base d'application.
+   Art. 298 LCP
+   Le taux des centimes additionnels imposés par les communes est fixé par elles, sous réserve de l’ap­
+   probation du Conseil d’Etat.
+   Centimes additionnels pour l’année 2026
+           Charge maximale
+           Art. 60, al. 1, 3 et 4 LIPP
+           1 Pour les contribuables domiciliés en Suisse, les impôts sur la fortune et sur le revenu – centimes
+
+           additionnels cantonaux et communaux compris – ne peuvent excéder au total 60% du revenu net
+           imposable. Toutefois, pour ce calcul, le rendement net de la fortune est fixé au moins à 1% de la
+           fortune nette.
+           3
+             La charge maximale des époux vivant en ménage commun est calculée sur la base de l'en­
+           semble de leurs éléments de fortune et de revenu.
+           4
+             S’il y a lieu à réduction, celle-ci est imputée sur les impôts sur la fortune, centimes additionnels
+           cantonaux et communaux compris. L’Etat et les communes intéressées la supportent proportion­
+           nellement à leurs droits.
+   Centimes additionnels complémentaires sur l'impôt sur le bénéfice des personnes morales
+   Art. 301, al. 1 et 2, LCP
+   1
+     Il est constitué un fonds de compensation géré par le département, distinct du fonds de péréquation
+   intercommunale institué par l’article 295.
+   2
+     Ce fonds est alimenté par les centimes additionnels complémentaires perçus en vertu de l’article 302.
+   Art. 302 LCP
+   En sus des centimes additionnels communaux afférents aux impôts sur les personnes morales, au sens
+   du titre II de la 2e partie de la présente loi, sont perçus 28,5 centimes additionnels complémentaires, par
+   franc et fraction de franc, sur le montant de l’impôt cantonal sur le bénéfice des personnes morales.
+
+
+
+Impôt sur le revenu et sur la fortune dans les paroisses
+(Art. 5 LLE)
+   Contribution religieuse volontaire
+   Art. 5 LLE
+   1
+     Le département chargé des finances (ci-après : département) est autorisé à percevoir, pour les orga­
+   nisations religieuses qui en font la demande, une contribution religieuse volontaire sous forme d’un droit
+   personnel fixe et de centimes additionnels sur les impôts cantonaux sur la fortune et sur le revenu des
+   personnes physiques domiciliées dans le canton.
+   2
+     La perception de cette contribution est signalée en tant que telle. Le recouvrement de cette contribution
+   ne peut faire l’objet d’aucune contrainte et il doit être effectué séparément des impôts sans compensation
+   possible avec ceux-ci. Aucunes des opérations pécuniaires en relation avec cette contribution ne portent
+   intérêt.
+   3
+     Le taux de la contribution (droit personnel fixe et de centimes additionnels) est fixé par les organes des
+   organisations religieuses autorisées. Il ne peut dépasser 1,5% du revenu net imposable de chaque con­
+   tribuable, au sens de l’article 41 de la loi sur l’imposition des personnes physiques, du 27 septembre
+   2009.
+
+
+
+
+                                                                                                                    32
+Feuille cantonale Genève                                                               Communes et paroisses
+
+
+   Extrait du Guide fiscal 2025, p. 57
+   Montant de la contribution religieuse volontaire
+   Au moyen de la contribution religieuse volontaire, les organisations religieuses suggèrent à leurs
+   membres et sympathisants le don qu'ils peuvent verser, au prorata de leur revenu et de leur fortune.
+   Chaque organisation religieuse enrôlée fixe librement le taux qu'elle applique à ses membres. La totalité
+   de la contribution ne peut toutefois excéder le plafond de 1.5% du revenu net imposable du contribuable.
+   S'agissant des trois églises enrôlées au titre de la CRV 2024, elles ont toutes les trois opté pour des
+   modalités de calcul identiques: il s'agit de 16% de l'impôt cantonal de base sur le revenu et de 6% de
+   l'impôt sur la fortune, auxquels vient se rajouter une somme forfaitaire de 10.-. […].
+
+
+
+Impôt sur le bénéfice et sur le capital dans les paroisses
+Il n’est pas prélevé d’impôt sur le bénéfice et sur le capital dans les paroisses genevoises.
+
+
+
+
+                                                                                                               33
+Feuille cantonale Genève                                          Contact Administration fiscale cantonale
+
+
+
+
+Contact Administration fiscale cantonale
+Administration fiscale cantonale
+26, rue du Stand
+Case postale 3937
+CH-1211 Genève 3
+
+Tel. +41 22 327 70 00
+Contacter l'AFC | ge.ch
+Administration fiscale cantonale | GE.CH – République et canton de Genève
+
+
+
+
+                                                                                                        34
+

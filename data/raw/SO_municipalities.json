@@ -1,0 +1,1042 @@
+[
+  {
+    "bfsNumber": 2401,
+    "name": "Egerkingen",
+    "district": "Gäu",
+    "municipalMultiplier": 112,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 18,
+    "churchMultiplierCatholic": 18,
+    "churchMultiplierChristCatholic": 18
+  },
+  {
+    "bfsNumber": 2402,
+    "name": "Härkingen",
+    "district": "Gäu",
+    "municipalMultiplier": 89,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 18,
+    "churchMultiplierCatholic": 20,
+    "churchMultiplierChristCatholic": 18
+  },
+  {
+    "bfsNumber": 2403,
+    "name": "Kestenholz",
+    "district": "Gäu",
+    "municipalMultiplier": 117,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 20,
+    "churchMultiplierChristCatholic": 18
+  },
+  {
+    "bfsNumber": 2404,
+    "name": "Neuendorf",
+    "district": "Gäu",
+    "municipalMultiplier": 120,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 18,
+    "churchMultiplierCatholic": 20,
+    "churchMultiplierChristCatholic": 18
+  },
+  {
+    "bfsNumber": 2405,
+    "name": "Niederbuchsiten",
+    "district": "Gäu",
+    "municipalMultiplier": 107,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 18,
+    "churchMultiplierCatholic": 18,
+    "churchMultiplierChristCatholic": 18
+  },
+  {
+    "bfsNumber": 2406,
+    "name": "Oberbuchsiten",
+    "district": "Gäu",
+    "municipalMultiplier": 107,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 18,
+    "churchMultiplierCatholic": 20,
+    "churchMultiplierChristCatholic": 18
+  },
+  {
+    "bfsNumber": 2407,
+    "name": "Oensingen",
+    "district": "Gäu",
+    "municipalMultiplier": 116,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 14,
+    "churchMultiplierChristCatholic": 18
+  },
+  {
+    "bfsNumber": 2408,
+    "name": "Wolfwil",
+    "district": "Gäu",
+    "municipalMultiplier": 117,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 18,
+    "churchMultiplierCatholic": 19,
+    "churchMultiplierChristCatholic": 18
+  },
+  {
+    "bfsNumber": 2421,
+    "name": "Aedermannsdorf",
+    "district": "Thal",
+    "municipalMultiplier": 122,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 18,
+    "churchMultiplierCatholic": 24,
+    "churchMultiplierChristCatholic": 18
+  },
+  {
+    "bfsNumber": 2422,
+    "name": "Balsthal",
+    "district": "Thal",
+    "municipalMultiplier": 125,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 18,
+    "churchMultiplierCatholic": 18,
+    "churchMultiplierChristCatholic": 18
+  },
+  {
+    "bfsNumber": 2424,
+    "name": "Herbetswil",
+    "district": "Thal",
+    "municipalMultiplier": 129,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 18,
+    "churchMultiplierCatholic": 25,
+    "churchMultiplierChristCatholic": 18
+  },
+  {
+    "bfsNumber": 2425,
+    "name": "Holderbank (SO)",
+    "district": "Thal",
+    "municipalMultiplier": 132,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 18,
+    "churchMultiplierCatholic": 18,
+    "churchMultiplierChristCatholic": 18
+  },
+  {
+    "bfsNumber": 2426,
+    "name": "Laupersdorf",
+    "district": "Thal",
+    "municipalMultiplier": 126,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 18,
+    "churchMultiplierCatholic": 16,
+    "churchMultiplierChristCatholic": 18
+  },
+  {
+    "bfsNumber": 2427,
+    "name": "Matzendorf",
+    "district": "Thal",
+    "municipalMultiplier": 130,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 18,
+    "churchMultiplierCatholic": 20,
+    "churchMultiplierChristCatholic": 18
+  },
+  {
+    "bfsNumber": 2428,
+    "name": "Mümliswil-Ramiswil",
+    "district": "Thal",
+    "municipalMultiplier": 125,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 18,
+    "churchMultiplierCatholic": null,
+    "churchMultiplierChristCatholic": 18
+  },
+  {
+    "bfsNumber": 2430,
+    "name": "Welschenrohr-Gänsbrunnen",
+    "district": "Thal",
+    "municipalMultiplier": 124,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 18,
+    "churchMultiplierCatholic": 21,
+    "churchMultiplierChristCatholic": 18
+  },
+  {
+    "bfsNumber": 2445,
+    "name": "Biezwil",
+    "district": "Bucheggberg",
+    "municipalMultiplier": 125,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 16,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2455,
+    "name": "Lüterkofen-Ichertswil",
+    "district": "Bucheggberg",
+    "municipalMultiplier": 110,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 15,
+    "churchMultiplierCatholic": 16,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2457,
+    "name": "Messen",
+    "district": "Bucheggberg",
+    "municipalMultiplier": 113,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 16,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2461,
+    "name": "Schnottwil",
+    "district": "Bucheggberg",
+    "municipalMultiplier": 124,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 16,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2463,
+    "name": "Unterramsern",
+    "district": "Bucheggberg",
+    "municipalMultiplier": 110,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 15,
+    "churchMultiplierCatholic": 16,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2464,
+    "name": "Lüsslingen-Nennigkofen",
+    "district": "Bucheggberg",
+    "municipalMultiplier": 125,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 15,
+    "churchMultiplierCatholic": 16,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2465,
+    "name": "Buchegg",
+    "district": "Bucheggberg",
+    "municipalMultiplier": 110,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 15,
+    "churchMultiplierCatholic": 16,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2471,
+    "name": "Bättwil",
+    "district": "Dorneck",
+    "municipalMultiplier": 122,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 15,
+    "churchMultiplierCatholic": 15,
+    "churchMultiplierChristCatholic": null
+  },
+  {
+    "bfsNumber": 2472,
+    "name": "Büren (SO)",
+    "district": "Dorneck",
+    "municipalMultiplier": 125,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 11,
+    "churchMultiplierCatholic": 17,
+    "churchMultiplierChristCatholic": null
+  },
+  {
+    "bfsNumber": 2473,
+    "name": "Dornach",
+    "district": "Dorneck",
+    "municipalMultiplier": 88,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 15,
+    "churchMultiplierCatholic": 17,
+    "churchMultiplierChristCatholic": null
+  },
+  {
+    "bfsNumber": 2474,
+    "name": "Gempen",
+    "district": "Dorneck",
+    "municipalMultiplier": 117,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 15,
+    "churchMultiplierCatholic": 17,
+    "churchMultiplierChristCatholic": null
+  },
+  {
+    "bfsNumber": 2475,
+    "name": "Hochwald",
+    "district": "Dorneck",
+    "municipalMultiplier": 116,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 15,
+    "churchMultiplierCatholic": 17,
+    "churchMultiplierChristCatholic": null
+  },
+  {
+    "bfsNumber": 2476,
+    "name": "Hofstetten-Flüh",
+    "district": "Dorneck",
+    "municipalMultiplier": 113,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 15,
+    "churchMultiplierCatholic": 18,
+    "churchMultiplierChristCatholic": null
+  },
+  {
+    "bfsNumber": 2477,
+    "name": "Metzerlen-Mariastein",
+    "district": "Dorneck",
+    "municipalMultiplier": 129,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 15,
+    "churchMultiplierCatholic": 17,
+    "churchMultiplierChristCatholic": null
+  },
+  {
+    "bfsNumber": 2478,
+    "name": "Nuglar-St. Pantaleon",
+    "district": "Dorneck",
+    "municipalMultiplier": 131,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 11,
+    "churchMultiplierCatholic": 14,
+    "churchMultiplierChristCatholic": null
+  },
+  {
+    "bfsNumber": 2479,
+    "name": "Rodersdorf",
+    "district": "Dorneck",
+    "municipalMultiplier": 130,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 15,
+    "churchMultiplierCatholic": 15,
+    "churchMultiplierChristCatholic": null
+  },
+  {
+    "bfsNumber": 2480,
+    "name": "Seewen",
+    "district": "Dorneck",
+    "municipalMultiplier": 125,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 11,
+    "churchMultiplierCatholic": 15,
+    "churchMultiplierChristCatholic": null
+  },
+  {
+    "bfsNumber": 2481,
+    "name": "Witterswil",
+    "district": "Dorneck",
+    "municipalMultiplier": 110,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 15,
+    "churchMultiplierCatholic": 15,
+    "churchMultiplierChristCatholic": null
+  },
+  {
+    "bfsNumber": 2491,
+    "name": "Hauenstein-Ifenthal",
+    "district": "Gösgen",
+    "municipalMultiplier": 125,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 18,
+    "churchMultiplierCatholic": 18,
+    "churchMultiplierChristCatholic": 18
+  },
+  {
+    "bfsNumber": 2492,
+    "name": "Kienberg",
+    "district": "Gösgen",
+    "municipalMultiplier": 129,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 10,
+    "churchMultiplierCatholic": 21,
+    "churchMultiplierChristCatholic": 22
+  },
+  {
+    "bfsNumber": 2493,
+    "name": "Lostorf",
+    "district": "Gösgen",
+    "municipalMultiplier": 113,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 17,
+    "churchMultiplierCatholic": 18,
+    "churchMultiplierChristCatholic": 21
+  },
+  {
+    "bfsNumber": 2495,
+    "name": "Niedergösgen",
+    "district": "Gösgen",
+    "municipalMultiplier": 110,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 17,
+    "churchMultiplierCatholic": 19,
+    "churchMultiplierChristCatholic": 21
+  },
+  {
+    "bfsNumber": 2497,
+    "name": "Obergösgen",
+    "district": "Gösgen",
+    "municipalMultiplier": 122,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 17,
+    "churchMultiplierCatholic": 19,
+    "churchMultiplierChristCatholic": 21
+  },
+  {
+    "bfsNumber": 2499,
+    "name": "Stüsslingen",
+    "district": "Gösgen",
+    "municipalMultiplier": 125,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 17,
+    "churchMultiplierCatholic": 18,
+    "churchMultiplierChristCatholic": 21
+  },
+  {
+    "bfsNumber": 2500,
+    "name": "Trimbach",
+    "district": "Gösgen",
+    "municipalMultiplier": 140,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 18,
+    "churchMultiplierCatholic": 18,
+    "churchMultiplierChristCatholic": 18
+  },
+  {
+    "bfsNumber": 2501,
+    "name": "Winznau",
+    "district": "Gösgen",
+    "municipalMultiplier": 130,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 18,
+    "churchMultiplierCatholic": 21,
+    "churchMultiplierChristCatholic": 18
+  },
+  {
+    "bfsNumber": 2502,
+    "name": "Wisen (SO)",
+    "district": "Gösgen",
+    "municipalMultiplier": 122,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 18,
+    "churchMultiplierCatholic": 18,
+    "churchMultiplierChristCatholic": 18
+  },
+  {
+    "bfsNumber": 2503,
+    "name": "Erlinsbach (SO)",
+    "district": "Gösgen",
+    "municipalMultiplier": 110,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 16,
+    "churchMultiplierCatholic": 17,
+    "churchMultiplierChristCatholic": 21
+  },
+  {
+    "bfsNumber": 2511,
+    "name": "Aeschi (SO)",
+    "district": "Wasseramt",
+    "municipalMultiplier": 130,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 15,
+    "churchMultiplierCatholic": 15,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2513,
+    "name": "Biberist",
+    "district": "Wasseramt",
+    "municipalMultiplier": 125,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 15.5,
+    "churchMultiplierCatholic": 16,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2514,
+    "name": "Bolken",
+    "district": "Wasseramt",
+    "municipalMultiplier": 145,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 15,
+    "churchMultiplierCatholic": 15,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2516,
+    "name": "Deitingen",
+    "district": "Wasseramt",
+    "municipalMultiplier": 122,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 15,
+    "churchMultiplierCatholic": 18,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2517,
+    "name": "Derendingen",
+    "district": "Wasseramt",
+    "municipalMultiplier": 128,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 15,
+    "churchMultiplierCatholic": 18,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2518,
+    "name": "Etziken",
+    "district": "Wasseramt",
+    "municipalMultiplier": 130,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 15,
+    "churchMultiplierCatholic": 15,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2519,
+    "name": "Gerlafingen",
+    "district": "Wasseramt",
+    "municipalMultiplier": 125,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 15.5,
+    "churchMultiplierCatholic": 16,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2523,
+    "name": "Horriwil",
+    "district": "Wasseramt",
+    "municipalMultiplier": 120,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 15,
+    "churchMultiplierCatholic": 16,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2524,
+    "name": "Hüniken",
+    "district": "Wasseramt",
+    "municipalMultiplier": 125,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 15,
+    "churchMultiplierCatholic": 15,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2525,
+    "name": "Kriegstetten",
+    "district": "Wasseramt",
+    "municipalMultiplier": 119,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 15,
+    "churchMultiplierCatholic": 16,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2526,
+    "name": "Lohn-Ammannsegg",
+    "district": "Wasseramt",
+    "municipalMultiplier": 104,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 15.5,
+    "churchMultiplierCatholic": 16,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2527,
+    "name": "Luterbach",
+    "district": "Wasseramt",
+    "municipalMultiplier": 123,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 15,
+    "churchMultiplierCatholic": 19,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2528,
+    "name": "Obergerlafingen",
+    "district": "Wasseramt",
+    "municipalMultiplier": 117,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 15.5,
+    "churchMultiplierCatholic": 15,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2530,
+    "name": "Recherswil",
+    "district": "Wasseramt",
+    "municipalMultiplier": 120,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 15,
+    "churchMultiplierCatholic": 16,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2532,
+    "name": "Subingen",
+    "district": "Wasseramt",
+    "municipalMultiplier": 128,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 15,
+    "churchMultiplierCatholic": 20,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2534,
+    "name": "Zuchwil",
+    "district": "Wasseramt",
+    "municipalMultiplier": 118,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 15,
+    "churchMultiplierCatholic": 15,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2535,
+    "name": "Drei Höfe",
+    "district": "Wasseramt",
+    "municipalMultiplier": 122,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 15,
+    "churchMultiplierCatholic": 16,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2541,
+    "name": "Balm bei Günsberg",
+    "district": "Lebern",
+    "municipalMultiplier": 100,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 16,
+    "churchMultiplierCatholic": 18,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2542,
+    "name": "Bellach",
+    "district": "Lebern",
+    "municipalMultiplier": 125,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 16,
+    "churchMultiplierCatholic": 16,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2543,
+    "name": "Bettlach",
+    "district": "Lebern",
+    "municipalMultiplier": 99,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12.5,
+    "churchMultiplierCatholic": 17,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2544,
+    "name": "Feldbrunnen-St. Niklaus",
+    "district": "Lebern",
+    "municipalMultiplier": 68,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 16,
+    "churchMultiplierCatholic": 12,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2545,
+    "name": "Flumenthal",
+    "district": "Lebern",
+    "municipalMultiplier": 125,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 16,
+    "churchMultiplierCatholic": 18,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2546,
+    "name": "Grenchen",
+    "district": "Lebern",
+    "municipalMultiplier": 114.9,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12.5,
+    "churchMultiplierCatholic": 17,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2547,
+    "name": "Günsberg",
+    "district": "Lebern",
+    "municipalMultiplier": 120,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 16,
+    "churchMultiplierCatholic": 18,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2548,
+    "name": "Hubersdorf",
+    "district": "Lebern",
+    "municipalMultiplier": 127,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 16,
+    "churchMultiplierCatholic": 18,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2549,
+    "name": "Kammersrohr",
+    "district": "Lebern",
+    "municipalMultiplier": 65,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 16,
+    "churchMultiplierCatholic": 18,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2550,
+    "name": "Langendorf",
+    "district": "Lebern",
+    "municipalMultiplier": 119,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 16,
+    "churchMultiplierCatholic": 20,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2551,
+    "name": "Lommiswil",
+    "district": "Lebern",
+    "municipalMultiplier": 127,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 16,
+    "churchMultiplierCatholic": 20,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2553,
+    "name": "Oberdorf (SO)",
+    "district": "Lebern",
+    "municipalMultiplier": 120,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 16,
+    "churchMultiplierCatholic": 20,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2554,
+    "name": "Riedholz",
+    "district": "Lebern",
+    "municipalMultiplier": 115,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 16,
+    "churchMultiplierCatholic": 12,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2555,
+    "name": "Rüttenen",
+    "district": "Lebern",
+    "municipalMultiplier": 125,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 16,
+    "churchMultiplierCatholic": 12,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2556,
+    "name": "Selzach",
+    "district": "Lebern",
+    "municipalMultiplier": 108,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 16,
+    "churchMultiplierCatholic": 20,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2571,
+    "name": "Boningen",
+    "district": "Olten",
+    "municipalMultiplier": 125,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 18,
+    "churchMultiplierCatholic": 16,
+    "churchMultiplierChristCatholic": 18
+  },
+  {
+    "bfsNumber": 2572,
+    "name": "Däniken",
+    "district": "Olten",
+    "municipalMultiplier": 80,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 17,
+    "churchMultiplierCatholic": 17,
+    "churchMultiplierChristCatholic": 21
+  },
+  {
+    "bfsNumber": 2573,
+    "name": "Dulliken",
+    "district": "Olten",
+    "municipalMultiplier": 119,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 18,
+    "churchMultiplierCatholic": 18,
+    "churchMultiplierChristCatholic": 18
+  },
+  {
+    "bfsNumber": 2574,
+    "name": "Eppenberg-Wöschnau",
+    "district": "Olten",
+    "municipalMultiplier": 99,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 17,
+    "churchMultiplierCatholic": 18,
+    "churchMultiplierChristCatholic": 21
+  },
+  {
+    "bfsNumber": 2575,
+    "name": "Fulenbach",
+    "district": "Olten",
+    "municipalMultiplier": 110,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 17,
+    "churchMultiplierCatholic": 19,
+    "churchMultiplierChristCatholic": 18
+  },
+  {
+    "bfsNumber": 2576,
+    "name": "Gretzenbach",
+    "district": "Olten",
+    "municipalMultiplier": 118,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 17,
+    "churchMultiplierCatholic": 17,
+    "churchMultiplierChristCatholic": 21
+  },
+  {
+    "bfsNumber": 2578,
+    "name": "Gunzgen",
+    "district": "Olten",
+    "municipalMultiplier": 113,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 18,
+    "churchMultiplierCatholic": 18,
+    "churchMultiplierChristCatholic": 18
+  },
+  {
+    "bfsNumber": 2579,
+    "name": "Hägendorf",
+    "district": "Olten",
+    "municipalMultiplier": 111,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 18,
+    "churchMultiplierCatholic": 15,
+    "churchMultiplierChristCatholic": 18
+  },
+  {
+    "bfsNumber": 2580,
+    "name": "Kappel (SO)",
+    "district": "Olten",
+    "municipalMultiplier": 125,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 18,
+    "churchMultiplierCatholic": 16,
+    "churchMultiplierChristCatholic": 18
+  },
+  {
+    "bfsNumber": 2581,
+    "name": "Olten",
+    "district": "Olten",
+    "municipalMultiplier": 108,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 18,
+    "churchMultiplierCatholic": 18,
+    "churchMultiplierChristCatholic": 18
+  },
+  {
+    "bfsNumber": 2582,
+    "name": "Rickenbach (SO)",
+    "district": "Olten",
+    "municipalMultiplier": 105,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 18,
+    "churchMultiplierCatholic": 15,
+    "churchMultiplierChristCatholic": 18
+  },
+  {
+    "bfsNumber": 2583,
+    "name": "Schönenwerd",
+    "district": "Olten",
+    "municipalMultiplier": 115,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 17,
+    "churchMultiplierCatholic": 18,
+    "churchMultiplierChristCatholic": 21
+  },
+  {
+    "bfsNumber": 2584,
+    "name": "Starrkirch-Wil",
+    "district": "Olten",
+    "municipalMultiplier": 107,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 18,
+    "churchMultiplierCatholic": 18,
+    "churchMultiplierChristCatholic": 18
+  },
+  {
+    "bfsNumber": 2585,
+    "name": "Walterswil (SO)",
+    "district": "Olten",
+    "municipalMultiplier": 125,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 18,
+    "churchMultiplierCatholic": 22,
+    "churchMultiplierChristCatholic": 21
+  },
+  {
+    "bfsNumber": 2586,
+    "name": "Wangen bei Olten",
+    "district": "Olten",
+    "municipalMultiplier": 119,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 18,
+    "churchMultiplierCatholic": 18,
+    "churchMultiplierChristCatholic": 18
+  },
+  {
+    "bfsNumber": 2601,
+    "name": "Solothurn",
+    "district": "Solothurn",
+    "municipalMultiplier": 112,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 16,
+    "churchMultiplierCatholic": 21,
+    "churchMultiplierChristCatholic": 19
+  },
+  {
+    "bfsNumber": 2611,
+    "name": "Bärschwil",
+    "district": "Thierstein",
+    "municipalMultiplier": 125,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 16,
+    "churchMultiplierChristCatholic": null
+  },
+  {
+    "bfsNumber": 2612,
+    "name": "Beinwil (SO)",
+    "district": "Thierstein",
+    "municipalMultiplier": 125,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 16,
+    "churchMultiplierChristCatholic": null
+  },
+  {
+    "bfsNumber": 2613,
+    "name": "Breitenbach",
+    "district": "Thierstein",
+    "municipalMultiplier": 113,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 18,
+    "churchMultiplierChristCatholic": null
+  },
+  {
+    "bfsNumber": 2614,
+    "name": "Büsserach",
+    "district": "Thierstein",
+    "municipalMultiplier": 111,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 15,
+    "churchMultiplierChristCatholic": null
+  },
+  {
+    "bfsNumber": 2615,
+    "name": "Erschwil",
+    "district": "Thierstein",
+    "municipalMultiplier": 128,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 18,
+    "churchMultiplierChristCatholic": null
+  },
+  {
+    "bfsNumber": 2616,
+    "name": "Fehren",
+    "district": "Thierstein",
+    "municipalMultiplier": 130,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 18,
+    "churchMultiplierChristCatholic": null
+  },
+  {
+    "bfsNumber": 2617,
+    "name": "Grindel",
+    "district": "Thierstein",
+    "municipalMultiplier": 130,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 18,
+    "churchMultiplierChristCatholic": null
+  },
+  {
+    "bfsNumber": 2618,
+    "name": "Himmelried",
+    "district": "Thierstein",
+    "municipalMultiplier": 124,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 21,
+    "churchMultiplierChristCatholic": null
+  },
+  {
+    "bfsNumber": 2619,
+    "name": "Kleinlützel",
+    "district": "Thierstein",
+    "municipalMultiplier": 126,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 8,
+    "churchMultiplierCatholic": 16,
+    "churchMultiplierChristCatholic": null
+  },
+  {
+    "bfsNumber": 2620,
+    "name": "Meltingen",
+    "district": "Thierstein",
+    "municipalMultiplier": 123,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 18,
+    "churchMultiplierChristCatholic": null
+  },
+  {
+    "bfsNumber": 2621,
+    "name": "Nunningen",
+    "district": "Thierstein",
+    "municipalMultiplier": 120,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 15,
+    "churchMultiplierChristCatholic": null
+  },
+  {
+    "bfsNumber": 2622,
+    "name": "Zullwil",
+    "district": "Thierstein",
+    "municipalMultiplier": 139,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 15,
+    "churchMultiplierChristCatholic": null
+  }
+]

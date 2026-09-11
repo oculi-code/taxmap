@@ -1,0 +1,2234 @@
+Finanzen und Gesundheit
+Steuerverwaltung
+Hauptstrasse 11
+8750 Glarus
+
+
+
+
+Wegleitung
+zur Steuererklärung 2025
+für natürliche Personen
+des Kantons Glarus
+Kantons- und Gemeindesteuern
+Direkte Bundessteuer
+
+
+
+
+  Kantonale Steuerverwaltung Glarus
+  gl.ch/steuern · steuerverwaltung@gl.ch
+  Telefon 055 646 61 50
+Inhaltsverzeichnis
+                                                                                                   Seite
+Inhaltsverzeichnis                                                                         Seite
+Allgemeine Hinweise                                                                                     3
+Allgemeine Hinweise                                                                           3
+Tipps zum Ausfüllen                                                                                     4
+Tipps zum Ausfüllen                                                                           4
+Steuerdeklaration mittels webbasierter Steuererklärung – eTax.GL                                        5
+Steuerdeklaration mittels webbasierter Steuererklärung – eTax.GL                              5
+Vertretung, Personalien und Familienverhältnisse                                                        6
+Vertretung, Personalien und Familienverhältnisse                                              6
+Einkünfte im In- und Ausland                                                                            6
+Einkünfte im In- und Ausland                                                                  6
+Abzüge vom Einkommen                                                                                  15
+Abzüge
+VermögenvomimEinkommen
+              In- und Ausland                                                                15       25
+Vermögen  im In-
+Schenkungen   undund Ausland Vermögensanfälle
+                   erbrechtliche                                                             25       27
+Schenkungen   und erbrechtliche
+Erhaltene Ausschüttungen        Vermögensanfälle
+                           aus Kapitaleinlagereserven                                        27       27
+Erhaltene  Ausschüttungen
+Kapitalleistungen  im Jahreaus Kapitaleinlagereserven
+                            2025                                                             27       28
+Kapitalleistungen im Jahre 2025
+Straffolgen bei Widerhandlungen                                                              28       30
+Straffolgen
+Steuerbezugbei Widerhandlungen                                                               30       30
+Steuerbezug
+Steuerpflichten «einfach» erklärt                                                            30       31
+Berechnung   der«einfach»
+Steuerpflichten           erklärt
+                Kantons- und   Gemeindesteuern                                               31       34
+Berechnung der und
+               Kantons- und
+Feuerwehrpflicht            Gemeindesteuern
+                    Feuerwehrersatzabgabe                                                    34       35
+Feuerwehrpflicht
+Gemeinde- und und   Feuerwehrersatzabgabe
+               Kirchensteuer 2025                                                            35       35
+Gemeinde-
+Berechnungund Kirchensteuern
+           der Direkten      2025
+                        Bundessteuer                                                         35       36
+Berechnung der Direkten Bundessteuer                                                         36
+
+Wichtige Änderungen gegenüber dem Vorjahr
+
+Der Ausgleich der kalten Progression führt zu Anpassungen über alle Tarifstufen. In ungetrennter Ehe
+lebende Steuerpflichtige sowie getrenntlebende, geschiedene, verwitwete und ledige Steuerpflichtige mit
+Kindern zahlen neu Steuern ab einem steuerbaren Einkommen von 17'700 Franken (bisher CHF 17'600).
+Der Höchstsatz wird neu ab einem steuerbaren Einkommen von 788’700 Franken erreicht (bisher
+CHF 778'500).
+
+Die kalte Progression wird auch bei der Vermögenssteuer der natürlichen Personen ausgeglichen. Die
+Sozialabzüge werden entsprechend dem Prozentsatz der Teuerung um 1,31 Prozent erhöht. Diese betra-
+gen neu bei den Alleinstehenden 77'300 Franken (bisher CHF 76'300), bei den Verheirateten
+154'600 Franken (bisher CHF 152'600) und pro Kind 25'800 Franken (bisher CHF 25'400).
+
+Die Besteuerung der Leibrenten in der Säule 3b wird den Anlagebedingungen flexibel angepasst.
+Der Bundesrat hat beschlossen, dass das Bundesgesetz über die Besteuerung von Leib-
+renten und ähnlichen Vorsorgeformen per 1. Januar 2025 in Kraft gesetzt wird.
+
+Der Bundesrat hat per 1. Januar 2025 nachträgliche Einkaufsmöglichkeiten in die Säule 3a in Kraft ge-
+setzt. Zusätzlich zum ordentlichen Beitrag ist pro Jahr ein Einkauf in die Säule 3a in Höhe des sogenann-
+ten «kleinen Beitrages» zulässig (2025 beispielsweise maximal CHF 7'258). Ein solcher Einkauf wird also
+erstmals im Steuerjahr 2026 möglich sein.
+Allgemeine Hinweise
+
+Sehr geehrte Damen und Herren
+
+Die Einkommens- und Vermögenssteuern des Kantons, der Gemeinden und des Bundes werden aufgrund des Einkommens
+2025 bzw. des Vermögens per 31. Dezember 2025 (allenfalls am Ende der Steuerpflicht) bemessen. Steuerveranlagungen nach
+diesem System können zwangsläufig erst nach Ablauf des Kalenderjahres bzw. nach Beendigung der Steuerpflicht endgültig
+vorgenommen werden, weil erst dann alle notwendigen Einkommens- und Vermögensbestandteile bekannt sind. Dies hat zur
+Folge, dass die Steuerpflichtigen in der jeweiligen Steuerperiode zuerst eine provisorische Steuerrechnung erhalten.
+In diesem Jahr ist die Steuererklärung 2025 samt Hilfsblättern auszufüllen und bis zum aufgedruckten Datum einzureichen.
+Gestützt auf diese Steuererklärung wird die Steuerperiode 2025 definitiv veranlagt und die provisorische Steuerrechnung mit der
+definitiven Abrechnung ersetzt.
+
+Ehegatten in ungetrennter Ehe werden für ihr Einkommen und Vermögen gemeinsam besteuert, und zwar ohne Rücksicht auf
+den Güterstand. Sie üben die Verfahrensrechte und Verfahrenspflichten gemeinsam aus und haben beide die Steuererklärung
+persönlich zu unterschreiben. Bei elektronischer Einreichung entfällt eine physische Unterschrift.
+
+Jugendliche Steuerpflichtige werden für ihr gesamtes Einkommen und Vermögen erstmals in dem Jahr selbständig und für
+das ganze Jahr veranlagt, in dem sie das 18. Altersjahr erreichen. Sofern deren voraussichtliches steuerbares Einkommen über
+CHF 10‘300 und das Vermögen über CHF 77‘300 liegt, können die Jugendlichen den Fragebogen für 18-jährige zur erstmali-
+gen Erfassung der steuerbaren Faktoren ausfüllen. Der Fragebogen kann im Internet, unter gl.ch/online-schalter (via Finanzen
+und Gesundheit > Steuerverwaltung > Formulare, Gesuche, Anträge) zur erstmaligen Erfassung der steuerbaren Faktoren,
+heruntergeladen und der Kantonalen Steuerverwaltung per Email oder auf dem Postweg zugestellt werden.
+
+Auf dem adressierten Steuererklärungsformular ist oberhalb der Adresse Ihre persönliche PID-Nummer angegeben. Diese ist
+bei jeder Rückfrage oder mit jedem Schreiben an die Steuerverwaltung anzugeben.
+
+Eingetragene Partnerschaften gleichgeschlechtlicher Paare sind den Ehepaaren gleichgestellt.
+
+Zivilstandsänderungen / Wohnsitzwechsel im Jahr 2025
+
+   Bei Heirat werden die Ehegatten / Partner/innen für die ganze Steuerperiode gemeinsam als Verheiratete besteuert; bei
+    Scheidung, Auflösung der Partnerschaft, gerichtlicher oder tatsächlicher Trennung erfolgt die Besteuerung für die
+    ganze Periode getrennt nach den Vorschriften über alleinstehende Personen. Massgebend sind die Verhältnisse am
+    31. Dezember 2025 bzw. am Ende der Steuerpflicht.
+   Bei Umzügen innerhalb des Kantons Glarus ist für die Besteuerung des ganzen Jahres der Wohnsitz am
+    31. Dezember 2025 massgebend.
+   Bei Wegzug in einen anderen Kanton endet die Steuerpflicht im Kanton Glarus am Ende der vorangegangenen Steuer-
+    periode.
+   Bei Wohnsitzverlegung ins Ausland endet die Steuerpflicht mit der Abmeldung. Für den Zeitraum vom 1. Januar bis zum
+    Wegzugsdatum muss deshalb noch eine Steuererklärung eingereicht werden, damit für diese Zeit eine unterjährige Veran-
+    lagung vorgenommen werden kann.
+   Zuzüger/innen im Jahr 2025 aus einem anderen Kanton sind für die ganze Steuerperiode im Kanton Glarus steuer-
+    pflichtig.
+   Bei Zuzug aus dem Ausland beginnt die Steuerpflicht mit dem Zuzugsdatum (unterjährige Veranlagung).
+
+Diese Regelungen gelten für die Kantons- und Gemeindesteuern wie auch für die Direkte Bundessteuer.
+
+
+Sämtliche personenbezogenen Änderungen betreffend Adressen, Adresszusätzen, Namen, Zivilstand, Konfession etc.
+können nur durch das zuständige Einwohneramt angepasst werden. Auch aktuelle oder künftige Änderungen sind
+ausschliesslich dem Einwohneramt der Wohnsitzgemeinde zu melden.
+
+
+
+
+                                                                                                                             3
+    Tipps zum Ausfüllen
+
+    Diese Wegleitung soll Ihnen das Ausfüllen der Steuererklärung erleichtern. Die Steuerverwaltung ist Ihnen dankbar, wenn Sie
+    dabei die für Sie in Betracht kommenden Abschnitte dieser Wegleitung beachten und die Steuererklärung sorgfältig und voll-
+    ständig ausfüllen. Sie ersparen sich dadurch Umtriebe durch Rückfragen und tragen so zu einer Beschleunigung des Veranla-
+    gungsverfahrens bei. Zweckmässig ist es, sich vorweg die Unterlagen zu beschaffen, die für die Erstellung der Steuererklärung
+    benötigt werden. Es handelt sich vor allem um:
+
+            Lohnausweis/e des oder der Arbeitgeber/s/innen (auch bei Nebenbeschäftigungen)
+            Bescheinigung der AHV über die abgelieferten Steuern (Bundesgesetz über die Bekämpfung der Schwarzarbeit)
+            Bestätigungen über Ersatzeinkommen (Taggelder der Kranken- oder Arbeitslosenkasse, Mutterschaftsentschädigung
+             etc.) und Kinderzulagenauszahlungen bei selbständiger Erwerbstätigkeit
+            Rentenausweise oder Postabschnitte über Renten
+            Sparhefte, Kontoauszüge, Bank- und Postkontoausweise, aus denen die Bruttozinsen, die abgezogene Verrechnungs-
+             steuer und der Kontostand ersichtlich sind
+            Gutschriftsanzeigen von Banken über die Erträge von Wertpapieren
+            Wertschriftenverzeichnisse der Depotbanken
+            Unterlagen über in- und ausländische Gewinne aus Lotterien und Geschicklichkeitsspiele zur Verkaufsförderung
+            Belege über Schuldzinsen, Liegenschaftsunterhalt und Einspeisevergütungen
+            Bescheinigungen über Beiträge an Vorsorgeeinrichtungen (2. Säule und Säule 3a)
+            Belege über Auslagen für Krankheit und Unfall, behinderungsbedingte Kosten, Zuwendungen, Aus- und Weiterbil-
+             dungskosten, Kinderdrittbetreuung usw.
+            Jahresrechnung (Bilanz und Erfolgsrechnung) bei selbständiger Erwerbstätigkeit
+
+    Liegen die Unterlagen bereit, kann mit dem Einstieg ins eTax Web des Kantons Glarus begonnen werden. Wenn die Steuerer-
+    klärung in Papierform ausgefüllt wird, empfiehlt es sich, zunächst die Hilfsblätter zur Steuererklärung auszufüllen und erst
+    danach deren Ergebnisse in die Steuererklärung zu übertragen. Die Hilfsblätter sind nummeriert. Diejenigen, die jeder Steuer-
+    erklärung beigelegt sind, tragen die folgenden Nummern:
+
+            Formular 2         Wertschriften- und Guthabenverzeichnis mit Verrechnungssteuerantrag
+            Formular 4         Versicherungsbeiträge und Sparzinsen
+            Formular 5         Berufsauslagen
+            Formular 6         Hilfsblatt Liegenschaften
+            Formular 7         Schuldenverzeichnis
+            Formular 8         Zuwendungen an politische Parteien / Freiwillige Zuwendungen
+            Formular 9         Krankheits- und Unfallkosten / behinderungsbedingte Kosten
+
+    Sofern Sie die Formulare handschriftlich ausfüllen möchten, können die physischen Steuererklärungsformulare bei der Kantona-
+    len Steuerverwaltung bezogen werden, wobei das beschriftete Hauptformular sowie je ein Exemplar der ausgefüllten Beiblätter
+    zu retournieren sind. Nicht benötigte, leere Formulare dagegen müssen nicht zurückgesandt werden.
+    Falls weitere Hauptformulare, Beiblätter oder Zusatzformulare benötigt werden, wenden Sie sich bitte an die Kantonale
+    Steuerverwaltung, Hauptstrasse 11, 8750 Glarus (Tel. 055 / 646 61 50; E-mail steuerverwaltung@gl.ch).
+
+    Die von Hand ausgefüllten Formulare sind vollständig und auf Seite 4 des Hauptformulars unterzeichnet im beiliegenden Rück-
+    antwortcouvert der Kantonalen Steuerverwaltung fristgerecht zu retournieren.
+
+    Die Beträge auf allen Formularen sind nur in ganzen Franken einzusetzen.
+
+    Steuerpflichtige mit Wohnsitz in einem anderen Kanton, die im Kanton Glarus aufgrund von Liegenschaftsbesitz oder Ge-
+    schäftsort steuerpflichtig sind, können auf das Ausfüllen der glarnerischen Steuererklärung verzichten, wenn als Ersatz eine
+    Kopie der vollständigen Steuerdeklaration 2025 (inkl. Hilfsformulare) des Wohnsitzkantons und des von uns erhaltenen Beiblat-
+    tes eingereicht wird; dies kann auch webbasiert via eTax.gl.ch passieren. Auf die generelle Zustellung des gesamten Formu-
+    larblocks wird deshalb verzichtet. Zusätzlich benötigte Formulare können bei der Kantonalen Steuerverwaltung, Hauptstrasse 11,
+    8750 Glarus (Tel. 055 / 646 61 50; Email steuerverwaltung@gl.ch) angefordert werden.
+
+
+
+
+4
+Einreichung mittels webbasierter Steuererklärung – eTax.GL
+Für die Steuerperiode 2025 kann die Steuererklärung vollständig digital ausgefüllt werden und zusammen mit den notwendigen
+Beilagen ohne Unterschrift elektronisch übermittelt werden. Die Online-Steuererklärung finden Sie über folgenden Link:
+
+eTax.gl.ch
+
+Die Einreichung mittels Nutzung der Online-Steuererklärung bringt folgende Vorteile für Sie:
+
+    Einfache und sichere Registrierung mittels Zwei-Faktoren-Authentisierung
+    Jederzeit und überall verfügbar mit allen gängigen elektronischen Hilfsmitteln
+    Keine lokale Installation auf dem eigenen PC
+    Unterschriftfreie Einreichung
+    Elektronische Übermittlung sämtlicher Beilagen
+    App-Lösung (SNAP.SHARE) zur Digitalisierung der erforderlichen Belege
+    Verschlüsselte Übermittlung und Speicherung
+    Hohe Datenqualität, was weniger Rückfragen mit sich bringt
+    Keine Druck- und Portokosten
+
+Internet
+
+    Weitere Informationen zu Gesetzen und Verordnungen finden Sie unter:
+     gesetze.gl.ch
+    Wegleitungen, Formulare, Weisungen und Merkblätter finden Sie unter:
+     gl.ch/online-schalter
+
+    Angaben zur webbasierten Einreichung siehe oben.
+    Fristverlängerungen können bis 31. Dezember 2026 direkt via Internet eingeholt werden unter:
+     gl.ch/steuerfristen
+
+
+
+Wir sind Ihnen dankbar, wenn Sie bei Papiereinreichung folgendes beachten:
+
+          Es werden keine Originalbelege retourniert (wo nötig, sind Kopien einzureichen)
+          Keine Heft-Klammern verwenden
+          Geschäftsabschlüsse bitte nicht binden
+
+Dies erleichtert uns die Arbeit des Einscannens der Formulare und Unterlagen enorm.
+
+
+
+Wir danken Ihnen für Ihre wertvolle Mitarbeit und stehen für allfällige weitere Auskünfte gerne zu Ihrer Verfügung.
+
+
+Freundliche Grüsse
+
+Kantonale Steuerverwaltung
+
+
+
+
+                                                                                                                        5
+    Vertretung, Personalien und Familienverhältnisse
+
+    (Seite 1 der Steuererklärung)
+
+    Die Vertretung der Steuerpflichtigen im Veranlagungsverfahren ist zulässig. Der/Die Vertreter/in hat sich durch eine schriftli-
+    che Vollmacht auszuweisen. Als schriftliche Vollmacht gilt die entsprechende Angabe eines Vertreters oder einer Vertreterin auf
+    der Vorderseite der Steuererklärung zusammen mit einer rechtsgültigen Unterschrift auf Seite 4 der Steuererklärung. Bei elekt-
+    ronischer Einreichung entfällt die physische Unterschrift. Liegt eine vollständige und gültige Vollmacht vor, wird die Korrespon-
+    denz und namentlich die Steuerveranlagungen und Rechnungen der Vertretung zugestellt.
+
+    Für die Personalien, Berufs- und Familienverhältnisse sind die Verhältnisse am 31. Dezember 2025 bzw. am Ende der
+    Steuerpflicht massgebend. Ebenfalls sind die neuen AHV-Nummern einzutragen.
+
+    Werden Kinder- oder Unterstützungsabzüge geltend gemacht, sind die verlangten Angaben vollständig vorzunehmen. Nach
+    diesen Angaben richten sich die entsprechenden Sozialabzüge sowie der Steuertarif.
+
+    Einkünfte im In- und Ausland
+
+    (Seite 2 der Steuererklärung)
+
+    Vorbemerkungen
+
+    Der Einkommenssteuer unterliegen alle wiederkehrenden und einmaligen in- und ausländischen Einkünfte aus Erwerbstätig-
+    keit, Sozial- und anderen Versicherungen, beweglichem und unbeweglichem Vermögen und weiteren Einkommensquellen.
+    Das Einkommen unmündiger Kinder wird dem/der Inhaber/in der elterlichen Sorge zugerechnet, ausgenommen das Erwerbsein-
+    kommen und das an dessen Stelle tretende Ersatzeinkommen (z.B. eigene Suva-Renten, Invalidenrenten, Taggelder aus Versi-
+    cherungen), das beim unmündigen Kind ohne Altersbegrenzung selbst steuerpflichtig ist.
+
+    Zuzüger/innen im Jahr 2025 aus einem anderen Kanton, sind für die ganze Steuerperiode in Bezug auf die Kantons- und
+    Gemeindesteuern wie auch die Direkte Bundessteuer im Kanton Glarus steuerpflichtig. In der Steuererklärung 2025 ist somit das
+    gesamte im Jahr 2025 erzielte Einkommen zu deklarieren.
+
+    Bei Zuzug aus dem Ausland beginnt die Steuerpflicht für die Kantons- und Gemeindesteuern wie auch die Direkte Bundes-
+    steuer im Kanton Glarus mit dem Zuzugsdatum. In der Steuererklärung ist das ab dem Zuzugsdatum bis zum Ende der Steu-
+    erperiode erzielte Einkommen zu deklarieren (unterjährige Veranlagung).
+
+    Eine unterjährige Steuerperiode ergibt sich ausserdem bei Tod. Bis zum Tod einer verheirateten / in Partnerschaft leben-
+    den Person unterliegen die Ehegatten / Partner/innen der gemeinsamen Veranlagung zum Steuertarif für Verheiratete. Nachher
+    tritt der überlebende Ehegatte bzw. die überlebende Ehegattin / der überlebende Partner oder die überlebende Partnerin
+    neu in die Steuerpflicht ein und wird zum Tarif für Alleinstehende besteuert. Für beide Zeitabschnitte hat der überlebende Ehe-
+    gatte bzw. die überlebende Ehegattin / der überlebende Partner oder die überlebende Partnerin in verschiedenen Steuererklä-
+    rungen das Einkommen anzugeben, wie es in der entsprechenden Steuerperiode tatsächlich zugeflossen bzw. fällig geworden
+    ist.
+
+    In allen Fällen mit unterjähriger Steuerperiode müssen die regelmässig fliessenden Einkünfte für die Bestimmung des mass-
+    geblichen Steuersatzes von Amtes wegen auf zwölf Monate umgerechnet werden. Damit wird gewährleistet, dass Steuerpflichti-
+    ge, die nicht während der ganzen Dauer der Steuerperiode der Steuerpflicht im Kanton unterliegen, zum gleichen Satz besteuert
+    werden, wie wenn sie während der ganzen Periode steuerpflichtig wären.
+    Als regelmässig fliessende Positionen gelten das laufende Erwerbseinkommen aus unselbständiger und selbständiger Er-
+    werbstätigkeit, damit zusammenhängende Ersatzeinkünfte, in regelmässigen Abständen fliessende Renten aller Art oder der
+    Liegenschaftsertrag aus Vermietung oder Eigennutzung, etc. Ebenfalls als regelmässig gelten Aktiv- und Passivzinsen, wenn die
+    während der Dauer der Steuerpflicht fällig gewordenen Zinsen weniger als ein Jahr abdecken, es sich also um Monats-, Quar-
+    tals-, Trimester- oder Semesterzins handelt. Die Umrechnungen erfolgen nach der Dauer der Steuerpflicht, wobei der Jahresbe-
+    trag bei den einzelnen Positionen nicht überschritten werden darf.
+
+    Nicht regelmässig, d.h. während der Steuerperiode nur einmal fliessende Einkünfte wie Kapitalabfindungen für wiederkehrende
+    Leistungen, Treueprämien, Jahresgratifikationen, Liquidationsgewinne, Dividenden, Jahrescoupons von Obligationen und Jah-
+    reszinsen werden dagegen nicht umgerechnet.
+
+
+
+
+6
+    Beispiel einer unterjährigen Steuerpflicht:
+
+    Zuzug des/der Steuerpflichtigen per 1. März 2025 aus dem Ausland und Aufnahme der unselbständigen Erwerbstätigkeit
+    am 1. Juni 2025:
+                                                                          steuerbar           satzbestimmend
+                                                                            CHF                     CHF
+    Lohn 1.6. – 31.12.                                                     26'600                   31’920
+    Wertschriftenertrag (fällig am 28.2.)                                        --                      --
+    Wertschriftenertrag (fällig am 30.9.)                                      300                     300
+    Bonus (Dezember)                                                         1'000                   1’000
+    Einkommen                                                              27'900                   33’220
+
+    Erläuterung:
+
+    Das nach dem Zuzug und damit während 10 Monaten erzielte Erwerbseinkommen stellt regelmässig fliessendes Einkommen dar
+    und ist für die Satzbestimmung auf zwölf Monate umzurechnen (CHF 26'600 : 10 x 12 = CHF 31’920). Der am
+    28. Februar 2025 fällige Wertschriftenertrag wurde nicht während der Dauer der Steuerpflicht im Kanton erzielt und fällt daher
+    aus der Berechnung. Der am 30. September 2025 fällige Wertschriftenertrag und der im Dezember ausbezahlte einmalige Bonus
+    fallen unter die hiesige Steuerpflicht, wären bei ganzjähriger Steuerpflicht aber nicht höher ausgefallen. Deshalb sind sie für die
+    Ermittlung des Steuersatzes nicht umzurechnen, sondern wie effektiv zugeflossen zu berücksichtigen.
+    Die Umrechnungen bei den einzelnen Einkommens- und Abzugspositionen für die Satzbestimmung werden von der Kantonalen
+    Steuerverwaltung im Veranlagungsverfahren von Amtes wegen vorgenommen.
+
+    Eine Steuerpflicht aufgrund wirtschaftlicher Zugehörigkeit bei ausserkantonalem Wohnsitz und Geschäftsbetrieben, Betriebs-
+    stätten oder Grundstücken im Kanton Glarus besteht für die gesamte Steuerperiode, auch wenn sie im Laufe des Jahres be-
+    gründet, verändert oder aufgehoben wird. In diesem Falle wird das Einkommen nach geltender Ausscheidungspraxis auf die
+    entsprechenden Kantone aufgeteilt und die Vermögenswerte im Verhältnis zur Dauer dieser Zugehörigkeit gewichtet.
+
+1   Einkünfte aus unselbständiger Erwerbstätigkeit
+
+    Als Einkommen aus unselbständiger Tätigkeit sind alle im Zusammenhang mit dem Arbeitsverhältnis empfangenen Leistungen
+    zu versteuern ohne Rücksicht auf deren Bezeichnung und die Form der Ausrichtung. Steuerbar sind insbesondere auch:
+
+              freiwillige Trinkgelder, auch wenn sie nicht im Lohnausweis aufgeführt sind;
+              als Spesenvergütung bezeichnete Lohnnebenleistungen, denen keine entsprechenden Ausgaben gegenüberste-
+               hen. Bei Pauschalspesen ohne Spesenreglement liegt die Beweispflicht für die geschäftsnotwendige Verwendung
+               dieser Zahlungen beim/bei der Arbeitnehmer/in.
+               Für Aussendienstangestellte mit Pauschalspesen besteht ein spezielles Berechnungsblatt;
+              private Fahrten mit dem Geschäftsauto. Falls diese Kosten vom Arbeitgeber bzw. von der Arbeitgeberin nicht
+               verrechnet werden, ist auf dem Lohnausweis (Ziff. 2.2) pro Monat eine Aufrechnung von 0.9% vom Kaufpreis exkl.
+               Mehrwertsteuer, mindestens jedoch CHF 150, als Privatanteil vorzunehmen;
+              Naturalbezüge. Sie sind mit dem Betrag einzusetzen, den der/die Steuerpflichtige dafür zu bezahlen hätte. Der Wert
+               für volle Verpflegung und Unterkunft beträgt in der Regel CHF 11'880 im Jahr. Kommt der Arbeitgeber oder die Ar-
+               beitgeberin auch für Kleider, Wäsche und Schuhe sowie für deren Unterhalt und Reinigung auf, sind zusätzlich
+               CHF 960 im Jahr anzurechnen. Wurde nicht die volle Verpflegung und Unterkunft gewährt, sind die Ansätze ange-
+               messen zu kürzen. Detaillierte Angaben dazu sind dem Merkblatt N2/2007 zu entnehmen;
+              vom Arbeitgeber bzw. von der Arbeitgeberin direkt bezahlte Beiträge wie z.B. Lebenshaltungs- oder Ausbildungs-
+               kosten.
+
+    Steuerfrei und nicht zu deklarieren sind Soldzahlungen für Militär- und Zivilschutzdienst. Ebenso steuerfrei ist der Sold der
+    Milizfeuerwehrleute bis CHF 5‘300 für Dienstleistungen im Zusammenhang mit der Erfüllung der Kernaufgaben der Feuerwehr.
+
+    Nur für Kontrollzwecke zu deklarieren ist das durch die AHV mit dem vereinfachten Verfahren abgerechnete Nebenerwerbs-
+    einkommen (siehe dazu Ziffer 1.3).
+
+    1.1        Aus Haupterwerbstätigkeit
+               In die Steuererklärung ist der Nettolohn gemäss Lohnausweis einzusetzen. Zum steuerbaren Erwerbseinkommen
+               gehören insbesondere auch sämtliche Entschädigungen und Zulagen, wie beispielsweise Entgelt für Überzeit-,
+               Schicht- und Sonntagsarbeit, Teuerungs-, Ferien- und Kinderzulagen, Dienstaltersgeschenke, Jubiläumszuwendun-
+               gen, Besoldungsnachgenuss, Mutterschaftsentschädigungen usw.
+
+
+                                                                                                                                     7
+        1.2        Aus Nebenerwerbstätigkeit
+                   Zu deklarieren ist sämtliches Einkommen aus einer unselbständigen Nebenerwerbstätigkeit. Darunter fallen bei-
+                   spielsweise Vergütungen für Tätigkeit in Behörden (z.B. Sporteln), für journalistische, künstlerische, literarische, wis-
+                   senschaftliche oder sportliche Tätigkeit, Leitung von Vereinen, handwerkliche Arbeiten, Hauswart- und Reinigungs-
+                   arbeiten. Bestand die Arbeitsentschädigung ganz oder teilweise in einer Mietzinsreduktion (z.B. Liegenschaftsverwal-
+                   ter, Hauswart), ist die Differenz zwischen normalem und reduziertem Mietzins als Einkommen zu deklarieren. Zu de-
+                   klarieren sind auch aus Nebenbeschäftigungen fliessende Entschädigungen für Dienstleistungen jeder Art, aus Li-
+                   zenzen, Patent- und Urheberrechten, Mitarbeiterbeteiligungen sowie Trink-, Sitzungs- und Taggelder, Verwaltungs-
+                   ratshonorare, Tantiemen und dergleichen.
+                   Die unselbständigen Nebenerwerbseinkünfte sind mit Lohnausweis, Zahlungsbelegen usw. nachzuweisen. Bei meh-
+                   reren Einkommen ist zudem eine detaillierte Aufstellung über die einzelnen Beträge beizulegen.
+                   Ein Nebenerwerbseinkommen setzt einen Haupterwerb voraus. Liegt kein Haupterwerb vor und beträgt das jährliche
+                   Einkommen mehr als CHF 6'000, so gilt dies als Teilzeitbeschäftigung und ist im Haupterwerb (Ziff. 1.1) einzutragen.
+
+        1.3        Vereinfachtes Abrechnungsverfahren von Nebenerwerbseinkommen
+                   Das direkt mit der AHV abgerechnete Nebenerwerbseinkommen ist in der Vorkolonne (Ziffer 106) der Steuererklä-
+                   rung einzutragen. Diese Angaben sind für Kontrollzwecke und statistische Auswertungen bestimmt und werden nicht
+                   in die Steuerberechnung miteinbezogen. Die Abrechnungen der AHV sind der Steuererklärung beizulegen.
+
+2       Einkünfte aus selbständiger Erwerbstätigkeit
+
+        Steuerpflichtige, die eine selbständige Erwerbstätigkeit in Handel, Gewerbe, Industrie, in einem freien Beruf, in Land-
+        oder Forstwirtschaft ausüben, haben Urkunden und andere Belege, die mit ihrer Tätigkeit in Zusammenhang stehen (Verträ-
+        ge aller Art, wichtige Korrespondenz, Einkaufsfakturen, Doppel ausgestellter Rechnungen, Bankauszüge, Postcheckbelege,
+        Quittungen aller Art, Kassastreifen, Buchungsbelege usw.), während zehn Jahren, bei hängigen Verfahren während weiterer fünf
+        Jahre aufzubewahren (Aufbewahrungspflicht). Ferner sind die Einnahmen und Ausgaben, das Vermögen und die Schulden
+        sowie die Privatentnahmen und Privateinlagen vollständig aufzuzeichnen (Aufzeichnungspflicht). Die Mindestanforderungen
+        an diese Aufzeichnungen sind: Lückenlose und fortlaufende, regelmässig abgeschlossene Aufschriebe über Einnahmen und
+        Ausgaben (Kassa- und Postcheckbuch); vollständige Aufstellungen über Warenvorräte (Inventare), Geschäftseinrichtungen,
+        ausstehende Kundenguthaben (Debitoren), sonstige Guthaben (Bank, Postcheck usw.) und sämtliche Schulden auf Ende jedes
+        Geschäftsjahres. Nähere Angaben zu diesen Mindestanforderungen können dem Merkblatt der Eidgenössischen Steuerverwal-
+        tung betreffend Aufbewahrungs- und Aufzeichnungspflicht vom Januar 1980 entnommen werden, welches bei Bedarf bei der
+        Kantonalen Steuerverwaltung bezogen werden kann. Wer nach den Regeln der kaufmännischen Buchführung ordnungsgemäss
+        Geschäftsbücher führt, erfüllt damit die steuergesetzliche Aufzeichnungspflicht ohne weiteres.
+        Festsetzung der Beiträge an AHV/IV/EO
+        Das bei der Veranlagung für die Direkte Bundessteuer ermittelte Einkommen aus selbständiger Erwerbstätigkeit wird den Aus-
+        gleichskassen zur Festsetzung der Sozialversicherungsbeiträge gemeldet. Das Einkommen aus selbständiger Erwerbstätigkeit
+        ist daher vom übrigen Einkommen zu unterscheiden.
+
+        2.1        Aus Haupterwerbstätigkeit
+                   Steuerpflichtige, die eine Buchhaltung führen, haben mit der Steuererklärung die unterzeichneten Bilanzen und Er-
+                   folgsrechnungen der im Jahre 2025 abgeschlossenen Geschäftsjahre einzureichen. Selbständigerwerbenden stehen
+                   für die Deklaration folgende Fragebogen zur Verfügung: Selbständigerwerbende mit kaufmännischer Buchhaltung
+                   (Formular 15) / Selbständigerwerbende ohne kaufmännische Buchhaltung (15a). Für Landwirte wird auf den Frage-
+                   bogen für Landwirte (18) und die Wegleitung zum Fragebogen (18a) verwiesen. Bei kleineren Landwirtschaftsbetrie-
+                   ben ohne Buchhaltung kann das Aufzeichnungsformular 18/1 verwendet werden.
+
+                   Zum Einkommen aus selbständiger Erwerbstätigkeit gehören auch gewerbsmässiger Liegenschaften- und Wertpa-
+                   pierhandel, Naturalbezüge jeder Art aus dem eigenen Geschäft, d.h. der Wert der Waren und Erzeugnisse, die
+                   der/die Steuerpflichtige aus dem eigenen Geschäft bezogen hat (Ansätze s. Merkblatt N1 2007 bzw. NL1 2007 für
+                   Landwirte), sowie der mässige Mietwert der selbstgenutzten Wohnung im eigenen Geschäftshaus.
+
+                   Zu deklarieren ist das Einkommen nach Abzug der geschäftsmässig begründeten Gewinnungskosten. Zu diesen ge-
+                   hören insbesondere:
+
+                          Aufwendungen, welche zur Erzielung des Umsatzes gemacht werden, wie Löhne, Ausgaben für die Waren-
+                           beschaffung, Kosten für den Unterhalt des Betriebsinventars. Es sind nur die Löhne desjenigen Personals
+                           abzugsfähig, das unmittelbar im Geschäftsbetrieb mitarbeitet. Löhne für Hausdienstpersonal sind auch dann
+                           nicht abzugsfähig, wenn die Anstellung wegen der Mitarbeit der Ehefrau im Betrieb notwendig wird;
+                          Zinsen für Geschäftsschulden;
+
+
+    8
+            Beiträge an AHV/IV/EO/ALV, nicht aber die Beiträge für privates Dienstpersonal;
+            Miet- und Pachtzinsen (nur für Geschäftsräume);
+            geschäftsmässig begründete Abschreibungen und Rückstellungen; massgebend ist das Merkblatt A 1995
+             über Abschreibungen auf dem Anlagevermögen geschäftlicher Betriebe, das unentgeltlich bei der Kantonalen
+             Steuerverwaltung bezogen werden kann. Abschreibungen und Rückstellungen können nur auf Bestandteilen
+             des Geschäftsvermögens vorgenommen werden. Dabei ist mindestens eine Abschreibungstabelle zu führen;
+            wird die Methode der Direkt- oder Sofortabschreibungen für bewegliches Anlagevermögen gewählt, so muss
+             diese für mindestens 5 Jahre beibehalten werden. Dies gilt auch für Ersatzobjekte;
+            Geschäftsverluste (inkl. Verluste der letzten 7 Jahre), so weit diese nicht bereits mit übrigem Einkommen ver-
+             rechnet wurden;
+            Zuwendungen an Vorsorgeeinrichtungen (2. Säule) zugunsten des eigenen Personals, sofern eine zweckwid-
+             rige Verwendung ausgeschlossen ist. Die Beiträge des/der Selbständigerwerbenden für seine/ihre eigene be-
+             rufliche Vorsorge dürfen nur im Ausmass des «Arbeitgeberanteils» abgezogen werden, also desjenigen An-
+             teils, den der/die Arbeitgeber/in üblicherweise (d.h. im Falle unabhängiger Dritter) für sein/ihr Personal leistet.
+             Ist kein solches Personal vorhanden, gilt die Hälfte der Beiträge als Arbeitgeberanteil. Der nach Abzug des
+             Arbeitgeberanteils verbleibende Privatanteil der Beiträge an Einrichtungen der beruflichen Vorsorge (2. Säu-
+             le) sowie sämtliche Beiträge an anerkannte Formen der gebundenen Selbstvorsorge (Säule 3a) dürfen nicht
+             vom Einkommen aus selbständiger Erwerbstätigkeit gemäss Ziffer 2, sondern ausschliesslich in Ziffer 11
+             bzw. 13.1 der Steuererklärung abgezogen werden;
+            Prämien für die Berufsunfallversicherung des Geschäftsinhabers oder der Geschäftsinhaberin in dem Um-
+             fang, als sie für die Versicherung gleichartiger Berufsrisiken der Angestellten geleistet werden müssen;
+            Prämien für persönliche Risikoversicherungen sind hier nur abzugsberechtigt, wenn diese als Sicherheit ei-
+             nes Geschäftskredites bei der Bank dienen;
+            Prämien für Krankentaggeldversicherungen des Inhabers oder der Inhaberin.
+
+      Vom Einkommen dürfen nicht in Abzug gebracht werden:
+
+            Eigenkapitalzinsen;
+            Aufwendungen für die Anschaffung oder Verbesserung von Vermögensgegenständen;
+            Aufwendungen für die Schuldentilgung;
+            Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechtes an schweizerische oder
+             fremde Amtsträger;
+            Einkommens- und Vermögenssteuern;
+            persönliche Bussen (z.B. Steuer-/Verkehrsbussen);
+            Lebenshaltungskosten (z.B. Haushaltungskosten, Prämien für private Versicherungen des/der Steuerpflichti-
+             gen und seiner/ihrer Familie wie Lebens-, Unfall-, Krankenversicherung);
+            die auf private Zwecke entfallenden Teile der Geschäftsunkosten (z.B. Kosten für Auto, Löhne, Heizung, Rei-
+             nigung, Telefon usw.). Ansätze dazu siehe Merkblatt N1 2007 bzw. NL1 2007 (Landwirte).
+
+      Liquidationsgewinne werden unter Ziffer 17.3 abgezogen und separat besteuert.
+
+2.2   Aus Nebenerwerbstätigkeit
+      Zu deklarieren ist das Netto-Einkommen aus einer selbständigen Nebenerwerbstätigkeit; so unter anderem Ver-
+      mittlungsprovisionen, Gutachterhonorare, Entschädigungen für Buchhaltungsarbeiten oder Privatunterricht, Auftritts-
+      gagen, Handel mit Waren etc. Im Übrigen gelten die unter Ziffer 2.1 gemachten Ausführungen sinngemäss. Für
+      landwirtschaftliche Nebenerwerbe, auch für den Handel mit Vieh, sind die Buchhaltungsabschlüsse mit dem Fra-
+      gebogen (Form. 18 oder 18/1) für Landwirte einzureichen.
+
+2.3   Aus Kollektiv- oder Kommanditgesellschaft
+      Erträge aus Beteiligungen an Kollektiv- oder Kommanditgesellschaften sind entsprechend der Beteiligungsquote
+      zu deklarieren. Der separate Fragebogen für Kollektiv- und Kommanditgesellschaften (Form. 15/15a in Verbindung
+      mit 15c) ist gleichzeitig mit der persönlichen Steuerdeklaration einzureichen.
+
+
+
+
+                                                                                                                              9
+3.        Einkünfte aus Sozial- und anderen Versicherungen
+
+          (siehe auch Merkblatt auf der Homepage der Kantonalen Steuerverwaltung)
+
+          Renten und Pensionen zählen zu den steuerbaren Einkünften. Diese Einkünfte sind mit den entsprechenden Renten-
+          bestätigungen zu belegen. Bei mehreren Renten in der gleichen Position ist eine detaillierte Aufstellung beizulegen. In den
+          Vorkolonnen (Ziffern 132/134) sind die ausbezahlten Beiträge aus Renten der 2. Säule und in den Hauptkolonnen (Ziffern
+          133/135/137/139) die steuerpflichtigen Beträge zu deklarieren.
+          Kinderrenten von voll- und minderjährigen Kindern sowie Halbwaisenrenten von Minderjährigen sind vom Inhaber oder von
+          der Inhaberin der elterlichen Gewalt (Anspruchsberechtigte/r der Hauptrente) zu versteuern. Dagegen sind Halbwaisenrenten ab
+          der Volljährigkeit sowie Vollwaisenrenten beim Kind selber zu deklarieren.
+
+          3.1        AHV- / IV-Renten
+                     Renten der AHV/IV sind kantonal wie auch beim Bund zu 100% steuerpflichtig.
+
+          3.2        Renten / Pensionen
+                     Renten, Pensionen und Ruhegehälter aus beruflicher Vorsorge (Säule 2) sind grundsätzlich zu 100% steuer-
+                     pflichtig. Sofern die Steuerpflichtigen mindestens 20% der gesamten Beitragsleistungen selbst erbracht haben, sind
+                     diese in den folgenden zwei Fällen nur zu 80% steuerpflichtig:
+
+                     1.      wenn die Rente vor dem 1. Januar 1987 zu laufen begann;
+                     2.      wenn die Rente vor dem 1. Januar 2002 zu laufen begann und auf einem Vorsorgeverhältnis beruht, das am
+                             31. Dezember 1986 bereits bestand.
+
+          3.3        Übrige Renten
+                     Renten aus obligatorischen Unfallversicherungen, wie z.B. der Suva, der Militärversicherung (Ausnahme siehe
+                     unten bei steuerfreien Leistungen), der privaten Haftpflicht- und Risikoversicherungen, den Säulen 3a oder 3b
+                     etc. sind zu 100% steuerpflichtig.
+                     Ab dem Jahr 2025 wird der steuerbare Ertragsanteil der garantierten Rentenleistung bei Leibrentenversicherungen
+                     nach Versicherungsvertragsgesetz in Abhängigkeit des Höchstzinssatzes der Eidgenössischen Finanzmarktauf-
+                     sicht FINMA berechnet. Allfällige Überschussleistungen werden zu 70 Prozent steuerbar sein. Bei Leibrenten und
+                     Verpfründungen nach Obligationenrecht sowie bei ausländischen Leibrentenversicherungen wird der steuerbare
+                     Ertragsanteil neu in Abhängigkeit von der Durchschnittsrendite zehnjähriger Bundesobligationen ermittelt.
+
+          3.4        Erwerbsersatz / Taggelder
+                     Erwerbsersatzentschädigungen für Militär- und Zivilschutzdienstleistungen, Taggelder aus obligatorischer und pri-
+                     vater Kranken-, Unfall- und Invalidenversicherung sowie Taggelder/Insolvenzentschädigungen aus der Arbeitslosen-
+                     versicherung sind hier so weit anzugeben, als sie im Lohnausweis vom/von der Arbeitgeber/in nicht enthalten sind.
+                     Über die Bezüge ist eine Bescheinigung beizulegen, die bei der betreffenden Stelle eingeholt werden kann.
+
+          3.5        Von Ausgleichskassen direkt ausbezahlte Leistungen oder Erwerbsausfall- und Mutterschaftsentschädigun-
+                     gen
+                     Darunter fallen von Ausgleichskassen direkt den Berechtigten ausbezahlte Erwerbsausfallentschädigungen (EO)
+                     aufgrund der Erwerbsersatzordnung für geleisteten Militär- und Zivilschutzdienst. Davon betroffen sein können Selb-
+                     ständigerwerbende, stellenlose Rekruten und Angestellte, die aufgrund einer Abmachung während der Dienstzeit
+                     keinen Lohn vom Arbeitgeber bzw. von der Arbeitgeberin beziehen.
+
+                     Ebenfalls hier einzutragen sind Mutterschaftsentschädigungen, die nicht auf dem Lohnausweis enthalten sind.
+                     Unter dieser Ziffer sind auch die von der Ausgleichskasse vergüteten Kinder- und Familienzulagen an Selbständi-
+                     gerwerbende (inkl. Landwirte/Kleinbauern bzw. mitarbeitende Familienangehörige) zu deklarieren.
+
+          Steuerfrei und deshalb nicht zu deklarieren sind:
+
+                    Ergänzungsleistungen der AHV und IV;
+                    IV- und Hinterlassenenrenten der Militärversicherung, die vor dem 1. Januar 1994 zu laufen begannen oder
+                     fällig wurden; desgleichen AHV- und IV-Renten in dem Umfang, als ihretwegen eine altrechtliche Militärversiche-
+                     rungsrente gekürzt worden ist. Renten, die nach diesem Datum zu laufen begannen, und alle Altersrenten sind wie
+                     die übrigen Leistungen aus der 2. Säule zu deklarieren;
+                    Hilflosenentschädigungen der AHV, Suva oder anderen Versicherungen. Diese Entschädigungen sind allenfalls an
+                     die Krankheits- und Unfallkosten bzw. an die behinderungsbedingten Kosten anzurechnen (vgl. dazu Ziff. 13.7 bzw.
+                     17.1 dieser Wegleitung);
+     10
+              Leistungen der Sozialhilfe;
+              Genugtuungszahlungen/Integritätsentschädigungen. Diese Beträge sind im Wertschriftenverzeichnis auf Seite 3
+               mit der Bezeichnung „Z“ einzutragen.
+
+4   Wertschriftenertrag
+
+    Steuerpflichtig sind die Erträge aus Wertschriften und sonstigen Kapitalanlagen einschliesslich den in- und ausländischen
+    Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung. Lotteriegewinne und Gewinne aus Geschick-
+    lichkeitsspielen zur Verkaufsförderung sind bis CHF 1‘100 (Freigrenze) steuerfrei. Gewinne aus Grossspielen gemäss BGS
+    (automatisiert, online oder interkantonal durchgeführt) sind ab CHF 1'070’400 (Freibetrag) steuerbar. Bei Einkünften aus Mitar-
+    beiterbeteiligungen sind die Arbeitgeber verpflichtet, jedes Jahr eine Bescheinigung über geldwerte Vorteile sowie über Zuteilung
+    und Ausübung von Mitarbeiteroptionen auszustellen.
+
+    Wie das Formular im Einzelnen auszufüllen ist, wird in Ziff. 22.1 (Vermögen) dieser Wegleitung detailliert ausgeführt. Das Formu-
+    lar 2 ist in jedem Fall auszufüllen, auch wenn die Steuerpflicht nur während eines Teils der Steuerperiode bestanden hat (vgl. die
+    Ausführungen zur unterjährigen Steuerpflicht bei den Vorbemerkungen zum Einkommen). Zu deklarieren sind in diesem Fall
+    ausschliesslich die während der unterjährigen Steuerpflicht realisierten Erträge.
+
+    4.1        Erträge aus qualifizierenden Beteiligungen
+               Bei den Kantons- und Gemeindesteuern sowie der direkten Bundessteuer werden Erträge aus qualifizierenden
+               Beteiligungen aus dem Privatvermögen (Dividenden, Gewinnanteile, Liquidationsüberschüsse und geldwerte Vortei-
+               le aus Beteiligungen aller Art) mit 70% besteuert, wenn die Beteiligung an den entsprechenden Gesellschaften min-
+               destens 10% beträgt. Diese Positionen sind im Wertschriftenverzeichnis mit einem BP zu bezeichnen. In der Vorko-
+               lonne der Steuererklärung, Ziffer 151 resp. Ziffer 153, ist der entsprechende Betrag einzusetzen.
+               Dividenden werden in der Steuerperiode erfasst, in welche das Fälligkeitsdatum fällt. Das Zuflussdatum ist unbeacht-
+               lich.
+
+    4.2        Erträge aus qualifizierenden Beteiligungen aus dem Geschäftsvermögen (Dividenden, Gewinnanteile, Liquidations-
+               überschüsse und geldwerte Vorteile aus Beteiligungen aller Art) werden ebenfalls mit 70% besteuert, wenn die Betei-
+               ligung an den entsprechenden Gesellschaften mindestens 10% beträgt. Die Teilbesteuerung auf Veräusserungsge-
+               winnen wird nur gewährt, wenn die veräusserten Beteiligungsrechte mindestens ein Jahr im Eigentum der steuer-
+               pflichtigen Person oder des Personenunternehmens waren. Als Geschäftsvermögen gelten alle Vermögenswerte, die
+               ganz oder vorwiegend der selbständigen Erwerbstätigkeit dienen, gleiches gilt für Beteiligungen von mindestens 20%
+               am Grund- oder Stammkapital einer Kapitalgesellschaft oder Genossenschaft, sofern der/die Eigentümer/in sie im
+               Zeitpunkt des Erwerbs zum Geschäftsvermögen erklärt. Auf Verlangen stellt Ihnen die Kantonale Steuerverwaltung
+               die Spartenrechnungsvorlage gemäss Kreisschreiben Bund vom 17. Dezember 2008 zu. Die entsprechenden Positi-
+               onen sind im Wertschriftenverzeichnis mit einem BG zu bezeichnen. In der Vorkolonne der Steuererklärung, Ziffer
+               151 resp. Ziffer 153, ist der Gesamtbetrag für die reduzierte Besteuerung einzusetzen. Detaillierte Aufstellungen und
+               Beweismittel (wie Kontoauszüge, Auszahlungsbelege usw.) sind beizulegen.
+
+5   Übrige Einkünfte
+    5.1        Unterhaltsbeiträge vom geschiedenen oder getrennt lebenden Ehegatten / Partner oder von der Partnerin
+               Periodische Unterhaltsbeiträge, die Steuerpflichtige bei Scheidung, Auflösung der Partnerschaft, gerichtlicher oder
+               tatsächlicher Trennung für sich vom anderen Ehegatten, Partner oder von anderer Partnerin erhalten, sind beim
+               Empfänger oder bei der Empfängerin steuerpflichtig.
+
+    5.2        Unterhaltsbeiträge / Alimente für minderjährige Kinder
+               Unterhaltsbeiträge für Kinder (mit Kinderzulagen), die ein Elternteil für die unter seiner elterlichen Sorge oder Ob-
+               hut stehenden Kinder erhält, sind ebenfalls steuerpflichtig (bis maximal zur Erreichung des 18. Altersjahres). Name
+               und Adresse des/der Alimentenzahlers/in sind am Seitenrand der Steuererklärung bei Ziffer 5 anzugeben. Gehen die
+               Unterhaltsbeiträge nur unregelmässig oder überhaupt nicht ein, ist dies unter Angabe der tatsächlich im Jahre 2025
+               überwiesenen Beträge anzugeben. Ebenfalls zu deklarieren sind die Kinderalimente, wenn diese nicht vom anderen
+               Elternteil überwiesen, sondern von der öffentlichen Hand bevorschusst werden.
+
+    5.3        Erträge aus unverteilten Erbschaften
+               Erbengemeinschaften werden in der Regel nicht separat besteuert. Einkünfte aus unverteilten Erbschaften werden
+               den einzelnen Erben anteilig und entsprechend ihrer Erbquote zugerechnet. Steuerpflichtig sind sämtliche Fälligkei-
+               ten ab dem Todestag.
+
+
+
+                                                                                                                                   11
+         5.4        Einkünfte aus Urheberrechten, Lizenzen, Patenten, usw.
+                    Zu deklarieren sind Einkünfte aus immateriellen Gütern wie Urheberrechten, Lizenzen, Patenten, usw.
+
+         5.5        Weitere Einkünfte
+                    Unter den weiteren Einkünften sind u.a. anzugeben:
+                          Tombolatreffer und andere Wettbewerbsgewinne (Naturalgewinne unter CHF 1'100 sind steuerfrei; grössere
+                           Naturalgewinne sind mit 70% des Katalogpreises zu deklarieren, falls diese nicht veräussert werden);
+                           Entschädigungen für die Aufgabe oder Nichtausübung einer Tätigkeit (z.B. für ein Konkurrenzverbot);
+                           Entschädigungen für die Nichtausübung eines Rechtes (z.B. für den Verzicht bzw. Rückzug von Bauein-
+                            sprachen oder Verzicht auf die Ausübung eines Vorkaufsrechts);
+                           Bundesbeiträge an vorbereitende Kurse auf eidgenössische Prüfungen;
+                           Einspeisevergütungen aus Photovoltaikanlagen (Vergütung abzüglich Eigenverbrauch).
+
+         5.6        Kapitalabfindungen für wiederkehrende Leistungen
+                    Zu deklarieren unter dieser Ziffer sind Kapitalabfindungen ohne Vorsorgecharakter, die anstelle von wiederkehren-
+                    den Leistungen ausbezahlt werden. Als solche gelten beispielsweise Lidlohnansprüche für geleistete Arbeit, Abfin-
+                    dungen bei Dienstaustritt (Abgangsentschädigungen). Solche Kapitalabfindungen werden unter Berücksichtigung der
+                    übrigen Einkünfte und der zulässigen Abzüge zu dem Steuersatz berechnet, der sich ergäbe, wenn anstelle der ein-
+                    maligen Leistung eine entsprechende jährliche Leistung ausgerichtet würde. Der Zeitraum, für den die Kapitalabfin-
+                    dung ausgerichtet wird, ist in Ziffer 5.6 der Steuererklärung anzugeben.
+                    Nicht in Ziffer 5.6, sondern auf Seite 3 des Wertschriftenverzeichnisses sind Kapitalleistungen mit Vorsorgecharak-
+                    ter aus AHV/IV, aus beruflicher Vorsorge und aus anerkannter gebundener Selbstvorsorge sowie Kapitalzahlungen
+                    bei Tod oder für bleibende körperliche oder gesundheitliche Nachteile, aus Unfall-, Haftpflicht- oder Risikoversiche-
+                    rungen zu deklarieren. Diese unterliegen einer separaten Besteuerung.
+
+6        Einkünfte aus Liegenschaften
+
+         Als Einkünfte aus Liegenschaften sind steuerbar:
+
+                   der Mietwert von Liegenschaften oder Liegenschaftsteilen, die dem/der Steuerpflichtigen für den Eigengebrauch zur
+                    Verfügung stehen (Eigennutzung), sei es als Eigentümer/in oder als Berechtigte/r an einem unentgeltlichen Nut-
+                    zungsrecht z.B. in Form von Nutzniessung oder Wohnrecht;
+                   alle Einkünfte aus entgeltlicher Nutzungsüberlassung von Grundeigentum an Dritte infolge Vermietung, Verpach-
+                    tung, Nutzniessung, Wohnrecht, Baurecht, Quellenrecht oder anderer Dienstbarkeiten.
+
+         Bei einer einzelnen Liegenschaft ist der Ertrag wie auch der Liegenschaftsunterhalt direkt in der Steuererklärung (Ziff. 6.1 –
+         6.5) einzutragen. Werden dazu die effektiven Unterhaltskosten geltend gemacht, sind diese auf dem Hilfsblatt (Form. 6) detailliert
+         aufzulisten, und der Totalbetrag ist in die Ziffer 6.5 (Ziffer 189) der Steuererklärung zu übertragen.
+
+         Bei mehrfachem Liegenschaftenbesitz ist dagegen das Hilfsblatt für Liegenschaften (Form. 6) unbedingt auszufüllen
+         und einzureichen, wobei die einzelnen Totalbeträge in die entsprechenden Ziffern 180 -189 von Ziffer 6 der Steuererklärung zu
+         übertragen sind. Beim Ausfüllen des Hilfsblattes ist darauf zu achten, dass für die Liegenschaftserträge auf der Rückseite die
+         gleiche Reihenfolge wie beim Liegenschaftsverzeichnis auf der Vorderseite angewendet wird.
+         Beim effektiven Unterhalt sind auch die Angaben über die ausgeführten Arbeiten (z.B. Ölheizung ersetzt, Fassadenrenovation,
+         Renovation Stube etc.) zu machen. Falls im Rechnungsbetrag wertvermehrende Aufwendungen enthalten sind, ist dieser Anteil
+         in die separate Kolonne einzutragen, und nur der Restbetrag ist abzugsberechtigt.
+
+         6.1-6.3    Liegenschaftserträge
+                    Steuerbar sind sämtliche Miet- und Pachtzinseinnahmen (einschliesslich des Betrages der dem/der Hauswart/in
+                    oder Hausverwalter/in als Arbeitsentgelt gewährten Mietzinsreduktion), die der/die Steuerpflichtige aus Grundeigen-
+                    tum (Ein- und Mehrfamilienhäuser, Stockwerkeigentum) erzielt. Zahlungen der Mieter für nutzungsbedingte Ne-
+                    benkosten wie Heizmaterial, Warmwasseraufbereitung, Wasserverbrauch, Abwasserkosten, Kabelfernsehen, Keh-
+                    richtgrundgebühr, Strom und Reinigung von Treppenhaus, Gemeinschaftsräume und Vorplatz sind nicht steuerpflich-
+                    tig, so weit sie die tatsächlichen Aufwendungen des Vermieters bzw. der Vermieterin nicht übersteigen. Alle übrigen
+                    Vergütungen für Nebenkosten sind zu deklarieren. Bei möblierten Ferienwohnungen ohne Wäsche sind 4/5, mit
+                    Wäsche 2/3 der Bruttoeinnahmen einzusetzen.
+                    Zum Pachtertrag gehören auch die Naturalleistungen der Pächter, Baurechtszinsen, die Einkünfte aus Verpachtung
+                    von Wasserläufen, für Fischfang, Waldnutzung, Kies- und Sandausbeutung und dergleichen.
+                    Ebenfalls zu deklarieren sind Einspeisevergütungen aus Fotovoltaikanlagen. Der Eigenverbrauch darf von den
+                    Erträgen abgezogen werden. Der Nettoertrag daraus ist unter Ziffer 5.5 (Weitere Einkünfte) zu deklarieren.
+
+    12
+      Als Mietwert der eigenen Wohnung für das selbstbewohnte Einfamilienhaus, Stockwerkeigentum und Ferienhaus
+      gilt grundsätzlich der Betrag, den der/die Eigentümer/in als Miete für ein gleichartiges Objekt an gleicher Lage zu be-
+      zahlen hätte (Marktmiete). Für selbstbewohnte Objekte, ausgenommen Ferienhäuser oder Zweitwohnungen, ist ein
+      mässiger Mietwert einzusetzen, was gemäss landrätlicher Verordnung 60% der Marktmiete bedeutet.
+      Bei unveränderten Verhältnissen gegenüber der Vorperiode können die veranlagten Werte der Steuerperiode 2024
+      übernommen werden. Allfällige Anpassungen, z.B. aufgrund von baulichen Veränderungen, sind in der Deklaration
+      angemessen zu berücksichtigen.
+      Für die Direkte Bundessteuer wird der für die kantonalen Steuern gültige Eigenmietwert von Amtes wegen auf die
+      von der Eidgenössischen Steuerverwaltung geforderte Höhe, zurzeit 70% der Marktmiete, umgerechnet.
+
+6.5   Unterhalt und Verwaltungskosten
+      (siehe auch Merkblatt auf der Homepage der Kantonalen Steuerverwaltung)
+      Massgebend für die zeitliche Abgrenzung der effektiven Abzüge ist wahlweise das Datum der Schlussrechnung oder
+      das Zahlungsdatum, sofern dies nicht zu einer Steuerumgehung führt. Akontozahlungen können berücksichtigt wer-
+      den, sofern die Arbeiten bereits 2025 geleistet wurden. Für Rechnungsbeträge ab CHF 1'000 sind die Rech-
+      nungskopien der Steuererklärung beizulegen.
+      .
+      Als Aufwendungen für Unterhalt und Abgaben im Zusammenhang mit Liegenschaften gelten:
+
+      1. wiederkehrende Ausbesserungsarbeiten (Reparaturen und Renovationen) inkl. Fassadenrenovation sowie Ersatz
+         von Einrichtungen, so weit sie keinen Mehrwert der Liegenschaft zur Folge haben. Stellen die Aufwendungen ei-
+         ne teilweise Wertvermehrung dar, sind die Abzüge anteilsmässig zu kürzen;
+      2. Investitionen, die dem Energiesparen und dem Umweltschutz dienen sowie Rückbaukosten. Derartige Investiti-
+         onskosten und Rückbaukosten im Hinblick auf einen gleichartigen Ersatzneubau sind in den zwei nachfolgenden
+         Steuerjahren abziehbar, soweit sie im laufenden Steuerjahr, in welchem die Aufwendungen tatsächlich angefal-
+         len sind, steuerlich nicht vollständig abgezogen werden konnten. Darunter fallen etwa:
+           2.1    Massnahmen zur Verminderung der Energieverluste der Gebäudehülle wie:
+                          Wärmedämmung von Böden, Wänden, Dächern und Decken gegen Aussenklima, unbeheizte
+                           Räume oder Erdreich;
+                        Ersatz von Fenstern durch energetisch bessere Fenster.
+           2.2    Massnahmen zur rationellen Energienutzung wie:
+                          Einbau von Wärmepumpen und Anlagen zur Nutzung erneuerbarer Energien wie Sonnenener-
+                           gie (z.B. Fotovoltaikanlagen), Umgebungswärme und Windenergie; Anschluss an eine Fern-
+                           wärmeversorgung;
+                          Einbau und Ersatz von Installationen, die in erster Linie der rationellen Energienutzung dienen,
+                           wie z.B. thermostatische Heizkörperventile, Messeinrichtungen zur Verbrauchserfassung und
+                           Betriebsoptimierung, Installationen im Zusammenhang mit der verbrauchsabhängigen Heiz-
+                           und Warmwasserkostenabrechnung;
+                          Massnahmen zur Rückgewinnung von Wärme.
+
+           Diese Abzüge können jedoch nicht für Neubauten beansprucht werden. Dies gilt auch für den Einbau von Foto-
+           voltaikanlagen in den ersten fünf Jahren nach Erstellung des Gebäudes. Allfällige Beiträge von Dritten sind
+           abzuziehen;
+
+           2.3.    Den Unterhaltskosten gleichgestellt sind auch die Rückbaukosten im Hinblick auf einen gleichartigen
+                   Ersatzneubau.
+      3.   Sachversicherungsprämien für die Liegenschaft (Brand-, Glas- und Wasserschäden, Gebäudehaftpflicht-
+           versicherungen);
+      4.   Unterhalt und Service der Heizanlage (inkl. Abgaskontrolle und Kaminreinigung);
+      5.   Die Kosten für den Ersatz eines gleichwertigen Rasenmähers werden bis höchstens CHF 1‘500 zum Abzug zu-
+           gelassen.
+      6.   bei Vermietung und Verpachtung: Die nutzungsbedingten Nebenkosten sind bei den Mietzinseinnahmen zu
+           berücksichtigen (vgl. dazu Ziff. 6.1 - 6.3 der Wegleitung);
+
+
+
+
+                                                                                                                          13
+                7. bei Stockwerkeigentum: Einlagen in den Reparatur- oder Erneuerungsfonds der Stockwerkeigentümergemein-
+                   schaft, sofern diese Mittel nur zur Bestreitung von Unterhaltskosten für die Gemeinschaftsanlagen verwendet
+                   werden. Stockwerkabrechnungen von selbst genutzten Wohnungen können nur akzeptiert werden, sofern darin
+                   keine nutzungsbedingten Nebenkosten (vgl. dazu Punkt 5 auf der nächsten Seite) und höchstens die Hälfte der
+                   Kosten für den Hauswart enthalten sind;
+                8. Kosten der Vermietung (Inserate, Inkasso der Mietzinsen), der Verwaltung und Wartung der Liegenschaft durch
+                   Drittpersonen (für die eigene Arbeit des Hauseigentümers kann kein Lohn eingesetzt werden);
+                9. nicht durch Subventionen gedeckte Kosten denkmalpflegerischer Arbeiten, sofern solche Massnahmen aufgrund
+                   gesetzlicher Vorschriften im Einvernehmen mit den Behörden oder auf deren Anordnung hin vorgenommen wor-
+                   den sind.
+
+     Nicht abzugsfähig sind:
+
+                1. wertvermehrende Aufwendungen für Neueinrichtungen und die Verbesserung von Liegenschaften;
+                2. Grundeigentümerbeiträge an Strassen, Trottoirs, Werkleitungen, Abwasserreinigungsanlagen, Kanalisationen
+                   und dergleichen;
+                3. Quartierplan-, Gestaltungsplan-, Arealüberbauungsplan-, Vermessungs-, Güterzusammenlegungs- und Meliora-
+                   tionskosten;
+                4. die mit dem Erwerb und der Veräusserung von Liegenschaften verbundenen Kosten wie Handänderungssteuern,
+                   Grundbuchgebühren, Vermittlerprovisionen und Grundstückgewinnsteuern;
+                5. nutzungsbedingte Aufwendungen für die selbstbewohnte Liegenschaft/Wohnung wie Kosten für: Schnee-
+                   beseitigung, Heizmaterial-, Wasserverbrauch, Abwasserentsorgung, Kehrichtgebühren, Hausratversicherung,
+                   Kabelfernsehen, Strom und Reinigung von Treppenhaus und Vorplatz, Betriebskosten für den Lift, Anschlussge-
+                   bühren bzw. Kosten für den erstmaligen Anschluss an die Kanalisation etc.
+
+
+
+                                 Gemäss Bundesgerichtsentscheid vom 15. Juli 2005 ebenfalls nicht abzugsberechtigt sind fol-
+                                 gende Kosten: Grundgebühren für Wasser, Abwasser, Gas oder Strom (z.B. Zählermiete).
+
+
+     In jeder Steuerperiode und für jede Liegenschaft kann zwischen dem Abzug der tatsächlichen Unterhaltskosten und der
+     Pauschalierung gewählt werden. Damit besteht die Gewähr, dass alle Kosten abgezogen werden können.
+
+     Die Pauschale beträgt:
+
+                 10% des Bruttomietertrages oder Eigenmietwertes für Gebäude, die am Anfang der Steuerperiode bis zu zehn
+                  Jahre alt sind;
+                 20% des Bruttomietertrages oder Eigenmietwertes für Gebäude, die am Anfang der Steuerperiode über zehn
+                  Jahre alt sind (Baujahr 2014 oder früher).
+
+     In folgenden Fällen ist die Pauschalierung ausgeschlossen, und es können nur die tatsächlichen Unterhaltskosten abgezogen
+     werden:
+
+                   bei Liegenschaften des Geschäftsvermögens;
+                   bei Liegenschaften, die von Dritten vorwiegend geschäftlich genutzt werden;
+                   bei unüberbauten Grundstücken und bei solchen mit Baurechtsbelastung.
+
+
+
+
+14
+    Abzüge vom Einkommen
+
+    (Seite 3 der Steuererklärung)
+
+8   Berufsauslagen bei unselbständiger Erwerbstätigkeit
+
+    Unselbständigerwerbende haben das Formular Berufsauslagen (Form. 5) vollständig und genau auszufüllen und der Steuerer-
+    klärung beizulegen. Sind beide Ehegatten / Partner/innen berufstätig, sind die Abzüge getrennt zu ermitteln. Kein Abzug ist
+    zulässig für Kosten, die der/die Arbeitgeber/in übernommen hat.
+
+    Berufsauslagen in der Reihenfolge gemäss Formular 5:
+
+    1.         Dauer der Erwerbstätigkeit / Arbeitsort
+               Hat der/die Pflichtige im Kalenderjahr 2025 die Erwerbstätigkeit aufgenommen oder aufgegeben, ist der Beginn wie
+               auch das Ende der Tätigkeit in der Spalte „Einzelperson / Ehemann / Partner(in) 1 bzw. Ehefrau / Partner(in) 2“ ein-
+               zutragen. Diese Angaben sind notwendig, damit die Jahrespauschalen nach der Dauer der Erwerbstätigkeit berech-
+               net werden können. Beispiel:
+                                    Dauer der Erwerbstätigkeit
+                                    vom                               01.04.
+                                    bis                               31.12.
+                                    Berechnung Abzug für auswärtige Verpflegung (siehe Ziff. 3.1)
+                                    Jahrespauschale                   CHF 3‘200
+                                    Dauer der Erwerbstätigkeit        270 Tage
+                                    Umrechnung CHF 3‘200 x 270
+                                                    360        =        CHF 2‘400
+
+    2.         Fahrkosten zwischen Wohn- und Arbeitsstätte (Höchstbetrag beim Bund CHF 3‘300)
+               Abziehbar sind die notwendigen Auslagen für die Fahrt zwischen Wohn- und Arbeitsstätte, sofern es sich um eine
+               beachtenswerte Entfernung handelt, d.h.:
+
+               2.1     bei Benützung öffentlicher Verkehrsmittel (Bahn, Tram, Autobus) die notwendigen, tatsächlichen Abonne-
+                       mentskosten der 2. Klasse;
+               2.2     bei Benützung eines Fahrrades, eines Motorfahrrades oder eines Motorrades mit gelbem Kontrollschild bis
+                       zu CHF 700 im Jahr. Dieser Abzug ist nur möglich, wenn es sich beim Arbeitsweg um eine beachtenswerte
+                       Entfernung handelt, d.h. die Marschzeit pro Weg mindestens 10 Minuten beträgt;
+               2.3     bei Benützung eines Privatautos oder eines Motorrades mit weissem Kontrollschild der Betrag, den die Steu-
+                       erpflichtigen bei Benützung des zur Verfügung stehenden öffentlichen Verkehrsmittels hätten auslegen müs-
+                       sen. Die Kosten der Benützung von privaten Motorfahrzeugen können hingegen nur in Ausnahmefällen
+                       abgezogen werden. Die Benützung des öffentlichen anstelle des privaten Verkehrsmittels ist u.a. nicht zu-
+                       mutbar, wenn die Zeitersparnis bei Benützung des privaten Verkehrsmittels pro Arbeitstag über 1 Stunde be-
+                       trägt, wobei für diese Frage nur die morgendliche Hinfahrt zur Arbeit und die abendliche Rückkehr zum Woh-
+                       nort massgebend sind. Die geforderte Zeitersparnis kann sich vor allem in Fällen ergeben, wo ein ungünsti-
+                       ger Fahrplan besteht, ein mehrmaliges Umsteigen erforderlich ist oder die Entfernungen zu den Haltestellen
+                       unzumutbar gross sind, wobei allfällige Parkierungsmöglichkeiten bei den Haltestellen (z.B. eine Park-and-
+                       Ride-Anlage) einschränkend zu berücksichtigen sind. Wird die Benützung eines Privatfahrzeuges geltend
+                       gemacht, ist die Distanz zwischen Wohn- und Arbeitsort genau anzugeben. Für Motorräder mit weissem Kon-
+                       trollschild ist ein Abzug von bis zu 40 Rp. pro Fahrkilometer zulässig.
+
+                       Für den Autoabzug gelten, je nach jährlich notwendigen und tatsächlich gefahrenen Kilometern für den Ar-
+                       beitsweg, folgende Ansätze:
+                       bis           10‘000 km        CHF 0.70
+                       bis           20'000 km        CHF 0.60
+                       über          20'000 km        CHF 0.50
+                       Mit diesen Pauschalen sind sämtliche Fahrzeugkosten (auch Parkplatz- oder Park-and-Ride-Gebühren) ab-
+                       gegolten. Bei der Berechnung der notwendigen Fahrkosten für den Arbeitsweg ist von 220 Arbeitstagen im
+                       Jahr auszugehen.
+
+
+
+
+                                                                                                                                15
+                 Sind die Kosten für die Hin- und Rückfahrt zwischen Wohn- und Arbeitsort über die Mittagspause höher als
+                 der zulässige Pauschalabzug für die auswärtige Verpflegung (CHF 3'200 bzw. CHF 1'600), können dafür kei-
+                 ne Fahrkosten geltend gemacht werden. In diesem Fall kann der Abzug für auswärtige Verpflegung in Ziffer
+                 3.1 beansprucht werden.
+
+                 Wochenaufenthalter/innen (vgl. Ziff. 5) können für die Kosten der wöchentlichen Heimkehr an den steuerli-
+                 chen Wohnsitz sowie zwischen auswärtiger Unterkunft und Arbeitsstätte die notwendigen Fahrkosten bean-
+                 spruchen (in der Regel die Kosten des öffentlichen Verkehrsmittels). Diese Fahrkosten sind in Ziffer 5.2 ein-
+                 zutragen.
+
+     3.   Mehrkosten der Verpflegung
+
+          3.1    Auswärtige Verpflegung bei täglicher Heimkehr
+                 Ein Abzug kommt nur in Betracht, wenn und soweit dem/der Steuerpflichtigen aus der beruflich bedingten
+                 auswärtigen Verpflegung Mehrkosten gegenüber der normalen Verpflegung zu Hause entstehen. Dies ist
+                 der Fall, wenn der/die Steuerpflichtige wegen grosser Entfernung zwischen Wohn- und Arbeitsort oder bei
+                 aus beruflichen Gründen sehr kurz bemessener Essenspause (vom Arbeitgeber vorgeschrieben) eine
+                 Hauptmahlzeit nicht zu Hause einnehmen kann.
+
+                 Der Pauschalabzug für Mehrkosten der auswärtigen Verpflegung beträgt CHF 15 pro Tag für jede auswärtige
+                 Hauptmahlzeit (in der Regel nur für das Mittagessen), bei ständiger auswärtiger Verpflegung CHF 3’200 im
+                 Jahr.
+                 Nur der halbe Abzug (CHF 7.50 pro Tag, CHF 1‘600 im Jahr) ist zulässig, wenn Hauptmahlzeiten vom/von
+                 der Arbeitgeber/in durch Beiträge in bar oder die Abgabe von Gutscheinen verbilligt werden oder wenn sie in
+                 einer Kantine, einem Personalrestaurant oder einer Gaststätte des Arbeitgebers bzw. der Arbeitgeberin ein-
+                 genommen werden können und dem/der Steuerpflichtigen trotzdem Mehrkosten entstehen. Wer wegen kur-
+                 zer Essenspausen gezwungen ist, mindestens einmal pro Tag eine Hauptmahlzeit beim/bei der Arbeitge-
+                 ber/in einzunehmen (z.B. im Gastgewerbe), kann einen halben Abzug vornehmen. Die Einnahme weiterer
+                 Mahlzeiten beim Arbeitgeber bzw. bei der Arbeitgeberin gibt keinen Anspruch auf einen zusätzlichen Abzug.
+
+                 Effektive Kosten sind mit Belegen nachzuweisen.
+
+          3.2    Schicht- oder Nachtarbeit
+                 Für jeden Tag mit durchgehender, mindestens achtstündiger Schicht- oder Nachtarbeit wird für die Mehrkos-
+                 ten gegenüber der normalen Verpflegung zu Hause ein Abzug von CHF 15 pro Tag, bei ganzjähriger Schicht-
+                 oder Nachtarbeit ein Abzug von CHF 3‘200 im Jahr gewährt.
+                 Nur der halbe Abzug (CHF 7.50 pro Tag, CHF 1‘600 im Jahr) ist zulässig, wenn Hauptmahlzeiten vom Ar-
+                 beit-geber/von der Arbeitgeberin durch Beiträge in bar oder die Abgabe von Gutscheinen verbilligt werden
+                 oder wenn sie in einer Kantine, einem Personalrestaurant oder einer Gaststätte des Arbeitgebers bzw. der
+                 Arbeitgeberin eingenommen werden können und dem/der Steuerpflichtigen trotzdem Mehrkosten entstehen.
+
+                 Der Schichtarbeit wird die gestaffelte (unregelmässige) Arbeitszeit gleichgestellt, sofern beide Hauptmahlzei-
+                 ten nicht zur üblichen Zeit zu Hause eingenommen werden können. Der Abzug für Schicht- oder Nachtarbeit
+                 kann nicht zusätzlich zum Abzug für auswärtige Verpflegung oder für auswärtigen Wochenaufenthalt (Ziff. 3.1
+                 und 6.3) beansprucht werden.
+                 Die Anzahl Schichttage sind für die Berechnung des Abzugs in der Vorspalte von Ziffer 3.2 des Be-
+                 rufsauslagenblattes einzutragen.
+
+                 Die Pauschalansätze der Ziffern 3.1 und 3.2 sind verbindlich, und ein Abzug nachweislich höherer Kosten ist
+                 ausgeschlossen.
+
+     4.   Übrige für die Ausübung des Berufes erforderliche Kosten
+
+          Allgemeine Berufsauslagen wie Aufwendungen für Berufswerkzeuge (inkl. EDV-Hard- und -Software, nach Abzug ei-
+          nes Privatanteils von 50%), Fachliteratur, privates Arbeitszimmer, Kleider- und Schuhverschleiss, Mehrauslagen für
+          Schwerarbeit, Beiträge an Berufsverbände und Gewerkschaften werden mit einem Pauschalabzug von 3% des Net-
+          tolohnes, mindestens CHF 2’000 und höchstens CHF 4’000 abgegolten. Für Teilzeitbeschäftigte mit einem Jahres-
+          einkommen bis CHF 20'000 beträgt der Abzug 10% des Nettoeinkommens.
+          Der Unkostenersatz kann von jedem unselbständig erwerbstätigen Steuerpflichtigen beansprucht werden.
+          Anstelle der Pauschale können auch die effektiven Kosten geltend gemacht werden. Diese tatsächlichen Auslagen
+          sind aufzulisten und die Belege beizulegen.
+
+16
+     5.         Mehrkosten bei auswärtigem Wochenaufenthalt
+
+                Steuerpflichtige, die sich während der Woche berufsbedingt am Arbeitsort aufhalten, können für die beruflich not-
+                wendigen Mehrkosten folgende Abzüge geltend machen:
+
+                5.1     Für die notwendigen Mehrkosten der Unterkunft sind die effektiven Kosten bzw. die ortsüblichen Auslagen
+                        für ein Zimmer/Wohnung abziehbar. Für den Maximalabzug sind die ortsüblichen Verhältnisse massgebend.
+                        Bitte Kopie des Mietvertrages beilegen.
+                5.2     Die Fahrkosten der wöchentlichen Heimkehr sowie zwischen auswärtiger Unterkunft und Arbeitsstätte sind
+                        hier einzutragen (beim Bund bis höchstens CHF 3‘300). Bitte dazu die Erläuterungen in Ziffer 2 beachten, wo
+                        auch die Detailangaben zu machen sind.
+                5.3     Für die Mehrkosten der auswärtigen Verpflegung können CHF 15 pro Hauptmahlzeit, somit CHF 30 pro
+                        Tag, bei ganzjährigem Wochenaufenthalt CHF 6‘400 im Jahr abgezogen werden. Wenn das Mittagessen
+                        durch den/die Arbeitgeber/in verbilligt wird (Kantinemöglichkeit, Kostenbeitrag, Naturalleistung des Arbeitge-
+                        bers/der Arbeitgeberin) und trotzdem Mehrkosten entstehen, wird für diese Mahlzeit nur der halbe Abzug
+                        (CHF 7.50) gewährt, gesamthaft CHF 22.50 pro Tag oder CHF 4‘800 im Jahr. Bei vorhandener Küche in
+                        der Wohnung/Studio sind die Ansätze gem. Ziff. 8.3.1 der Wegleitung massgebend.
+
+     6.         Auslagen bei Nebenbeschäftigung
+
+                Für Nebenerwerbseinkommen gemäss Ziffer 1.2 der Steuererklärung ist ein Pauschalabzug von 20%, mindestens
+                CHF 800 und höchstens CHF 2'400 im Jahr möglich. Bei Beträgen unter CHF 800 kann höchstens der effektive Be-
+                trag abgezogen werden. Damit sind sämtliche Berufsauslagen abgegolten.
+                Pauschalierte Berufsauslagen gemäss den Weisungen des Departements Finanzen und Gesundheit sind ebenfalls
+                hier einzutragen.
+                An Stelle der Pauschale können die notwendigen tatsächlichen Aufwendungen nachgewiesen werden.
+
+     7.         Total der Berufsauslagen bei unselbständiger Erwerbstätigkeit
+
+                Die mit dem Hilfsblatt ermittelten Totalbeträge der Berufsauslagen (Form. 5, Ziff. 7) sind in die Steuererklärung
+                Ziffer 8.1 für Einzelpersonen / den Ehemann / die/den Partner(in) 1, Ziffer 8.2 für die Ehefrau / Partner(in) 2, und
+                zwar in die Kolonnen Kanton und Bund, zu übertragen.
+
+9    Schuldzinsen
+
+     Die Schuldzinsen sind im Schuldenverzeichnis (Form. 7) anzugeben und in Ziffer 9 der Steuererklärung zu übertragen, sofern
+     sie nicht schon unter Ziffer 2 der Steuererklärung abgezogen worden sind. Es sind nur die im Jahr 2025 fällig gewordenen
+     Schuldzinsen einzutragen. Die privaten Schuldzinsen sind höchstens im Umfang der Bruttovermögenserträge und weiterer
+     CHF 50'000 abzugsberechtigt.
+     Kapitalrückzahlungen wie Amortisationen von Grundpfandschulden stellen keine Schuldzinsen dar, ebenso wenig Bau- und
+     Landkreditzinsen während der Bauphase. Letztere gelten als Anlagekosten. Ebenfalls nicht abzugsberechtigt sind Schuldzinsen
+     auf Grund von Leasingverträgen sowie Kosten für die Errichtung bzw. Auflösung von Kreditverträgen.
+
+     Die entsprechenden Nachweise/Bankbestätigungen sind beizulegen.
+
+     Negativzinsen siehe Seite 20 Ziffer 13.5.
+
+
+10   Unterhaltsbeiträge, Rentenleistungen und dauernde Lasten
+
+     Name und Adresse des Empfängers oder der Empfängerin der Leistung sind unter Ziffer 10 auf der dafür vorgesehenen
+     Zeile anzugeben. Bei erstmaligem Abzug ist eine Kopie der entsprechenden Passagen des Scheidungs-, Auflösungs- oder
+     Trennungsurteils, der Trennungsvereinbarung oder des Rentenvertrages beizulegen.
+
+     10.1       Unterhaltsbeiträge an geschiedene oder getrennt lebende Ehegatten / Partner
+                Vom Einkommen abgezogen werden können die tatsächlich bezahlten periodischen Unterhaltsbeiträge an den
+                geschiedenen, gerichtlich oder tatsächlich dauernd getrennt lebenden Ehegatten / Partner.
+     10.2       Unterhaltsbeiträge / Alimente für minderjährige Kinder
+                Die dem andern Elternteil für die unter dessen elterlicher Sorge oder Obhut stehenden Kinder überwiesenen Kin-
+                derunterhaltsbeiträge (inkl. Kinderzulagen) sind bei Ziffer 255 einzutragen. Die Abzugsfähigkeit ist längstens bis
+                zum Monat der Volljährigkeit (Erreichen des 18. Altersjahres) des Kindes gegeben.
+
+                                                                                                                                   17
+          10.3      Rentenleistungen / dauernde Lasten
+                    Im Jahr 2025 bezahlte Ertragsanteile der Leistungen aus Leibrenten- und aus Verpfründungsverträgen an eine
+                    Drittperson können analog den Ausführungen in Ziffer 3.3 (übrige Renten) in Abzug gebracht werden. Der Umfang
+                    der Leistungen und Berechnung ist auf einem Beiblatt genau zu bezeichnen unter Angabe des Namens und der Ad-
+                    resse des Empfängers bzw. der Empfängerin.
+                    Zu den dauernden Lasten gehört z.B. der periodisch bezahlte Baurechtszins.
+
+11        Beiträge an anerkannte Formen der gebundenen Selbstvorsorge (Säule 3a)
+
+          11.1      ordentliche Beiträge
+                    Beiträge von Arbeitnehmern/Arbeitnehmerinnen und Selbständigerwerbenden an anerkannte Vorsorgeformen kön-
+                    nen bis zu den entsprechenden Höchstbeträgen abgezogen werden. Der Abzug setzt eine AHV/IV-pflichtige selb-
+                    ständige oder unselbständige Erwerbstätigkeit voraus. Die Einzahlungen können max. 5 Jahre über das Ren-
+                    tenalter hinaus vorgenommen und das Vorsorgekonto kann während dieser Zeit weitergeführt werden, falls weiter-
+                    hin eine Erwerbstätigkeit ausgeübt wird.
+
+                    Bei Ehepaaren / Partnern steht der Abzug jedem erwerbstätigen Steuerpflichtigen zu, wenn der Vorsorgevertrag auf
+                    ihn/sie als Vorsorgenehmer/in lautet. Zudem muss für ihn/sie in der Steuererklärung ein Erwerbseinkommen ausge-
+                    wiesen sein.
+
+                    Abgezogen werden dürfen die in der Bescheinigung der Versicherungseinrichtung oder Bankstiftung ausgewiesenen
+                    tatsächlich bezahlten Prämien oder Beiträge. Für das Bemessungsjahr 2025 gelten die folgenden Höchstbeträge:
+
+                 a) Steuerpflichtige, die einer Einrichtung der beruflichen Vorsorge (2. Säule) angehören                 CHF 7'258
+                 b) Steuerpflichtige, die keiner Einrichtung der beruflichen Vorsorge angehören,
+                    jährlich bis zu 20% des Nettolohns, höchstens aber                                                   CHF 36’288
+
+                    Diese Höchstabzüge bilden zugleich die absoluten Einzahlungslimiten. Es ist nicht zulässig, in einem Jahr mehr als
+                    die genannten Beträge einzulegen. Bei zu hohen Beitragsleistungen ist das Vorsorgekonto bzw. die Vorsorgeversi-
+                    cherung vom/von der Steuerpflichtigen berichtigen zu lassen. Der/die Vorsorgeträger/in hat eine Rückzahlung der zu
+                    viel eingezahlten Prämien oder Beiträge vorzunehmen.
+
+                    Wechselt die Erwerbstätigkeit von unselbständig zu selbständig oder umgekehrt, kann der Höchstabzug gemäss
+                    Buchstabe a sowie 20% des selbständigen Erwerbseinkommens geltend gemacht werden, jedoch zusammen höchs-
+                    tens den Maximalbetrag gemäss Buchstabe b.
+
+          11.2      Einkauf
+                    Zusätzlich zum ordentlichen Beitrag ist pro Jahr ein Einkauf in die Säule 3a in Höhe des sogenannten «kleinen Bei-
+                    trages» zulässig (2025 beispielsweise maximal CHF 7’258). Wer einen Einkauf tätigen möchte, muss zu Beiträgen in
+                    die Säule 3a berechtigt sein, das heisst über ein AHV-pflichtiges Erwerbseinkommen in der Schweiz verfügen, so-
+                    wohl im Jahr, in dem der Einkauf stattfindet, als auch im Jahr, für das nachträglich Beiträge einbezahlt werden. Ein
+                    Einkauf setzt voraus, dass der ordentliche Jahresbeitrag im betreffenden Jahr vollständig entrichtet wird. Der Einkauf
+                    ist, wie auch der ordentliche Jahresbeitrag, vollumfänglich vom steuerbaren Einkommen abzugsfähig. Ein Einkauf
+                    wird also im Beitragsjahr 2026 zum ersten Mal zulässig sein.
+
+                    Die neuen Bestimmungen gemäss Verordnung über die steuerliche Abzugsfähigkeit für Beiträge an anerkannte Vor-
+                    sorgeformen (BVV 3) sehen spezielle Regelungen vor, um die Rechtmässigkeit von Einkäufen abzusichern und zu
+                    gewährleisten, dass Einkäufe auch zu einem späteren Zeitpunkt nachvollzogen und insbesondere von den zuständi-
+                    gen Steuerbehörden ordnungsgemäss überprüft werden können.
+
+          Die Bescheinigungen der Vorsorgeeinrichtungen sind der Steuererklärung unbedingt beizulegen.
+
+
+
+
+     18
+12   Versicherungsprämien und Zinsen von Sparkapitalien
+
+     Tatsächlich bezahlte Einlagen, Prämien und Beiträge für private Lebens- und Rentenversicherungen, die private
+     Unfallversicherung (ausgenommen NBUV), Krankentaggeldversicherungen und die Krankenversicherung sowie die Zin-
+     sen von Sparkapitalien gemäss Wertschriftenverzeichnis, jedoch ohne Erträge aus Lotterien und Geschicklichkeitsspielen zur
+     Verkaufsförderung, können in einem begrenzten Umfang vom Einkommen abgezogen werden. Die Prämien sind mit dem sepa-
+     raten Beiblatt (Form. 4) aufzulisten. Darin anzugeben und von den Beiträgen abzuziehen sind die Prämienverbilligungen, die
+     für die Steuerpflichtigen und die von ihm unterhaltenen Kinder ausbezahlt worden sind.
+
+     Abzugsfähig sind maximal:
+                                                                                    Kanton                                  Bund
+                                                                                     CHF                                     CHF
+     für gemeinsam besteuerte Ehegatten / Partner                                     6‘200                                 3‘700
+     oder
+     *1ohne Beiträge an die Säulen 2 und 3a                                           9'300                                 5‘550
+     für die übrigen Steuerpflichtigen                                                3‘100                                 1‘800
+     oder
+     *1ohne Beiträge an die Säulen 2 und 3a                                           4‘650                                 2‘700
+     zusätzlich für: jedes Kind*2 gemäss
+     Abzug Ziffer 19.3 der Steuererklärung                                            1’000                                   700
+     sowie beim Bund für jede unterstützungsbedürftige
+     Person gemäss Ziffer 19.5 der Steuererklärung                                         0                                   700
+
+     *1 Diese um die Hälfte erhöhten Maximal-Ansätze sind massgebend, sofern die Steuerpflichtigen (bei Verheirateten oder in
+     Partnerschaft lebenden beide) in der aktuellen Steuerperiode keine Beiträge an die 2. Säule (Pensionskasse) und Säule 3a
+     (gebundene Selbstvorsorge) geleistet haben.
+     *2 Für nicht gemeinsam steuerpflichtige Eltern gilt die Regelung unter Punkt 19.3 dieser Wegleitung (Kinderabzug) sinngemäss.
+
+     Abzugsberechtigt ist der Totalbetrag gemäss Berechnung 1g des Formulars 4, jedoch höchstens der Maximalbetrag gemäss
+     Berechnung 2e des Hilfsblattes. Auch bei nachweisbar höheren Beiträgen darf nur dieser Maximalbetrag in die Steuererklä-
+     rung übertragen werden.
+
+13   Weitere Abzüge
+
+     Sofern nicht bereits in den Ziffern 1 und 2 der Steuererklärung abgezogen, kommen als Abzüge in Betracht:
+
+     13.1       Beiträge an Einrichtungen der beruflichen Vorsorge (2. Säule)
+                Einkäufe dürfen nur vorgenommen bzw. können nur abgezogen werden, wenn die Statuten der Versicherungskas-
+                se/Vorsorgeeinrichtung dies vorsehen und die Notwendigkeit der Einzahlung betragsmässig nachgewiesen ist. Zu-
+                dem müssen die neuen BVG-Vorschriften eingehalten sein, die ab 1. Januar 2005 bzw. 1. Januar 2006 in Kraft getre-
+                ten sind. So dürfen u.a. die aus Einkäufen resultierenden Leistungen in den folgenden 3 Jahren nicht in Kapitalform
+                bezogen werden.
+                Die ordentlichen Beiträge sind in der Regel bereits vom Bruttolohn abgezogen und daher in Ziffer 1 der Steuerer-
+                klärung berücksichtigt.
+
+                Selbständigerwerbende dürfen hier nur den Privatanteil der für sich selbst bezahlten Beiträge abziehen. Der soge-
+                nannte «Arbeitgeberanteil» ist bereits zur Ermittlung des Einkommens aus selbständiger Erwerbstätigkeit auszu-
+                scheiden (Ziff. 2 der Steuererklärung). Als Arbeitgeberanteil gilt derjenige Anteil, den der/die Arbeitgeber/in üblicher-
+                weise, d.h. im Falle unabhängiger Dritter, für sein/ihr Personal leistet. Ist kein solches Personal vorhanden, gilt die
+                Hälfte der Beiträge als Arbeitgeberanteil.
+                Bei Ehepaaren / Partnern steht der Abzug jedem erwerbstätigen Steuerpflichtigen zu, wenn der Vorsorgevertrag auf
+                ihn/sie als Vorsorgenehmer/in lautet. Zudem muss für ihn/sie in der Steuererklärung ein Erwerbseinkommen ausge-
+                wiesen werden.
+                Die Bescheinigungen der Vorsorgeeinrichtungen sind der Steuererklärung beizulegen.
+
+     13.2       Berufsorientierte Aus- und Weiterbildungskosten (jährlich bis CHF 13‘000)
+
+                Ab der Steuerperiode 2016 sind nicht nur die Weiterbildungskosten, sondern auch die berufsorientierten Ausbil-
+                dungskosten, einschliesslich der Umschulungskosten abzugsberechtigt.
+
+
+
+
+                                                                                                                                      19
+            Voraussetzungen für den Abzug:
+
+
+                       ein erster Abschluss auf der Sekundarstufe II muss vorliegen (Berufslehre, allgemein- oder berufsbil-
+                        dende Mittelschule, Maturitätsschule),
+                       oder das 20. Lebensjahr ist vollendet und es handelt sich nicht um die Ausbildungskosten bis zum ers-
+                        ten Abschluss auf der Sekundarstufe II (Berufslehre, allgemein- oder berufsbildende Mittelschule, Matu-
+                        ritätsschule).
+
+            Nicht abzugsfähig sind hingegen Kosten für Aus- und Weiterbildungen, die nicht berufsorientiert sind und nur der
+            Liebhaberei (Hobby) oder der persönlichen Selbstentfaltung dienen.
+
+            Alle diese Auslagen dürfen nur geltend gemacht werden, soweit die Aufwendungen nicht von Dritten (z.B. Arbeit-
+            geber/in, Arbeitslosen- oder Invalidenversicherung, Bund, Branchenverbände, etc.) übernommen werden. Die Zu-
+            sammenstellung dieser Kosten hat auf einem separaten Blatt zu erfolgen, und die Auslagen sind nachzuweisen.
+            Massgebend für die zeitliche Abgrenzung dieser effektiven Auslagen ist das Zahlungsdatum.
+
+     13.3   AHV-Beiträge von nicht Erwerbstätigen
+            Hier werden Beiträge an die AHV/IV/EO/ALV von nicht erwerbstätigen Steuerpflichtigen abgezogen.
+
+     13.4   Abzug für Kinderdrittbetreuung
+            Die nachgewiesenen Kosten, jedoch höchstens CHF 25‘800 bei Kanton und Bund für die Drittbetreuung jedes Kin-
+            des, das am 31. Dezember 2025 das 14. Altersjahr noch nicht vollendet hat (Jahrgänge 2012-2025) und mit der
+            steuerpflichtigen Person, die für seinen Unterhalt sorgt, im gleichen Haushalt lebt, dürfen abgezogen werden, soweit
+            diese Kosten in direktem oder kausalem Zusammenhang mit der Erwerbstätigkeit, Ausbildung oder Erwerbsunfähig-
+            keit der steuerpflichtigen Person stehen. Schulgebühren und Lebenshaltungskosten (Mittagessen CHF 5 und Essen
+            pro Tag CHF 8) sind nicht abziehbar.
+
+            Die geltend gemachten Auslagen sind nachzuweisen, und die vollständigen Adressen der Zahlungsempfänger/innen
+            sind anzugeben.
+
+     13.5   Verwaltungskosten für Wertschriften und sonstige Kapitalanlagen
+            Als Vermögensverwaltungskosten gelten nur die Aufwendungen für die allgemein übliche Verwaltung durch Dritt-
+            personen (z.B. Gebühren für Depots und Schrankfächer, Negativzinsen). Nicht abzugsfähig sind Auslagen im Zu-
+            sammenhang mit der Anlage von Vermögenswerten (z.B. für Anlageberatung, Kommissionen oder Spesen für den
+            An- und Verkauf von Wertschriften, Umsatz- und Emissionsabgabe, Kartengebühren).
+            Ohne Nachweis der tatsächlichen Kosten ist für die Wertschriftenverwaltung ein Pauschalabzug von 2‰, bzw. 3‰,
+            wenn der Steuererklärung ein detaillierter Steuerauszug beigelegt ist, vom Wertschriftenvermögen gemäss
+            Ziffer 22.1 der Steuererklärung möglich, höchstens jedoch CHF 6‘000. Höhere Kosten sind effektiv nachzuweisen.
+            Von der Pauschale ausgenommen sind u.a. private Darlehen, selbstverwaltete eigene Aktien, Stammanteile und
+            Kontokorrente bei juristischen Personen, die sich im Privatvermögen befinden.
+
+     13.6   Abzug für Mitgliederbeiträge und Zuwendungen an politische Parteien
+            Mitgliederbeiträge und Zuwendungen an politische Parteien können bis höchstens CHF 10'600 bei Kanton und Bund
+            abgezogen werden, wenn die Parteien:
+
+                  im Parteienregister eingetragen sind,
+                  in einem kantonalen Parlament vertreten sind, oder
+                  in einem Kanton bei den letzten Wahlen des kantonalen Parlaments mindestens 3% der Stimmen erreicht
+                   haben.
+
+            Die Beträge von CHF 10'600 bei Kanton und Bund gelten auch für Ehepaare / Partner. Es kann also nicht jeder Ehe-
+            gatte / Partner einzeln den Abzug von CHF 10'600 geltend machen.
+
+            Die Mitgliederbeiträge und Zuwendungen sind im Formular 8 (allenfalls mit neutralem Zusatzblatt) detailliert aufzu-
+            führen. Sämtliche Belege sind beizulegen.
+
+     13.7   Behinderungsbedingte Kosten
+            (siehe auch Merkblatt Kreisschreiben Nr. 11 auf der Homepage der Kantonalen Steuerverwaltung)
+            Personen mit voraussichtlich dauernder körperlicher, geistiger oder psychischer Beeinträchtigung können alltägliche
+            Verrichtungen nicht oder nur unter erschwerten Bedingungen selber erledigen. Abzugsberechtigt sind die selbst be-
+            zahlten Behinderungskosten der Steuerpflichtigen und der von ihnen unterhaltenen Personen, für welche die Steu-
+20
+       erpflichtigen einen Kinder- oder Unterstützungsabzug geltend machen können. In diesen Fällen sind nur die den Kin-
+       der- bzw. Unterstützungsabzug übersteigenden Kosten abzugsberechtigt.
+       Als behinderte Personen gelten insbesondere Bezüger von IV-Renten, Hilflosenentschädigungen, Hilfsmitteln sowie
+       Heimbewohner/innen und Spitex-Patienten und -Patientinnen, für die ein Pflege- und Betreuungsaufwand von min-
+       destens 60 Minuten pro Tag anfällt. In Pflegeheimen des Kantons Glarus ist dies ab der Pflegebedarfsstufe 4 der
+       Fall.
+
+       Die Bezüger/innen von Leistungen haben ihre Behinderung mit den Verfügungskopien der entsprechenden Amtstel-
+       len nachzuweisen. Bei Heimbewohner/innen ist die Pflegebedarfsstufe in der Regel auf der monatlichen Abrechnung
+       ersichtlich, ansonsten ist eine entsprechende Bestätigung zu verlangen. Spitex-Patienten und -Patientinnen sowie
+       weitere Personen, die keiner der obigen Gruppen angehören, haben ein Arztzeugnis beizubringen. Ein entsprechen-
+       des Formular kann bei der Kantonalen Steuerverwaltung, 8750 Glarus, verlangt oder im Internet unter:
+
+       gl.ch/online-schalter (Finanzen und Gesundheit > Steuerverwaltung > Formulare, Gesuche, Anträge) abgerufen wer-
+       den.
+
+       Eine leichte Beeinträchtigung, deren Auswirkungen durch Hilfsmittel einfach behoben werden kann, gilt nicht als Be-
+       hinderung (z.B. bei einer Seh- oder Hörschwäche durch Brille oder Hörgerät). Dasselbe gilt, wenn die Beeinträchti-
+       gung einzig darin besteht, dass die betroffene Person eine Diät einhalten muss (z.B. Zöliakie).
+
+       Als behinderungsbedingte Kosten abzugsfähig sind nur die notwendigen Aufwendungen, welche als Folge einer Be-
+       hinderung entstehen (kausaler Zusammenhang) und weder Lebenshaltungs- noch Luxusausgaben darstellen. Dazu
+       gehören insbesondere die Kosten für:
+       Ambulante Pflege, Haushalthilfen und Kinderdrittbetreuung, Aufenthalte in Tagesstrukturen oder Heimen, Therapien
+       und Rehabilitationsmassnahmen, Anschaffungen von Hilfsmitteln, Fahrkosten für das öffentliche Verkehrsmittel. Die-
+       se, die normalen Lebenshaltungskosten übersteigenden Mehrkosten, sind auf dem Formular 9 Ziffer A detailliert auf-
+       zulisten. Sämtliche Vergütungen Dritter, wie z.B. von gemeinnützigen Organisationen, Krankenkassen oder Versiche-
+       rungen sowie allfällige Hilflosenentschädigungen der AHV/IV, UV bzw. weitere steuerfreie Versicherungsleistungen,
+       die Auslagenersatz darstellen, sind unter Ziffer B in Abzug zu bringen. Ebenso anzurechnen ist die Einsparung von
+       Lebenshaltungskosten (Ernährung, Unterkunft, Bekleidung etc.) zu Hause. Der Ansatz beträgt für Einzeltage CHF 20
+       bzw. für Heimbewohner/innen CHF 2'000 im Monat.
+
+       Anstelle des Abzugs der effektiven selbst getragenen Kosten kann ein jährlicher Pauschalabzug in folgender Höhe
+       geltend gemacht werden:
+
+        CHF 2'500 für Gehörlose
+        CHF 2'500 für Nierenkranke, die sich einer Dialyse unterziehen müssen
+        CHF 2'500 für Bezüger/innen einer Hilflosenentschädigung leichten Grades
+        CHF 5'000 für Bezüger/innen einer Hilflosenentschädigung mittleren Grades
+        CHF 7'500 für Bezüger/innen einer Hilflosenentschädigung schweren Grades
+
+       Die Pauschalabzüge sind ebenfalls auf dem Formular 9 zu deklarieren, wobei die Ziffer B (Abzug für Vergütung Drit-
+       ter und Lebenshaltungskosten) entfällt.
+
+       Die von den Steuerpflichtigen für sich oder für eine von ihnen unterhaltene Person geltend gemachten, be-
+       hinderungsbedingten Kosten sind durch ärztliche Bescheinigungen, Verfügungen der AHV/IV, Rechnungen, Ver-
+       sicherungsbelege usw. nachzuweisen, wobei bei unveränderten Verhältnissen Arztzeugnisse bzw. Verfügungen für
+       die Hilflosenentschädigung nicht jedes Jahr neu einzureichen sind.
+
+13.8   Weitere Abzüge
+       Von den Gewinnen aus Lotterien oder Geschicklichkeitsspielen zur Verkaufsförderung können die Einsatzkosten oh-
+       ne Nachweis bis zu 5% der Gewinne, jedoch höchstens CHF 5‘400, geltend gemacht werden. Auf den einzelnen
+       Gewinnen aus Online-Spielbankenspielen sind die vom Online-Spielerkonto effektiv abgebuchten Spieleinsätze im
+       Steuerjahr in der Höhe von bis zu CHF 26'800 abziehbar. Ein Abzug nachweislich höherer Kosten ist ausgeschlos-
+       sen.
+
+       Ebenfalls unter dieser Ziffer sind Verlustvorträge aus selbständiger Erwerbstätigkeit aus maximal sieben der Steu-
+       erperiode vorangegangen Jahren einzutragen.
+
+
+
+
+                                                                                                                       21
+14        Sonderabzug bei Erwerbstätigkeit beider Ehegatten / Partner
+
+          Gemeinsam steuerpflichtigen Ehegatten / Partnern, die beide erwerbstätig sind, steht vom niedrigeren der beiden steuerpflichti-
+          gen Erwerbseinkommen ein Sonderabzug unter der Ziffer 290 zu. Bei erheblicher Mitarbeit eines Ehegatten / Partners im Beruf,
+          Geschäft oder Gewerbe des anderen Ehegatten / Partners oder bei gemeinsamer selbständiger Erwerbstätigkeit wird grundsätz-
+          lich jedem Ehegatten / Partner die Hälfte des gemeinsamen Erwerbseinkommens zugewiesen.
+
+          Berechnung des Abzugs:
+
+           Kanton                                                         Bund
+
+           10% des niedrigeren Erwerbseinkommens (Ziffern 1, 2, 3.4       50% des niedrigeren Erwerbseinkommens (Ziffern 1, 2, 3.4
+           sowie Mutterschaftsentschädigungen (3.5) der Steuererklä-      sowie Mutterschaftsentschädigungen (3.5) der Steuererklä-
+           rung abzüglich Berufsauslagen, Einzahlungen in die 2. Säule    rung abzüglich Berufsauslagen, Einzahlungen in die 2. Säule
+           und die Säule 3a sowie Verlustvorträge), mindestens            und die Säule 3a sowie Verlustvorträge), mindestens
+           CHF 3’600 und maximal CHF 10’300.                              CHF 8’600 und maximal CHF 14’100.
+
+           Beträgt das niedrigere Erwerbseinkommen weniger als            Beträgt das niedrigere Erwerbseinkommen weniger als
+           CHF 3’600, kann nur dieser Betrag abgezogen werden.            CHF 8’600, kann nur dieser Betrag abgezogen werden.
+
+
+17        Zusätzliche Abzüge
+          17.1       Krankheits- und Unfallkosten
+                     (siehe auch Merkblatt Kreisschreiben Nr. 11 auf der Homepage der Kantonalen Steuerverwaltung)
+                     Abzugsberechtigt sind die selbst bezahlten Krankheits- und Unfallkosten der Steuerpflichtigen und der von ihnen
+                     unterhaltenen Personen, für welche die Steuerpflichtigen einen Kinder- oder Unterstützungsabzug geltend machen
+                     können. Dazu gehören insbesondere Arzt- und Zahnarztkosten, Brillen, Kontaktlinsen, Auslagen für Spitäler, Klini-
+                     ken, Heilstätten, Pflegeheime sowie für ärztlich verordnete Medikamente, Apparate, Massagen, Kuren und lebens-
+                     notwendige Diäten. Auslagen für ambulante Behandlungen können ebenfalls geltend gemacht werden.
+
+                     Die Kosten für naturheilärztliche Behandlungen gelten als abzugsfähig, wenn diese von einem anerkannten Natur-
+                     heilpraktiker verordnet und durchgeführt werden.
+
+                     Anstelle der effektiven Kosten kann bei andauernden, lebensnotwendigen Diäten (z.B. Zöliakie) eine Pauschale von
+                     CHF 2'500 geltend gemacht werden, wenn ein entsprechendes Arztzeugnis beigebracht wird. An Diabetes erkrankte
+                     Personen können jedoch nur die effektiven Mehrkosten zum Abzug bringen.
+
+                     Auslagen für Heim-/Pensionskosten, Fahrkosten, Schönheitsbehandlungen, Fitnesskuren, Fitnesscenter und derglei-
+                     chen stellen dagegen Lebenshaltungskosten dar und sind nicht abzugsberechtigt. Altersgebrechen gelten erst ab
+                     einem bestimmten Grad als Behinderung. Es wird davon ausgegangen, dass Bewohner von Altersheimen, für die ein
+                     Pflege- und Betreuungsaufwand von weniger als 60 Minuten pro Tag anfällt, ohne medizinische Indikation im Heim
+                     wohnen. In diesem Fall stellen die Heimkosten grundsätzlich Lebenshaltungskosten dar und sind nicht abzugsfähig.
+                     Separat in Rechnung gestellte Pflegekosten sind jedoch als Krankheitskosten abziehbar.
+
+                     Die von Krankenkassen oder Versicherungen vergüteten Kosten sowie allfällige Hilflosenentschädigungen der
+                     AHV/IV, Suva oder anderen Versicherungen sind abzuziehen. Für die Einsparung von Lebenshaltungskosten ist für
+                     Einzeltage CHF 20 anzurechnen.
+                     Massgebend für die zeitliche Abgrenzung dieser effektiven Abzüge ist das Datum der Schluss- bzw. Krankenkassen-
+                     abrechnung. Akontozahlungen können nicht berücksichtigt werden.
+
+                     Die geltend gemachten Aufwendungen sind im Formular 9 detailliert aufzuführen, und die Rechnun-
+                     gen/Abrechnungen sind geordnet beizulegen.
+
+                     Auf das Ausfüllen und Einreichen dieses Hilfsblattes mit den entsprechenden Belegen kann mangels Abzug
+                     verzichtet werden, wenn der Totalbetrag der eigenen Auslagen (Bst. Cc Form. 9) kleiner ist als der Selbstbe-
+                     halt von 2% des Nettoeinkommens (Ziff. 16 der Steuererklärung abzüglich Ziffer 17.3). Ergibt sich jedoch ein steu-
+                     erlicher Abzug, ist das Total der Auslagen (Cc) auf die Steuererklärung, in die Vorziffer 17.1, bei Kanton und Bund,
+                     einzutragen. Von diesen Beträgen ist der jeweilige Selbstbehalt (2% bzw. 5% vom Nettoeinkommen gemäss Ziff. 16
+                     der Steuererklärung abzüglich Ziffer 17.3) unter Ziffer 311 abzuziehen und die Differenz in die entsprechenden
+                     Hauptkolonnen (Ziffer 312) einzutragen.
+
+
+
+     22
+     17.2       Freiwillige Zuwendungen
+                Abzugsberechtigt sind die Leistungen von Geld und übrigen Vermögenswerten an juristische Personen mit Sitz in der
+                Schweiz, die aus öffentlichen oder gemeinnützigen Zwecken steuerbefreit sind, sowie an Bund, Kantone, Gemeinden
+                und deren Anstalten. Ein Abzug ist nur möglich, falls die jährlichen Zuwendungen mindestens CHF 100 betragen.
+                Der Maximalabzug beträgt 20% des Nettoeinkommens (Ziff. 16 der Steuerklärung).
+                Die Spenden sind im Formular 8 (allenfalls mit neutralem Zusatzblatt) detailliert aufzuführen. Die Belege sind nur auf
+                Verlangen einzureichen. Die Höhe der Abzüge ist zuerst auf Formular 8 zu berechnen und das entsprechende Er-
+                gebnis in die Ziffer 17.2 der Steuererklärung zu übertragen.
+                Siehe auch Weisung des Departements Finanzen und Gesundheit vom 20. Dezember 2012
+                unter gl.ch/online-schalter (Finanzen und Gesundheit > Steuerverwaltung > natürliche Personen > Einkommens- und
+                Vermögenssteuer).
+
+     17.3       Separate Besteuerung des Liquidationsgewinnes
+                Bei definitiver Aufgabe der selbständigen Erwerbstätigkeit nach dem 55. Altersjahr oder wegen Unfähigkeit zur Wei-
+                terführung infolge Invalidität, wird die Summe der in den letzen zwei Geschäftsjahren realisierten stillen Reserven
+                (Liquidationsgewinn) getrennt vom übrigen Einkommen, zu einem privilegierten Steuersatz besteuert.
+                Die privilegierte Besteuerung wird auch für den überlebenden Ehegatten / Partner, die anderen Erben und die Ver-
+                mächtnisnehmer angewandt, sofern sie das übernommene Unternehmen nicht fortführen. In diesem Fall wird spätes-
+                tens fünf Kalenderjahre nach Ablauf des Todesjahres des Erblassers bzw. der Erblasserin steuerlich abgerechnet.
+                Das Kreisschreiben Nr. 28 der Eidgenössischen Steuerverwaltung vom 3. November 2010 gilt sinngemäss auch für
+                den Kanton. Es kann unter www.estv.admin.ch eingesehen werden.
+
+                Das Hilfsblatt zur Berechnung des Liquidationsgewinnes kann im Internet herunter geladen werden unter:
+                gl.ch/online-schalter (Finanzen und Gesundheit > Steuerverwaltung > Formulare, Gesuche, Anträge).
+
+19   Steuerfreie Beträge (Sozialabzüge)
+
+     Für die Festsetzung der Sozialabzüge sind die Verhältnisse am 31. Dezember 2025 bzw. am Ende der Steuerpflicht massge-
+     bend. Besteht die Steuerpflicht nur während eines Teils der Steuerperiode, werden die Sozialabzüge anteilig für die Dauer der
+     Steuerpflicht gewährt; für die Bestimmung des Steuersatzes werden sie jedoch vollständig berücksichtigt.
+
+     19.1   Abzug für alleinstehende AHV- und IV-Rentner
+               Beim Kanton steht alleinstehenden AHV- und IV-Rentnern ein Abzug von CHF 2'100 zu, sofern das satzbe-
+               stimmende Reineinkommen (Ziff. 18) CHF 30'000 und das satzbestimmende Reinvermögen (Ziff. 27)
+               CHF 300'000 nicht übersteigt.
+                Beim Bund ist kein Abzug möglich.
+
+     19.2       Abzug für Verheiratete
+                Dieser Abzug in Höhe von CHF 2’800 kann beim Bund von allen Ehepaaren / Partnern mit gemeinsamer Besteue-
+                rung vorgenommen werden.
+                Beim Kanton ist kein Abzug möglich.
+
+     19.3       Abzug für minderjährige oder in Erstausbildung stehende Kinder
+                Der Abzug ist zulässig für minderjährige Kinder unter der elterlichen Sorge oder Obhut der Steuerpflichtigen sowie
+                für Volljährige, die in der beruflichen Erstausbildung stehen und deren Unterhalt die Steuerpflichtigen zur Hauptsache
+                bestreiten. Übersteigt das Nettoerwerbseinkommen (Nettolohn abzüglich Berufsauslagen) bzw. das Ersatzein-
+                kommen des Kindes CHF 14‘000 im Jahr, ist die Voraussetzung für einen Abzug nicht mehr gegeben.
+                Der Abzug beträgt pro Kind CHF 7‘200 beim Kanton bzw. CHF 6’800 beim Bund.
+
+                Bei nicht gemeinsam besteuerten Eltern steht der Kinderabzug demjenigen Elternteil zu, der für den Unterhalt zur
+                Hauptsache aufkommt. Der Alimentenschuldner oder die Alimentenschuldnerin, welche die Unterhaltsbeiträge von
+                minderjährigen Kindern in Abzug bringen können, haben keinen Anspruch auf den Kinderabzug. Nach Erreichen der
+                Volljährigkeit des Kindes steht der Kinderabzug jedoch demjenigen Elternteil zu, der die Kinderunterhaltsbeiträge
+                leistet und zur Hauptsache aufkommt. Bei getrennt veranlagten Eltern mit Alimentenzahlungen werden in der Steu-
+                erperiode des Volljährigkeitseintritts des Kindes der Kinderabzug und der Versicherungsabzug für das Kind pro rata
+                temporis auf beide Elternteile aufgeteilt.
+
+
+
+
+                                                                                                                                   23
+          19.4      Abzug für Kinder in schulischer oder beruflicher Ausbildung bei ständigem Aufenthalt am auswärtigen Aus-
+                    bildungsort
+                    Bei ständigem Aufenthalt am Ausbildungsort ausserhalb des Kantons Glarus ist zum Kinderabzug ein zusätzlicher
+                    Abzug von je CHF 7'200 pro Kind möglich.
+                    Der ständige Ausbildungsort ist entsprechend nachzuweisen. Eine Kopie des Mietvertrages für die Wohnung bzw. für
+                    das Zimmer am ständigen Ausbildungsort ist der Steuererklärung beizulegen.
+                    Beim Bund ist kein Abzug möglich.
+
+          19.5      Abzug für unterstützungsbedürftige Personen
+                    Für den Unterhalt von erwerbsunfähigen oder beschränkt erwerbsfähigen Personen kann ein Abzug von je
+                    CHF 2‘100 beim Kanton bzw. CHF 6‘800 beim Bund pro Person vorgenommen werden, falls die jährliche Unterstüt-
+                    zung mindestens die Höhe der betreffenden Abzüge ausmacht. Nicht darunter fallen der/die Ehepartner/in/ Partner/in
+                    und Kinder, für die ein Kinderabzug vorgenommen wird oder Unterhaltsbeiträge abgezogen werden.
+                    Die geleisteten Zahlungen sind zu belegen, und die Unterstützungsbedürftigkeit ist durch eine Bestätigung der
+                    Wohnsitzgemeinde (Steuerausweis oder Bestätigung der Sozialbehörde) nachzuweisen.
+
+20        Steuerbares Einkommen
+
+          Das Reineinkommen (Ziff. 18) abzüglich die Sozialabzüge ergibt das steuerpflichtige Gesamteinkommen für die Kantons- und
+          Gemeinde- sowie die Direkte Bundessteuer.
+
+21        Ergänzende Angaben
+          21.1 +    Ausscheidungsantrag für Kanton und Bund
+          21.2      Ist im Nettoeinkommen gemäss Ziffer 16 der Steuererklärung Einkommen enthalten, das gestützt auf die interkanto-
+                    nalen/-nationalen Steuerausscheidungsvorschriften in einem andern Kanton bzw. Land steuerpflichtig ist, sind diese
+                    Beträge hier einzusetzen. Die entsprechende Steuerausscheidung wird von Amtes wegen vorgenommen.
+
+
+
+
+     24
+     Vermögen im In- und Ausland
+     (Seite 4 der Steuererklärung)
+
+     Vorbemerkungen
+     Das Vermögen wird nur kantonal besteuert. Massgebend für die Deklaration des steuerbaren Vermögens ist der Vermögens-
+     stand am 31. Dezember 2025 bzw. am Ende der Steuerpflicht. Anzugeben sind alle in- und ausländischen Vermögenswerte
+     (einschliesslich Nutzniessungsvermögen) der Steuerpflichtigen (bei Steuerpflichtigen in ungetrennter Ehe / Partnerschaft
+     das Vermögen beider Ehegatten / Partner) und der minderjährigen Kinder unter ihrer elterlichen Sorge.
+
+     Bei gemischt genutzten Vermögenswerten (z.B. Liegenschaften), die teilweise geschäftlichen wie auch privaten Zwecken dienen,
+     gilt der Grundsatz der Präponderanz, d.h. solche Vermögenswerte werden demjenigen Bereich zugeordnet, dem sie vorwie-
+     gend dienen. Als Abgrenzungsmerkmal gelten insbesondere die Mietwerte bzw. die Mieterträge. Objekte, die danach überwie-
+     gend (mehr als 50%) der selbständigen Erwerbstätigkeit dienen, sind vollumfänglich dem Geschäftsvermögen zuzuweisen.
+
+22   Bewegliches Privatvermögen
+
+     Von der Vermögenssteuer befreit ist der Hausrat. Nicht steuerpflichtig sind ferner nicht rückkaufsfähige Ansprüche oder
+     Anwartschaften auf periodische Leistungen wie anwartschaftliche Ansprüche gegenüber Einrichtungen der beruflichen Vor-
+     sorge (2. Säule/Freizügigkeitskonti) oder nicht fällige Ansprüche aus anerkannten Formen der gebundenen Selbstvorsorge
+     (Säule 3a).
+
+     22.1       Wertschriften und Guthaben
+                Das Formular 2 dient
+
+                 der Ermittlung des steuerbaren Wertschriftenvermögens mit Stand per 31. Dezember 2025 bzw. am Ende der
+                  Steuerpflicht,
+                 der Ermittlung der in der Steuerperiode fällig gewordenen Wertschriftenerträge,
+                 der Ermittlung des Anspruchs auf Rückerstattung der im Jahr 2025 abgezogenen eidgenössischen Verrech-
+                  nungssteuer,
+                 der Deklaration über die Beteiligung an unverteilten Erbschaften,
+                 der Deklaration von Erbschaften, Erbvorbezügen und Schenkungen im Jahre 2025,
+                 der Ermittlung von Ausschüttungen aus Kapitaleinlagereserven,
+                 der Deklaration von Kapitalauszahlungen im Jahre 2025.
+
+                Das Wertschriften- und Guthabenverzeichnis ist vollständig auszufüllen und unterzeichnet einzureichen. Von
+                Banken für Steuerzwecke erstellte Verzeichnisse, Festgeldabrechnungen, Kauf- und Verkaufsabrechnungen, Zeit-
+                rentenbestätigungen usw. sind beizulegen.
+
+                Angabe des Wertschriften- und Kapitalvermögens und der Erträge
+                Das Wertschriftenverzeichnis soll das ganze in Wertschriften und andern Kapitalanlagen (z.B. Spar-, Einlage-, An-
+                lage- und Depositenhefte bzw. -konti, übrige Bankguthaben, Postcheck-, Salär- und Festgeldkonti, Kontokorrente,
+                Prämiendepots, inländische Aktien, Obligationen, GmbH-, Mitarbeiterbeteiligungen, Genossenschafts- und Anlage-
+                fondsanteile, einschliesslich Wertzuwachs-Anlagefonds) bestehende Vermögen und alle Erträge umfassen, die in
+                der Steuerperiode 2025 zugeflossen sind. Zum steuerbaren Ertrag gehören nebst Zinsen, Dividenden und sonstigen
+                Gewinnanteilen z.B. das Agio bei vorzeitigen Rückkäufen von Anleihensobligationen, reinvestierte Erträge aus Wert-
+                zuwachsfonds (sog. Thesaurierungsfonds), Einkünfte aus der Veräusserung oder Rückzahlung von Obligationen mit
+                ausschliesslicher oder überwiegender Einmalverzinsung, Gratisaktien, Gratisnennwerterhöhungen und Vermögens-
+                bzw. Ertragsanteile aus Erneuerungsfonds bei Stockwerkeigentum.
+                Ebenfalls hier zu deklarieren sind Einkünfte aus Lotterien (insbes. Lotterie- und Sport-Toto-Treffer) oder anderen Ge-
+                schicklichkeitsspiele zur Verkaufsförderung über CHF 1‘100. Bei Grossspielen gemäss BGS (automatisiert, online
+                oder interkantonal durchgeführt) sind die Erträge über CHF 1'070’400 zu deklarieren.
+
+                Nicht steuerpflichtig dagegen sind Erlöse aus Bezugsrechten des Privatvermögens.
+
+                Folgende Vermögenswerte sind in der ersten Spalte wie folgt zu kennzeichnen:
+                BP = Beteiligung Privatvermögen mind. 10% / BG = Beteiligung Geschäftsvermögen mind. 10% /
+                E = Erbschaft 2025 / F = Grab-Fonds / G = Geschäftsvermögen / N = Nutzniessung / S = Neuer Titel aus Schenkung
+                2025 / P = Pauschale Verwaltungskosten nicht abzugsberechtigt
+
+
+                                                                                                                                   25
+     Rückerstattungskonto
+     (Seite 1 des Wertschriftenverzeichnisses)
+
+                            Damit allfällige Rückzahlungen an die Bank vorgenommen werden können, benötigen wir
+                            von allen Steuerpflichtigen die IBAN (internationale Bankkontonummer; ersichtlich auf den
+                            Bankbelegen). Die 21 Zeichen sind in die dafür vorgesehenen Felder auf der ersten Seite des
+                            Wertschriftenverzeichnisses unbedingt einzutragen. Die Kontonummern sind nur beim erst-
+                            maligen Ausfüllen oder bei einer Änderung anzugeben.
+
+                            Korrekturen, welche aufgrund von verändertem Zivilstand etc. vorzunehmen sind, müssen bei
+                            Bekanntwerden umgehend der Kantonalen Steuerverwaltung schriftlich oder telefonisch
+                            (055 646 61 50) mitgeteilt werden.
+
+
+     A Werte mit Verrechnungssteuerabzug
+
+     Einzutragen ist der Bruttozins (vor dem Verrechnungssteuerabzug) in Spalte A. Bei Gewinnen aus Lotterien und
+     Geschicklichkeitsspielen zur Verkaufsförderung über CHF 1‘100 und bei Gewinnen aus Grossspielen gemäss BGS
+     (automatisiert, online oder interkantonal durchgeführt) über CHF 1'070’400 sind die Auszahlungsbescheinigungen
+     im Original bzw. der Postanweisungsabschnitt beizulegen. Diese bleiben bei den Steuerakten.
+
+     Bei Änderungen im Bestand von Obligationen und Aktien im Jahre 2025 ist in der sechsten und siebten Kolonne
+     von Seite 2 des Wertschriftenverzeichnisses das genaue Datum des Kaufs bzw. Verkaufs, der Rückzahlung bzw.
+     Konversion anzugeben. Mit Verrechnungssteuer belastete Bruch- bzw. Ratazinsen, die bei Errichtung, Konver-
+     sion oder Rückzahlung von Obligationen anfallen können, sind ebenfalls aufzuführen, nicht jedoch die von Titelver-
+     käufen herrührenden Marchzinsen (z.B. bei Veräusserung von Obligationen mit periodischem Zins oder nicht
+     überwiegendem Einmalzins).
+     Bezüglich der privilegierten Dividendenbesteuerung verweisen wir auf die Ausführungen unter Ziffern 4.1 bis
+     4.3 dieser Wegleitung.
+
+
+     B Werte ohne Verrechnungssteuerabzug
+
+     Alle Zinserträge ohne Verrechnungssteuerabzug (z.B. Sparhefte, deren Bruttozins CHF 200 nicht übersteigt) sind in
+     Spalte B aufzuführen, ebenso Gewinne aus ausländischen Lotterien, wenn der Gewinn über CHF 1‘100 liegt.
+     Hier anzugeben sind auch inländische Darlehen, Hypothekarforderungen, andere Guthaben ohne Verrechnungs-
+     steuerabzug (u.a. virtuelle Zahlungsmittel/Kryptowährungen wie z.B. Bitcoins), Ausgleichs- oder Rückerstat-
+     tungszinsen aufgrund von Steuerrückerstattungen, ausländische Lotteriegewinne, sämtliche ausländischen Wert-
+     schriften und Guthaben aller Art, Erträge aus Kapitalversicherungen mit Einmalprämien ohne Vorsorgecharakter und
+     Rückkaufswert und Ertrag von Zeitrenten.
+     Die Eintragungen sind nach den Gruppen eins bis sechs geordnet vorzunehmen, wie sie in den Erläuterungen zur
+     Kolonne B auf Seite 2 des Wertschriftenverzeichnisses vorgegeben sind. Die Reihenfolge der einzelnen Positionen in
+     der letzten Deklaration ist nach Möglichkeit einzuhalten.
+
+     Als steuerbarer Ertrag ausländischer Wertpapiere gilt der Nettobetrag gemäss Auszahlungsbordereau oder Gut-
+     schrift, zuzüglich ausländischer Quellensteuern, so weit diese aufgrund eines Doppelbesteuerungsabkommens zu-
+     rückverlangt oder angerechnet werden können.
+     Amerikanische Vermögenswerte, deren Ertrag um den zusätzlichen Steuerrückbehalt USA gekürzt worden ist, sind
+     im Ergänzungsblatt USA aufzuführen (Form. R-US 164), das zugleich als Antrag auf Rückerstattung des zusätzlichen
+     Steuerrückbehaltes dient. Die Gesamtbeträge des Formulars R-US 164 sind alsdann in Ziffer 2 unten auf Seite B des
+     Formulars 2 einzutragen. Vermögenswerte, die diesem zusätzlichen Steuerrückbehalt nicht unterliegen, sind direkt
+     auf Seite B einzusetzen.
+
+     Mit Formular DA-1 kann die pauschale Steueranrechnung für Erträge aus Ländern, mit denen ein Doppelbesteue-
+     rungsabkommen besteht, beantragt werden. Ansprüche aus Lizenzgebühren sind mit Formular DA-3 zu beantragen.
+
+     Der Steuerwert der Wertschriften und Kapitalanlagen richtet sich nach ihrem Verkehrswert per 31. Dezember 2025
+     bzw. am Ende der Steuerperiode. Die Kryptowährungen wie Bitcoin sind zum Jahresendkurs (Auszug digitale Wal-
+     let) zu deklarieren.
+
+
+
+
+26
+Für kotierte Wertpapiere können die massgebenden Kurswerte wie folgt ermittelt werden:
+
+ aus den Bankauszügen;
+ durch Zugriff auf die amtliche Kursliste via Internet unter: www.estv.admin.ch
+
+Sind die aktuellen Verkehrswerte per 31. Dezember 2025 von nicht kotierten Wertpapieren nicht bekannt, kann er-
+satzweise der Wert per 31. Dezember 2024 eingetragen werden. Der neue Verkehrswert dieser Wertpapiere wird
+sodann durch die Kantonale Steuerverwaltung festgesetzt und allenfalls angepasst. Massgebend für die Bewertung
+ist die Wegleitung der Schweizerischen Steuerkonferenz vom 28. August 2008. Der Pauschalabzug für vermögens-
+rechtliche Beschränkungen (Minderheitsabzug) wird von der Veranlagungsbehörde auf begründeten Antrag der
+Steuerpflichtigen berücksichtigt.
+
+Die Beträge der Kolonnen A und B sowie die Überträge aus allfälligen Beiblättern ergeben das Zwischentotal
+(Ziff. 4). Davon abzuziehen ist der Verkehrswert der Geschäftswertschriften und deren Ertrag (Ziff. 6), soweit diese
+Beträge im Geschäftsabschluss enthalten sind. Vermögen und Zins von Grabfondssparheften (Anfangsbestand max.
+CHF 8'000 pro Grab) können unter Ziffer 7 ebenfalls in Abzug gebracht werden. Die Schlussbeträge gemäss Total
+(Ziff. 8) sind in die entsprechenden Ziffern der Steuererklärung zu übertragen.
+
+Rückerstattung der Verrechnungssteuer
+
+Ein Anspruch auf Rückerstattung der Verrechnungssteuer setzt voraus, dass die Erträge in der Steuererklärung
+deklariert worden sind. Die Verrechnungssteuer für die Fälligkeiten 2025 kann von der Kantonalen Steuerverwaltung
+Glarus nur an Steuerpflichtige rückerstattet werden, die am 31. Dezember 2025 im Kanton Glarus ihren Wohnsitz
+hatten.
+
+Die Ermittlung des Anspruchs auf Rückerstattung der Verrechnungssteuer 2025 erfolgt aufgrund der in Spalte A des
+Formulars 2 eingetragenen Erträgen 2025. Das Total der Bruttoerträge 2025 der Spalte A einschliesslich der Beträge
+aus allfälligen Beiblättern ist die Grundlage zur Berechnung Ihres Rückerstattungsanspruchs von 35%. Steuerauszü-
+ge von Banken, die anstelle von detaillierten Angaben im Formular 2 eingereicht werden, bilden Bestandteil des An-
+trages und bleiben bei den Akten.
+
+Bei einer noch nicht verteilten Erbschaft fordern die Erbberechtigten die Verrechnungssteuer auf Erbschaftserträgen
+nach Massgabe ihrer Erbquoten in ihrem Wohnsitzkanton zurück (Art. 58 Abs. 2 und 59 Abs. 2 der Verordnung über
+die Verrechnungssteuer). Dazu sind die anteiligen Bruttoerträge mit Verrechnungssteuerabzug im persönlichen
+Wertschriftenverzeichnis aufzuführen und zu belegen (Erbverzeichnis mit Zins- und Dividendenabrechnungen, Ver-
+mögensnachweis per 31.12., bei Erbteilung den Erbteilungsvertrag). Analog sind auch die Bruttoerträge ohne Ver-
+rechnungssteuerabzug sowie das anteilige Wertschriftenvermögen per 31.12. zu deklarieren.
+
+Die Abteilung Verrechnungssteuer, Hauptstrasse 11, 8750 Glarus, Telefon 055 646 61 86, erteilt gerne Auskunft
+über die Geltendmachung des Verrechnungssteueranspruchs und stellt auf Verlangen fehlende Formulare zu.
+
+Schenkungen und erbrechtliche Vermögensanfälle
+
+(Seite 3 des Wertschriftenverzeichnisses)
+
+Die Angaben über Beteiligungen an Erbengemeinschaften am 31. Dezember 2025 bzw. Erbanfälle im Jahre 2025,
+sowie über erhaltene oder gemachte Schenkungen im Jahre 2025 sind hier vorzunehmen.
+
+Erhaltene Ausschüttungen aus Kapitaleinlagereserven
+
+(Seite 3 des Wertschriftenverzeichnisses)
+
+Die Angaben über im Jahr 2025 erhaltene Ausschüttungen aus Kapitaleinlagereserven sind hier vorzunehmen.
+
+
+
+
+                                                                                                                 27
+                     Kapitalleistungen im Jahre 2025
+
+                     (Seite 3 des Wertschriftenverzeichnisses)
+
+                     Kapitalleistungen mit Vorsorgecharakter aus AHV/IV, aus beruflicher Vorsorge und aus anerkannter gebundener
+                     Selbstvorsorge sowie Kapitalzahlungen bei Tod oder für bleibende körperliche oder gesundheitliche Nachteile aus
+                     privaten Unfall-, Haftpflicht- oder Risikoversicherungen werden gesondert besteuert. Die einfache Steuer beträgt
+                     4% des Auszahlungsbetrages. Mehrere Auszahlungen im gleichen Jahr werden zusammengerechnet.
+
+                     Falls die entsprechende Besteuerung bereits vorgenommen wurde, dienen diese Angaben lediglich zu Kontroll-
+                     zwecken.
+
+                     Genugtuungszahlungen und Integritätsentschädigungen sind hier mit der Bezeichnung „Z“ zu deklarieren, ob-
+                     wohl darauf keine Einkommenssteuer erhoben wird. Kopien der entsprechenden Entscheide sind beizulegen.
+
+          22.2       Bargeld, Gold und andere Edelmetalle
+                     Inländisches Bargeld ist mit dem Bestand per 31. Dezember 2025 anzugeben. Ausländisches Bargeld, Gold und an-
+                     dere Edelmetalle sind zum Verkehrswert per 31. Dezember 2025 einzusetzen. Die massgeblichen Werte können der
+                     amtlichen Kursliste unter www.estv.admin.ch entnommen werden.
+
+          22.3       Rückkaufsfähige Lebens- und Rentenversicherungen / Einmaleinlagen
+                     Kapital- und alle Rentenversicherungen mit Rückgewähr (mit periodischer- oder einmaliger Finanzierung) unterlie-
+                     gen mit ihrem Steuerwert (= Rückkaufswert plus vertraglich zugesicherte Gewinnansprüche) der Vermögenssteuer.
+                     Die entsprechenden Bescheinigungen sind der Steuererklärung beizulegen.
+
+          22.4       Motorfahrzeuge
+                     Motorfahrzeuge sind mit dem Verkehrswert einzusetzen. In der Regel (Ausnahme z.B. bei Fahrzeugen mit Liebha-
+                     berwert) wird eine jährliche Abschreibung von 30% auf dem jeweiligen Restwert akzeptiert. Zur Kontrolle sind der
+                     Kaufpreis und das Kaufjahr einzusetzen.
+
+          22.5       Anteile an unverteilten Erbschaften
+                     Die Anteile an unverteilten Erbschaften und Nutzniessungen werden den einzelnen Erben oder Nutzniesser/innen
+                     quotenmässig zugerechnet. Jeder und jede Beteiligte hat seinen/ihren Anteil am Vermögen separat zu versteuern.
+                     Der Steuererklärung ist eine detaillierte Aufstellung beizulegen.
+
+          22.6       Übrige Vermögenswerte
+                     Darunter fallen z.B. Boote, Reitpferde, Kunst- und Schmuckgegenstände, Gemälde-, Briefmarken- und andere
+                     Sammlungen, immaterielle Güter wie Erfindungspatente. Sie sind näher zu bezeichnen und zu ihrem Verkehrswert
+                     zu deklarieren. Bei mehreren Vermögenswerten ist eine entsprechende Aufstellung einzureichen.
+
+23        Liegenschaften im Privatbesitz
+
+          Die Liegenschaften werden zum Verkehrswert besteuert, wobei der Ertragswert angemessen berücksichtigt wird. Die Werte der
+          letzten Steuerveranlagung 2024 können auch für diese Deklaration übernommen werden, falls im Jahre 2025 keine wertver-
+          mehrenden Aufwendungen vorgenommen wurden. Für Neu- oder Umbauten in der Zeit vom 1. Januar 2025 bis 31. Dezember
+          2025, die am Stichtag nicht abgeschlossen sind bzw. für die noch keine Steuerwertschätzung vorliegt, sind 80% der Anlagekos-
+          ten als Steuerwert einzutragen.
+          Liegenschaften ausserhalb des Wohnortes sowie im Ausland gelegene Liegenschaften sind zu dem dort gültigen Verkehrswert
+          zu deklarieren. Bei ausserkantonalen Liegenschaften nimmt die Veranlagungsbehörde die notwendigen Anpassungen (Re-
+          partitionswert) für die Steuerausscheidung vor, damit diese mit den Werten des Liegenschaftenkantons vergleichbar werden.
+
+          Bei einer einzelnen Liegenschaft sind die ergänzenden Angaben und der Eintrag des Steuerwertes direkt im Steuererklä-
+          rungsformular unter dieser Position vorzunehmen.
+          Bei mehrfachem Liegenschaftenbesitz ist Formular 6 (Hilfsblatt Liegenschaften) auszufüllen und der Totalbetrag der privaten
+          Liegenschaften in die Steuererklärung zu übertragen.
+
+24        Geschäftsaktiven Selbständigerwerbender
+          24.1       Für vorwiegend geschäftlich genutzte Liegenschaften ist die Vorderseite von Formular 6 (Hilfsblatt Liegenschaf-
+                     ten) auszufüllen und das Total der Steuerwerte der Kolonne „Geschäft“ in die Steuererklärung zu übertragen. Bezüg-
+                     lich Steuerwertberechnung wird auf die Ausführungen in Ziffer 23 verwiesen, die auch für Geschäftsliegen-schaften
+                     Gültigkeit haben. Landwirtschaftlich genutzte Liegenschaften sind zum Ertragswert zu deklarieren.
+     28
+     24.2       Sonstige Betriebsaktiven
+                Alle beweglichen Aktiven des Geschäftsvermögens wie Maschinen, Werkzeuge, Mobilien oder Fahrzeuge sind mit
+                dem Einkommensteuerwert einzusetzen, d.h. zum Wert, der ihnen im wirtschaftlichen Verkehr unter normalen Ver-
+                hältnissen beigemessen wird. Der Einkommensteuerwert entspricht dem Anschaffungswert unter Vornahme eines
+                angemessenen Abzuges für die Entwertung durch den Gebrauch (Abschreibung). Vorräte wie Waren, Hilfsstoffe,
+                halbfertige und fertige Fabrikate sind – unter Berücksichtigung der darin enthaltenen Risiken – zu den Anschaffungs-
+                bzw. Herstellungskosten oder, wenn der Marktpreis geringer ist, zum Marktpreis einzusetzen.
+
+                Geschäftsguthaben (Debitoren) sind mit den vollen Forderungsbeträgen einzutragen, wobei Delkredererück-
+                stellungen bis zu maximal 10% anerkannt werden. Bei bestrittenen oder unsicheren Forderungen kann dem Grad der
+                Verlustwahrscheinlichkeit angemessen Rechnung getragen werden, wenn der drohende Verlust glaubhaft gemacht
+                wird. Wertschriften und Forderungen des Geschäftsvermögens sind zum Einkommensteuerwert einzusetzen, also
+                zum bilanzierten Wert.
+
+                Der Steuererklärung ist eine unterzeichnete Jahresrechnung (Bilanz und Erfolgsrechnung) oder Aufstellung
+                über Aktiven und Passiven beizulegen.
+
+     24.3       Kollektiv- und Kommanditgesellschaften werden nicht als Einheit besteuert. Jede/r Beteiligte/r hat ihren/seinen
+                Anteil am Vermögen zusammen mit ihrem/seinem übrigen Vermögen persönlich zu versteuern. Der persönliche An-
+                teil ergibt sich aus dem Fragebogen (Form. 15/15a/15c).
+
+     Ab 1. Januar 2015 besteht nach Art. 957 OR die Pflicht zur Buchführung und Rechnungslegung für alle Einzelunternehmen und
+     Personengesellschaften, die einen Umsatzerlös von mindestens CHF 500‘000 im letzten Geschäftsjahr erzielt haben.
+
+25   Total der Vermögenswerte
+     Vermögenskorrektur infolge Erbanfall 2025
+     Bei Vermögensanfall aus Erbschaft im Jahr 2025 wird trotzdem eine durchgehende Jahressteuer erhoben. Der Ausgleich wird
+     durch die sogenannte Gewichtungsmethode vorgenommen und ist in Ziffer 455 einzutragen. Kein Ausgleich ist jedoch bei
+     Schenkung oder Erbvorbezug möglich.
+
+26   Schulden
+
+     26.1       Privatschulden sind auf der Vorderseite von Formular 7 zu deklarieren. Das Total der Privatschulden bzw. Schuld-
+                zinsen ist in die Steuererklärung zu übertragen.
+
+     26.2       Betriebsschulden sind auf der Rückseite von Formular 7 zu deklarieren, und zwar in Ziffer 1 diejenigen der/des
+                Steuerpflichtigen und in Ziffer 2 diejenigen der Ehefrau / Partner/in. Die Totalbeträge der Schulden sind in die einzel-
+                nen Ziffern 461 bzw. 462 der Steuererklärung zu übertragen.
+
+     Unerlässlich ist insbesondere die Angabe des Gläubigers mit genauer Adresse.
+
+     Alle Belege/Bankbestätigungen zu den Privatschulden sind geordnet beizulegen.
+
+28   Steuerfreie Beträge
+
+     Die steuerfreien Beträge (Sozialabzüge) richten sich nach den Verhältnissen am 31. Dezember 2025 bzw. am Ende der Steu-
+     erpflicht.
+
+     Es sind die entsprechenden Beträge, die auf der Steuererklärung aufgedruckt sind, einzusetzen.
+
+30   Ausscheidungsantrag
+
+     Vermögenswerte von Liegenschaften und Betriebsstätten in anderen Kantonen bzw. im Ausland sind hier einzutragen. Die Steu-
+     erausscheidungen werden von Amtes wegen vorgenommen und mit der Veranlagung den Steuerpflichtigen zugestellt.
+
+
+
+
+                                                                                                                                     29
+     Straffolgen bei Widerhandlungen
+     Verletzung von Verfahrenspflichten
+     Wer einer Pflicht, die ihm nach den Vorschriften des Steuergesetzes oder nach einer aufgrund dieses Gesetzes getroffenen
+     Anordnung obliegt (Bsp. Nichteinreichen der Steuererklärung oder dazu verlangte ergänzende Unterlagen), trotz Mahnung vor-
+     sätzlich oder fahrlässig nicht nachkommt, wird mit Busse bis zu CHF 1‘000, in schweren Fällen oder bei Rückfall bis zu
+     CHF 10‘000 bestraft.
+
+     Steuerhinterziehung
+     Wer als Steuerpflichtiger vorsätzlich oder fahrlässig bewirkt, dass eine Veranlagung zu Unrecht unterbleibt oder dass eine
+     rechtskräftige Veranlagung unvollständig ist, muss die durch die Nicht- oder Falschdeklaration hinterzogene Steuer (inklusive
+     Verzugszinsen) nachzahlen und wird zusätzlich mit Busse bestraft. Die Busse beträgt in der Regel das Einfache der hinterzoge-
+     nen Steuer. Sie kann bei leichtem Verschulden bis auf einen Drittel ermässigt, bei schwerem Verschulden bis auf das Dreifache
+     erhöht werden.
+
+     Der Versuch einer Steuerhinterziehung ist ebenfalls strafbar. Eine versuchte Steuerhinterziehung liegt vor, wenn der Steuer-
+     pflichtige unrichtige Angaben macht oder veranlagungsrelevante Tatsachen verschweigt, dies jedoch noch im Veranlagungsver-
+     fahren aufgedeckt wird. Die Busse beträgt zwei Drittel der Busse, die bei vollendeter Steuerhinterziehung festzusetzen wäre.
+
+     Wer vorsätzlich zu einer Steuerhinterziehung anstiftet oder Hilfe leistet, wer vorsätzlich als Vertreter des Steuerpflichtigen eine
+     Steuerhinterziehung bewirkt oder an einer solchen mitwirkt, wird ohne Rücksicht auf die Strafbarkeit des Steuerpflichtigen mit
+     Busse bestraft. Die Busse beträgt bis zu CHF 10‘000, in schweren Fällen oder im Wiederholungsfall bis zu CHF 50‘000.
+
+     Steuerbetrug
+     Wer zum Zweck der Steuerhinterziehung gefälschte, verfälschte oder inhaltlich unwahre Urkunden wie Geschäftsbücher, Bilan-
+     zen, Erfolgsrechnungen oder Lohnausweise und andere Bescheinigungen Dritter zur Täuschung gebraucht, wird mit Freiheits-
+     strafe bis zu drei Jahren oder Geldstrafe belangt.
+
+     Straflose Selbstanzeige
+     Zeigt die steuerpflichtige Person erstmals eine Steuerhinterziehung selbst an, so wird von einer Strafverfolgung abgesehen
+     (straflose Selbstanzeige), wenn die Hinterziehung keiner Steuerbehörde bekannt ist, sie die Verwaltung bei der Festsetzung der
+     Nachsteuer vorbehaltlos unterstützt und sie sich ernstlich um die Bezahlung der geschuldeten Nachsteuer bemüht.
+
+     Steuerbezug
+
+     Die Kantons- und Gemeindesteuern werden in drei Raten erhoben, und zwar zahlbar bis zum 30. Juni, 30. September und
+     31. Dezember. Per ersten Zahlungstermin wird Ihnen die provisorische Rechnung zugestellt mit den Möglichkeiten:
+
+               Zahlung des gesamten Steuerbetrages per erstem Zahlungstermin oder
+               Zahlung in Raten.
+
+     Es werden keine separaten Rechnungen oder Zahlungserinnerungen für die Raten versendet. Wer von der Möglichkeit den
+     provisorischen Rechnungsbetrag in drei Raten zu bezahlen, Gebrauch macht, muss für jede Rate den vorliegenden Einzah-
+     lungsschein samt Referenznummer verwenden.
+     Der Verrechnungssteuerentscheid für die Fälligkeiten 2025 (Steuererklärung 2025) wird auf der definitiven Veranlagung 2025
+     aufgedruckt, der entsprechende Anspruch wird an die Steuerrechnung 2025 periodengerecht angerechnet. Für die erste Rate
+     (Versand der Rechnung Ende Mai) können Steuererklärungen, welche nach dem 30. April 2026 eingehen, in der Regel nicht
+     mehr berücksichtigt werden.
+     Gegen die provisorische Rechnung kann innert 30 Tagen seit Zustellung bei der Kantonalen Steuerverwaltung, 8750 Glarus,
+     Einsprache erhoben werden. Dabei kann nur die Steuerpflicht bestritten oder geltend gemacht werden, der voraussichtliche
+     definitive Steuerbetrag werde, vom provisorisch in Rechnung gestellten, erheblich abweichen.
+     Die Schlussabrechnung einer Steuerperiode erfolgt nach Vornahme der definitiven Veranlagung. Bisher erfolgte Ratenzahlun-
+     gen, welche aufgrund der provisorischen Rechnung erfolgten, werden von den definitiven Beträgen abgezogen. Fehlbeträge
+     werden in Rechnung gestellt und zu viel gezahlte Beträge mit offenen oder zukünftiger Steuern verrechnet bzw. vorgetragen.
+     Mit der Schlussrechnung werden Ausgleichszinsen zugunsten oder zulasten der Pflichtigen abgerechnet. Die Steuerverwaltung
+     schreibt Ausgleichszinsen gut für Zahlungen, die vor dem 1. Oktober geleistet wurden. Für zu wenig gezahlte Steuern werden
+     nach dem 30. September Ausgleichszinsen belastet.
+     Steuerpflichtigen, welche die ausstehende Steuerforderung der Schlussrechnung nicht innerhalb der Zahlungsfrist von 30 Tagen
+     begleichen, wird ein Verzugszins belastet.
+
+30
+Steuerpflichten «einfach» erklärt
+
+1. Ausgleichszins
+1.1 Bedeutung des Ausgleichszinses
+
+Dem Ausgleichszins kommt eine wichtige Funktion im Hinblick auf eine Gleichbehandlung aller Steuerpflichtigen beim Bezug
+von Steuern zu. Wie sich schon aus dem Begriff ergibt, soll dieser Zins einem Ausgleich dienen. Einerseits werden auf allen
+Guthaben, welche aufgrund von provisorischen einbezahlten Beträgen bestehen, bis zur Schlussrechnung zu Gunsten verzinst.
+Andrerseits haben die Steuerpflichtigen den in der Schlussrechnung ausgewiesenen Steuerbetrag zu verzinsen. Ein positiver
+Zinssaldo führt zu einer Rückerstattung an die Steuerpflichtigen, ein negativer Saldo zu einer Nachforderung der Steuer-
+behörden. Als Verfalltag gilt der 30. September im Kalenderjahr. Vom Ausgleichszins zu unterscheiden sind der Verzugs- und
+der Rückerstattungszins.
+
+1.2 Grundsatz und Funktionsweise der Ausgleichs- sowie Verzugszinsen
+
+Fällige Steuerforderungen sind bei verspäteter Bezahlung zu verzinsen. Dabei wird jedoch unterschieden zwischen Ausgleichs-
+zins (Verzinsung der Steuerforderung bis zum Zeitpunkt der definitiven Veranlagung und Schlussrechnung) und Verzugszins
+(Verzinsung einer zu spät bezahlten Schlussrechnung). Zudem gilt es folgendes zu beachten:
+
+        Die Ausgleichszinspflicht beginnt ab einem im Steuergesetz bzw. der Steuerverordnung bestimmten Zeitpunkt (Verfall-
+         tag) zu laufen, unabhängig davon, ob eine vorläufige Steuerrechnung zugestellt wird oder nicht.
+        Die Ausgleichszinspflicht besteht auf dem veranlagten Steuerbetrag. Massgebend ist somit nicht der im Rahmen einer
+         vorläufigen Steuerrechnung geforderte Steuerbetrag, sondern derjenige, welcher definitiv veranlagt wird und damit
+         auch geschuldet ist.
+        Auf allen Zahlungen, welche Sie aufgrund einer vorläufigen Steuerrechnung geleistet haben bzw. leisten, werden Aus-
+         gleichszinsen zu Ihren Gunsten berechnet. Auf dem definitiv geschuldeten Steuerbetrag sind ab dem Verfalltag Aus-
+         gleichszinsen zu Ihren Lasten geschuldet.
+        Die verspätete Bezahlung vorläufiger Rechnungen löst keine Verzugszinspflicht aus, sondern führt zu einem (negati-
+         ven) Ausgleichszins.
+        Zusammen mit der Veranlagungsverfügung erhalten Sie eine Schlussrechnung mit einer detaillierten Berechnung der
+         Ausgleichszinsen.
+        Die Verzugszinspflicht besteht nach Ablauf der dreissigtägigen Zahlungsfrist für die Schlussrechnung.
+
+1.3 Hinweise zur Zinsberechnung
+
+        Pro Kalenderjahr werden 360 Zinstage gerechnet.
+        Der Ausgleichszinssatz wird ebenso wie der Verzugszins von der Regierung festgelegt. Der Schlussrechnung können
+         Sie die jeweils anwendbaren Zinssätze entnehmen. Aktuell beträgt der Ausgleichszinssatz 1 Prozent.
+        Der Zinssatz für Ausgleichszinsen zu Ihren Lasten bzw. Ihren Gunsten ist gleich hoch.
+        Der Verzugszins beträgt aktuell 4.5 Prozent.
+
+2. Online verkaufen und Dienstleistungen anbieten
+2.1 Allgemeine Fragen und Antworten
+
+Frage 1: Was sind Einkommen aus Plattformaktivitäten und wie werden sie besteuert?
+
+Antwort: Bei Einkommen aus Plattformaktivitäten handelt es sich um Einkünfte, die durch die Nutzung von digitalen Plattformen
+erzielt werden, mit denen Anbieter und Interessenten zusammengebracht werden. Dies umfasst insbesondere den Verkauf von
+Waren, die Vermietung von beweglichen und unbeweglichen Objekten, die Erbringung von Dienstleistungen, die Bereitstellung
+von Kapital oder die Präsentation von medialen Inhalten. Die Besteuerung dieser Plattformeinkünfte hängt von der Art und steu-
+erlichen Qualifikation der Tätigkeit ab.
+
+Frage 2: Welche Arten von Plattformaktivitäten können zu steuerbaren Einkommen führen?
+
+Antwort: Es gibt verschiedene Arten von Plattformaktivitäten, die zu steuerbaren Einkommen führen können. Dazu gehören der
+gewerbsmässige Verkauf von Waren über Handelsplattformen, die Vermietung von Objekten über Vermietungsplattformen, die
+Erbringung von Dienstleistungen über Dienstleistungsplattformen, die Bereitstellung von Kapital über Crowdfunding-Plattformen
+sowie die Präsentation von medialen Inhalten auf Streaming- oder Social-Media-Plattformen. Die genauen steuerlichen Rege-
+lungen richten sich nach dem jeweiligen Einkommenstyp.
+
+
+                                                                                                                           31
+     Frage 3: Gibt es Unterschiede in der Besteuerung von Einkünften aus verschiedenen Plattformaktivitäten?
+
+     Antwort: Ja, es gibt Unterschiede in der Besteuerung von Einkünften aus verschiedenen Plattformaktivitäten. Die Besteuerung
+     richtet sich nach den spezifischen gesetzlichen Vorschriften für Einkünfte aus beweglichem oder unbeweglichem Vermögen
+     sowie selbständiger oder unselbständiger Erwerbstätigkeit. Die Unterschiede ergeben sich vor allem bei den abziehbaren Auf-
+     wendungen.
+
+     Frage 4: Welche Kriterien werden verwendet, um zwischen selbständiger und unselbständiger Erwerbstätigkeit auf
+     Plattformen zu unterscheiden?
+
+     Antwort: Die Unterscheidung zwischen selbständiger und unselbständiger Erwerbstätigkeit auf Plattformen basiert auf den
+     steuerlichen Kriterien zur Beurteilung einer selbständigen Erwerbstätigkeit. Die selbständige Erwerbstätigkeit äussert sich in
+     einem Vorgehen, bei dem die natürliche Person auf eigenes Risiko, unter Einsatz der Produktionsfaktoren Arbeit, Kapital und
+     gegebenenfalls Boden, in einer von ihr frei gewählten Arbeitsorganisation, dauernd oder vorübergehend, haupt- oder nebenbe-
+     ruflich, in jedem Fall aber gewinnstrebig am Wirtschaftsverkehr teilnimmt. Eine genaue Analyse dieser Kriterien und der entspre-
+     chenden Vertragsbeziehungen ist erforderlich, um im Einzelfall die Art der Erwerbstätigkeit festzustellen und eine korrekte Be-
+     steuerung vorzunehmen.
+
+     Frage 5: Wie deklariere ich Plattformeinkünfte korrekt?
+
+     Antwort: Sie sind verpflichtet, alle Ihre Einkünfte, unabhängig von ihrer Höhe, ordnungsgemäss in Ihrer Steuererklärung anzu-
+     geben. Beachten Sie, dass auch Plattformeinkünfte ab dem ersten Franken steuerbar sind. Stellen Sie sicher, dass Sie die gel-
+     tenden Fristen einhalten und sammeln Sie alle relevanten Aufzeichnungen und Belege, die für die Besteuerung Ihrer Platt-
+     formenkünfte erforderlich sind.
+     Für kleine Arbeitsentgelte aus unselbständiger Erwerbstätigkeit kann der Arbeitgeber die darauf geschuldete Steuer im verein-
+     fachten Abrechnungsverfahren nach den Artikeln 2 und 3 des Bundesgesetzes vom 17. Juni 2005 gegen die Schwarzarbeit
+     entrichten. Damit ist die Einkommenssteuer für den Arbeitnehmer auf diesem Einkommen abgegolten.
+
+     Frage 6: Welche steuerlichen Auswirkungen hat es, wenn ich Plattformeinkünfte im Ausland erziele?
+
+     Antwort: Es spielt keine Rolle, ob Sie Einkünfte auf Plattformen innerhalb oder ausserhalb der Schweiz erzielen oder ob sich der
+     Käufer in der Schweiz oder im Ausland befindet. Grundsätzlich sind alle Einkünfte in der Schweiz steuerbar, mit der Ausnahme
+     von Mieteinnahmen aus ausländischem Immobilienbesitz.
+
+     Frage 7: Gibt es Möglichkeiten, bestimmte Ausgaben oder Kosten im Zusammenhang mit Plattformeinkünften steuer-
+     lich geltend zu machen?
+
+     Antwort: Ja, wenn Sie eine selbständige Erwerbstätigkeit ausüben, können Sie geschäfts- oder berufsbedingte Ausgaben ge-
+     mäss Artikel 27 Absatz 1 StG bzw. Artikel 27 Absatz 1 DBG von Ihren Einkünften abziehen. Dies umfasst beispielsweise Werbe-
+     kosten, Verpackungs- und Versandkosten, Plattformgebühren oder andere notwendige Geschäftsausgaben. Bei Einkünften aus
+     beweglichem Vermögen können die Kosten der Verwaltung durch Dritte gemäss Artikel 30 Absatz 1 bzw. Artikel 32 Absatz 1
+     DBG abgezogen werden. Bei Liegenschaften im Privatvermögen können anteilsmässig Unterhaltskosten, Kosten für Instandstel-
+     lungen von neu erworbenen Liegenschaften, Versicherungsprämien und Verwaltungskosten durch Dritte gemäss Artikel 30
+     Absatz 2 StG bzw. Artikel 32 Absatz 2 DBG abgezogen werden.
+
+     2.2 Spezifische Fragen und Antworten
+
+     Handelsplattformen
+
+     Frage 1: Wie werden Einkünfte aus dem Verkauf von Waren über Handelsplattformen besteuert?
+
+     Antwort: Wenn Sie Waren über Handelsplattformen verkaufen und dies im Rahmen Ihrer privaten Vermögensverwaltung ge-
+     schieht, unterliegen Ihre Einkünfte keiner spezifischen Besteuerung. Jedoch sollten Sie beachten, dass bei gewerbsmässiger
+     Tätigkeit, d.h. wenn Sie den Verkauf als selbständige Erwerbstätigkeit ausüben, die erzielten Einkünfte entsprechend deklariert
+     werden müssen.
+
+
+
+
+32
+Vermietungsplattformen
+
+Frage 2: Wie werden Einkünfte aus der Vermietung von Objekten über Vermietungsplattformen besteuert?
+
+Antwort: Einkünfte aus der Vermietung von beweglichen Gegenständen im Privatvermögen über Plattformen sind nach Artikel
+20 Absatz 1 Ziffer 4 StG bzw. Artikel 20 Absatz 1 Buchstabe d DBG steuerbar. Wenn Sie jedoch Immobilien im Privatvermögen
+über Plattformen vermieten, gelten die Regeln zur Besteuerung von Einkünften aus unbeweglichem Vermögen nach Artikel 21
+Abs 1 Ziffer 1 StG bzw. Artikel 21 Absatz 1 Buchstabe a DBG. Wenn hingegen die Kriterien für eine selbständige Erwerbstätig-
+keit erfüllt sind, unterliegen die Einkünfte der Einkommenssteuer gemäss Artikel 18 Absatz 1 StG bzw. Artikel 18 Absatz 1 DBG.
+
+Dienstleistungsplattformen
+
+Frage 3: Wie werden Einkünfte aus der Erbringung von Dienstleistungen über Dienstleistungsplattformen besteuert?
+
+Antwort: Die Besteuerung von Einkünften aus der Erbringung von Dienstleistungen über Plattformen hängt von der Art der
+Tätigkeit ab. Wenn die Kriterien für eine unselbständige Erwerbstätigkeit erfüllt sind, basierend auf einer Analyse des Vertrags
+zwischen Plattform-Unternehmen und Dienstleister, unterliegen die Einkünfte der Einkommensteuer gemäss Artikel 17 Absatz 1
+StG bzw. Artikel 17 Absatz 1 DBG. Wenn hingegen die Kriterien für eine selbständige Erwerbstätigkeit erfüllt sind, unterliegen die
+Einkünfte der Einkommenssteuer gemäss Artikel 18 Absatz 1 StG bzw. Artikel 18 Absatz 1 DBG.
+
+Crowdfunding-Plattformen
+
+Frage 4: Wie werden Einkünfte aus dem Bereitstellen von Kapital über Crowdfunding-Plattformen besteuert?
+
+Antwort: Die Besteuerung von Einkünften aus dem Bereitstellen von Kapital über Crowdfunding-Plattformen hängt von der Art
+der Einkünfte ab. Zinsen aus Crowdlending und Dividenden aus Crowdinvesting unterliegen den Regelungen zur Besteuerung
+von Einkommen aus beweglichem Vermögen gemäss Artikel 20 Absatz 1 Ziffer 1 bzw. Artikel 20 Absatz 1 Ziffer 3 StG sowie
+Artikel 20 Absatz 1 Buchstabe a bzw. Artikel 20 Absatz 1 Buchstabe c DBG. Mieterträge aus Crowdinvesting unterliegen hinge-
+gen den Regelungen zur Besteuerung von Einkommen aus unbeweglichem Vermögen gemäss Artikel 21 Absatz 1 Ziffer 1 bzw.
+Artikel 21 Absatz 1 Buchstabe a DBG.
+
+Streaming- und Social-Media-Plattformen
+
+Frage 5: Wie werden Einkünfte aus dem Präsentieren von medialen Inhalten auf Streamingplattformen oder Social-
+Media-Plattformen besteuert?
+
+Antwort: Die Besteuerung von Einkünften aus dem Präsentieren von medialen Inhalten auf Streamingplattformen oder Social-
+Media-Plattformen hängt von der Art der Tätigkeit ab. Wenn die Kriterien für eine unselbständige Erwerbstätigkeit erfüllt sind,
+basierend auf einer Analyse des Vertrags zwischen Plattform-Unternehmen und Anbieter, unterliegen die Einkünfte der Einkom-
+mensteuer gemäss Artikel 17 Absatz 1 StG bzw. Artikel 17 Absatz 1 DBG. Wenn hingegen die Kriterien für eine selbständige
+Erwerbstätigkeit erfüllt sind, unterliegen die Einkünfte der Einkommenssteuer gemäss Artikel 18 Absatz 1 StG bzw. Artikel 18
+Absatz 1 DBG.
+
+
+
+
+                                                                                                                               33
+     Berechnung der Kantons- und Gemeindesteuern
+
+
+     1. Einkommenssteuer 2025
+
+     Die einfache Steuer (100%) vom Einkommen beträgt:
+
+                                                                            Steuerbetrag                Steuersatz
+                                                                                 CHF                         %
+
+                bis 10 300 Franken Einkommen                                        0.00                   0.0000
+                und für je weitere 100 Franken 8.00 Franken
+                für 20 600 Franken Einkommen                                      824.00                   4.0000
+                und für je weitere 100 Franken 11.00 Franken
+                für 30 900 Franken Einkommen                                    1'957.00                   6.3333
+                und für je weitere 100 Franken 13.00 Franken
+                für 51 500 Franken Einkommen                                    4'635.00                   9.0000
+                und für je weitere 100 Franken 15.00 Franken
+                für 103 100 Franken Einkommen                                  12'372.00                  12.0000
+                und für je weitere 100 Franken 16.00 Franken
+                für 154 600 Franken Einkommen                                  20'613.33                  13.3333
+                und für je weitere 100 Franken 17.50 Franken
+                für 257 700 Franken Einkommen                                  38'655.00                  15.0000
+                und für je weitere 100 Franken 19.00 Franken
+                für 412 400 Franken Einkommen                                  68'046.00                  16.5000
+                und für je weitere 100 Franken 21.00 Franken
+                für 463 900 Franken Einkommen                                  78'863.00                  17.0000
+                für höhere Einkommen beträgt der Satz einheitlich 17 Prozent.
+                Restbeträge des Einkommens unter CHF 100 fallen für die Steuerberechnung ausser Betracht.
+
+     a) Alleinstehende
+
+     Berechnung gemäss dem oben aufgeführten Tarif.
+     Ab einem Einkommen von CHF 463’900 beträgt der Satz einheitlich 17%.
+
+     b) In ungetrennter Ehe oder eingetragener Partnerschaft lebende Steuerpflichtige sowie getrennt lebende, geschiedene,
+     verwitwete und ledige Steuerpflichtige, die mit Kindern im Sinne von Artikel 33 des Steuergesetzes bzw. Ziffer 19.3 der
+     Steuererklärung zusammenleben
+
+     Berechnung gemäss dem oben aufgeführten Tarif. Für die Ermittlung des satzbestimmenden Einkommens bzw. des massge-
+     benden Steuersatzes ist jedoch das steuerbare Gesamteinkommen durch den Divisor 1,7 zu teilen.
+
+     Beispiel
+
+     Steuerbares Gesamteinkommen (Ziff. 20 der Steuererklärung)             CHF 175'300
+     geteilt durch Divisor 1,7 ergibt                                       CHF 103’100       Steuersatz = 12%
+
+     Berechnung der einfachen Steuer:                                       12% von CHF 175'300 = CHF 21'036
+
+     Ab einem Einkommen von CHF 788’700 beträgt der Steuersatz einheitlich 17%.
+
+
+     2. Vermögenssteuer 2025
+
+               Die einfache Steuer (100%) vom Vermögen beträgt 3‰.
+               Restbeträge des Vermögens unter CHF 1’000 fallen für die Steuerberechnung ausser Betracht.
+
+     Die für die Berechnung der gesamten Einkommens- und Vermögenssteuer für Kanton und Gemeinden massgeblichen Steuer-
+     füsse sind auf der Steuerrechnung aufgedruckt.
+
+
+
+
+34
+  Feuerwehrpflicht und Feuerwehrersatzabgabe
+
+  Die Feuerwehrpflicht, bzw. die Pflicht zur Entrichtung der Feuerwehrersatzabgabe beginnt am 1. Januar des Jahres, in welchem
+  das 18. Altersjahr vollendet wird und dauert bis zum 31. Dezember des Jahres, in welchem das 50. Altersjahr vollendet wird.
+
+  Die Feuerwehrersatzabgabe basiert auf dem steuerbaren Einkommen und beträgt zwischen CHF 80 und CHF 380.
+
+
+
+
+ Gemeinde-
+Gemeinde-   und
+          und   Kirchensteuer
+              Kirchensteuer   2025
+                            2025
+
+
+  Gemeinde
+Gemeinde                          Gemeindesteuer
+                                Gemeindesteuer                                      Kirchensteuer
+                                                                                 Kirchensteuer
+                                    Bausteuer
+                                  Bausteuer                     evangelisch-reformiert
+                                                              evangelisch-reformiert          römisch-katholisch
+                                                                                           römisch-katholisch
+
+                                 %%              %%             %%               %%                %%               %%
+                                                                NPNP           Anteil
+                                                                              Anteil JPJP          NPNP           Anteil
+                                                                                                                 Anteil JPJP
+                           GemeindesteuerBausteuer
+                         Gemeindesteuer    Bausteuer
+   Glarus
+Glarus     Nord
+         Nord
+   Mühlehorn
+Mühlehorn                       6060             3.03.0          9 9              6969              8 8              3131
+   Obstalden
+Obstalden                       6060             3.03.0          9 9              7373              8 8              2727
+   Filzbach
+Filzbach                        6060             3.03.0          9 9              7171              8 8              2929
+   Bilten
+Bilten                          6060             3.03.0          9 9              4444              7 7              5656
+   Niederurnen
+Niederurnen                     6060             3.03.0         8.58.5            4848              7 7              5252
+   Oberurnen
+Oberurnen                       6060             3.03.0         8.58.5            2828              9 9              7272
+   Näfels
+Näfels                          6060             3.03.0          8 8              2020              8 8              8080
+   Mollis
+Mollis                          6060             3.03.0          8 8              6060              8 8              4040
+
+
+  Glarus
+Glarus                            ohne
+                                ohne   Bausteuer
+                                     Bausteuer
+  Netstal
+Netstal                               5656                      8.58.5            4848              8 8              5252
+  Riedern
+Riedern                               5656                      7.57.5            5454              8 8              4646
+  Glarus
+Glarus                                5656                      7.57.5            5353              8 8              4747
+  Ennenda
+Ennenda                               5656                      1010              6363              8 8              3737
+
+
+   Glarus
+Glarus  SüdSüd                    ohne
+                                ohne   Bausteuer
+                                     Bausteuer
+   Mitlödi
+Mitlödi                               6363                       1111             5757             1111              4343
+   Sool
+Sool                                  6363                       1010             7676             1111              2424
+   Schwändi
+Schwändi                              6363                       1010             7373             1111              2727
+   Schwanden
+Schwanden                             6363                       1010             6161             1111              3939
+   Nidfurn
+Nidfurn                               6363                       1010             6969             1111              3131
+   Leuggelbach
+Leuggelbach                           6363                       1010             7171             1111              2929
+   Luchsingen
+Luchsingen                            6363                       1111             5454             1111              4646
+   Haslen
+Haslen                                6363                       1010             6666             1111              3434
+   Hätzingen
+Hätzingen                             6363                       1111             5858             1111              4242
+   Diesbach
+Diesbach                              6363                       1111             6767             1111              3333
+   Betschwanden
+Betschwanden                          6363                       1111             7171             1111              2929
+   Rüti
+Rüti                                  6363                       1111             5353             1111              4747
+   Braunwald
+Braunwald                             6363                       1111             7171             1111              2929
+   Linthal
+Linthal                               6363                       1111             6565             1111              3535
+   Engi
+Engi                                  6363                       1212             7777             1111              2323
+   Matt
+Matt                                  6363                       1212             8787             1111              1313
+ElmElm                                6363                       1111             8989             1111              1111
+
+  Durchschnitt
+Durchschnitt                           62.034
+                                     62.034                      9.845
+                                                               9.845                                9.724
+                                                                                                  9.724
+
+  Kantonssteuer
+Kantonssteuer                        58%58%
+  Bausteuer
+Bausteuer   Kanton
+          Kanton                       1.7%
+                                     1.7%
+
+NPNP  = Natürliche
+   = Natürliche     Personen
+                 Personen
+  JP  = Juristische Personen
+JP = Juristische Personen
+
+
+                                                                                                                            35
+²³µ¶··¶¸¹2º»¶¼¶2¶8½¾¿¾Àº¶2º»2¶ÁÂ¶¾¼¿¾º¶ÃÃÂ¶¿¶2º¶2¾³Â¹2·»8½¶¾Ä¶2Ã1¾¶¾
+bxwzwCxwwv{wy#|Åx{vvwxz{ywyzMzw
+²Berechnung
+ ³µ·¶³¿Ã¶2Æ³der¾ÂÇDirekten
+                   8³·8¿·¶2Bundessteuer
+                           ·»3ÈÂ¸º2³·º»2¶8Âº¶ÃÈ¶2Ã1¾¾¶ÃÈ½Ã»¿¶Ã
+wz 
+      wzzy{ v
+                v
+                  wz}z#zzx}wzwz{{xyzwyx{v wyy{}wv yw
+ Berechnung der Direkten Bundessteuer
+ 1.                 
+    Postnumerandotarif
+w z{xCxwzy vx}x{xw}v#y|wwxvwz{xyxxyx{vw wyxwy{x}vvw x}wy
+ 1. Postnumerandotarif
+             uvvwxyz{w|wy}w             Mw|wx{w{wy}-xywv{wyxvxwy             uvvwxyz{w|wy}w                  Mw|wx{w{wy}-xywv{wyxvxwy
+             y{xvwz xy{zwvz    xzw{xvvwzywy{vwz               y{xvwz xy{zwvz         xzw{xvvwzywy{vwz
+             y{xwy{x|w xyzvx yx{xwxvxwywy{vx                y{xwy{x|w xyzvx yx{xwxvxwywy{vx
+8{wwwz 8{ww wwx{ww 8{ww wwx{ww           8{wwwz 8{ww wwx{ww 8{ww wwx{ww
+-xywy |           -xywy |         -xywy -xywy |              -xywy |             -xywy
+w wyw  {         }w {       }w       w  wyw    {       }w     {    }w
+xzvw yyw w wywyvz yyw w wywyvz                       xzvw yyw w wywyvz yyw w wywyvz
+w}}x{  z{w w}x z{w w}x                 w}}x{  z{w w}x z{w w}x
+xyxxvw yy          w}}x{xyx yy         w}}x{xyx         xyxxvw yy          w}}x{xyx yy             w}}x{xyx
+                                                                                                                 
+   76         #n                                                         7¢      #£n£                         ¤n
+   ¥         ¤n£                                                        76      £¤¦n                        £#n              n
+   ¢         £n¤£                                                        ¥      ¦n                        £#n
+   ¢           n££                                                        ¥§¥      #n                         #£n
+   ¢¢         #n£                                                        ¥6      #¦n           £n£         #££n
+   ¢¨         £n£                                                             £¦¦n                        ¦£n             #n
+   ¢§         £¡n¡£                                                       6      ¦n                        ££n
+   ¢6         ¡#n£                                                        7ª      ##n£                         £n
+   ¢ª         ¦n£          n¡¡                                         7«      £n                        #n
+   ¢«         ¤n¦£                                                       77      £¦n¦                        #¦n
+   ¢7         ¤¦n#£                                                       7¥      ¡¡n£                        £ n             £n
+   ¢¥         £n£                                                            ¡ n                         n
+   ¨         n¤£                                                      6      ¦ n                         £n
+   ¨         n££                                                      ¢6       ¤¦n                         ¤£n
+   ¨¢         ¤n£                                                      ¢ª       ¡n                         ¤£¡n
+   ¨¨         ¡n£                      n                           ¢6       £¤ n                          ¡#n            ¡n
+   ¨¨¢         ¦n£                      #n                           ¨      # n            ¦n¦          £#n
+   ¨¨¨         ¤n¦                       £n                           ¨6      #¡¦n                          ££n
+   ¨§          #n£                        n                           ¨ª      #¦¡n                         ££¦n
+   ¨6         # n                        #n                           ¨6      ##¡ n                           n            ¦n
+   ¨ª         £n                       £n                           ¨7¨      #¦£ n¦                          ¦ n
+   ¨«         ¡n                       ¡n                           ¨7§      #¦¡n£                          ¤n
+   ¨7         ¦n¦          n¦¦         ¦n                           §6      £ £n                           #¡n            ¤n
+   ¨¥         ¦¤n£                       ¤n                           §ª      £#¡n                           #¦n
+   §         ¤¦n                       n                           §§¢      £ n                            ¦#n
+   §         ¡n                      n           n            §§¨      £ # n                           ¦#n           n
+   §¢         £n                      n                           §7¢      £¦¦n                          ##n
+   §¨6         ¤n                     ¦n                           §7¨      £¦¤ n                          #£n           n
+   §¨ª         n¦                      ¤n                           6¨      ¡ n                          # £n
+   §§          n                       n                           6§      ¡#n           n          # #¦n
+   §6         £¦n¦                     #n                           §¥6      ¡£n                          ##¦n           n
+   §ª         ¤#n                     £n                           6¢¨      ¡ n                          #£¦£n
+   §«         n£                     ¡n                           6¢§      ¡ #n                          #£¤¤n
+   §7          ¦n                     ¡n                           66      ¡£n                          £¡n
+   §¥         ¡ n                      ¦n                           ª      ¦¦n                          ££¦¡n
+   6          n¦         n£         ¤n                           «      ¤¦n                          ¡¤¦¡n
+   6          ¡n                     n                           7§¥ ¤n                              ¤¤ n
+   6¨§          ¤n#£                     ¡n                           76 ¤n£                             ¤¤¡n
+   6¨6          ¤n                     ¤n                           7ª £#n£                            £¡n
+   6§         #£n                       ¤n                           ¥ #¤n£                            #¦¡n
+   66         #n¦                     £¤n                           ¢ ¤n£                            ¦¦¡n
+   6ª         ##¤n                     ¦¤n                           ¢6 ¤#n£                            ¦¦¡n           n
+   6«         #¦#n£                     ¤n           n            ¨     £ n£         n           ¦¦¡n
+   67         £n                     ¤n                           ¨6 ¡n£                            ¦¡n
+   67         £ n¤¡                     n                           § ¤n£                            ¡¦¦¡n
+   6¥         £ n¡                      ¤n                           6 ##n£                            #¦¦¡n
+   ª         £¡n                      £¤n                           ª6 ¡n£                            ¡¦¡n
+   ª¨         ¡n                     ¤#n                           « ¡¦¤n£                            ¡£¦¦¡n
+   ª§         ¡n¤¦         n¤¡        ¤¦n                           «¥¨¨ ¤¤n                            ¦¤£n
+   ª6         ¦¤n¤                     #£n                           «¥¨§ ¤ n                            ¦¤¤n
+   «         ¤£¦n                      £#£n                           7 ¤n                            ¦¤¦¦¡n
+   «6        £n¤                     ¦£n           n            ¥§7 ¦¤n             n#        ¦¤n
+   «ª         ¤n##                     ¦¤n                           ¥§¥ ¦n#                          ¦n#           n#
+   «ª¢        ##n¤                      ¦ n                           ¥6 ¤#n                          ¤#n
+   ««6        n¡                     ¦¦n
+   «¥        ¡n¡#         #n¤         ¤¤n                          |¬|wwz{www-xyy{ww{­{}xw|wzz{wwwxy|wx{vx|n#®n
+   «¥¢        n£¤                     ¤n                          ¯x{yywvy{vwzwwyzxzvwzvzvwzzwy{w°n#®n
+   7¢        #n                     #n            n           ¯xz{yyzxw}}x{xxyxxvxzwxxy{vv±n#®n
+ wz{w{­w ywyxwvzvvwyzzw        ¯wz{xyzxyxwwz°zy{y}y        ¯wxyxxywxxyyzy{{wn
+   w{|{n                                          ywzn                                             8w}wvz!vxz{yy{y}{x#{n
+ bxw|wzz{wwx}wwwywyvvz}xwy­|z     ¯wz|y{!vx{yywvwz{wy"#{n          xywxxn
+  {wy#nwy}w{n                                 xyxwzn                                       ¯y{w}wvvxz{vv{x}{{}x£
+ bwwx{{wv{w8{www{w­zzx{zx|          $%&'()*()+%,&./)012%3)42+56)+%79:;4*(<3            ;4*(<=6.%4'>(60>,6'%'>(6.%43'(*?63'>('3*@
+  £ywyw}wzÅxy}}ww}wy{wz{{yz      wyy{w{wzyywywzzx{wzwn
+  w{xwwzyn
+
+ 2.34Elterntarif
+012  678#                                                                                                                        -8CMXbM8#n#
+ 2. Elterntarif
+ Für in rechtlich und tatsächlich ungetrennter Ehe lebende Ehegatten, verwitwete, gerichtlich oder getrennt lebende, geschiedene
+ und  ledige
+ Für in      Steuerpflichtige,
+         rechtlich               die ungetrennter
+                    und tatsächlich  mit Kindern oder
+                                                   Ehe unterstützungsbedürftigen Personen
+                                                        lebende Ehegatten, verwitwete,      im gleichen
+                                                                                       gerichtlich oder getrennt    zusammenleben
+                                                                                                          Haushaltlebende,          und
+                                                                                                                           geschiedene
+ deren   Unterhalt   zur  Hauptsache    bestreiten, wird  bei der Direkten Bundessteuer  ein  anteiliger  Abzug  vom   Steuerbetrag
+ und ledige Steuerpflichtige, die mit Kindern oder unterstützungsbedürftigen Personen im gleichen Haushalt zusammenleben und        von
+ höchstens   CHF    263  für jedes Kind und  jede unterstützungsbedürftige Person für das Einkommen      in der Schweiz
+ deren Unterhalt zur Hauptsache bestreiten, wird bei der Direkten Bundessteuer ein anteiliger Abzug vom Steuerbetrag vongewährt.
+ höchstens CHF 263 für jedes Kind und jede unterstützungsbedürftige Person für das Einkommen in der Schweiz gewährt.
+ Finanzen und Gesundheit                                                                            Homepage              gl.ch/steuern
+ Steuerverwaltung
+ Finanzen und Gesundheit                                                                            Telefon
+                                                                                                    Homepage              055 646 61 50
+                                                                                                                          gl.ch/steuern
+ Hauptstrasse
+ Steuerverwaltung  11                                                                               E-Mail
+                                                                                                    Telefon steuerverwaltung@gl.ch
+                                                                                                                          055 646 61 50
+ 8750   Glarus 11
+ Hauptstrasse                                                                                       E-Mail steuerverwaltung@gl.ch
+ 8750 Glarus
+

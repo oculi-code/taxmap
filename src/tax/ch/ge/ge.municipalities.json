@@ -1,0 +1,227 @@
+[
+  {
+    "bfsNumber": 6601,
+    "name": "Aire-la-Ville",
+    "municipalMultiplierPercent": 50
+  },
+  {
+    "bfsNumber": 6602,
+    "name": "Anières",
+    "municipalMultiplierPercent": 31
+  },
+  {
+    "bfsNumber": 6603,
+    "name": "Avully",
+    "municipalMultiplierPercent": 51
+  },
+  {
+    "bfsNumber": 6604,
+    "name": "Avusy",
+    "municipalMultiplierPercent": 49
+  },
+  {
+    "bfsNumber": 6605,
+    "name": "Bardonnex",
+    "municipalMultiplierPercent": 43
+  },
+  {
+    "bfsNumber": 6606,
+    "name": "Bellevue",
+    "municipalMultiplierPercent": 39
+  },
+  {
+    "bfsNumber": 6607,
+    "name": "Bernex",
+    "municipalMultiplierPercent": 48
+  },
+  {
+    "bfsNumber": 6608,
+    "name": "Carouge",
+    "municipalMultiplierPercent": 40
+  },
+  {
+    "bfsNumber": 6609,
+    "name": "Cartigny",
+    "municipalMultiplierPercent": 42
+  },
+  {
+    "bfsNumber": 6611,
+    "name": "Chancy",
+    "municipalMultiplierPercent": 51
+  },
+  {
+    "bfsNumber": 6614,
+    "name": "Choulex",
+    "municipalMultiplierPercent": 40
+  },
+  {
+    "bfsNumber": 6612,
+    "name": "Chêne-Bougeries",
+    "municipalMultiplierPercent": 32
+  },
+  {
+    "bfsNumber": 6613,
+    "name": "Chêne-Bourg",
+    "municipalMultiplierPercent": 46
+  },
+  {
+    "bfsNumber": 6615,
+    "name": "Collex-Bossy",
+    "municipalMultiplierPercent": 46
+  },
+  {
+    "bfsNumber": 6616,
+    "name": "Collonge-Bellerive",
+    "municipalMultiplierPercent": 28
+  },
+  {
+    "bfsNumber": 6617,
+    "name": "Cologny",
+    "municipalMultiplierPercent": 25
+  },
+  {
+    "bfsNumber": 6618,
+    "name": "Confignon",
+    "municipalMultiplierPercent": 46
+  },
+  {
+    "bfsNumber": 6619,
+    "name": "Corsier",
+    "municipalMultiplierPercent": 31
+  },
+  {
+    "bfsNumber": 6610,
+    "name": "Céligny",
+    "municipalMultiplierPercent": 33
+  },
+  {
+    "bfsNumber": 6620,
+    "name": "Dardagny",
+    "municipalMultiplierPercent": 48
+  },
+  {
+    "bfsNumber": 6622,
+    "name": "Genthod",
+    "municipalMultiplierPercent": 25
+  },
+  {
+    "bfsNumber": 6621,
+    "name": "Genève",
+    "municipalMultiplierPercent": 45.49
+  },
+  {
+    "bfsNumber": 6623,
+    "name": "Grand-Saconnex",
+    "municipalMultiplierPercent": 44
+  },
+  {
+    "bfsNumber": 6624,
+    "name": "Gy",
+    "municipalMultiplierPercent": 46
+  },
+  {
+    "bfsNumber": 6625,
+    "name": "Hermance",
+    "municipalMultiplierPercent": 42
+  },
+  {
+    "bfsNumber": 6626,
+    "name": "Jussy",
+    "municipalMultiplierPercent": 41
+  },
+  {
+    "bfsNumber": 6627,
+    "name": "Laconnex",
+    "municipalMultiplierPercent": 44
+  },
+  {
+    "bfsNumber": 6628,
+    "name": "Lancy",
+    "municipalMultiplierPercent": 47
+  },
+  {
+    "bfsNumber": 6629,
+    "name": "Meinier",
+    "municipalMultiplierPercent": 42
+  },
+  {
+    "bfsNumber": 6630,
+    "name": "Meyrin",
+    "municipalMultiplierPercent": 42
+  },
+  {
+    "bfsNumber": 6631,
+    "name": "Onex",
+    "municipalMultiplierPercent": 50.5
+  },
+  {
+    "bfsNumber": 6632,
+    "name": "Perly-Certoux",
+    "municipalMultiplierPercent": 43
+  },
+  {
+    "bfsNumber": 6633,
+    "name": "Plan-les-Ouates",
+    "municipalMultiplierPercent": 37
+  },
+  {
+    "bfsNumber": 6634,
+    "name": "Pregny-Chambésy",
+    "municipalMultiplierPercent": 32
+  },
+  {
+    "bfsNumber": 6635,
+    "name": "Presinge",
+    "municipalMultiplierPercent": 40
+  },
+  {
+    "bfsNumber": 6636,
+    "name": "Puplinge",
+    "municipalMultiplierPercent": 49
+  },
+  {
+    "bfsNumber": 6637,
+    "name": "Russin",
+    "municipalMultiplierPercent": 39
+  },
+  {
+    "bfsNumber": 6638,
+    "name": "Satigny",
+    "municipalMultiplierPercent": 39
+  },
+  {
+    "bfsNumber": 6639,
+    "name": "Soral",
+    "municipalMultiplierPercent": 44
+  },
+  {
+    "bfsNumber": 6640,
+    "name": "Thônex",
+    "municipalMultiplierPercent": 44
+  },
+  {
+    "bfsNumber": 6641,
+    "name": "Troinex",
+    "municipalMultiplierPercent": 40
+  },
+  {
+    "bfsNumber": 6642,
+    "name": "Vandœuvres",
+    "municipalMultiplierPercent": 27
+  },
+  {
+    "bfsNumber": 6643,
+    "name": "Vernier",
+    "municipalMultiplierPercent": 50
+  },
+  {
+    "bfsNumber": 6644,
+    "name": "Versoix",
+    "municipalMultiplierPercent": 45.5
+  },
+  {
+    "bfsNumber": 6645,
+    "name": "Veyrier",
+    "municipalMultiplierPercent": 37
+  }
+]

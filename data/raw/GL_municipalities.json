@@ -1,0 +1,29 @@
+[
+  {
+    "bfsNumber": 1632,
+    "name": "Glarus",
+    "district": null,
+    "municipalMultiplier": 61,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 1630,
+    "name": "Glarus Nord",
+    "district": null,
+    "municipalMultiplier": 63,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 1631,
+    "name": "Glarus Süd",
+    "district": null,
+    "municipalMultiplier": 63,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  }
+]

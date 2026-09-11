@@ -1,0 +1,116 @@
+[
+  {
+    "bfsNumber": 1201,
+    "name": "Altdorf (UR)",
+    "municipalMultiplierPercent": 95,
+    "churchMultiplierCatholicPercent": 82
+  },
+  {
+    "bfsNumber": 1202,
+    "name": "Andermatt",
+    "municipalMultiplierPercent": 99,
+    "churchMultiplierCatholicPercent": 100
+  },
+  {
+    "bfsNumber": 1203,
+    "name": "Attinghausen",
+    "municipalMultiplierPercent": 97,
+    "churchMultiplierCatholicPercent": 120
+  },
+  {
+    "bfsNumber": 1205,
+    "name": "Bürglen (UR)",
+    "municipalMultiplierPercent": 92,
+    "churchMultiplierCatholicPercent": 106
+  },
+  {
+    "bfsNumber": 1206,
+    "name": "Erstfeld",
+    "municipalMultiplierPercent": 103,
+    "churchMultiplierCatholicPercent": 130
+  },
+  {
+    "bfsNumber": 1207,
+    "name": "Flüelen",
+    "municipalMultiplierPercent": 93,
+    "churchMultiplierCatholicPercent": 120
+  },
+  {
+    "bfsNumber": 1208,
+    "name": "Göschenen",
+    "municipalMultiplierPercent": 108,
+    "churchMultiplierCatholicPercent": 133
+  },
+  {
+    "bfsNumber": 1209,
+    "name": "Gurtnellen",
+    "municipalMultiplierPercent": 110,
+    "churchMultiplierCatholicPercent": 133
+  },
+  {
+    "bfsNumber": 1210,
+    "name": "Hospental",
+    "municipalMultiplierPercent": 95,
+    "churchMultiplierCatholicPercent": 148
+  },
+  {
+    "bfsNumber": 1211,
+    "name": "Isenthal",
+    "municipalMultiplierPercent": 117,
+    "churchMultiplierCatholicPercent": 150
+  },
+  {
+    "bfsNumber": 1212,
+    "name": "Realp",
+    "municipalMultiplierPercent": 92,
+    "churchMultiplierCatholicPercent": 100
+  },
+  {
+    "bfsNumber": 1213,
+    "name": "Schattdorf",
+    "municipalMultiplierPercent": 91,
+    "churchMultiplierCatholicPercent": 92
+  },
+  {
+    "bfsNumber": 1214,
+    "name": "Seedorf (UR)",
+    "municipalMultiplierPercent": 95,
+    "churchMultiplierCatholicPercent": 100
+  },
+  {
+    "bfsNumber": 1215,
+    "name": "Seelisberg",
+    "municipalMultiplierPercent": 110,
+    "churchMultiplierCatholicPercent": 150
+  },
+  {
+    "bfsNumber": 1216,
+    "name": "Silenen",
+    "municipalMultiplierPercent": 105,
+    "churchMultiplierCatholicPercent": 130
+  },
+  {
+    "bfsNumber": 1217,
+    "name": "Sisikon",
+    "municipalMultiplierPercent": 116,
+    "churchMultiplierCatholicPercent": 130
+  },
+  {
+    "bfsNumber": 1218,
+    "name": "Spiringen",
+    "municipalMultiplierPercent": 105,
+    "churchMultiplierCatholicPercent": 148
+  },
+  {
+    "bfsNumber": 1219,
+    "name": "Unterschächen",
+    "municipalMultiplierPercent": 104,
+    "churchMultiplierCatholicPercent": 125
+  },
+  {
+    "bfsNumber": 1220,
+    "name": "Wassen",
+    "municipalMultiplierPercent": 108,
+    "churchMultiplierCatholicPercent": 133
+  }
+]

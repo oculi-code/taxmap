@@ -1,0 +1,146 @@
+[
+  {
+    "bfsNumber": 6404,
+    "name": "Boudry",
+    "district": "Boudry",
+    "municipalMultiplierPercent": 68
+  },
+  {
+    "bfsNumber": 6408,
+    "name": "Cortaillod",
+    "district": "Boudry",
+    "municipalMultiplierPercent": 66
+  },
+  {
+    "bfsNumber": 6413,
+    "name": "Rochefort",
+    "district": "Boudry",
+    "municipalMultiplierPercent": 67
+  },
+  {
+    "bfsNumber": 6416,
+    "name": "Milvignes",
+    "district": "Boudry",
+    "municipalMultiplierPercent": 63
+  },
+  {
+    "bfsNumber": 6417,
+    "name": "La Grande Béroche",
+    "district": "Boudry",
+    "municipalMultiplierPercent": 63
+  },
+  {
+    "bfsNumber": 6421,
+    "name": "La Chaux-de-Fonds",
+    "district": "La Chaux-de-Fonds",
+    "municipalMultiplierPercent": 75
+  },
+  {
+    "bfsNumber": 6422,
+    "name": "Les Planchettes",
+    "district": "La Chaux-de-Fonds",
+    "municipalMultiplierPercent": 77
+  },
+  {
+    "bfsNumber": 6423,
+    "name": "La Sagne",
+    "district": "La Chaux-de-Fonds",
+    "municipalMultiplierPercent": 75
+  },
+  {
+    "bfsNumber": 6432,
+    "name": "La Brévine",
+    "district": "Le Locle",
+    "municipalMultiplierPercent": 75
+  },
+  {
+    "bfsNumber": 6433,
+    "name": "Brot-Plamboz",
+    "district": "Le Locle",
+    "municipalMultiplierPercent": 75
+  },
+  {
+    "bfsNumber": 6434,
+    "name": "Le Cerneux-Péquignot",
+    "district": "Le Locle",
+    "municipalMultiplierPercent": 72
+  },
+  {
+    "bfsNumber": 6435,
+    "name": "La Chaux-du-Milieu",
+    "district": "Le Locle",
+    "municipalMultiplierPercent": 75
+  },
+  {
+    "bfsNumber": 6436,
+    "name": "Le Locle",
+    "district": "Le Locle",
+    "municipalMultiplierPercent": 69
+  },
+  {
+    "bfsNumber": 6437,
+    "name": "Les Ponts-de-Martel",
+    "district": "Le Locle",
+    "municipalMultiplierPercent": 75
+  },
+  {
+    "bfsNumber": 6451,
+    "name": "Cornaux",
+    "district": "Neuchâtel",
+    "municipalMultiplierPercent": 74
+  },
+  {
+    "bfsNumber": 6452,
+    "name": "Cressier (NE)",
+    "district": "Neuchâtel",
+    "municipalMultiplierPercent": 77
+  },
+  {
+    "bfsNumber": 6455,
+    "name": "Le Landeron",
+    "district": "Neuchâtel",
+    "municipalMultiplierPercent": 66
+  },
+  {
+    "bfsNumber": 6456,
+    "name": "Lignières",
+    "district": "Neuchâtel",
+    "municipalMultiplierPercent": 67
+  },
+  {
+    "bfsNumber": 6458,
+    "name": "Neuchâtel",
+    "district": "Neuchâtel",
+    "municipalMultiplierPercent": 65
+  },
+  {
+    "bfsNumber": 6487,
+    "name": "Val-de-Ruz",
+    "district": "Val-de-Ruz",
+    "municipalMultiplierPercent": 66
+  },
+  {
+    "bfsNumber": 6504,
+    "name": "La Côte-aux-Fées",
+    "district": "Val-de-Travers",
+    "municipalMultiplierPercent": 75
+  },
+  {
+    "bfsNumber": 6511,
+    "name": "Les Verrières",
+    "district": "Val-de-Travers",
+    "municipalMultiplierPercent": 79
+  },
+  {
+    "bfsNumber": 6512,
+    "name": "Val-de-Travers",
+    "district": "Val-de-Travers",
+    "municipalMultiplierPercent": 76
+  },
+  {
+    "bfsNumber": 6513,
+    "name": "Laténa",
+    "district": "Neuchâtel",
+    "municipalMultiplierPercent": 68
+  }
+]

@@ -1,0 +1,21 @@
+[
+  { "bfsNumber": 1201, "name": "Altdorf (UR)", "district": null, "municipalMultiplier": 95, "municipalMultiplierUnit": "percent", "churchMultiplierReformed": 115, "churchMultiplierCatholic": 82 },
+  { "bfsNumber": 1202, "name": "Andermatt", "district": null, "municipalMultiplier": 99, "municipalMultiplierUnit": "percent", "churchMultiplierReformed": 115, "churchMultiplierCatholic": 100 },
+  { "bfsNumber": 1203, "name": "Attinghausen", "district": null, "municipalMultiplier": 97, "municipalMultiplierUnit": "percent", "churchMultiplierReformed": 115, "churchMultiplierCatholic": 120 },
+  { "bfsNumber": 1205, "name": "Bürglen (UR)", "district": null, "municipalMultiplier": 92, "municipalMultiplierUnit": "percent", "churchMultiplierReformed": 115, "churchMultiplierCatholic": 106 },
+  { "bfsNumber": 1206, "name": "Erstfeld", "district": null, "municipalMultiplier": 103, "municipalMultiplierUnit": "percent", "churchMultiplierReformed": 115, "churchMultiplierCatholic": 130 },
+  { "bfsNumber": 1207, "name": "Flüelen", "district": null, "municipalMultiplier": 93, "municipalMultiplierUnit": "percent", "churchMultiplierReformed": 115, "churchMultiplierCatholic": 120 },
+  { "bfsNumber": 1208, "name": "Göschenen", "district": null, "municipalMultiplier": 108, "municipalMultiplierUnit": "percent", "churchMultiplierReformed": 115, "churchMultiplierCatholic": 133 },
+  { "bfsNumber": 1209, "name": "Gurtnellen", "district": null, "municipalMultiplier": 110, "municipalMultiplierUnit": "percent", "churchMultiplierReformed": 115, "churchMultiplierCatholic": 133 },
+  { "bfsNumber": 1210, "name": "Hospental", "district": null, "municipalMultiplier": 95, "municipalMultiplierUnit": "percent", "churchMultiplierReformed": 115, "churchMultiplierCatholic": 148 },
+  { "bfsNumber": 1211, "name": "Isenthal", "district": null, "municipalMultiplier": 117, "municipalMultiplierUnit": "percent", "churchMultiplierReformed": 115, "churchMultiplierCatholic": 150 },
+  { "bfsNumber": 1212, "name": "Realp", "district": null, "municipalMultiplier": 92, "municipalMultiplierUnit": "percent", "churchMultiplierReformed": 115, "churchMultiplierCatholic": 100 },
+  { "bfsNumber": 1213, "name": "Schattdorf", "district": null, "municipalMultiplier": 91, "municipalMultiplierUnit": "percent", "churchMultiplierReformed": 115, "churchMultiplierCatholic": 92 },
+  { "bfsNumber": 1214, "name": "Seedorf (UR)", "district": null, "municipalMultiplier": 95, "municipalMultiplierUnit": "percent", "churchMultiplierReformed": 115, "churchMultiplierCatholic": 100 },
+  { "bfsNumber": 1215, "name": "Seelisberg", "district": null, "municipalMultiplier": 110, "municipalMultiplierUnit": "percent", "churchMultiplierReformed": 115, "churchMultiplierCatholic": 150 },
+  { "bfsNumber": 1216, "name": "Silenen", "district": null, "municipalMultiplier": 105, "municipalMultiplierUnit": "percent", "churchMultiplierReformed": 115, "churchMultiplierCatholic": 130 },
+  { "bfsNumber": 1217, "name": "Sisikon", "district": null, "municipalMultiplier": 116, "municipalMultiplierUnit": "percent", "churchMultiplierReformed": 115, "churchMultiplierCatholic": 130 },
+  { "bfsNumber": 1218, "name": "Spiringen", "district": null, "municipalMultiplier": 105, "municipalMultiplierUnit": "percent", "churchMultiplierReformed": 115, "churchMultiplierCatholic": 148 },
+  { "bfsNumber": 1219, "name": "Unterschächen", "district": null, "municipalMultiplier": 104, "municipalMultiplierUnit": "percent", "churchMultiplierReformed": 115, "churchMultiplierCatholic": 125 },
+  { "bfsNumber": 1220, "name": "Wassen", "district": null, "municipalMultiplier": 108, "municipalMultiplierUnit": "percent", "churchMultiplierReformed": 115, "churchMultiplierCatholic": 133 }
+]

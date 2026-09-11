@@ -1,0 +1,1716 @@
+                                                 Dipartimento federale delle finanze DFF
+                                                 Amministrazione federale delle contribuzioni AFC
+                                                 Divisione principale Politica fiscale
+                                                 Divisione Economia, statistica fiscale e documentazione fiscale
+
+
+
+
+                                        TICINO
+
+                           PREFAZIONE
+
+                           Il Foglio cantonale funge da complemento ai diversi temi
+                           trattati nella raccolta Informazioni fiscali e rinvia agli Por­
+                           tafogli fiscali. Ad oggi, si riferisce a l'imposizione delle
+                           persone fisiche e delle persone giuridiche. L’accento è
+                           posto sulle particolarità fiscali di competenza di ciascun
+                           cantone in rapporto alla Legge federale sull’armonizza­
+                           zione delle imposte dirette dei Cantoni e dei Comuni
+                           (LAID), evidenziate attraverso articoli di legge estratti ad
+                           hoc.
+
+
+
+
+                           Stato febbraio 2026
+
+
+
+
+Editore / Autore
+Amministrazione federale
+delle contribuzioni AFC
+Documentazione fiscale
+Eigerstrasse 65
+3003 Berna
+ist@estv.admin.ch
+www.estv.admin.ch
+Foglio cantonale Ticino                                                          Legenda / Commenti
+
+
+
+
+Legenda / Commenti
+
+
+            Cliccando su questo simbolo, accederete direttamente alla
+            “Steuermäppchen 2025 / Brochure fiscale 2025” relativa (tabella
+            riassuntiva dei dati della Confederazione e dei Cantoni).
+
+
+            Il calcolatore d’imposta permette di calcolare approssimativamente
+            le vostre imposte.
+
+
+
+Recueil Informations fiscales > Il link conduce all'articolo corrispondente del Dossier informazioni in
+materia fiscale (in francese) pubblicata sul sito web della AFC.
+
+
+
+
+Per una panoramica delle imposte in vigore a livello federale e cantonale, si veda recueil Informations
+fiscales, C. Système fiscal, Impôts en vigueur.
+
+
+
+
+                                                                                               07.09.2026
+Foglio cantonale Ticino                                                                                                                             Indice
+
+
+
+
+Indice
+BASI LEGALI ...........................................................................................................................................4
+
+IMPOSIZIONE DELLE PERSONE FISICHE ...........................................................................................5
+   Imposta sul reddito ............................................................................................................................5
+       Redditi ............................................................................................................................................. 5
+       Redditi esenti ................................................................................................................................... 6
+       Determinazione del reddito netto .................................................................................................... 7
+       Determinazione del reddito imponibile .......................................................................................... 11
+       Calcolo dell’imposta ...................................................................................................................... 12
+       Progressione a freddo ................................................................................................................... 15
+   Imposta sulla sostanza ................................................................................................................... 15
+       Oggetto dell’imposta sulla sostanza .............................................................................................. 15
+       Stima dei diversi elementi che compongono la sostanza ............................................................. 15
+       Determinazione della sostanza imponibile .................................................................................... 16
+       Calcolo dell’imposta ...................................................................................................................... 16
+   Imposizione globale secondo il dispendio ................................................................................... 17
+   Coefficiente annuale ....................................................................................................................... 17
+
+IMPOSIZIONE DELLE PERSONE GIURIDICHE ................................................................................. 19
+   Imposta sull’utile ............................................................................................................................. 19
+       Determinazione dell’utile netto imponibile ..................................................................................... 19
+       Calcolo dell’imposta ...................................................................................................................... 21
+   Imposta sul capitale ........................................................................................................................ 21
+       Calcolo dell’imposta ...................................................................................................................... 22
+   Disposizione transitoria relative dalle società holding, società amministrazione e società
+   ausiliarie (2020 – 2024) ................................................................................................................... 22
+   Imposta minima ............................................................................................................................... 23
+   Imposta immobiliare ....................................................................................................................... 24
+       Riversamento ai comuni dell’imposta immobiliare cantonale delle aziende idroelettriche ........... 24
+   Coefficiente annuale ....................................................................................................................... 24
+   Agevolazioni fiscali ......................................................................................................................... 25
+
+IMPOSIZIONE DEGLI UTILI IMMOBILIARI ......................................................................................... 26
+   Calcolo dell’imposta ....................................................................................................................... 26
+
+IMPOSTE NEI COMUNI E PARROCCHIE ........................................................................................... 28
+   Imposta sul reddito e sulla sostanza come anche sull’utile e sul capitale nei comuni ........... 28
+   Imposta sul reddito e sulla sostanza come anche sull’utile e sul capitale nelle parrocchie .. 29
+
+AMMINISTRAZIONE FISCALE CANTONALE .................................................................................... 30
+
+
+
+
+                                                                                                                                                            3
+Foglio cantonale Ticino                                                                     Basi legali
+
+
+
+
+Basi legali
+   •    640.100 Legge tributaria del 21 giugno 1994 (LT)
+   •    640.110 Regolamento della legge tributaria del 18 ottobre 1994 (RLT)
+   •    640.210 Decreto esecutivo concernente l’imposizione delle persone fisiche valido per il periodo
+        fiscale 2026 del 19 novembre 2025 (DIPF)*
+   •    643.100 Decreto legislativo concernente l’imposta di culto delle Parrocchie e delle Comunità
+        regionali della Chiesa evangelica riformata del 10 novembre 1992 (DIC)*
+   •    215.600 Legge sulla stima ufficiale della sostanza immobiliare del 13 novembre 1996 (LSI)*
+   •    900.100 Legge per l’innovazione economica del 14 dicembre 2015 (LInn)
+   Ulteriori ordinanze e decreti vengono pubblicati nella raccolta delle leggi.
+* Queste abbreviazioni sono state definite specificamente per questo foglio cantonale.
+
+
+
+
+                                                                                                      4
+Foglio cantonale Ticino                                                                                 Persone fisiche
+
+
+
+
+Imposizione delle persone fisiche
+   Art. 1 cpv. 1 lett. a LT
+   1
+     Il Cantone preleva secondo questa legge:
+   a) un’imposta sul reddito e sulla sostanza delle persone fisiche;
+
+
+Imposta sul reddito
+(Art. 15 – 39 LT ; art. 2 RLT ; DIPF)
+Recueil Informations fiscales, D. Impôts divers, Impôt sur le revenu des personnes physiques
+
+Recueil Informations fiscales, D. Impôts divers, Imposition de l’activité lucrative indépendante
+
+Recueil Informations fiscales, F. Problèmes fiscaux, Imposition de la valeur locative
+
+
+Redditi
+(Art. 15 – 22 LT)
+Il reddito lordo totale si compone specificatamente dal reddito derivante dall’attività lucrativa dipendente
+o indipendente, compresi i redditi accessori o quelli acquisiti quali indennità o a compensazione del
+reddito medesimo, così come dai redditi imponibili della sostanza mobiliare ed immobiliare, dalle pre­
+stazioni in capitale della previdenza, dalle vincite ai giochi in denaro e, per le persone che abitano in un
+immobile di cui sono proprietari, dal valore locativo.
+
+Le particolarità cantonali seguenti sono da segnalare:
+
+   Imposizione parziale dei proventi da partecipazioni della sostanza commerciale
+   Art. 17b LT
+   1
+     I dividendi, le quote di utili, le eccedenze di liquidazione come pure le prestazioni valutabili in denaro
+   provenienti da azioni, quote in società a garanzia limitata o in società cooperative e buoni di partecipa­
+   zione, nonché gli utili conseguiti con l’alienazione di tali diritti di partecipazione sono imponibili in ragione
+   del 70 per cento, dopo deduzione degli oneri imputabili, se questi diritti di partecipazione rappresentano
+   almeno il 10 per cento del capitale azionario o sociale di una società di capitali o di una società coope­
+   rativa.
+   2
+     L’imposizione parziale degli utili conseguiti con l’alienazione è concessa soltanto se i diritti di parteci­
+   pazione alienati erano, per almeno un anno, di proprietà del contribuente o dell’impresa di persone.
+
+   Redditi da brevetti e diritti analoghi in caso di attività lucrativa indipendente
+   Art. 17c LT
+   Ai redditi da brevetti e diritti analoghi in caso di attività lucrativa indipendente si applicano per analogia
+   gli articoli 67a e 67b.
+
+   Reddito da sostanza mobiliare
+   Art. 19 cpv. 1bis LT
+   1bis I dividendi, le quote di utili, le eccedenze di liquidazione come pure le prestazioni valutabili in denaro
+
+   provenienti da azioni, quote in società a garanzia limitata o in società cooperative e buoni di partecipa­
+   zione (comprese le azioni gratuite, gli aumenti gratuiti del valore nominale e simili) sono imponibili in
+   ragione del 70 per cento se questi diritti di partecipazione rappresentano almeno il 10 per cento del
+   capitale azionario o sociale di una società di capitali o di una società cooperativa.
+
+   Valore locativo
+   Art. 20 cpv. 1 lett. b e cpv. 2 – 3 LT
+   1
+     E’ imponibile il reddito da sostanza immobiliare, segnatamente:
+   b) il valore locativo di immobili o di parti di essi, che il contribuente ha a disposizione per uso proprio in
+       forza del suo diritto di proprietà o di un usufrutto ottenuto a titolo gratuito;
+
+
+
+
+                                                                                                                       5
+Foglio cantonale Ticino                                                                                       Persone fisiche
+
+
+   2
+     Il valore locativo, tenuto conto della promozione dell’accesso alla proprietà e della previdenza perso­
+   nale, è stabilito al 60 - 70 per cento del valore di mercato delle pigioni. Per il suo calcolo è possibile
+   considerare in modo adeguato il valore della stima ufficiale.
+   3 La riduzione di cui al capoverso 2 è ammessa solo per gli immobili utilizzati come residenza primaria.
+
+   Art. 1 DIPF
+   1 Il valore locativo corrisponde al valore di mercato della pigione per immobili dello stesso genere nella
+
+   medesima posizione.
+   2 Il valore locativo delle abitazioni primarie corrisponde mediamente al 60-70% del valore di mercato
+
+   della pigione; in mancanza di altri elementi utili al suo calcolo, esso corrisponde, di regola, al 90% del
+   valore di reddito determinato dall’Ufficio di stima nella decisione di stima.
+
+   Redditi da fonti previdenziali
+   Art. 21 cpv. 1 – 3 LT
+   1 Sono imponibili tutti i proventi dall’assicurazione vecchiaia, superstiti e invalidità, nonché da istituzioni
+
+   di previdenza professionale o da forme riconosciute di previdenza individuale vincolata, comprese le
+   liquidazioni in capitale e il rimborso dei versamenti, premi e contributi.
+   2
+     I proventi dalla previdenza professionale comprendono segnatamente le prestazioni delle casse previ­
+   denziali, delle assicurazioni di risparmio e di gruppo, come anche le polizze di libero passaggio.
+   3 Le assicurazioni di rendita vitalizia nonché i contratti di rendita vitalizia e di vitalizio sono imponibili nella
+
+   misura della loro quota di reddito. […]
+
+
+Redditi esenti
+(Art. 23 LT)
+
+Le particolarità cantonali seguenti sono da segnalare:
+
+   Soldo dei pompieri di milizia
+   Art. 23 lett. fbis LT
+   Sono esenti da imposta:
+   fbis) Il soldo dei pompieri di milizia sino a concorrenza di un importo di 5'400* franchi all’anno per presta­
+         zioni in relazione all’adempimento dei compiti fondamentali dei pompieri (esercitazioni, servizi di pic­
+         chetto, corsi, ispezioni e interventi effettivi per salvataggi, lotta contro gli incendi, lotta contro i sinistri
+         in generale e contro i sinistri causati da elementi naturali e simili); sono eccettuati gli importi forfettari
+         per i quadri, le indennità di funzione, le indennità per i lavori amministrativi e le indennità per presta­
+         zioni volontarie fornite dai pompieri;
+   * Importo indicizzato valido a partire dal periodo fiscale 2025.
+
+   Vincite ai giochi in denaro
+   Art. 23 lett. i – m LT
+   Sono esenti da imposta:
+   i) le vincite ai giochi da casinò ammessi secondo la legge federale sui giochi in denaro del 29 settembre
+       2017 (LGD) realizzate nelle case da gioco, purché tali vincite non provengano da un’attività lucrativa
+       indipendente;
+   j) le singole vincite, ai giochi di grande estensione ammessi secondo la LGD e ai giochi da casinò in
+       linea ammessi secondo la LGD, fino a 1'070'400* franchi;
+   l) le vincite ai giochi di piccola estensione ammessi secondo la LGD;
+   m) le singole vincite ai giochi di destrezza e alle lotterie destinati a promuovere le vendite che secondo
+       l’articolo 1 cpv. 2 lettera d) ed e) LGD non sottostanno a quest’ultima, purché non superino il limite
+       di 1'100** franchi.
+   * Importo indicizzato valido a partire dal periodo fiscale 2025.
+   ** Importo indicizzato valido a partire dal periodo fiscale 2024.
+
+
+
+
+                                                                                                                             6
+Foglio cantonale Ticino                                                                                Persone fisiche
+
+
+Determinazione del reddito netto
+(Art. 24 – 33 LT; art. 2 RLT; DIPF)
+Il reddito netto è calcolato detraendo dal totale dei proventi lordi imponibili le spese e le deduzioni ge­
+nerali.
+
+Deduzioni
+(Art. 25 – 32c LT; art. 2 RLT; DIPF)
+
+Le particolarità cantonali seguenti sono da segnalare:
+
+   Spese
+   (Art. 25 – 31 LT; art. 2 RLT; DIPF)
+
+   Telelavoro in relazione alle deduzioni delle spese professionali
+   Estratto dalle Istruzioni per la compilazione della dichiarazione d’imposta 2025
+   Per le giornate in cui il lavoro è stato svolto da casa le ‘Spese di trasporto’ e le ‘Spese di doppia economia
+   domestica’ non possono essere chieste in deduzione. Per questa ragione i/le contribuenti che nel corso
+   dell’anno hanno svolto telelavoro devono ridurre i giorni che danno diritto a queste deduzioni e conside­
+   rare unicamente i giorni in cui l’attività lavorativa è stata effettutata presso la sede di servizio. In questo
+   caso è possibile optare per il conteggio dei singoli giorni in cui ci si è effettivamente recati al luogo di
+   lavoro o - in alternativa - effettuare un conteggio ‘semplificato’ su base forfettaria e quantificato sulla
+   scorta della percentuale media di attività in telelavoro.
+   Si ricorda che - per un impiego al 100 % - la durata dell’attività professionale è calcolata su un massimo
+   di 220 giorni lavorativi all’anno.
+   Per quanto riguarda infine la deduzione forfettaria per ‘Altre spese professionali’ essa comprende già le
+   spese sostenute per l’acquisto di strumenti di lavoro così come l’uso di una camera privata a scopi pro­
+   fessionali. Spese eccedenti il forfait possono eventualmente venir ammesse solo su dimostrazione dei
+   costi effettivi, ma ad ogni modo sono escluse nel caso vi sia a disposizione del collaboratore un ufficio
+   presso il datore di lavoro e di conseguenza il telelavoro è stato svolto su base volontaria.
+
+   Déduction forfaitaire en cas de surplus de dépenses pour repas
+   Déductions pour le séjour hors du domicile
+   Spese di trasporto dal domicilio al luogo di lavoro
+   Art. 25 cpv. 1 lett. a LT
+   1
+     Le spese professionali deducibili sono:
+   a) le spese di trasporto necessarie dal domicilio al luogo di lavoro;
+   Art. 3 DIPF
+   1
+     Sono considerate spese di trasporto quelle causate al contribuente per trasferirsi dal luogo di domicilio
+   a quello in cui lavora. Le relative deduzioni sono stabilite come segue:
+   a) per l’uso di mezzi di trasporto pubblici: la spesa effettiva;
+   b) per l’uso della bicicletta, di un ciclomotore o di una motocicletta con targa di controllo su fondo giallo:
+       fino a 700 franchi l’anno, ma al massimo il costo del mezzo di trasporto pubblico;
+   c) per l’uso di una motocicletta con targa di controllo su fondo bianco o di un’automobile privata: le
+       spese del mezzo pubblico disponibile.
+   2
+     Eccezionalmente, se nessun mezzo pubblico è a disposizione o se il contribuente non può servirsene
+   (es. infermità, distanza notevole dalla più vicina fermata, orario sfavorevole, ecc.) è ammessa una de­
+   duzione fino a 40 cts. il km per le motociclette con targa di controllo su fondo bianco e 60 cts. per le
+   automobili.
+   3 La deduzione per il tragitto di andata e ritorno a mezzogiorno non può in ogni caso superare quella
+
+   massima ammessa per i pasti consumati fuori casa (15 franchi al giorno o 3’200 franchi l’anno).
+
+
+
+
+                                                                                                                     7
+Foglio cantonale Ticino                                                                              Persone fisiche
+
+
+   Altre spese professionali
+   Art. 25 cpv. 1 lett. c e cpv. 2 LT
+   1 Le spese professionali deducibili sono:
+
+   c) le altre spese necessarie per l’esercizio della professione; è fatto salvo l’articolo 32, capoverso 1,
+       lettera n);
+   2 Per le spese professionali secondo il capoverso 1 lettere a) e b) sono stabilite deduzioni complessive
+
+   entro i limiti fissati dal Consiglio di Stato. Per le spese professionali secondo il capoverso 1 lettera c) è
+   stabilita una deduzione complessiva di 3’500 franchi. Il contribuente può giustificare spese più elevate.
+   Le deduzioni complessive sono dimezzate se l’attività lucrativa dipendente è esercitata per meno di 6
+   mesi all’anno o con un grado di occupazione inferiore al 50%.*
+   * Applicato a partire dal periodo fiscale 2026.
+
+   Attività accessoria
+   Art. 8 DIPF
+   1 Per l’esercizio di un’attività lucrativa accessoria occasionale dipendente e sostituzione delle spese pro­
+
+   fessionali ammesse dagli articoli precedenti è accordata una deduzione complessiva di 800 franchi
+   l’anno.
+   2
+     Se, in luogo della deduzione complessiva del capoverso 1, il contribuente fa valere spese più elevate,
+   la totalità delle spese effettive e la loro necessità professionale devono essere giustificate.
+
+   Ammortamenti accelerati
+   Art. 27 cpv. 2 e 2bis LT
+   2
+     In generale gli ammortamenti sono calcolati in funzione del valore effettivo dei singoli elementi patri­
+   moniali oppure sono ripartiti in funzione della durata probabile dell’utilizzazione dei singoli elementi.
+   2bis
+        Nell’anno in cui sono eseguiti nuovi investimenti, sono ammessi su questi ultimi ammortamenti acce­
+   lerati, il cui tasso di ammortamento è il doppio di quello ammesso dal capoverso 2.
+
+   Accantonamenti per sostituzione di beni
+   Art. 29 cpv. 1 e 2 LT
+   1 In caso di sostituzione di immobilizzi necessari all’azienda, le riserve occulte possono essere trasferite
+
+   su beni sostitutivi se questi beni sono parimenti necessari all’azienda e sono situati in Svizzera. Rimane
+   salva l’imposizione in caso di sostituzione di immobili con beni mobili.
+   2 Se la sostituzione non avviene nel corso dello stesso esercizio, è ammessa la costituzione di un ac­
+
+   cantonamento pari all’ammontare delle riserve occulte. Tale accantonamento deve essere utilizzato en­
+   tro un termine ragionevole per l’ammortamento del nuovo immobilizzo oppure sciolto mediante accredi­
+   tamento nel conto profitti e perdite.
+
+   Deduzioni delle perdite
+   Art. 30 cpv. 1 e 2 LT
+   1
+     Le perdite dei sette esercizi commerciali che precedono il periodo fiscale (art. 50) sono dedotte, a
+   condizione che non se ne sia potuto tenere conto al momento del calcolo del reddito imponibile di tali
+   anni.
+   2 Le perdite di esercizi precedenti che non hanno ancora potuto essere dedotte dal reddito possono
+
+   essere imputate sulle prestazioni di terzi destinate ad equilibrare un bilancio deficitario nell’ambito di un
+   risanamento.
+
+   Deduzioni delle spese di ricerca e sviluppo in caso di attività lucrativa indipendente
+   Art. 30a LT
+   Per la deduzione delle spese di ricerca e sviluppo in caso di attività lucrativa indipendente si applica per
+   analogia l’articolo 73a.
+
+   Spese deducibili degli immobili appartenenti alla sostanza privata
+   Art. 31 cpv. 2 – 4 LT
+   2 Il contribuente che possiede immobili privati può dedurre le spese di manutenzione, le spese di riatta­
+
+   zione di immobili di nuova acquisizione, i premi d’assicurazione e le spese d’amministrazione da parte
+   di terzi.
+
+
+
+
+                                                                                                                   8
+Foglio cantonale Ticino                                                                                    Persone fisiche
+
+
+   2bis
+       Gli investimenti destinati al risparmio di energia e alla protezione dell’ambiente come pure le spese
+   di demolizione in vista della costruzione di un immobile di sostituzione sono assimilati alle spese di ma­
+   nutenzione nella misura stabilita per l’imposta federale. Essi sono deducibili nel corso dei due periodi
+   fiscali successivi, se non possono essere interamente presi in considerazione nel periodo fiscale durante
+   il quale sono stati sostenuti.
+   3
+      Sono inoltre deducibili le spese per lavori di cura dei beni culturali protetti che il contribuente ha intra­
+   preso in virtù di disposizioni legali, d'intesa con le autorità o su loro ordine, a condizione che tali lavori
+   siano sussidiabili e nella misura in cui la spesa non è coperta da sussidi.
+   4 Invece della somma effettiva delle spese e dei premi concernenti i beni immobili privati, il contribuente
+
+   può avvalersi di una deduzione complessiva nei limiti fissati dal Consiglio di Stato.
+   Art. 2 cpv. 1 – 3 RLT
+   1
+     Invece della somma effettiva delle spese e dei premi concernenti i beni immobili appartenenti alla so­
+   stanza privata, il contribuente può far valere le seguenti deduzioni complessive:
+   a) il 10% del reddito lordo dell’immobile (pigioni o valore locativo) se, alla fine del periodo fiscale, l’im­
+       mobile risale a massimo a 10 anni prima;
+   b) il 20% del reddito lordo dell’immobile (pigioni o valore locativo) se, alla fine del periodo fiscale, l’im­
+       mobile ha più di 10 anni.
+   2
+     Per ogni periodo fiscale e per ognuno dei propri immobili, il contribuente può scegliere tra la deduzione
+   dei costi effettivi e la deduzione complessiva.
+   3
+     Non è possibile avvalersi della deduzione complessiva per beni immobili utilizzati da terzi principal­
+   mente a fini commerciali.
+   Circolare N. 7/2024 – Deduzioni sui proventi della sostanza immobiliare privata
+
+   Deduzioni generali
+   (Art. 32 – 32c; DIPF)
+
+   Oneri assicurativi e interessi di capitali a risparmio
+   Art. 32 cpv. 1 lett. g e cpv. 1bis LT
+   1
+     Sono dedotti dai proventi:
+   g) i versamenti, premi e contributi per assicurazioni sulle vaia, contro le malattie e, in quanto non com­
+        presi sotto la lettera f), contro gli infortuni, nonché gli interessi die capitali a risparmio del contribuente
+        e delle persone al cui sostentamento egli provvede, fino a concorrenza die una somma global di
+        10'900* franchi per i coniugi che vivono in comunione domestica e di 5'500* franchi per gli altri con­
+        tribuenti; per i contribuenti che non versano contributi alle istituzioni di previdenza professionale e a
+        forme riconosciute della previdenza individuale vincolata queste somme sono aumentate di 4'500*
+        franchi per i coniugi che vivono in comunione domestica e di 2'300* franchi per gli altri contribuenti.
+   1bisLe deduzioni di cui al capoverso 1 lettera g) sono aumentate di 1’200 franchi per ogni figlio o persona
+
+   bisognosa per cui il contribuente può far valere la deduzione prevista dall’articolo 34 capoverso 1 lettera
+   a) o b).
+   * Importo indicizzato valido a partire dal periodo fiscale 2025.
+
+   Spese per disabilità
+   Art. 32 cpv. 1 lett. l LT
+   1 Sono dedotti dai proventi:
+
+   l) le spese per disabilità del contribuente o delle persone disabili ai sensi della legge del 13 dicembre
+      2002 sui disabili al cui sostentamento egli provvede, quando tali spese sono sopportate dal contri­
+      buente medesimo;
+
+   Versamenti a partiti politici
+   Art. 32 cpv. 1 lett. m LT
+   1 Sono dedotto dai proventi:
+
+   m) fino a concorrenza di un importo di 10'600* franchi, i contributi dei membri e i versamenti ai partiti:
+       -    iscritti nel registro dei partiti conformemente all’articolo 76a della legge federale del 17 dicembre
+            1976 sui diritti politici;
+       -    rappresentati in un parlamento cantonale, o
+       -    che hanno ottenuto almeno il 3 per cento dei voti nell’ultima elezione di un parlamento canto­
+            nale;
+   * Importo indicizzato valido a partire dal periodo fiscale 2025.
+
+
+
+
+                                                                                                                          9
+Foglio cantonale Ticino                                                                              Persone fisiche
+
+
+   Spese di formazione e perfezionamento professionali
+   Art. 32 cpv. 1 lett. n LT
+   1 Sono dedotto dai proventi:
+
+   n) le spese di formazione e perfezionamento professionali, comprese le spese di riqualificazione, fino a
+       concorrenza di una somma globale di 10'700* franchi, purché il contribuente:
+         -   abbia conseguito un diploma del livello secondario II conformemente al sistema educativo sviz­
+             zero riconosciuto, oppure;
+         -   abbia compiuto i 20 anni e non si tratti di costi di formazione sostenuti fino al conseguimento
+             di un primo diploma del livello secondario II.
+   * Importo indicizzato valido a partire dal periodo fiscale 2025.
+   Art. 10 DIPF
+   Per spese di formazione a fini professionali si intendono le spese che permettono al contribuente di
+   mantenere il suo posto di lavoro, di avanzare professionalmente o che sfociano in una qualifica profes­
+   sionale che permette di esercitare una nuova attività lucrativa dipendente o indipendente oppure di ri­
+   prenderne una già esercitata precedentemente. Le spese di formazione a fini professionali includono le
+   spese di formazione e di formazione continua, nonché le spese di riqualificazione riguardanti l’attività
+   professionale.
+
+   Deduzione per attività lucrativa dei coniugi
+   Art. 32 cpv. 2 LT
+   2
+     Se i coniugi vivono in comunione domestica, sono dedotti 8'100* franchi dal reddito lavorativo che uno
+   dei coniugi consegue indipendentemente dalla professione, dal commercio o dall’impresa dell’altro; una
+   deduzione analoga è concessa quando uno dei coniugi collabora in modo determinante alla professione,
+   al commercio o all’impresa dell’altro;
+   * Importo indicizzato valido a partire dal periodo fiscale 2025.
+
+   Cura dei figli da terzi
+   Art. 32a LT
+   Dal reddito sono deducibili le spese comprovate per la cura prestata da terzi a ogni figlio che non ha
+   ancora compiuto i 14 anni e vive in comunione domestica con il contribuente che provvede al suo so­
+   stentamento, sempre che queste spese abbiano un nesso causale diretto con l’attività lucrativa, la for­
+   mazione o l’incapacità d’esercitare attività lucrativa del contribuente fino ad un importo massimo di
+   26'200* franchi.
+   * Importo indicizzato valido a partire dal periodo fiscale 2025.
+
+   Spese di malattia e infortunio
+   Art. 32b LT
+   Sono dedotti dai proventi le spese per malattia e infortunio del contribuente o delle persone al cui so­
+   stentamento egli provvede, quando tali spese sono sopportate dal contribuente medesimo e superano il
+   5 per cento dei proventi imponibili, dopo le deduzioni di cui agli art. da 25 a 32b.
+
+   Prestazioni volontarie
+   Art. 32c LT
+   1 Sono dedotti dai proventi le prestazioni volontarie in contanti e in altri beni a persone giuridiche con
+
+   sede in Svizzera che sono esentate dalle imposte in virtù del loro scopo pubblico o di utilità pubblica (art.
+   65 lett. f), sempre che tali prestazioni, durante l’anno fiscale, siano di almeno 100 franchi e non superino
+   complessivamente il 20 per cento dei proventi imponibili, dopo le deduzioni di cui agli articoli da 25 a
+   32b. Le prestazioni volontarie in contanti e in altri beni alla Confederazione, ai cantoni, ai comuni e ai
+   loro stabilimenti (art. 65 lett. a - c) sono deducibili nella medesima misura.
+   2 Nel caso di prestazioni volontarie in contanti o in altri beni al Cantone, ai Comuni e ai loro stabilimenti
+
+   nonché a persone giuridiche nei cui organi esecutivi sieda almeno un rappresentante del Cantone o di
+   un Comune ed esentate dalle imposte in virtù del loro scopo pubblico o di pubblica utilità (art. 65 lett. f),
+   il Consiglio di Stato, sentiti i Comuni interessati, può, in presenza di un interesse pubblico rilevante,
+   accordare una deduzione superiore al 20 per cento che non oltrepassi complessivamente il 50 per cento
+   dei proventi imponibili, dopo le deduzioni di cui agli articoli da 25 a 32b.
+
+
+
+
+                                                                                                                   10
+Foglio cantonale Ticino                                                                             Persone fisiche
+
+
+Determinazione del reddito imponibile
+(Art. 34 LT; DIPF)
+Il reddito imponibile corrisponde al reddito netto a cui sono state detratte le deduzioni sociali. Esso serve
+quale base per determinare l’imposta sul reddito.
+
+Deduzioni sociali
+(Art. 34 LT; DIPF)
+
+Le particolarità cantonali seguenti sono da segnalare:
+
+   Per ogni figlio a carico
+   Art. 34 cpv. 1 lett. a LT
+   1 Sono dedotti dal reddito netto:
+
+   a) per ogni figlio minorenne, a tirocinio o agli studi fino al 28.mo anno di età, al cui sostentamento il
+       contribuente provvede, 11'500* franchi; se i genitori sono tassati separatamente e se il figlio sottostà
+       all’autorità parentale in comune e non sono versati alimenti secondo l’articolo 32 capoverso 1 lettera
+       c, anche la deduzione per i figli è ripartita per metà;
+   * Importo indicizzato valido a partire dal periodo fiscale 2025.
+
+   Per ogni persona bisognosa a carico
+   Art. 34 cpv. 1 lett. b LT
+   1
+     Sono dedotti dal reddito netto:
+   b) per ogni persona residente in Svizzera, totalmente o parzialmente incapace di esercitare un’attività
+       lucrativa al cui sostentamento il contribuente provvede, comprovatamene, per un importo di almeno
+       5'900* franchi, una deduzione per sostentamento da 5'900* a 11'500* franchi al massimo; questa
+       deduzione non è ammessa per il coniuge e per i figli per i quali è già accordata la deduzione giusta
+       la lettera a);
+   * Importo indicizzato valido a partire dal periodo fiscale 2025.
+
+   Per ogni figlio agli studi
+   Art. 34 cpv. 1 lett. c LT
+   1
+     Sono dedotti dal reddito netto:
+   c) per ogni figlio fino al 28.mo anno di età, al cui sostentamento il contribuente provvede, che frequenta
+       una scuola o corsi di formazione, oltre al periodo dell’obbligo, un massimo di 13'900* franchi secondo
+       le modalità e nei limiti fissati dal Consiglio di Stato tenuto conto dei costi supplementari sopportati.
+   * Importo indicizzato valido a partire dal periodo fiscale 2025.
+   Art. 11 DIPF
+   1 Per ogni figlio fino al 28.mo anno di età, al cui sostentamento il contribuente provvede e che, senza
+
+   beneficiare di assegni o borse di studio, frequenta una scuola o corsi di formazione, oltre al periodo
+   dell’obbligo, sono riconosciute le seguenti deduzioni:
+   1. 1'300* franchi se il figlio frequenta scuole post-obbligatorie o corsi di perfezionamento professionale
+       e il luogo di domicilio corrisponde con quello di sede della scuola o del luogo di formazione;
+   2. 2'000* franchi se il figlio frequenta scuole post-obbligatorie o corsi di perfezionamento in Ticino ma
+       luogo di domicilio (ove egli rientra giornalmente) e quello di sede della scuola o del luogo di forma­
+       zione non corrispondono;
+   3. 4'800* franchi se il figlio frequenta scuole post-obbligatorie o corsi di perfezionamento in Ticino ma
+       luogo di domicilio (ove egli non rientra giornalmente) e quello di sede della scuola o del luogo di
+       formazione non corrispondono;
+   4. 6'600* franchi se il figlio frequenta scuole post-obbligatorie o corsi di perfezionamento fuori Cantone
+       o frequenta studi d’ordine accademico in Ticino o fuori Cantone rientrando giornalmente a domicilio;
+   5. 13'900* franchi se il figlio frequenta studi accademici senza rientrare giornalmente al domicilio.
+   2
+     In tutti i casi, deve trattarsi di scuole, studi o corsi a tempo pieno, estesi per la durata di almeno due
+   semestri, senza retribuzione né indennità agli studenti e che rilasciano un titolo o preparano ad un esame
+   riconosciuto.
+
+
+
+
+                                                                                                                  11
+Foglio cantonale Ticino                                                                                    Persone fisiche
+
+
+   3
+     Gli assegni o borse di studio fino a 1’000 franchi l’anno danno diritto all’intera deduzione del capoverso
+   1; per importi superiori le deduzioni sono computate parzialmente, ma solo fino a concorrenza del rispar­
+   mio di imposta ottenibile in caso di concessione dell’intera deduzione.
+   * Importo valido a partire dal periodo fiscale 2025.
+
+   Beneficiari AVS-AI
+   Art. 34 cpv. 2 LT
+   2
+     Dal reddito, al netto delle deduzioni di cui al capoverso 1 e tenuto conto dei redditi che sottostanno ad
+   altre sovranità fiscali, dei contribuenti tassati per rendite AVS/AI (art. 21 cpv. 1) sono inoltre deducibili:
+   a) per i contribuenti assoggettati con l’aliquota dell’articolo 35 capoverso 1: 8'000 franchi fino ad un
+       reddito di 21'000 franchi; oltre tale reddito la deduzione si riduce di 1'000 franchi per ogni 3'000 franchi
+       di reddito supplementare;
+   b) per i contribuenti assoggettati con l’aliquota dell’articolo 35 capoverso 2: 8'000 franchi fino ad un
+       reddito di 27'000 franchi; oltre tale reddito la deduzione si riduce di 1'000 franchi per ogni 3'000 franchi
+       di reddito supplementare.
+   In caso di rendita parziale la deduzione non può superare la rendita stessa.
+
+
+Calcolo dell’imposta
+(Art. 35 – 38 LT; art. 2a RLT)
+
+Le particolarità cantonali seguenti sono da segnalare:
+
+Aliquote
+(Art. 35 LT)
+
+   Art. 35 cpv. 1 LT
+   1
+     L’imposta annua sul reddito è calcolata per categorie in base alle seguenti aliquote:*
+       Categorie                                        Aliquote di ogni   Imposta dovuta per il Aliquota effettiva del
+                                                        categoria          reddito massimo di massimo di catego­
+                                                                           ogni categoria        ria
+                                                              %                      fr.                  %
+    fino                          a fr.           12’500        0.160              20.00                        0.160
+    da fr.         12’600         a fr.           17’400        5.232             276.40                        1.588
+    da fr.         17’500         a fr.           20’800        5.949             478.65                        2.301
+    da fr.         20’900         a fr.           26’000        3.923             682.65                        2.625
+    da fr.         26’100         a fr.           30’100        7.499             990.10                        3.289
+    da fr.         30’200         a fr.           39’900        9.461           1’917.25                        4.805
+    da fr.         40’000         a fr.           52’700      10.377            3’245.50                        6.158
+    da fr.         52’800         a fr.           58’100      10.988            3’838.85                        6.607
+    da fr.         58’200         a fr.           73’000      11.800            5’597.05                        7.667
+    da fr.         73’100         a fr.           91’400      11.597            7’730.95                        8.458
+    da fr.         91’500         a fr.        113’900        12.470           10’536.60                        9.250
+    da fr.       114’000          a fr.        227’800        13.080           25’435.00                       11.165
+    da fr.       227’900          a fr.        380’600        14.040           46’888.10                       12.319
+    da fr.       380’700                in avanti             14.500
+   * Aliquote indicizzate che si applicheranno a partire dal periodo d'imposta 2025.
+   Art. 309g LT
+   1
+     In deroga all’articolo 35 capoverso 1, per il periodo fiscale 2025 l’aliquota massima di categoria è pari
+   al 14.5 per cento.
+   2 In deroga all’articolo 35 capoverso 1, per il periodo fiscale 2026 l’aliquota massima di categoria è pari
+
+   al 14 per cento.
+   3 In deroga all’articolo 35 capoverso 1, per il periodo fiscale 2027 l’aliquota massima di categoria è pari
+
+   al 13.5 per cento.
+   4
+     In deroga all’articolo 35 capoverso 1, per il periodo fiscale 2028 l’aliquota massima di categoria è pari
+   al 13 per cento.
+   5
+     In deroga all’articolo 35 capoverso 1, per il periodo fiscale 2029 l’aliquota massima di categoria è pari
+   al 12.5 per cento.
+   6 A partire dal periodo fiscale 2030 l’aliquota effettiva massima ai sensi dell’articolo 35 capoverso 1 è
+
+   pari al 12 per cento.
+
+
+
+
+                                                                                                                          12
+Foglio cantonale Ticino                                                                                   Persone fisiche
+
+
+   Per i coniugi viventi in comunione domestica
+   Art. 35 cpv. 2 e 5 LT
+   2 Per i coniugi viventi in comunione domestica, nonché per i contribuenti vedovi, separati legalmente o
+
+   di fatto, divorziati, nubili e celibi, che vivono in comunione domestica con figli minorenni o con figli a
+   tirocinio o agli studi fino al 28.mo anno di età al cui sostentamento provvedono oppure con persone
+   bisognose al cui sostentamento provvedono in modo essenziale, l’imposta annua sul reddito è calcolata
+   per categorie in base alle seguenti aliquote:*
+                                                       Aliquote di ogni   Imposta dovuta per il Aliquota effettiva del
+    Categorie                                          categoria          reddito massimo di massimo di catego­
+                                                                          ogni categoria        ria
+                                                              %                    fr.                  %
+     fino                         a fr.         20'400            0.145                 29.60               0.145
+     da fr.         20'500        a fr.         24'800            3.923                202.25               0.815
+     da fr.         24'900        a fr.         28'200            4.360                350.50               1.242
+     da fr.         28'300        a fr.         33'100            2.616                478.65               1.446
+     da fr.         33'200        a fr.         42'300            3.923                839.60               1.984
+     da fr.         42'400        a fr.         47'800            6.540              1'199.30               2.508
+     da fr.         47'900        a fr.         60'600            7.848              2'203.85               3.636
+     da fr.         60'700        a fr.         79'800           10.116              4'146.05               5.195
+     da fr.         79'900        a fr.         90'400           11.074              5'319.90               5.884
+     da fr.         90'500        a fr.        122'600           12.645              9'391.45               7.660
+     da fr.       122'700         a fr.        141'000           12.034             11'605.70               8.230
+     da fr.       141'100         a fr.        183'200           12.906             17'052.10               9.307
+     da fr.       183'300         a fr.        227'800           13.777             23'196.85              10.182
+     da fr.       227'900         a fr.        303'900           14.302             34'080.35              11.214
+     da fr.       304'000         a fr.        761'400           14.650            101'102.50              13.278
+     da fr.       761'500            in avanti                   14.500
+   * Applicato a partire dal periodo fiscale 2025.
+   5
+      In deroga al capoverso 4, per i contribuenti vedovi, divorziati o separati legalmente o di fatto è applicata
+   l’aliquota del capoverso 2 limitatamente al periodo fiscale durante il quale sono rimasti vedovi o è avve­
+   nuto il divorzio o la separazione.
+   Art. 309h LT
+   1
+     In deroga all’articolo 35 capoverso 2, per il periodo fiscale 2025 l’aliquota massima di categoria è pari
+   al 14.5 per cento.
+   2 In deroga all’articolo 35 capoverso 2, per il periodo fiscale 2026 l’aliquota massima di categoria è pari
+
+   al 14 per cento.
+   3 In deroga all’articolo 35 capoverso 2, per il periodo fiscale 2027 l’aliquota massima di categoria è pari
+
+   al 13.5 per cento.
+   4 In deroga all’articolo 35 capoverso 2, per il periodo fiscale 2028 l’aliquota effettiva massima è pari al
+
+   13 per cento.
+   5 In deroga all’articolo 35 capoverso 2, per il periodo fiscale 2029 l’aliquota effettiva massima è pari al
+
+   12.5 per cento.
+   6
+      A partire dal periodo fiscale 2030 l’aliquota effettiva massima ai sensi dell’articolo 35 capoverso 2 è
+   pari al 12 per cento.
+
+   Redditi esenti
+   Art. 35 cpv. 3 LT
+   3
+     I redditi inferiori a 12'500* franchi, per i contribuenti di cui alle categorie del capoverso 1, e a 20'400*
+   franchi, per i contribuenti di cui alle categorie del capoverso 2, sono esenti da imposta.
+   Le frazioni di reddito inferiori a 100 franchi non sono computate.
+   * Importo indicizzato valido a partire dal periodo fiscale 2025.
+
+Casi speciali
+(Art. 36 – 38 LT; art. 2a RLT)
+
+   Vincite da giochi in denari non esentate
+   Art. 36 LT
+   1
+     Le vincite ai giochi in denaro che non sono esentate dall’imposta secondo l’art. 23 lettera j) e m), sono
+   tassate separatamente con un’imposta annua intera.
+
+
+
+
+                                                                                                                         13
+Foglio cantonale Ticino                                                                                 Persone fisiche
+
+
+   2
+     L’imposta annua intera è calcolata sul totale della somma delle vincite imponibili (ai sensi del cpv. 1),
+   al netto di una deduzione forfettaria, per costi delle poste giocate, del 5 per cento, calcolata sul lordo di
+   ogni singola vincita e considerato un massimo di 5'400* franchi per vincita.
+   3 In deroga al cpv. 2, dalle singole vincite ai giochi da casinò in linea di cui all’articolo 23 lettera j) sono
+
+   dedotte le poste prelevate durante l’anno fiscale dal conto in linea del giocatore, ma al massimo 26'800*
+   franchi.
+   4
+     Sono applicabili le aliquote dell’art. 35 cpv. 2, al minimo l’aliquota del 5 per cento.
+   * Importo indicizzato valido a partire dal periodo fiscale 2025.
+
+   Utili di liquidazione
+   Art. 37b LT
+   1 In caso di cessazione definitiva dell’attività lucrativa indipendente dopo il compimento dei 55 anni o per
+
+   incapacità di esercitare tale attività in seguito a invalidità, le riserve occulte realizzate nel corso degli
+   ultimi due esercizi sono sommate e imposte congiuntamente, ma separatamente dagli altri redditi. I con­
+   tributi di riscatto conformemente all’articolo 32 capoverso 1 lettera d) sono deducibili. Se non vengono
+   effettuati simili riscatti, l’imposta sull’importo delle riserve occulte realizzate per il quale il contribuente
+   giustifica l’ammissibilità di un riscatto secondo l’articolo 32 capoverso 1 lettera d) è calcolata applicando
+   l’aliquota dell’articolo 38. Per la determinazione dell’aliquota applicabile all’importo restante delle riserve
+   occulte realizzate è determinante un quinto di questo importo restante, ma in ogni caso è riscossa un’im­
+   posta a un’aliquota del 2 per cento almeno.
+   2
+     Il capoverso 1 si applica parimenti al coniuge superstite, agli altri eredi e ai legatari purché non conti­
+   nuino l’impresa esercitata dal defunto; il conteggio fiscale avviene il più tardi cinque anni civili dopo la
+   fine dell’anno in cui è deceduto l’ereditando.
+
+   Imposizione dei redditi equivalenti agli investimenti in società innovative
+   Art. 37c cpv. 1, 3 e 4 LT
+   1 I redditi equivalenti per importo agli investimenti in società di capitali o cooperative innovative, assog­
+
+   gettate per appartenenza personale nel Cantone, sono tassati separatamente con un'imposta annua
+   intera dell'1 per cento. L’agevolazione è concessa solo nei primi cinque periodi fiscali in cui la società di
+   capitali o cooperativa è considerata innovativa. Il Consiglio di Stato regola i dettagli, in particolare defini­
+   sce le condizioni affinché una società di capitali o cooperativa possa essere considerata innovativa,
+   come pure le norme di procedura.
+   3 L’investimento deve essere di almeno 50’000 franchi per periodo fiscale e non può superare l’80% del
+
+   reddito imponibile nel Cantone. Il Consiglio di Stato può stabilire un importo complessivo massimo, oltre
+   il quale la tassazione separata non è più concessa.
+   4 La differenza tra il reddito imponibile nel Cantone e l’importo dell’investimento è imposta ordinariamente
+
+   con l’aliquota corrispondente al reddito complessivo.
+   Art. 2a cpv. 2 e 3 RLT
+   2
+     Il limite minimo di 50'000 franchi può essere adempiuto anche con investimenti in più società di capitali
+   o cooperative.
+   3
+     Il limite complessivo massimo dell’importo tassato separatamente presso l’investitore è di 800'000 fran­
+   chi per periodo fiscale.
+
+   Prestazioni in capitale provenienti della previdenza
+   Art. 38 cpv. 1 – 3 LT
+   1 Le prestazioni in capitale secondo l’articolo 21 e i versamenti analoghi di cui all’articolo 16 capoverso
+
+   2, come anche le somme versate in seguito a decesso, danno corporale permanente o pregiudizio du­
+   revole della salute secondo l’articolo 22 lettera b) sono imposte separatamente con un’imposta annua
+   intera:
+   2 L’imposta è calcolata con l’aliquota che sarebbe applicabile se al posto della prestazione unica fosse
+
+   versata una prestazione annua corrispondente. L’aliquota minima è del 3 per cento.
+   3
+     Le deduzioni sociali di cui all’articolo 34 non sono ammesse.
+   Circolare N. 3/2009 - Modalità d'imposizione delle liquidazioni in capitale
+
+
+
+
+                                                                                                                      14
+Foglio cantonale Ticino                                                                             Persone fisiche
+
+
+Progressione a freddo
+(Art. 39 LT)
+
+Recueil Informations fiscales, E. Notions fiscales, Progression à froid
+
+   Compensazione degli effetti della progressione a freddo
+   Art. 39 cpv. 1 e 2 LT
+   1 Gli effetti della progressione a freddo sull’imposta gravante il reddito delle persone fisiche sono com­
+
+   pensati integralmente mediante pari adeguamento delle aliquote e delle deduzioni in franchi attuate sul
+   reddito. Le somme devono essere arrotondate ai 100 franchi superiori o inferiori. È esclusa dall’indiciz­
+   zazione la deduzione di cui all’articolo 34 capoverso 2.
+   2 Il Consiglio di Stato decide l’adeguamento quando l’indice nazionale dei prezzi al consumo è aumentato
+
+   dell’1 per cento dall’entrata in vigore della presente legge o dall’ultimo adeguamento. È determinante lo
+   stato dell’indice al 31 dicembre di un anno prima dell’inizio del periodo fiscale.
+
+
+Imposta sulla sostanza
+(Art. 40 – 49a LT; LSI)
+Recueil Informations fiscales, D. Impôts divers, Impôt sur la fortune des personnes physiques
+
+
+Oggetto dell’imposta sulla sostanza
+(Art. 40 LT)
+L’oggetto dell’imposta è costituto dalla sostanza netta. Quest’ultima comprende tutti i beni e i diritti ap­
+partenenti al contribuente o dei quali egli gode di un diritto di usufrutto, in particolar modo la sostanza
+mobiliare ed immobiliare, le assicurazioni sulla vita e le rendite soggette a riscatto, così come la so­
+stanza investita (partecipazioni) nell’esercizio di un’impresa commerciale o agricola.
+
+
+Stima dei diversi elementi che compongono la sostanza
+(Art. 41 – 46 LT; LSI)
+Secondo la LAID e secondo il diritto fiscale cantonale, gli attivi devono di principio essere stimati se­
+condo il loro valore venale. Delle stime diverse possono essere applicate, in particolar modo per quanto
+riguarda le assicurazioni, i titoli finanziari e gli immobili. I beni facenti parte della sostanza commerciale
+del contribuente sono stimati al loro valore determinante ai fini dell'imposta sul reddito.
+
+Le particolarità cantonali seguenti sono da segnalare:
+
+   Immobili
+   Art. 42 cpv. 1 e 1bis LT
+   1 Gli immobili e i loro accessori sono imposti per il valore di stima ufficiale. Se la decisione di stima è
+
+   impugnata, il valore di stima che sarà contenuto nella decisione di stima cresciuta in giudicato ha valenza
+   a partire dalla data di entrata in vigore della stima decretata dal Consiglio di Stato. Sono applicabili per
+   analogia le procedure di revisione (art. 232-234) e di ricupero d’imposta (art. 236-238a).
+   1bis
+        In deroga al capoverso 1, per gli immobili in costruzione, in fase di ampliamento o ristrutturazione
+   avente carattere di miglioria, il cui valore non è ancora riflesso nella stima, viene aggiunto al valore di
+   stima ufficiale secondo il capoverso 1 un supplemento pari al 70% delle relative spese di costruzione, di
+   ampliamento o ristrutturazione sopportate dal contribuente sino al momento determinante per l’imposi­
+   zione e indipendentemente se finanziate con mezzi propri o con mezzi di terzi.
+   Art. 16 cpv. 2 LSI
+   2
+     Il valore venale di un fondo edificato (fabbricato più terreno annesso) è determinato tenendo conto del
+   valore metrico e di quello di reddito secondo la media ponderata definita dal regolamento.
+   Art. 17 cpv. 2 LSI
+   2
+     Il valore metrico di un fabbricato corrisponde al valore a nuovo della costruzione e dei costi accessori,
+   deprezzato a dipendenza della vetustà secondo i criteri definiti dal regolamento.
+
+
+
+
+                                                                                                                  15
+Foglio cantonale Ticino                                                                                    Persone fisiche
+
+
+   Sostanza commerciale da brevetti e diritti analoghi
+   Art. 44 cpv. 1 LT
+   1 I beni immateriali e la sostanza mobiliare facenti parte della sostanza commerciale sono imposti al
+
+   valore determinante ai fini dell’imposta sul reddito. Alla sostanza commerciale imponibile si applica una
+   riduzione nella proporzione esistente tra gli attivi relativi ai diritti di cui all’articolo 17c imponibili nel Can­
+   tone e gli attivi commerciali complessivi.
+
+
+Determinazione della sostanza imponibile
+(Art. 47 LT)
+La sostanza netta risulta dalla sostanza lorda dalla quale sono stati dedotti i debiti. Per determinare la
+sostanza imponibile a quest’ultima occorre ulteriormente sottrarre le deduzioni sociali. È inoltre previsto
+un minimo esonerato da imposta.
+
+
+Calcolo dell’imposta
+(Art. 48 - 49a LT)
+
+Le particolarità cantonali seguenti sono da segnalare:
+
+   Deduzioni sociali per i coniugi
+   Art. 48 lett. a LT
+   Sono dedotti dalla sostanza netta:
+   a) per i coniugi viventi in comunione domestica 60'000 franchi.
+
+   Deduzioni sociali per ogni figlio minorenne
+   Art. 48 lett. b LT
+   Sono dedotti dalla sostanza netta:
+   b) per ogni figlio minorenne al cui sostentamento il contribuente provvede, 30'000 franchi.
+
+Aliquote
+(Art. 49, 49a e 309f LT)
+   Art. 49 cpv. 1 LT
+   1 L’imposta sulla sostanza è prelevata per categorie in base alle seguenti aliquote:
+
+                                                                Aliquote        Imposta dovuta Aliquota effettiva
+                                                                di ogni         per la sostanza  del massimo
+   Categorie                                                   categoria          massima di      di categoria
+                                                                                 ogni categoria
+                                                                   %                   Fr.              %
+         fino                        a fr.       200‘000         1.000               200.00           1.000
+        da fr.         201‘000       a fr.       280‘000         2.000               360.00           1.285
+        da fr.         281‘000       a fr.       700‘000         2.500             1‘410.00           2.014
+        da fr.         701‘000       a fr.     1‘380‘000         3.000             3‘450.00           2.500
+        da fr.       1‘381‘000 in avanti                         2.500
+
+   Minimi esonerati
+   Art. 49 cpv. 2 LT
+   2
+     La sostanza inferiore a 200'000 franchi è esente dall’imposta.
+
+   Freno all’imposta sulla sostanza
+   Art. 49a LT
+   1 Le imposte cantonali e comunali sul reddito e sulla sostanza sono ridotte, su richiesta del contribuente,
+
+   al 60 per cento del reddito imponibile complessivo. Ai fini di questo calcolo, il provento netto della
+   sostanza è fissato ad almeno l’1 per cento della sostanza netta.
+
+
+
+
+                                                                                                                          16
+Foglio cantonale Ticino                                                                                Persone fisiche
+
+
+   2
+     Il provento netto della sostanza è formato dai redditi della sostanza mobiliare ed immobiliare, al netto
+   delle deduzioni degli articoli 31 e 32 capoverso 1 lettera a).
+   2bis
+        Il reddito imponibile complessivo non può essere inferiore all’1 per cento della sostanza netta.
+   3
+     Lo sgravio è imputato sull’imposta sulla sostanza e ripartito proporzionalmente tra Cantone e Comuni
+   in funzione del moltiplicatore comunale d’imposta delle persone fisiche.
+
+
+Imposizione globale secondo il dispendio
+(Art. 13 LT)
+
+Le particolarità cantonali seguenti sono da segnalare:
+
+   Imposizione globale secondo il dispendio
+   Art. 13 cpv. 3 – 6 e 8 LT
+   3 L’imposta che sostituisce l’imposta sul reddito è calcolata sulla base delle spese annuali corrispondenti
+
+   al tenore di vita del contribuente e delle persone al cui sostentamento egli provvede, sostenute durante
+   il periodo di calcolo in Svizzera e all’estero, ma almeno in base al più elevato degli importi seguenti:
+   a) 434’700 franchi;*
+   b) per i contribuenti che hanno un’economia domestica propria: un importo corrispondente al settuplo
+        della pigione annua o del valore locativo fissato dall’autorità fiscale;
+   c) per gli altri contribuenti: un importo corrispondente al triplo del prezzo di pensione annua per il vitto
+        e l’alloggio al luogo di dimora ai sensi dell’articolo 2.
+   4 L’imposta è calcolata secondo la tariffa fiscale ordinaria [art. 35** e 49 LT].
+
+   5 Oltre all’imposta sul reddito, è percepita un’imposta che sostituisce l’imposta sulla sostanza. La so­
+
+   stanza imponibile ammonta a 5 volte l’importo stabilito al capoverso 3 e, in ogni caso, deve corrispondere
+   ad almeno la sostanza determinata in base al capoverso 6.
+   6 L’imposta secondo il dispendio deve essere almeno equivalente alla somma delle imposte sul reddito
+
+   e sulla sostanza calcolate secondo le tariffe ordinarie sull’insieme degli elementi lordi seguenti:
+   a) sostanza immobiliare situata in Ticino e relativi proventi;
+   b) beni mobili che si trovano in Svizzera e relativi proventi;
+   c) capitale mobiliare di fonte svizzera, inclusi i crediti garantiti da pegno immobiliare, e relativi proventi;
+   d) diritti d’autore, brevetti e diritti analoghi esercitati in Svizzera e relativi proventi;
+   e) assegni di quiescenza, rendite e pensioni di fonte svizzera;
+   f) proventi per i quali il contribuente pretende uno sgravio totale o parziale da imposte estere in virtù di
+        una convenzione conclusa dalla Svizzera per evitare la doppia imposizione.
+   8 Il Consiglio di Stato adegua l’importo di cui al capoverso 3 lettera a) all’indice nazionale dei prezzi al
+
+   consumo.
+   * Importo indicizzato valido a partire dal periodo fiscale 2025.
+   ** Compensazione degli effetti della progressione a freddo ai sensi dell'art. 39 LT.
+
+
+Coefficiente annuale
+(Art. 1a, 1b e 300a LT)
+
+Recueil Informations fiscales, E. Notions fiscales, Taux et coefficients d’impôts
+
+   Art. 1a LT
+   1
+     Le imposte sul reddito e sulla sostanza, quelle sull’utile e sul capitale come pure quelle alla fonte sono
+   determinate applicando le aliquote della presente legge. Esse costituiscono l’imposta cantonale base
+   che fa stato ai fini dell’applicazione del coefficiente cantonale di imposta e del calcolo delle relative im­
+   poste comunali (art. 276 LT).
+
+
+
+
+                                                                                                                     17
+Foglio cantonale Ticino                                                                             Persone fisiche
+
+
+   2
+     L’imposta effettiva richiesta corrisponde all’imposta base cantonale moltiplicata con il coefficiente di
+   imposta cantonale.
+   3
+     Il coefficiente di imposta è identico per tutte le imposte di cui al cpv. 1.
+   Art. 1b LT
+   1
+     Il coefficiente di imposta cantonale è pari al 100%
+   2
+     Esso può essere modificato annualmente dal Gran Consiglio nell’ambito dell’adozione del preventivo
+   tenuto conto del risultato di esercizio previsto e in particolare delle esigenze imposte dagli articoli 31a
+   cpv. 3, 31b cpv. 5 e 31f della Legge sulla gestione e sul controllo finanziario dello Stato (LGF).
+   3 La modifica del coefficiente è soggetta a referendum facoltativo.
+
+   Art. 300a LT
+   1 Per i periodi fiscali dal 2020 al 2023 compreso, in deroga all’articolo 1b capoverso 1, il coefficiente di
+
+   imposta cantonale è ridotto al 97 per cento.
+
+
+
+
+                                                                                                                  18
+Foglio cantonale Ticino                                                                             Persone giuridiche
+
+
+
+
+Imposizione delle persone giuridiche
+Recueil Informations fiscales, D. Impôts divers, Imposition des personnes morales
+
+   Art. 1 cpv. 1 lett. b LT
+   1 Il Cantone preleva secondo questa legge:
+
+   b) un’imposta sull’utile, sul capitale e sugli immobili delle persone giuridiche;
+
+
+Imposta sull’utile
+(Art. 66 – 79 LT)
+
+
+Determinazione dell’utile netto imponibile
+(Art. 67 – 75 LT)
+Ai fini della determinazione dell'utile netto imponibile le spese non giustificate dall’uso commerciale, i
+prodotti, gli utili in capitale, di liquidazione e di rivalutazione che non sono stati accreditati come anche
+gli interessi sul capitale proprio occulto vengono aggiunti al saldo del conto economico. Sono dedotte
+gli oneri consentiti dall’uso commerciale e le eventuali perdite dei sette esercizi commerciali che prece­
+dono il periodo fiscale.
+I contributi alle associazioni versati dai membri non costituiscono utile imponibile. Dai proventi imponibili
+delle associazioni possono essere dedotte integralmente le spese necessarie per conseguirli; le altre
+spese possono essere dedotte solo nella misura in cui superano i contributi dei membri.
+Gli apporti al patrimonio delle fondazioni non costituiscono utile imponibile.
+Gli investimenti collettivi di capitale soggiacciono all’imposta sull’utile per il reddito da possesso fondiario
+diretto.
+
+Le particolarità cantonali seguenti sono da segnalare:
+
+   Brevetti e diritti analoghi
+   Art. 67b cpv. 1 e 3 – 5 LT
+   1 Su richiesta del contribuente, l’utile netto da brevetti e diritti analoghi, ai sensi dell’articolo 67a, è con­
+
+   siderato nel rapporto tra le spese di ricerca e sviluppo ammesse e le spese di ricerca e sviluppo com­
+   plessive per ogni brevetto o diritto analogo (quoziente Nexus) con una riduzione del 90 per cento nel
+   calcolo dell’utile netto imponibile.
+   3 Se l’utile netto da brevetti e diritti analoghi è imposto per la prima volta ad un’aliquota ridotta (entrata
+
+   nel Box), le spese di ricerca e sviluppo già considerate in periodi fiscali precedenti, come pure un’even­
+   tuale deduzione secondo l’articolo 73a, sono riprese ed imposte separatamente ad un’aliquota dello
+   0.2%. Resta riservato il capoverso 4.
+   4 In deroga al capoverso 3, se un contribuente sposta il proprio domicilio o la propria stabile organizza­
+
+   zione fuori dal Canton Ticino, l’autorità di tassazione può imporre, nel periodo fiscale del trasferimento,
+   eventuali spese di ricerca e sviluppo considerate in periodi fiscali precedenti e non interamente riprese.
+   5
+      Se l’utile netto da brevetti e diritti analoghi non viene più imposto all’aliquota ridotta (uscita dal Box) è
+   concesso, su richiesta del contribuente, il computo sull’imposta sull’utile di un importo relativo alle spese
+   di ricerca e sviluppo e alle deduzioni secondo l’articolo 73a, effettuate a carico dell’utile netto ai sensi del
+   capoverso 1. L’importo concesso corrisponde alla somma delle menzionate spese e deduzioni conside­
+   rate in periodi fiscali precedenti e moltiplicate per un’aliquota dello 0.2%. L’ammontare su cui è concesso
+   il computo non può ad ogni modo superare il totale dell’importo ripreso ai sensi del capoverso 3. La
+   richiesta di computo del contribuente deve pervenire al più tardi entro la crescita in giudicato della tas­
+   sazione nel primo periodo fiscale in cui l’utile netto da brevetti e diritti analoghi non viene più imposto
+   all’aliquota ridotta.
+
+
+
+
+                                                                                                                       19
+Foglio cantonale Ticino                                                                              Persone giuridiche
+
+
+   Prestazioni volontarie
+   Art. 68 cpv. 1 lett. c e cbis LT
+   1 Gli oneri giustificati dall’uso commerciale comprendono anche:
+
+   c) le prestazioni volontarie in contanti e in altri beni, fino a concorrenza del 20 per cento dell’utile netto,
+        a persone giuridiche con sede in Svizzera che sono esentate dalle imposte in virtù del loro scopo
+        pubblico o di utilità pubblica (art. 65 lett. f) nonché alla Confederazione, ai cantoni, ai comuni e ai loro
+        stabilimenti (art. 65 lett. a - c);
+   cbis) nel caso di prestazioni volontarie in contanti o in altri beni al Cantone, ai Comuni e ai loro stabili­
+        menti nonché a persone giuridiche nei cui organi esecutivi sieda almeno un rappresentante del Can­
+        tone o di un Comune ed esentate dalle imposte in virtù del loro scopo pubblico o di pubblica utilità
+        (art. 65 lett. f), il Consiglio di Stato, sentiti i Comuni interessati, può, in presenza di un interesse
+        pubblico rilevante, accordare una deduzione superiore al 20 per cento che non oltrepassi comples­
+        sivamente il 50 per cento dell’utile netto;
+
+   Ammortamenti accelerati
+   Art. 71 cpv. 2 e 2bis LT
+   2
+     In generale gli ammortamenti sono calcolati in funzione del valore effettivo dei singoli elementi patri­
+   moniali oppure sono ripartiti in funzione della durata probabile dell’utilizzazione dei singoli elementi.
+   2bis Nell’anno in cui sono eseguiti nuovi investimenti, sono ammessi su questi ultimi ammortamenti acce­
+
+   lerati, il cui tasso di ammortamento è il doppio di quello ammesso dal capoverso 2.
+
+   Accantonamenti per futuri mandati di ricerca e di sviluppo conferiti a terzi
+   Art. 72 cpv. 1 lett. d LT
+   1 Sono ammessi, a carico del conto profitti e perdite, accantonamenti per:
+
+   d) futuri mandati di ricerca e di sviluppo conferiti a terzi, fino al 10 per cento dell’utile imponibile, ma
+      complessivamente non oltre 1 milione di franchi.
+
+   Accantonament per sostituzione di beni
+   Art. 73 cpv. 1 e 2 LT
+   1
+     In caso di sostituzione di immobilizzi necessari all’azienda, le riserve occulte possono essere trasferite
+   su beni sostitutivi se questi beni sono parimenti necessari all’azienda e sono situati in Svizzera. Rimane
+   salva l’imposizione in caso di sostituzione di immobili con beni mobili.
+   2 Se la sostituzione non avviene nel corso dello stesso esercizio, è ammessa la costituzione di un ac­
+
+   cantonamento pari all’ammontare delle riserve occulte. Tale accantonamento deve essere utilizzato en­
+   tro un termine ragionevole per l’ammortamento del nuovo immobilizzo oppure sciolto mediante accredi­
+   tamento nel conto profitti e perdite.
+
+   Ulteriore deduzione delle spese di ricerca e sviluppo
+   Art. 73a cpv. 1 LT
+   1 Su richiesta del contribuente è permessa una deduzione supplementare in ragione di un importo pari
+
+   al 50 per cento delle spese di ricerca e sviluppo giustificate dall’uso commerciale e sostenute in Svizzera
+   direttamente dal contribuente o indirettamente da terzi.
+
+   Limitazione dello sgravio fiscale
+   Art. 73b LT
+   1 La riduzione fiscale complessiva secondo gli articoli 67b capoversi 1 e 2 nonché 73a non può eccedere
+
+   il 70 per cento dell’utile imponibile prima della compensazione delle perdite, escludendo il ricavo netto
+   delle partecipazioni conformemente all’articolo 77, e prima di dette riduzioni.
+   2
+     Le singole riduzioni e la riduzione fiscale complessiva non possono comportare un riporto delle perdite.
+   3 Eventuali eccedenze nel calcolo della riduzione fiscale complessiva, avranno il seguente effetto sulle
+
+   singole riduzioni:
+   a) in primo luogo deve essere decurtata la riduzione relativa all’articolo 67b capoversi 1 e 2 sino all’an­
+       nullamento totale della stessa;
+   b) in secondo luogo deve essere decurtata la riduzione relativa all’articolo 73a.
+
+
+
+
+                                                                                                                       20
+Foglio cantonale Ticino                                                                              Persone giuridiche
+
+
+   Utili di persone giuridiche con scopi ideali
+   Art. 74a LT
+   Gli utili delle persone giuridiche che perseguono scopi ideali non sono imponibili se non superano i
+   20’000 franchi e sono esclusivamente e irrevocabilmente destinati a tali scopi.
+
+   Deduzione delle perdite
+   Art. 75 cpv. 1 e 2 LT
+   1
+     Dall’utile netto del periodo fiscale sono dedotte le perdite dei sette esercizi precedenti il periodo fiscale
+   (art. 100), in quanto non se ne sia potuto tener conto per il calcolo dell’utile netto imponibile di quegli
+   anni.
+   2 Le perdite degli esercizi anteriori che non abbiano ancora potuto essere dedotte dagli utili possono
+
+   essere compensate con le prestazioni destinate a equilibrare un bilancio deficitario nell’ambito di un
+   risanamento e che non costituiscono apporti ai sensi dell’articolo 69 lettera a).
+
+
+Calcolo dell’imposta
+(Art. 76 – 79 LT)
+
+   Società di capitali e società cooperative
+   Art. 76 LT
+   1 L’imposta sull’utile delle società di capitali e delle società cooperative è del 5.5 per cento dell’utile netto.
+
+   2 In casi particolari di relazioni con l’estero, su richiesta del contribuente, l’aliquota d’imposta può essere
+
+   aumentata.
+
+   Associazioni, fondazioni e altre persone giuridiche
+   Art. 78 LT
+   1 L’imposta sull’utile delle associazioni, fondazioni e altre persone giuridiche, comprese le aziende di
+
+   corporazioni di diritto pubblico non esonerate ai sensi dell’articolo 65 lettera c), è del 4 per cento dell’utile
+   netto.
+   2 L’utile inferiore a 5'000 franchi non è imponibile.
+
+
+
+   Investimenti collettivi di capitale
+   Art. 79 LT
+   L’imposta sull’utile degli investimenti collettivi di capitale con possesso fondiario diretto (art. 59 cpv. 2) è
+   del 4 per cento dell’utile netto.
+
+
+Imposta sul capitale
+(Art. 80 – 87c LT; art. 5a RLT)
+L’imposta sul capitale ha per oggetto il capitale proprio. Nel caso delle società di capitali e delle società
+cooperative il capitale proprio imponibile comprende il capitale azionario o sociale liberato, le riserve
+palesi, le riserve occulte costituite mediante utili tassati e il capitale proprio occulto.
+Il capitale proprio imponibile per le associazioni, fondazioni e le altre persone giuridiche consiste nella
+sostanza netta determinata secondo le disposizioni applicabili alle persone fisiche.
+
+
+
+
+                                                                                                                        21
+Foglio cantonale Ticino                                                                                Persone giuridiche
+
+
+Calcolo dell’imposta
+(Art. 87 – 87c LT; art. 5a RLT)
+
+Le particolarità cantonali seguenti sono da segnalare:
+
+   Società di capitali e società cooperative
+
+   Associazioni, fondazioni e altre persone giuridiche
+
+   Investimenti collettivi di capitale
+   Art. 87 cpv. 1 – 2 LT
+   1
+     L’imposta sul capitale è del 1,5 per mille del capitale imponibile.
+   1bis
+        L’imposta sul capitale delle società di capitali e cooperative innovative è dello 0,01 per mille del capi­
+   tale imponibile. L’agevolazione è concessa solo nei primi cinque periodi fiscali in cui la società di capitali
+   o cooperativa è considerata innovativa e solo su richiesta del contribuente. Il Consiglio di Stato regola i
+   dettagli, in particolare definisce le condizioni affinché una società di capitali o cooperativa possa essere
+   considerata innovativa, come pure le norme di procedura.
+   1ter
+        Gli articoli 236-238 sono applicabili alle società di capitali o cooperative innovative che abbandonano
+   il territorio cantonale prima del decorso di cinque anni dalla fine dell’ultimo periodo fiscale in cui erano al
+   beneficio dell’agevolazione di cui al capoverso 1bis.
+   2 Il capitale di associazioni, fondazioni e altre persone giuridiche non è imponibile se è inferiore a 50’000
+
+   franchi.
+
+   Riduzioni sul capitale
+   Art. 87a°LT
+   1 L’imposta sul capitale imponibile di una società di capitali o di una società cooperativa che detiene diritti
+
+   ai sensi dell’articolo 67a è ridotta nella proporzione esistente fra gli attivi relativi ai diritti che qualificano
+   per l’articolo 67a imponibili nel Cantone e gli attivi complessivi, valutati ai valori fino a quel momento
+   determinanti ai fini dell’imposta sull’utile.
+   2
+     L’imposta sul capitale imponibile di una società di capitali o di una società cooperativa, che non esercita
+   alcuna attività commerciale in Svizzera e il cui scopo statutario consiste essenzialmente nell’amministra­
+   zione durevole di partecipazioni e/o nell’erogazione di crediti a società facenti parte del gruppo, il cui
+   valore venale deve rappresentare a lunga scadenza almeno due terzi degli attivi o dei ricavi complessivi,
+   è ridotta nella proporzione esistente fra gli attivi qualificati e gli attivi complessivi, valutati ai valori fino a
+   quel momento determinanti ai fini dell’imposta sull’utile.
+   3 Sono considerati attivi qualificati ai sensi del capoverso 2:
+
+   a) le partecipazioni ai sensi dell’articolo 77 capoverso 1;
+   b) l'eccedenza di attivi connessa a pretese e debiti infragruppo.
+
+   Computo dell’imposta sull’utile nell’imposta sul capitale
+   Art. 87c LT
+   1 Il 16 per cento dell’imposta sull’utile è computato nell’imposta sul capitale.
+
+
+
+
+Disposizione transitoria relative dalle società holding, so­
+cietà amministrazione e società ausiliarie (2020 – 2024)
+(Art. 314d LT)
+
+   Disposizione transitoria secondo la modifica della legge tributaria del 4 novembre 2019
+   Art. 314d LT
+   1 Se una persona giuridica è stata tassata conformemente agli articoli 91-93 del diritto anteriore, su
+
+   richiesta del contribuente, in caso di realizzazione, le riserve occulte esistenti al termine di questa impo­
+   sizione, compreso il valore aggiunto generato internamente, sono tassate separatamente entro cinque
+   anni. La tassazione separata è applicabile solo alla parte delle riserve che non era imponibile secondo il
+   diritto anteriore. Sono eccettuate le riserve su partecipazioni ai sensi dell’art. 77. L’aliquota applicabile
+   all’importo da imporre separatamente è del 1 per cento.
+
+
+
+
+                                                                                                                          22
+Foglio cantonale Ticino                                                                            Persone giuridiche
+
+
+   2
+     La rimanenza delle riserve occulte, compreso il valore aggiunto generato internamente, rivalutate prima
+   dell’entrata in vigore del capoverso 1 in occasione del passaggio da una tassazione privilegiata ai sensi
+   degli articoli 91-93 del diritto anteriore a tassazione ordinaria e non ancora completamente ammortizzate,
+   è imposta analogamente alle riserve secondo il capoverso 1. La rimanenza delle riserve occulte, costi­
+   tuite tramite la predetta rivalutazione e ancora presenti al momento dell’entrata in vigore del capoverso
+   1, è sciolta d’ufficio senza incidenza sul risultato.
+   3
+     L’importo delle riserve occulte e del valore aggiunto generato internamente deve essere quantificato e
+   comprovato dalla persona giuridica e stabilito mediante decisione dall’autorità di tassazione. La richiesta
+   della persona giuridica deve essere inoltrata congiuntamente alla dichiarazione fiscale del periodo fiscale
+   oggetto del passaggio a tassazione ordinaria ai sensi del capoverso 1, pena la decadenza di tale diritto.
+   4
+     Quale realizzazione ai sensi del capoverso 1 si intende l’utile netto imponibile, escluso il ricavo netto
+   da partecipazioni conformemente all’articolo 77, in ragione della parte delle riserve che non era imponi­
+   bile secondo il diritto anteriore ma al massimo dell’80 per cento. In caso di richiesta di applicazione in
+   contemporanea delle riduzioni di cui agli articoli 67b capoversi 1 e 2 e/o 73a, la quota di utile considerata
+   realizzazione ai sensi del capoverso 1 sarà ridotta applicando il fattore: 1 meno [riduzione per brevetti e
+   diritti analoghi e/o deduzione delle spese di ricerca e sviluppo diviso la limitazione dello sgravio fiscale].
+   5 In caso di ristrutturazione, la realizzazione ai sensi del capoverso 4 è determinata secondo l’entità degli
+
+   utili dei periodi fiscali precedenti. Determinanti sono gli ultimi 3 periodi fiscali precedenti la ristruttura­
+   zione. In caso di trasferimento di esercizi o rami d’azienda, nonché di immobilizzi aziendali, gli utili sono
+   da attribuire in maniera proporzionale.
+   6 Le perdite realizzate prima del passaggio a tassazione ordinaria possono essere compensate sull’utile
+
+   netto solo per la quota parte che, prima del passaggio a tassazione ordinaria, era imponibile.
+   7
+     In deroga all’articolo 67b capoverso 3, le spese di ricerca e sviluppo considerate in periodi fiscali in cui
+   la società era imposta ai sensi degli articoli 91-93 del diritto anteriore, sono riprese nella misura della
+   quota parte che, prima del passaggio a tassazione ordinaria, era imponibile, escludendo il ricavo netto
+   delle partecipazioni conformemente all’articolo 77, e imposte separatamente ad un’aliquota dello 0.2 per
+   cento.
+
+
+Imposta minima
+(Art. 88 – 90 LT)
+
+   Imposta minima sugli immobili
+   Art. 88 LT*
+   Le persone giuridiche svizzere e estere devono pagare un’imposta minima quando quest’imposta è su­
+   periore alla somma delle imposte sull’utile e sul capitale e dell’imposta sugli utili immobiliari dovute per il
+   periodo fiscale.
+   * Applicato a partire dal periodo fiscale 2026.
+   Art. 89 LT*
+   1 Le persone giuridiche esentate ai sensi dell’articolo 65, come pure quelle il cui utile o capitale è esente
+
+   ai sensi degli articoli 74a, 78 capoverso 2 o 87 capoverso 2 e le associazioni, sono esenti dall’imposta
+   minima.
+   2 Possono essere esonerate dal pagamento dell’imposta minima le società di capitali o cooperative in­
+
+   novative. L’esonero è concesso solo nei primi cinque periodi fiscali in cui la società di capitali o coope­
+   rativa è considerata innovativa e solo su richiesta del contribuente. Il Consiglio di Stato regola i dettagli,
+   in particolare definisce le condizioni affinché una società di capitali o cooperativa possa essere conside­
+   rata innovativa, come pure le norme di procedura. Gli articoli 236–238 sono applicabili alle società di
+   capitali o cooperative innovative che abbandonano il territorio cantonale prima del decorso di cinque anni
+   dalla fine dell’ultimo periodo fiscale in cui erano al beneficio dell’esonero.*
+   * Applicato a partire dal periodo fiscale 2026.
+   Art. 90 LT*
+   1 L’imposta minima è di 450 franchi per le società di capitali, le società cooperative e le altre persone
+
+   giuridiche svizzere ed estere e di 300 franchi per le fondazioni.
+   2 Per le persone giuridiche con immobili situati nel Cantone, l’imposta minima è dell’1 per mille del valore
+
+   di stima ufficiale alla fine dell’esercizio commerciale, esclusa ogni deduzione di debiti, ritenuti i minimi
+   del capoverso 1.
+   3
+     L’imposta minima non è commisurata alla durata dell’assoggettamento.
+   * Applicato a partire dal periodo fiscale 2026.
+
+
+
+
+                                                                                                                     23
+Foglio cantonale Ticino                                                                            Persone giuridiche
+
+
+
+Imposta immobiliare
+(Art. 95 – 99 e 314c LT)
+
+   Imposta immobiliare
+   Art. 95 LT
+   Le persone giuridiche devono pagare un’imposta immobiliare sugli immobili di loro proprietà alla fine
+   dell’anno civile. L’imposta immobiliare non è commisurata alla durata dell’assoggettamento.
+   Art 97 LT
+   L’imposta immobiliare è calcolata sul valore di stima ufficiale alla fine dell’anno civile, esclusa ogni de­
+   duzione di debiti.
+   Art. 98 LT
+   L’imposta immobiliare è calcolata con le seguenti aliquote:
+   a) 1 per mille per immobili appartenenti a associazioni, fondazioni e altre persone giuridiche;
+   b) 2 per mille per immobili appartenenti a società di capitali, società cooperative e a investimenti collettivi
+       di capitale;
+
+   Supplemento d’imposta
+   Art. 314c cpv. 2 e 2septies LT
+   2 Per i periodi fiscali 2006 e 2007, le aliquote dell’imposta immobiliare cantonale delle persone giuridiche
+
+   previste dall’art. 98 sono oggetto di un supplemento d’imposta calcolato come segue:
+   a) del 0,5 per mille per immobili appartenenti a associazioni, fondazioni e altre persone giuridiche;
+   b) del 1 per mille per immobili appartenenti a società di capitali, società cooperative e a fondi di investi­
+        mento;
+   2septies
+            Per i periodi fiscali dal 2025 al 2027 compreso, ai fini delle aliquote dell’imposta immobiliare can­
+   tonale delle persone giuridiche previste dall’articolo 98 si applicano i supplementi d’imposta di cui al
+   capoverso 2.
+
+
+Riversamento ai comuni dell’imposta immobiliare cantonale delle aziende
+idroelettriche
+(Art. 99 LT)
+
+   Art. 99 LT
+   Lo Stato corrisponde il 40 per cento dell’importo dell’imposta immobiliare delle aziende idroelettriche ai
+   comuni partecipanti a qualsiasi titolo al riparto, in base alla legge speciale, proporzionalmente all’imposta
+   base loro assegnata.
+
+
+Coefficiente annuale
+(Art. 1a, 1b e 300a LT)
+
+Recueil Informations fiscales, E. Notions fiscales, Taux et coefficients d’impôts
+
+   Art. 1a LT
+   1
+     Le imposte sul reddito e sulla sostanza, quelle sull’utile e sul capitale come pure quelle alla fonte sono
+   determinate applicando le aliquote della presente legge. Esse costituiscono l’imposta cantonale base
+   che fa stato ai fini dell’applicazione del coefficiente cantonale di imposta e del calcolo delle relative im­
+   poste comunali (art. 276 LT).
+   2
+     L’imposta effettiva richiesta corrisponde all’imposta base cantonale moltiplicata con il coefficiente di
+   imposta cantonale.
+   3
+     Il coefficiente di imposta è identico per tutte le imposte di cui al cpv. 1.
+
+
+
+
+                                                                                                                     24
+Foglio cantonale Ticino                                                                         Persone giuridiche
+
+
+   Art. 1b LT
+   1
+     Il coefficiente di imposta cantonale è pari al 100%
+   2
+     Esso può essere modificato annualmente dal Gran Consiglio nell’ambito dell’adozione del preventivo
+   tenuto conto del risultato di esercizio previsto e in particolare delle esigenze imposte dagli articoli 31a
+   cpv. 3, 31b cpv. 5 e 31f della Legge sulla gestione e sul controllo finanziario dello Stato (LGF).
+   3 La modifica del coefficiente è soggetta a referendum facoltativo.
+
+   Art. 300a LT
+   1 Per i periodi fiscali dal 2020 al 2023 compreso, in deroga all’articolo 1b capoverso 1, il coefficiente di
+
+   imposta cantonale è ridotto al 97 per cento.
+
+
+Agevolazioni fiscali
+(Art. 65 LT; Art. 5 RLT; LInn)
+
+   Agevolazioni fiscali alle nuove aziende
+   Art. 65a LT
+   Restano riservate le agevolazioni fiscali previste dalla Legge cantonale sull’innovazione economica e
+   dal relativo Regolamento di applicazione.
+   Art. 11 LInn
+   1
+     Il Cantone può concedere alle nuove aziende agevolazioni per le imposte cantonali sull’utile e sul ca­
+   pitale, di regola per un massimo di 5 anni, e fino all’esonero completo. In casi eccezionali, l’agevolazione
+   può estendersi per un periodo massimo di 10 anni. Un cambiamento essenziale dell’attività aziendale
+   può essere equiparato alla costituzione di una nuova azienda.
+   2
+     La concessione di un’agevolazione fiscale deve prevedere un limite massimo del mancato introito fi­
+   scale.
+   3 Il Comune può concedere alle aziende agevolazioni per le imposte comunali, previa autorizzazione del
+
+   Consiglio di Stato.
+   4
+     L’autorizzazione non è necessaria se il Cantone ha concesso un’uguale o maggiore agevolazione per
+   le imposte cantonali.
+
+
+
+
+                                                                                                                  25
+Foglio cantonale Ticino                                                            Imposizione degli utili immobiliari
+
+
+
+
+Imposizione degli utili immobiliari
+(Art. 123 – 140 e 316 LT; Art. 8 RLT)
+Recueil Informations fiscales, D. Impôts divers, Imposition des gains immobiliers
+
+   Art. 1 cpv. 1 lett. d LT
+   1
+     Il Cantone preleva secondo questa legge:
+   d) un’imposta sugli utili immobiliari;
+
+   Imposition des gains immobiliers, souveraineté fiscale et calcul de l’impôt sur les gains immobiliers
+
+   Oggetto dell’imposta
+   Art. 123 LT
+   L’imposta sugli utili immobiliari ha per oggetto i guadagni realizzati con il trasferimento della proprietà di
+   immobili o di parti di essi, che appartengono alla sostanza privata o aziendale del contribuente.
+
+   Utile immobiliare
+   Art. 128 cpv. 1 LT
+   1 L’utile imponibile corrisponde alla differenza tra il valore di alienazione e il valore di investimento (valore
+
+   di acquisto e costi di investimento).
+
+   Computo delle perdite aziendali
+   Art. 134a LT
+   1
+     In mancanza di altri redditi o utili, le perdite d’esercizio di un periodo fiscale sono computate con gli utili
+   immobiliari realizzati dal contribuente, nel medesimo periodo fiscale, tramite trasferimento della proprietà
+   di immobili appartenenti alla sostanza aziendale. Se dopo questo primo computo resta un’eccedenza,
+   sono computate le perdite ai sensi degli articoli 30 e 75.
+   2
+     Le perdite ai sensi degli articoli 30 e 75, sono anzitutto computate sugli utili d’esercizio o altri redditi
+   imponibili ordinariamente e, in secondo luogo, sugli utili immobiliari realizzati dal contribuente, nel me­
+   desimo periodo fiscale, tramite trasferimento della proprietà di immobili appartenenti alla sostanza azien­
+   dale.
+   3 Le perdite ai sensi dei capoversi 1 e 2, computabili sugli utili immobiliari della sostanza aziendale, sono
+
+   ripartite in proporzione agli utili conseguiti su ciascun immobile venduto nel corso del periodo fiscale.
+   4
+     Le perdite risultanti dopo le compensazioni secondo i capoversi 1 e 2 sono riportate conformemente
+   agli articoli 30 e 75.
+   5
+     Nelle relazioni intercantonali ed internazionali, per la determinazione degli utili e delle perdite d’esercizio
+   ai sensi dei capoversi 1 e 2, sono applicabili i principi del diritto federale concernenti il divieto di doppia
+   imposizione intercantonale.
+
+
+Calcolo dell’imposta
+(Art. 139 LT; Art. 8 RLT)
+
+   Aliquote
+   Art. 139 LT
+   L’aliquota d’imposta corrisponde, se l’alienante è proprietario del fondo:
+            fino a          1   anno                            al     31      per cento
+            da oltre        1   anno e fino a      2       anni al     30      per cento
+            da oltre        2   anni e fino a      3       anni al     29      per cento
+            da oltre        3   anni e fino a      4       anni al     28      per cento
+            da oltre        4   anni e fino a      5       anni al     27      per cento
+            da oltre        5   anni e fino a      6       anni al     26      per cento
+            da oltre        6   anni e fino a      7       anni al     23      per cento
+            da oltre        7   anni e fino a      8       anni al     20      per cento
+            da oltre        8   anni e fino a      9       anni al     17      per cento
+            da oltre        9   anni e fino a     10       anni al     14      per cento
+
+
+
+
+                                                                                                                       26
+Foglio cantonale Ticino                                                           Imposizione degli utili immobiliari
+
+
+            da oltre    10      anni e fino a    11        anni al    11      per cento
+            da oltre    11      anni e fino a    12        anni al    10      per cento
+            da oltre    12      anni e fino a    13        anni al     9      per cento
+            da oltre    13      anni e fino a    14        anni al     8      per cento
+            da oltre    14      anni e fino a    15        anni al     7      per cento
+            da oltre    15      anni e fino a    20        anni al     6      per cento
+            da oltre    20      anni e fino a    30        anni al     5      per cento
+            da oltre    30      anni                            al     4      per cento
+   Art. 8 RLT:
+   Si rinuncia alla riscossione dell’imposta sugli utili immobiliari quando la stessa risulta inferiore a 30.-.
+Divisione delle contribuzioni – Informazioni sull’imposta sugli utili immobiliari
+
+
+
+
+                                                                                                                  27
+Foglio cantonale Ticino                                                                         Comuni e parrocchie
+
+
+
+
+Imposte nei comuni e parrocchie
+Recueil Informations fiscales, E. Notions fiscales, Taux et coefficients d’impôts
+
+Recueil Informations fiscales, D. Impôts divers, Impôt ecclésiastique
+
+
+Imposta sul reddito e sulla sostanza come anche sull’utile e
+sul capitale nei comuni
+(Art. 1a, 274 – 276 e 290 LT)
+
+   Art. 1a LT
+   1 Le imposte sul reddito e sulla sostanza, quelle sull’utile e sul capitale come pure quelle alla fonte sono
+
+   determinate applicando le aliquote della presente legge. Esse costituiscono l’imposta cantonale base
+   che fa stato ai fini dell’applicazione del coefficiente cantonale di imposta e del calcolo delle relative im­
+   poste comunali (art. 276 LT).
+   Art. 274 cpv. 1 lett. a e b LT
+   1
+     I comuni prelevano:
+   a) un’imposta sul reddito e sulla sostanza delle persone fisiche;
+   b) un’imposta sull’utile e sul capitale delle persone giuridiche;
+   Art. 275 LT
+   In mancanza di norme particolari sono applicabili per analogia le disposizioni della presente legge in
+   materia die imposte cantonali.
+   Art. 276 LT
+   1 L’imposta comunale è prelevata in base alle classificazioni per l’imposta cantonale del medesimo anno.
+
+   2 Essa è calcolata applicando i moltiplicatori comunali all’imposta cantonale base. Resta riservato l’arti­
+
+   colo 114 capoverso 2.
+   3 La definizione dei moltiplicatori comunali e le modalità di calcolo dei medesimi sono stabilite dall’articolo
+
+   177 della legge organica comunale del 10 marzo 1987 legge organica comunale del 10 marzo 1987.
+   Moltiplicatori d’imposta comunali
+
+
+
+
+                                                                                                                     28
+Foglio cantonale Ticino                                                                    Comuni e parrocchie
+
+
+
+Imposta sul reddito e sulla sostanza come anche sull’utile e
+sul capitale nelle parrocchie
+(Art. 2 e 3 DIC)
+
+   Art. 2 DIC
+   L’imposta di culto è basata:
+   a) sul reddito e sulla sostanza delle persone fisiche e dei contribuenti ad esse parificati;
+   b) sull’utile e sul capitale delle persone giuridiche e dei contribuenti ad esse parificati come pure dei
+       fondi di investimento immobiliare;
+   Art. 3 DIC
+   L’imposta di culto è prelevata in percento dell’imposta cantonale ordinaria del medesimo anno. L’aliquota
+   è determinata in base al fabbisogno votato dall’Assemblea parrocchiale, rispettivamente dall’Assemblea
+   della Comunità evangelica regionale.
+
+
+
+
+                                                                                                               29
+Foglio cantonale Ticino         Contatti Amministrazione fiscale cantonale
+
+
+
+
+Amministrazione fiscale cantonale
+Divisione delle contribuzioni
+Viale Stefano Franscini 6
+CH-6501 Bellinzona
+
+dfe-dc@ti.ch
+
+Tel. +41 91 814 39 58
+Tel. +41 91 814 44 88
+www.ti.ch/fisco
+
+
+
+
+                                                                        30
+

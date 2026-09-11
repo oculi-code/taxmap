@@ -1,0 +1,1802 @@
+[
+  {
+    "bfsNumber": 5401,
+    "name": "Aigle",
+    "district": "District d'Aigle",
+    "municipalMultiplierPercent": 66
+  },
+  {
+    "bfsNumber": 5402,
+    "name": "Bex",
+    "district": "District d'Aigle",
+    "municipalMultiplierPercent": 71
+  },
+  {
+    "bfsNumber": 5403,
+    "name": "Chessel",
+    "district": "District d'Aigle",
+    "municipalMultiplierPercent": 65
+  },
+  {
+    "bfsNumber": 5404,
+    "name": "Corbeyrier",
+    "district": "District d'Aigle",
+    "municipalMultiplierPercent": 74
+  },
+  {
+    "bfsNumber": 5405,
+    "name": "Gryon",
+    "district": "District d'Aigle",
+    "municipalMultiplierPercent": 73.5
+  },
+  {
+    "bfsNumber": 5406,
+    "name": "Lavey-Morcles",
+    "district": "District d'Aigle",
+    "municipalMultiplierPercent": 71.5
+  },
+  {
+    "bfsNumber": 5407,
+    "name": "Leysin",
+    "district": "District d'Aigle",
+    "municipalMultiplierPercent": 78
+  },
+  {
+    "bfsNumber": 5408,
+    "name": "Noville",
+    "district": "District d'Aigle",
+    "municipalMultiplierPercent": 75
+  },
+  {
+    "bfsNumber": 5409,
+    "name": "Ollon",
+    "district": "District d'Aigle",
+    "municipalMultiplierPercent": 68
+  },
+  {
+    "bfsNumber": 5410,
+    "name": "Ormont-Dessous",
+    "district": "District d'Aigle",
+    "municipalMultiplierPercent": 77
+  },
+  {
+    "bfsNumber": 5411,
+    "name": "Ormont-Dessus",
+    "district": "District d'Aigle",
+    "municipalMultiplierPercent": 76
+  },
+  {
+    "bfsNumber": 5412,
+    "name": "Rennaz",
+    "district": "District d'Aigle",
+    "municipalMultiplierPercent": 64
+  },
+  {
+    "bfsNumber": 5413,
+    "name": "Roche",
+    "district": "District d'Aigle",
+    "municipalMultiplierPercent": 66.5
+  },
+  {
+    "bfsNumber": 5414,
+    "name": "Villeneuve",
+    "district": "District d'Aigle",
+    "municipalMultiplierPercent": 66.5
+  },
+  {
+    "bfsNumber": 5415,
+    "name": "Yvorne",
+    "district": "District d'Aigle",
+    "municipalMultiplierPercent": 71.5
+  },
+  {
+    "bfsNumber": 5451,
+    "name": "Avenches",
+    "district": "District de la Broye-Vully",
+    "municipalMultiplierPercent": 65
+  },
+  {
+    "bfsNumber": 5663,
+    "name": "Bussy-sur-Moudon",
+    "district": "District de la Broye-Vully",
+    "municipalMultiplierPercent": 78.5
+  },
+  {
+    "bfsNumber": 5812,
+    "name": "Champtauroz",
+    "district": "District de la Broye-Vully",
+    "municipalMultiplierPercent": 77
+  },
+  {
+    "bfsNumber": 5665,
+    "name": "Chavannes-sur-Moudon",
+    "district": "District de la Broye-Vully",
+    "municipalMultiplierPercent": 70
+  },
+  {
+    "bfsNumber": 5813,
+    "name": "Chevroux",
+    "district": "District de la Broye-Vully",
+    "municipalMultiplierPercent": 68.5
+  },
+  {
+    "bfsNumber": 5785,
+    "name": "Corcelles-le-Jorat",
+    "district": "District de la Broye-Vully",
+    "municipalMultiplierPercent": 75
+  },
+  {
+    "bfsNumber": 5816,
+    "name": "Corcelles-près-Payerne",
+    "district": "District de la Broye-Vully",
+    "municipalMultiplierPercent": 65
+  },
+  {
+    "bfsNumber": 5456,
+    "name": "Cudrefin",
+    "district": "District de la Broye-Vully",
+    "municipalMultiplierPercent": 59
+  },
+  {
+    "bfsNumber": 5669,
+    "name": "Curtilles",
+    "district": "District de la Broye-Vully",
+    "municipalMultiplierPercent": 71
+  },
+  {
+    "bfsNumber": 5671,
+    "name": "Dompierre",
+    "district": "District de la Broye-Vully",
+    "municipalMultiplierPercent": 78
+  },
+  {
+    "bfsNumber": 5458,
+    "name": "Faoug",
+    "district": "District de la Broye-Vully",
+    "municipalMultiplierPercent": 65
+  },
+  {
+    "bfsNumber": 5817,
+    "name": "Grandcour",
+    "district": "District de la Broye-Vully",
+    "municipalMultiplierPercent": 72
+  },
+  {
+    "bfsNumber": 5819,
+    "name": "Henniez",
+    "district": "District de la Broye-Vully",
+    "municipalMultiplierPercent": 69
+  },
+  {
+    "bfsNumber": 5673,
+    "name": "Hermenches",
+    "district": "District de la Broye-Vully",
+    "municipalMultiplierPercent": 78
+  },
+  {
+    "bfsNumber": 5674,
+    "name": "Lovatens",
+    "district": "District de la Broye-Vully",
+    "municipalMultiplierPercent": 75
+  },
+  {
+    "bfsNumber": 5675,
+    "name": "Lucens",
+    "district": "District de la Broye-Vully",
+    "municipalMultiplierPercent": 69.5
+  },
+  {
+    "bfsNumber": 5821,
+    "name": "Missy",
+    "district": "District de la Broye-Vully",
+    "municipalMultiplierPercent": 69
+  },
+  {
+    "bfsNumber": 5678,
+    "name": "Moudon",
+    "district": "District de la Broye-Vully",
+    "municipalMultiplierPercent": 72.5
+  },
+  {
+    "bfsNumber": 5822,
+    "name": "Payerne",
+    "district": "District de la Broye-Vully",
+    "municipalMultiplierPercent": 70
+  },
+  {
+    "bfsNumber": 5683,
+    "name": "Prévonloup",
+    "district": "District de la Broye-Vully",
+    "municipalMultiplierPercent": 72.5
+  },
+  {
+    "bfsNumber": 5798,
+    "name": "Ropraz",
+    "district": "District de la Broye-Vully",
+    "municipalMultiplierPercent": 77.5
+  },
+  {
+    "bfsNumber": 5684,
+    "name": "Rossenges",
+    "district": "District de la Broye-Vully",
+    "municipalMultiplierPercent": 65
+  },
+  {
+    "bfsNumber": 5688,
+    "name": "Syens",
+    "district": "District de la Broye-Vully",
+    "municipalMultiplierPercent": 65
+  },
+  {
+    "bfsNumber": 5827,
+    "name": "Trey",
+    "district": "District de la Broye-Vully",
+    "municipalMultiplierPercent": 78
+  },
+  {
+    "bfsNumber": 5828,
+    "name": "Treytorrens",
+    "district": "District de la Broye-Vully",
+    "municipalMultiplierPercent": 81.5
+  },
+  {
+    "bfsNumber": 5831,
+    "name": "Valbroye",
+    "district": "District de la Broye-Vully",
+    "municipalMultiplierPercent": 70.5
+  },
+  {
+    "bfsNumber": 5690,
+    "name": "Villars-le-Comte",
+    "district": "District de la Broye-Vully",
+    "municipalMultiplierPercent": 68
+  },
+  {
+    "bfsNumber": 5830,
+    "name": "Villarzel",
+    "district": "District de la Broye-Vully",
+    "municipalMultiplierPercent": 75
+  },
+  {
+    "bfsNumber": 5692,
+    "name": "Vucherens",
+    "district": "District de la Broye-Vully",
+    "municipalMultiplierPercent": 75
+  },
+  {
+    "bfsNumber": 5803,
+    "name": "Vulliens",
+    "district": "District de la Broye-Vully",
+    "municipalMultiplierPercent": 74
+  },
+  {
+    "bfsNumber": 5464,
+    "name": "Vully-les-Lacs",
+    "district": "District de la Broye-Vully",
+    "municipalMultiplierPercent": 67
+  },
+  {
+    "bfsNumber": 5511,
+    "name": "Assens",
+    "district": "District du Gros-de-Vaud",
+    "municipalMultiplierPercent": 70
+  },
+  {
+    "bfsNumber": 5512,
+    "name": "Bercher",
+    "district": "District du Gros-de-Vaud",
+    "municipalMultiplierPercent": 79
+  },
+  {
+    "bfsNumber": 5471,
+    "name": "Bettens",
+    "district": "District du Gros-de-Vaud",
+    "municipalMultiplierPercent": 70
+  },
+  {
+    "bfsNumber": 5514,
+    "name": "Bottens",
+    "district": "District du Gros-de-Vaud",
+    "municipalMultiplierPercent": 72.5
+  },
+  {
+    "bfsNumber": 5661,
+    "name": "Boulens",
+    "district": "District du Gros-de-Vaud",
+    "municipalMultiplierPercent": 71.5
+  },
+  {
+    "bfsNumber": 5472,
+    "name": "Bournens",
+    "district": "District du Gros-de-Vaud",
+    "municipalMultiplierPercent": 65
+  },
+  {
+    "bfsNumber": 5473,
+    "name": "Boussens",
+    "district": "District du Gros-de-Vaud",
+    "municipalMultiplierPercent": 64
+  },
+  {
+    "bfsNumber": 5515,
+    "name": "Bretigny-sur-Morrens",
+    "district": "District du Gros-de-Vaud",
+    "municipalMultiplierPercent": 76
+  },
+  {
+    "bfsNumber": 5516,
+    "name": "Cugy",
+    "district": "District du Gros-de-Vaud",
+    "municipalMultiplierPercent": 76
+  },
+  {
+    "bfsNumber": 5480,
+    "name": "Daillens",
+    "district": "District du Gros-de-Vaud",
+    "municipalMultiplierPercent": 66
+  },
+  {
+    "bfsNumber": 5518,
+    "name": "Echallens",
+    "district": "District du Gros-de-Vaud",
+    "municipalMultiplierPercent": 72.5
+  },
+  {
+    "bfsNumber": 5520,
+    "name": "Essertines-sur-Yverdon",
+    "district": "District du Gros-de-Vaud",
+    "municipalMultiplierPercent": 72
+  },
+  {
+    "bfsNumber": 5521,
+    "name": "Etagnières",
+    "district": "District du Gros-de-Vaud",
+    "municipalMultiplierPercent": 73
+  },
+  {
+    "bfsNumber": 5522,
+    "name": "Fey",
+    "district": "District du Gros-de-Vaud",
+    "municipalMultiplierPercent": 75
+  },
+  {
+    "bfsNumber": 5523,
+    "name": "Froideville",
+    "district": "District du Gros-de-Vaud",
+    "municipalMultiplierPercent": 72
+  },
+  {
+    "bfsNumber": 5541,
+    "name": "Goumoëns",
+    "district": "District du Gros-de-Vaud",
+    "municipalMultiplierPercent": 75.5
+  },
+  {
+    "bfsNumber": 5804,
+    "name": "Jorat-Menthue",
+    "district": "District du Gros-de-Vaud",
+    "municipalMultiplierPercent": 70.5
+  },
+  {
+    "bfsNumber": 5487,
+    "name": "Lussery-Villars",
+    "district": "District du Gros-de-Vaud",
+    "municipalMultiplierPercent": 75
+  },
+  {
+    "bfsNumber": 5489,
+    "name": "Mex",
+    "district": "District du Gros-de-Vaud",
+    "municipalMultiplierPercent": 59.5
+  },
+  {
+    "bfsNumber": 5693,
+    "name": "Montanaire",
+    "district": "District du Gros-de-Vaud",
+    "municipalMultiplierPercent": 70
+  },
+  {
+    "bfsNumber": 5540,
+    "name": "Montilliez",
+    "district": "District du Gros-de-Vaud",
+    "municipalMultiplierPercent": 72.5
+  },
+  {
+    "bfsNumber": 5527,
+    "name": "Morrens",
+    "district": "District du Gros-de-Vaud",
+    "municipalMultiplierPercent": 74
+  },
+  {
+    "bfsNumber": 5680,
+    "name": "Ogens",
+    "district": "District du Gros-de-Vaud",
+    "municipalMultiplierPercent": 76
+  },
+  {
+    "bfsNumber": 5923,
+    "name": "Oppens",
+    "district": "District du Gros-de-Vaud",
+    "municipalMultiplierPercent": 79
+  },
+  {
+    "bfsNumber": 5529,
+    "name": "Oulens-sous-Echallens",
+    "district": "District du Gros-de-Vaud",
+    "municipalMultiplierPercent": 71
+  },
+  {
+    "bfsNumber": 5530,
+    "name": "Pailly",
+    "district": "District du Gros-de-Vaud",
+    "municipalMultiplierPercent": 76
+  },
+  {
+    "bfsNumber": 5495,
+    "name": "Penthalaz",
+    "district": "District du Gros-de-Vaud",
+    "municipalMultiplierPercent": 72.5
+  },
+  {
+    "bfsNumber": 5496,
+    "name": "Penthaz",
+    "district": "District du Gros-de-Vaud",
+    "municipalMultiplierPercent": 69.5
+  },
+  {
+    "bfsNumber": 5531,
+    "name": "Penthéréaz",
+    "district": "District du Gros-de-Vaud",
+    "municipalMultiplierPercent": 74
+  },
+  {
+    "bfsNumber": 5533,
+    "name": "Poliez-Pittet",
+    "district": "District du Gros-de-Vaud",
+    "municipalMultiplierPercent": 73
+  },
+  {
+    "bfsNumber": 5534,
+    "name": "Rueyres",
+    "district": "District du Gros-de-Vaud",
+    "municipalMultiplierPercent": 73
+  },
+  {
+    "bfsNumber": 5535,
+    "name": "Saint-Barthélemy",
+    "district": "District du Gros-de-Vaud",
+    "municipalMultiplierPercent": 77
+  },
+  {
+    "bfsNumber": 5501,
+    "name": "Sullens",
+    "district": "District du Gros-de-Vaud",
+    "municipalMultiplierPercent": 64
+  },
+  {
+    "bfsNumber": 5537,
+    "name": "Villars-le-Terroir",
+    "district": "District du Gros-de-Vaud",
+    "municipalMultiplierPercent": 76
+  },
+  {
+    "bfsNumber": 5539,
+    "name": "Vuarrens",
+    "district": "District du Gros-de-Vaud",
+    "municipalMultiplierPercent": 73.5
+  },
+  {
+    "bfsNumber": 5503,
+    "name": "Vufflens-la-Ville",
+    "district": "District du Gros-de-Vaud",
+    "municipalMultiplierPercent": 65
+  },
+  {
+    "bfsNumber": 5742,
+    "name": "Agiez",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 76
+  },
+  {
+    "bfsNumber": 5743,
+    "name": "Arnex-sur-Orbe",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 71
+  },
+  {
+    "bfsNumber": 5744,
+    "name": "Ballaigues",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 65
+  },
+  {
+    "bfsNumber": 5745,
+    "name": "Baulmes",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 76.5
+  },
+  {
+    "bfsNumber": 5746,
+    "name": "Bavois",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 72
+  },
+  {
+    "bfsNumber": 5902,
+    "name": "Belmont-sur-Yverdon",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 70
+  },
+  {
+    "bfsNumber": 5903,
+    "name": "Bioley-Magnoux",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 72
+  },
+  {
+    "bfsNumber": 5747,
+    "name": "Bofflens",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 69
+  },
+  {
+    "bfsNumber": 5551,
+    "name": "Bonvillars",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 67
+  },
+  {
+    "bfsNumber": 5748,
+    "name": "Bretonnières",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 69
+  },
+  {
+    "bfsNumber": 5552,
+    "name": "Bullet",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 75
+  },
+  {
+    "bfsNumber": 5904,
+    "name": "Chamblon",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 66
+  },
+  {
+    "bfsNumber": 5553,
+    "name": "Champagne",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 65
+  },
+  {
+    "bfsNumber": 5905,
+    "name": "Champvent",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 70
+  },
+  {
+    "bfsNumber": 5907,
+    "name": "Chavannes-le-Chêne",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 75
+  },
+  {
+    "bfsNumber": 5749,
+    "name": "Chavornay",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 70.5
+  },
+  {
+    "bfsNumber": 5908,
+    "name": "Chêne-Pâquier",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 75
+  },
+  {
+    "bfsNumber": 5909,
+    "name": "Cheseaux-Noréaz",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 67
+  },
+  {
+    "bfsNumber": 5554,
+    "name": "Concise",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 68
+  },
+  {
+    "bfsNumber": 5555,
+    "name": "Corcelles-près-Concise",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 69
+  },
+  {
+    "bfsNumber": 5910,
+    "name": "Cronay",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 75
+  },
+  {
+    "bfsNumber": 5752,
+    "name": "Croy",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 74
+  },
+  {
+    "bfsNumber": 5911,
+    "name": "Cuarny",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 73
+  },
+  {
+    "bfsNumber": 5912,
+    "name": "Démoret",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 78
+  },
+  {
+    "bfsNumber": 5913,
+    "name": "Donneloye",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 73
+  },
+  {
+    "bfsNumber": 5914,
+    "name": "Ependes",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 73.5
+  },
+  {
+    "bfsNumber": 5556,
+    "name": "Fiez",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 69
+  },
+  {
+    "bfsNumber": 5557,
+    "name": "Fontaines-sur-Grandson",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 72
+  },
+  {
+    "bfsNumber": 5559,
+    "name": "Giez",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 69
+  },
+  {
+    "bfsNumber": 5560,
+    "name": "Grandevent",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 71
+  },
+  {
+    "bfsNumber": 5561,
+    "name": "Grandson",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 69
+  },
+  {
+    "bfsNumber": 5754,
+    "name": "Juriens",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 79
+  },
+  {
+    "bfsNumber": 5758,
+    "name": "La Praz",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 83
+  },
+  {
+    "bfsNumber": 5871,
+    "name": "L'Abbaye",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 76
+  },
+  {
+    "bfsNumber": 5741,
+    "name": "L'Abergement",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 80
+  },
+  {
+    "bfsNumber": 5872,
+    "name": "Le Chenit",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 58.5
+  },
+  {
+    "bfsNumber": 5873,
+    "name": "Le Lieu",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 70
+  },
+  {
+    "bfsNumber": 5750,
+    "name": "Les Clées",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 80
+  },
+  {
+    "bfsNumber": 5755,
+    "name": "Lignerolle",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 78.5
+  },
+  {
+    "bfsNumber": 5919,
+    "name": "Mathod",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 72
+  },
+  {
+    "bfsNumber": 5562,
+    "name": "Mauborget",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 70
+  },
+  {
+    "bfsNumber": 5921,
+    "name": "Molondin",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 81
+  },
+  {
+    "bfsNumber": 5922,
+    "name": "Montagny-près-Yverdon",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 64.5
+  },
+  {
+    "bfsNumber": 5756,
+    "name": "Montcherand",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 72
+  },
+  {
+    "bfsNumber": 5563,
+    "name": "Mutrux",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 80
+  },
+  {
+    "bfsNumber": 5564,
+    "name": "Novalles",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 76
+  },
+  {
+    "bfsNumber": 5565,
+    "name": "Onnens",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 65
+  },
+  {
+    "bfsNumber": 5757,
+    "name": "Orbe",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 75.5
+  },
+  {
+    "bfsNumber": 5924,
+    "name": "Orges",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 74
+  },
+  {
+    "bfsNumber": 5925,
+    "name": "Orzens",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 79
+  },
+  {
+    "bfsNumber": 5926,
+    "name": "Pomy",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 71
+  },
+  {
+    "bfsNumber": 5759,
+    "name": "Premier",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 79.5
+  },
+  {
+    "bfsNumber": 5566,
+    "name": "Provence",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 81
+  },
+  {
+    "bfsNumber": 5760,
+    "name": "Rances",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 76.5
+  },
+  {
+    "bfsNumber": 5761,
+    "name": "Romainmôtier-Envy",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 81
+  },
+  {
+    "bfsNumber": 5928,
+    "name": "Rovray",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 73
+  },
+  {
+    "bfsNumber": 5568,
+    "name": "Sainte-Croix",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 70
+  },
+  {
+    "bfsNumber": 5762,
+    "name": "Sergey",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 76
+  },
+  {
+    "bfsNumber": 5929,
+    "name": "Suchy",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 70
+  },
+  {
+    "bfsNumber": 5930,
+    "name": "Suscévaz",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 72
+  },
+  {
+    "bfsNumber": 5571,
+    "name": "Tévenon",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 71.5
+  },
+  {
+    "bfsNumber": 5931,
+    "name": "Treycovagnes",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 73
+  },
+  {
+    "bfsNumber": 5932,
+    "name": "Ursins",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 75
+  },
+  {
+    "bfsNumber": 5933,
+    "name": "Valeyres-sous-Montagny",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 70.5
+  },
+  {
+    "bfsNumber": 5763,
+    "name": "Valeyres-sous-Rances",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 71
+  },
+  {
+    "bfsNumber": 5934,
+    "name": "Valeyres-sous-Ursins",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 77
+  },
+  {
+    "bfsNumber": 5764,
+    "name": "Vallorbe",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 70
+  },
+  {
+    "bfsNumber": 5765,
+    "name": "Vaulion",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 81
+  },
+  {
+    "bfsNumber": 5935,
+    "name": "Villars-Epeney",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 72
+  },
+  {
+    "bfsNumber": 5937,
+    "name": "Vugelles-La Mothe",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 70
+  },
+  {
+    "bfsNumber": 5766,
+    "name": "Vuiteboeuf",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 75
+  },
+  {
+    "bfsNumber": 5938,
+    "name": "Yverdon-les-Bains",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 75
+  },
+  {
+    "bfsNumber": 5939,
+    "name": "Yvonand",
+    "district": "District du Jura-Nord vaudois",
+    "municipalMultiplierPercent": 73
+  },
+  {
+    "bfsNumber": 5582,
+    "name": "Cheseaux-sur-Lausanne",
+    "district": "District de Lausanne",
+    "municipalMultiplierPercent": 73
+  },
+  {
+    "bfsNumber": 5584,
+    "name": "Epalinges",
+    "district": "District de Lausanne",
+    "municipalMultiplierPercent": 64.5
+  },
+  {
+    "bfsNumber": 5585,
+    "name": "Jouxtens-Mézery",
+    "district": "District de Lausanne",
+    "municipalMultiplierPercent": 59
+  },
+  {
+    "bfsNumber": 5586,
+    "name": "Lausanne",
+    "district": "District de Lausanne",
+    "municipalMultiplierPercent": 78.5
+  },
+  {
+    "bfsNumber": 5587,
+    "name": "Le Mont-sur-Lausanne",
+    "district": "District de Lausanne",
+    "municipalMultiplierPercent": 72
+  },
+  {
+    "bfsNumber": 5592,
+    "name": "Romanel-sur-Lausanne",
+    "district": "District de Lausanne",
+    "municipalMultiplierPercent": 70.5
+  },
+  {
+    "bfsNumber": 5581,
+    "name": "Belmont-sur-Lausanne",
+    "district": "District de Lavaux-Oron",
+    "municipalMultiplierPercent": 72
+  },
+  {
+    "bfsNumber": 5613,
+    "name": "Bourg-en-Lavaux",
+    "district": "District de Lavaux-Oron",
+    "municipalMultiplierPercent": 62.5
+  },
+  {
+    "bfsNumber": 5601,
+    "name": "Chexbres",
+    "district": "District de Lavaux-Oron",
+    "municipalMultiplierPercent": 67.5
+  },
+  {
+    "bfsNumber": 5604,
+    "name": "Forel (Lavaux)",
+    "district": "District de Lavaux-Oron",
+    "municipalMultiplierPercent": 69
+  },
+  {
+    "bfsNumber": 5806,
+    "name": "Jorat-Mézières",
+    "district": "District de Lavaux-Oron",
+    "municipalMultiplierPercent": 71
+  },
+  {
+    "bfsNumber": 5606,
+    "name": "Lutry",
+    "district": "District de Lavaux-Oron",
+    "municipalMultiplierPercent": 54
+  },
+  {
+    "bfsNumber": 5790,
+    "name": "Maracon",
+    "district": "District de Lavaux-Oron",
+    "municipalMultiplierPercent": 74.5
+  },
+  {
+    "bfsNumber": 5792,
+    "name": "Montpreveyres",
+    "district": "District de Lavaux-Oron",
+    "municipalMultiplierPercent": 74.5
+  },
+  {
+    "bfsNumber": 5805,
+    "name": "Oron",
+    "district": "District de Lavaux-Oron",
+    "municipalMultiplierPercent": 69
+  },
+  {
+    "bfsNumber": 5588,
+    "name": "Paudex",
+    "district": "District de Lavaux-Oron",
+    "municipalMultiplierPercent": 66.5
+  },
+  {
+    "bfsNumber": 5607,
+    "name": "Puidoux",
+    "district": "District de Lavaux-Oron",
+    "municipalMultiplierPercent": 68.5
+  },
+  {
+    "bfsNumber": 5590,
+    "name": "Pully",
+    "district": "District de Lavaux-Oron",
+    "municipalMultiplierPercent": 61
+  },
+  {
+    "bfsNumber": 5609,
+    "name": "Rivaz",
+    "district": "District de Lavaux-Oron",
+    "municipalMultiplierPercent": 62
+  },
+  {
+    "bfsNumber": 5611,
+    "name": "Savigny",
+    "district": "District de Lavaux-Oron",
+    "municipalMultiplierPercent": 69
+  },
+  {
+    "bfsNumber": 5799,
+    "name": "Servion",
+    "district": "District de Lavaux-Oron",
+    "municipalMultiplierPercent": 69
+  },
+  {
+    "bfsNumber": 5610,
+    "name": "St-Saphorin (Lavaux)",
+    "district": "District de Lavaux-Oron",
+    "municipalMultiplierPercent": 74
+  },
+  {
+    "bfsNumber": 5621,
+    "name": "Aclens",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 60
+  },
+  {
+    "bfsNumber": 5851,
+    "name": "Allaman",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 65
+  },
+  {
+    "bfsNumber": 5422,
+    "name": "Aubonne",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 68
+  },
+  {
+    "bfsNumber": 5423,
+    "name": "Ballens",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 73
+  },
+  {
+    "bfsNumber": 5424,
+    "name": "Berolle",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 75.5
+  },
+  {
+    "bfsNumber": 5425,
+    "name": "Bière",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 69
+  },
+  {
+    "bfsNumber": 5426,
+    "name": "Bougy-Villars",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 62
+  },
+  {
+    "bfsNumber": 5622,
+    "name": "Bremblens",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 68
+  },
+  {
+    "bfsNumber": 5623,
+    "name": "Buchillon",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 52
+  },
+  {
+    "bfsNumber": 5475,
+    "name": "Chavannes-le-Veyron",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 77
+  },
+  {
+    "bfsNumber": 5476,
+    "name": "Chevilly",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 70
+  },
+  {
+    "bfsNumber": 5628,
+    "name": "Chigny",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 62
+  },
+  {
+    "bfsNumber": 5629,
+    "name": "Clarmont",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 72
+  },
+  {
+    "bfsNumber": 5477,
+    "name": "Cossonay",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 66
+  },
+  {
+    "bfsNumber": 5479,
+    "name": "Cuarnens",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 76
+  },
+  {
+    "bfsNumber": 5631,
+    "name": "Denens",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 63
+  },
+  {
+    "bfsNumber": 5632,
+    "name": "Denges",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 62
+  },
+  {
+    "bfsNumber": 5481,
+    "name": "Dizy",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 75
+  },
+  {
+    "bfsNumber": 5633,
+    "name": "Echandens",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 60.5
+  },
+  {
+    "bfsNumber": 5634,
+    "name": "Echichens",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 66
+  },
+  {
+    "bfsNumber": 5482,
+    "name": "Eclépens",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 46
+  },
+  {
+    "bfsNumber": 5636,
+    "name": "Etoy",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 60
+  },
+  {
+    "bfsNumber": 5427,
+    "name": "Féchy",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 64
+  },
+  {
+    "bfsNumber": 5483,
+    "name": "Ferreyres",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 76
+  },
+  {
+    "bfsNumber": 5428,
+    "name": "Gimel",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 73
+  },
+  {
+    "bfsNumber": 5484,
+    "name": "Gollion",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 74
+  },
+  {
+    "bfsNumber": 5485,
+    "name": "Grancy",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 70
+  },
+  {
+    "bfsNumber": 5656,
+    "name": "Hautemorges",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 68
+  },
+  {
+    "bfsNumber": 5474,
+    "name": "La Chaux (Cossonay)",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 76
+  },
+  {
+    "bfsNumber": 5498,
+    "name": "La Sarraz",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 70
+  },
+  {
+    "bfsNumber": 5637,
+    "name": "Lavigny",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 73
+  },
+  {
+    "bfsNumber": 5486,
+    "name": "L'Isle",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 75
+  },
+  {
+    "bfsNumber": 5638,
+    "name": "Lonay",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 55
+  },
+  {
+    "bfsNumber": 5639,
+    "name": "Lully",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 58
+  },
+  {
+    "bfsNumber": 5640,
+    "name": "Lussy-sur-Morges",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 61.5
+  },
+  {
+    "bfsNumber": 5488,
+    "name": "Mauraz",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 75
+  },
+  {
+    "bfsNumber": 5490,
+    "name": "Moiry",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 76
+  },
+  {
+    "bfsNumber": 5431,
+    "name": "Mollens",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 74
+  },
+  {
+    "bfsNumber": 5491,
+    "name": "Mont-la-Ville",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 76
+  },
+  {
+    "bfsNumber": 5492,
+    "name": "Montricher",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 64
+  },
+  {
+    "bfsNumber": 5642,
+    "name": "Morges",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 67
+  },
+  {
+    "bfsNumber": 5493,
+    "name": "Orny",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 73
+  },
+  {
+    "bfsNumber": 5497,
+    "name": "Pompaples",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 66
+  },
+  {
+    "bfsNumber": 5643,
+    "name": "Préverenges",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 65
+  },
+  {
+    "bfsNumber": 5645,
+    "name": "Romanel-sur-Morges",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 56
+  },
+  {
+    "bfsNumber": 5435,
+    "name": "Saint-Livres",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 69
+  },
+  {
+    "bfsNumber": 5436,
+    "name": "Saint-Oyens",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 77
+  },
+  {
+    "bfsNumber": 5646,
+    "name": "Saint-Prex",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 59
+  },
+  {
+    "bfsNumber": 5437,
+    "name": "Saubraz",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 77
+  },
+  {
+    "bfsNumber": 5499,
+    "name": "Senarclens",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 68.5
+  },
+  {
+    "bfsNumber": 5649,
+    "name": "Tolochenaz",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 64
+  },
+  {
+    "bfsNumber": 5650,
+    "name": "Vaux-sur-Morges",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 56
+  },
+  {
+    "bfsNumber": 5652,
+    "name": "Villars-sous-Yens",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 74
+  },
+  {
+    "bfsNumber": 5653,
+    "name": "Vufflens-le-Château",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 60.5
+  },
+  {
+    "bfsNumber": 5654,
+    "name": "Vullierens",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 76
+  },
+  {
+    "bfsNumber": 5655,
+    "name": "Yens",
+    "district": "District de Morges",
+    "municipalMultiplierPercent": 68
+  },
+  {
+    "bfsNumber": 5701,
+    "name": "Arnex-sur-Nyon",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 66
+  },
+  {
+    "bfsNumber": 5702,
+    "name": "Arzier-Le Muids",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 64
+  },
+  {
+    "bfsNumber": 5703,
+    "name": "Bassins",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 72.5
+  },
+  {
+    "bfsNumber": 5704,
+    "name": "Begnins",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 62.5
+  },
+  {
+    "bfsNumber": 5705,
+    "name": "Bogis-Bossey",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 70
+  },
+  {
+    "bfsNumber": 5706,
+    "name": "Borex",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 57
+  },
+  {
+    "bfsNumber": 5852,
+    "name": "Bursinel",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 62
+  },
+  {
+    "bfsNumber": 5853,
+    "name": "Bursins",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 71
+  },
+  {
+    "bfsNumber": 5854,
+    "name": "Burtigny",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 75
+  },
+  {
+    "bfsNumber": 5707,
+    "name": "Chavannes-de-Bogis",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 58
+  },
+  {
+    "bfsNumber": 5708,
+    "name": "Chavannes-des-Bois",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 66
+  },
+  {
+    "bfsNumber": 5709,
+    "name": "Chéserex",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 59
+  },
+  {
+    "bfsNumber": 5710,
+    "name": "Coinsins",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 49
+  },
+  {
+    "bfsNumber": 5711,
+    "name": "Commugny",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 58
+  },
+  {
+    "bfsNumber": 5712,
+    "name": "Coppet",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 57
+  },
+  {
+    "bfsNumber": 5713,
+    "name": "Crans",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 59
+  },
+  {
+    "bfsNumber": 5714,
+    "name": "Crassier",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 65
+  },
+  {
+    "bfsNumber": 5715,
+    "name": "Duillier",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 66
+  },
+  {
+    "bfsNumber": 5855,
+    "name": "Dully",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 53
+  },
+  {
+    "bfsNumber": 5856,
+    "name": "Essertines-sur-Rolle",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 66.5
+  },
+  {
+    "bfsNumber": 5716,
+    "name": "Eysins",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 59.5
+  },
+  {
+    "bfsNumber": 5717,
+    "name": "Founex",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 57
+  },
+  {
+    "bfsNumber": 5718,
+    "name": "Genolier",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 52
+  },
+  {
+    "bfsNumber": 5857,
+    "name": "Gilly",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 62.5
+  },
+  {
+    "bfsNumber": 5719,
+    "name": "Gingins",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 60
+  },
+  {
+    "bfsNumber": 5720,
+    "name": "Givrins",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 68.5
+  },
+  {
+    "bfsNumber": 5721,
+    "name": "Gland",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 61
+  },
+  {
+    "bfsNumber": 5722,
+    "name": "Grens",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 60
+  },
+  {
+    "bfsNumber": 5726,
+    "name": "La Rippe",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 63.5
+  },
+  {
+    "bfsNumber": 5731,
+    "name": "Le Vaud",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 69
+  },
+  {
+    "bfsNumber": 5429,
+    "name": "Longirod",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 77.5
+  },
+  {
+    "bfsNumber": 5858,
+    "name": "Luins",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 58.5
+  },
+  {
+    "bfsNumber": 5430,
+    "name": "Marchissy",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 77.5
+  },
+  {
+    "bfsNumber": 5723,
+    "name": "Mies",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 54
+  },
+  {
+    "bfsNumber": 5859,
+    "name": "Mont-sur-Rolle",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 62
+  },
+  {
+    "bfsNumber": 5724,
+    "name": "Nyon",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 61
+  },
+  {
+    "bfsNumber": 5860,
+    "name": "Perroy",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 60.5
+  },
+  {
+    "bfsNumber": 5725,
+    "name": "Prangins",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 57
+  },
+  {
+    "bfsNumber": 5861,
+    "name": "Rolle",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 59.5
+  },
+  {
+    "bfsNumber": 5727,
+    "name": "Saint-Cergue",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 66
+  },
+  {
+    "bfsNumber": 5434,
+    "name": "Saint-George",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 69.5
+  },
+  {
+    "bfsNumber": 5728,
+    "name": "Signy-Avenex",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 58
+  },
+  {
+    "bfsNumber": 5729,
+    "name": "Tannay",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 60.5
+  },
+  {
+    "bfsNumber": 5862,
+    "name": "Tartegnin",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 79
+  },
+  {
+    "bfsNumber": 5730,
+    "name": "Trélex",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 57
+  },
+  {
+    "bfsNumber": 5732,
+    "name": "Vich",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 63
+  },
+  {
+    "bfsNumber": 5863,
+    "name": "Vinzel",
+    "district": "District de Nyon",
+    "municipalMultiplierPercent": 65
+  },
+  {
+    "bfsNumber": 5624,
+    "name": "Bussigny",
+    "district": "District de l'Ouest lausannois",
+    "municipalMultiplierPercent": 62.5
+  },
+  {
+    "bfsNumber": 5627,
+    "name": "Chavannes-près-Renens",
+    "district": "District de l'Ouest lausannois",
+    "municipalMultiplierPercent": 77.5
+  },
+  {
+    "bfsNumber": 5583,
+    "name": "Crissier",
+    "district": "District de l'Ouest lausannois",
+    "municipalMultiplierPercent": 63.5
+  },
+  {
+    "bfsNumber": 5635,
+    "name": "Ecublens",
+    "district": "District de l'Ouest lausannois",
+    "municipalMultiplierPercent": 62.5
+  },
+  {
+    "bfsNumber": 5589,
+    "name": "Prilly",
+    "district": "District de l'Ouest lausannois",
+    "municipalMultiplierPercent": 72.5
+  },
+  {
+    "bfsNumber": 5591,
+    "name": "Renens",
+    "district": "District de l'Ouest lausannois",
+    "municipalMultiplierPercent": 77
+  },
+  {
+    "bfsNumber": 5648,
+    "name": "Saint-Sulpice",
+    "district": "District de l'Ouest lausannois",
+    "municipalMultiplierPercent": 55
+  },
+  {
+    "bfsNumber": 5651,
+    "name": "Villars-Sainte-Croix",
+    "district": "District de l'Ouest lausannois",
+    "municipalMultiplierPercent": 60.5
+  },
+  {
+    "bfsNumber": 5892,
+    "name": "Blonay - Saint-Légier",
+    "district": "District de la Riviera-Pays-d'Enhaut",
+    "municipalMultiplierPercent": 67.5
+  },
+  {
+    "bfsNumber": 5882,
+    "name": "Chardonne",
+    "district": "District de la Riviera-Pays-d'Enhaut",
+    "municipalMultiplierPercent": 68
+  },
+  {
+    "bfsNumber": 5841,
+    "name": "Château-d'Oex",
+    "district": "District de la Riviera-Pays-d'Enhaut",
+    "municipalMultiplierPercent": 81.5
+  },
+  {
+    "bfsNumber": 5883,
+    "name": "Corseaux",
+    "district": "District de la Riviera-Pays-d'Enhaut",
+    "municipalMultiplierPercent": 67.5
+  },
+  {
+    "bfsNumber": 5884,
+    "name": "Corsier-sur-Vevey",
+    "district": "District de la Riviera-Pays-d'Enhaut",
+    "municipalMultiplierPercent": 64.5
+  },
+  {
+    "bfsNumber": 5885,
+    "name": "Jongny",
+    "district": "District de la Riviera-Pays-d'Enhaut",
+    "municipalMultiplierPercent": 69.5
+  },
+  {
+    "bfsNumber": 5889,
+    "name": "La Tour-de-Peilz",
+    "district": "District de la Riviera-Pays-d'Enhaut",
+    "municipalMultiplierPercent": 64
+  },
+  {
+    "bfsNumber": 5886,
+    "name": "Montreux",
+    "district": "District de la Riviera-Pays-d'Enhaut",
+    "municipalMultiplierPercent": 65
+  },
+  {
+    "bfsNumber": 5842,
+    "name": "Rossinière",
+    "district": "District de la Riviera-Pays-d'Enhaut",
+    "municipalMultiplierPercent": 81
+  },
+  {
+    "bfsNumber": 5843,
+    "name": "Rougemont",
+    "district": "District de la Riviera-Pays-d'Enhaut",
+    "municipalMultiplierPercent": 79
+  },
+  {
+    "bfsNumber": 5890,
+    "name": "Vevey",
+    "district": "District de la Riviera-Pays-d'Enhaut",
+    "municipalMultiplierPercent": 74.5
+  },
+  {
+    "bfsNumber": 5891,
+    "name": "Veytaux",
+    "district": "District de la Riviera-Pays-d'Enhaut",
+    "municipalMultiplierPercent": 65
+  }
+]

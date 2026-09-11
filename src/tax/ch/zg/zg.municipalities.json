@@ -1,0 +1,79 @@
+[
+  {
+    "bfsNumber": 1701,
+    "name": "Baar",
+    "municipalMultiplierPercent": 47.53,
+    "churchMultiplierReformedPercent": 6,
+    "churchMultiplierCatholicPercent": 6.65
+  },
+  {
+    "bfsNumber": 1702,
+    "name": "Cham",
+    "municipalMultiplierPercent": 54,
+    "churchMultiplierReformedPercent": 6,
+    "churchMultiplierCatholicPercent": 8.1
+  },
+  {
+    "bfsNumber": 1703,
+    "name": "Hünenberg",
+    "municipalMultiplierPercent": 53,
+    "churchMultiplierReformedPercent": 6,
+    "churchMultiplierCatholicPercent": 8.1
+  },
+  {
+    "bfsNumber": 1704,
+    "name": "Menzingen",
+    "municipalMultiplierPercent": 55,
+    "churchMultiplierReformedPercent": 6,
+    "churchMultiplierCatholicPercent": 9
+  },
+  {
+    "bfsNumber": 1705,
+    "name": "Neuheim",
+    "municipalMultiplierPercent": 59,
+    "churchMultiplierReformedPercent": 6,
+    "churchMultiplierCatholicPercent": 9
+  },
+  {
+    "bfsNumber": 1706,
+    "name": "Oberägeri",
+    "municipalMultiplierPercent": 54,
+    "churchMultiplierReformedPercent": 6,
+    "churchMultiplierCatholicPercent": 9
+  },
+  {
+    "bfsNumber": 1707,
+    "name": "Risch",
+    "municipalMultiplierPercent": 54,
+    "churchMultiplierReformedPercent": 6,
+    "churchMultiplierCatholicPercent": 8
+  },
+  {
+    "bfsNumber": 1708,
+    "name": "Steinhausen",
+    "municipalMultiplierPercent": 53,
+    "churchMultiplierReformedPercent": 6,
+    "churchMultiplierCatholicPercent": 9
+  },
+  {
+    "bfsNumber": 1709,
+    "name": "Unterägeri",
+    "municipalMultiplierPercent": 53,
+    "churchMultiplierReformedPercent": 6,
+    "churchMultiplierCatholicPercent": 7.5
+  },
+  {
+    "bfsNumber": 1710,
+    "name": "Walchwil",
+    "municipalMultiplierPercent": 51,
+    "churchMultiplierReformedPercent": 6,
+    "churchMultiplierCatholicPercent": 11
+  },
+  {
+    "bfsNumber": 1711,
+    "name": "Zug",
+    "municipalMultiplierPercent": 52,
+    "churchMultiplierReformedPercent": 6,
+    "churchMultiplierCatholicPercent": 5.95
+  }
+]

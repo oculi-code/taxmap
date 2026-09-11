@@ -1,0 +1,90 @@
+{
+  "canton": "SZ",
+  "year": 2026,
+  "source": {
+    "incomeTax": "https://www.estv2.admin.ch/stp/kb/sz-de.pdf",
+    "wealthTax": "https://www.estv2.admin.ch/stp/kb/sz-de.pdf",
+    "multiplier": "https://www.sz.ch/public/upload/assets/90947/Steuerfusstabelle_2026.pdf",
+    "municipalData": "https://www.sz.ch/public/upload/assets/90947/Steuerfusstabelle_2026.pdf"
+  },
+  "incomeTaxBrackets": {
+    "single": [
+      { "from": 0, "rate": 0.0025 },
+      { "from": 1500, "rate": 0.005 },
+      { "from": 2800, "rate": 0.0075 },
+      { "from": 3900, "rate": 0.01 },
+      { "from": 4900, "rate": 0.0125 },
+      { "from": 5900, "rate": 0.015 },
+      { "from": 7000, "rate": 0.0175 },
+      { "from": 8300, "rate": 0.02 },
+      { "from": 10100, "rate": 0.0225 },
+      { "from": 12500, "rate": 0.025 },
+      { "from": 16100, "rate": 0.0275 },
+      { "from": 22000, "rate": 0.03 },
+      { "from": 30200, "rate": 0.0325 },
+      { "from": 40700, "rate": 0.035 },
+      { "from": 52300, "rate": 0.0365 },
+      { "from": 61600, "rate": 0.039 },
+      { "from": 258800, "rate": 0.0365 }
+    ],
+    "married": [
+      { "from": 0, "rate": 0.0025 },
+      { "from": 2850, "rate": 0.005 },
+      { "from": 5320, "rate": 0.0075 },
+      { "from": 7410, "rate": 0.01 },
+      { "from": 9310, "rate": 0.0125 },
+      { "from": 11210, "rate": 0.015 },
+      { "from": 13300, "rate": 0.0175 },
+      { "from": 15770, "rate": 0.02 },
+      { "from": 19190, "rate": 0.0225 },
+      { "from": 23750, "rate": 0.025 },
+      { "from": 30590, "rate": 0.0275 },
+      { "from": 41800, "rate": 0.03 },
+      { "from": 57380, "rate": 0.0325 },
+      { "from": 77330, "rate": 0.035 },
+      { "from": 99370, "rate": 0.0365 },
+      { "from": 117040, "rate": 0.039 },
+      { "from": 491720, "rate": 0.0365 }
+    ]
+  },
+  "cantonalOnlyIncomeTaxBrackets": {
+    "single": [
+      { "from": 0, "rate": 0.0025 },
+      { "from": 1500, "rate": 0.005 },
+      { "from": 2800, "rate": 0.0075 },
+      { "from": 3900, "rate": 0.01 },
+      { "from": 4900, "rate": 0.0125 },
+      { "from": 5900, "rate": 0.015 },
+      { "from": 7000, "rate": 0.0175 },
+      { "from": 8300, "rate": 0.02 },
+      { "from": 10100, "rate": 0.0225 },
+      { "from": 12500, "rate": 0.025 },
+      { "from": 16100, "rate": 0.0275 },
+      { "from": 22000, "rate": 0.03 },
+      { "from": 30200, "rate": 0.0325 },
+      { "from": 40700, "rate": 0.035 },
+      { "from": 52300, "rate": 0.0365 },
+      { "from": 61600, "rate": 0.039 },
+      { "from": 258800, "rate": 0.07 },
+      { "from": 433500, "rate": 0.05 }
+    ]
+  },
+  "wealthTaxBrackets": {
+    "general": [
+      { "from": 0, "rate": 0.0006 }
+    ]
+  },
+  "wealthTaxRateUnit": "decimal",
+  "splittingDivisor": 1.9,
+  "cantonalMultiplier": {
+    "value": 110,
+    "unit": "percent",
+    "appliedOnTop": true
+  },
+  "churchTax": {
+    "variesByMunicipality": true,
+    "reformed": null,
+    "catholic": null
+  },
+  "notes": "MECHANISM: like ZH, SZ computes an 'einfache Steuer' from bracket tables and then applies separate multipliers as percent of that simple tax -- but SZ has FOUR layers, not three: Kanton + Bezirk (district) + Gemeinde (municipality) + Kirchgemeinde (parish), each set independently and summed. Cantonal multiplier for natural persons is 110% for 2026 (down from 115% in 2025; legal-entity/jur. Personen multiplier is 150%, shown in source as '110/150*'). Bezirk multipliers range ~14-170% and Gemeinde multipliers ~50-160%, varying by district/municipality (see Steuerfusstabelle 2026 for the full Kanton/Bezirk/Gemeinde breakdown per municipality; only the Bezirk+Gemeinde COMBINED figure, 'municipalMultiplier', is carried into SZ_municipalities.json since the app schema has a single municipal-level field). WEALTH TAX: SZ's cantonal wealth tax is a genuinely flat rate, not a bracket table -- § 48 StG: 'Die Vermögenssteuer beträgt 0.6 Promille des steuerbaren Vermögens' (0.6 per-mille = 0.0006 decimal), applied uniformly with no brackets; a single {from:0, rate:0.0006} entry represents this. Social deductions from net wealth apply before this flat rate (CHF 250'000 for married couples, 125'000 for others, plus 30'000 per child) but those are deduction amounts, not rate brackets. INCOME TAX -- IMPORTANT CAVEAT: SZ's income tax schedule has an unusual top-end structure and a SEPARATE additional schedule for the cantonal share specifically. (1) § 36 StG defines the BASE tariff (used to compute the einfache Steuer that Bezirk-, Gemeinde- and Kirchgemeinde multipliers are applied to): marginal rates rise from 0.25% to 3.90% by CHF 258'800, then for income ABOVE CHF 258'800 the law states the simple tax 'für das ganze Einkommen' (for the WHOLE income) is a flat 3.65% -- i.e. the top marginal rate (3.65%) is slightly LOWER than the rate of the bracket just below it (3.90%). This was verified to be mathematically self-consistent (3.65% x 258'800 = CHF 9'446.20, matching the bracket-summed tax at that threshold to the rounding cent) and is represented faithfully here as the final breakpoint; it is NOT a data error. Total tax still strictly increases with income (marginal rate 3.65% > 0), so monotonicity holds. (2) § 36a StG defines an ADDITIONAL, separate schedule used ONLY to compute the Kantonssteuer (the canton's own portion, i.e. the base to which the 110% cantonal multiplier is applied) -- NOT used for Bezirk/Gemeinde/Kirchgemeinde tax: it reuses § 36 up to CHF 258'800, then ADDS a further bracket of 7% for the next CHF 174'700 (258'800 to 433'500), and for income over CHF 433'500 the simple tax for the WHOLE income is a flat 5%. This cantonal-only surcharge schedule (single filers, § 36a): brackets identical to 'single' above up to 258'800, then {from: 258800, rate: 0.07} and {from: 433500, rate: 0.05} REPLACE the {from: 258800, rate: 0.0365} entry for cantonal-tax purposes specifically. This is a significant SZ-specific quirk: a correct calculator must use the § 36/§ 36a base for computing the cantonal tax component and the plain § 36 base for Bezirk/Gemeinde/Kirchgemeinde tax components -- they are NOT the same base above CHF 258'800. This nuance is not encoded as a separate bracket array in the JSON (schema only allows one 'single'/'married' array) -- a developer implementing SZ must special-case incomes above CHF 258'800 for the cantonal-tax calculation per this note. SPLITTING: SZ does not have a separately published married bracket table; § 36 Abs. 2 StG applies a rate-determining divisor of 1.9 ('das steuerbare Einkommen durch den Divisor 1.9 geteilt'): the applicable AVERAGE rate is looked up using (income / 1.9) against the single/§36 table, then that rate is applied to the FULL income. This is mathematically equivalent to tax_married(income) = 1.9 x tax_single(income / 1.9), which in turn is equivalent to simply scaling every single-schedule breakpoint threshold by x1.9 while keeping the same marginal rates (proof: d/d(income)[1.9 * tax_single(income/1.9)] = tax_single'(income/1.9), i.e. the marginal rate at scaled threshold T*1.9 equals the marginal rate at T in the single schedule). The 'married' array above was DERIVED this way (single thresholds x 1.9, same rates) and is not a literal table published by the canton -- verify against an official SZ married-tariff calculator before relying on it for production tax calculations. The married table's final flat-rate breakpoint (491'720) is likewise 1.9x the single schedule's 258'800 threshold. CANTONAL-ONLY SURCHARGE FOR MARRIED FILERS: not derived here (would require applying the 1.9 divisor to the § 36a schedule too); flagged as a gap.\n\nERRATA (added 2026-09-11): the gap above was closed. Added a top-level `splittingDivisor: 1.9` field so the app derives BOTH the ordinary married schedule AND the married cantonal-only (§ 36a) surcharge schedule at runtime by scaling the single-filer thresholds by this divisor (src/tax/lib/bracket.ts's scaleBracketsForSplitting, applying the same proven equivalence quoted above) rather than storing a second hand-derived bracket array per schedule. This is a direct mathematical extension of the officially-documented § 36 Abs. 2 divisor mechanism to § 36a, not independently sourced from an official married-specific § 36a text — treat as a reasonable, law-consistent inference rather than a literally-published table, same caveat as the original derived 'married' array. This does not affect any income below CHF 491'720 (married), i.e. it only ever changes the cantonal-tax component for very high earners; every other layer (Bezirk/Gemeinde/Kirchgemeinde) was never affected by this gap since they always used the plain § 36 schedule for both filing statuses. BRACKET SOURCE: ESTV Kantonsblatt Schwyz (Stand Februar 2026) via estv2.admin.ch, cross-checked against the canton's own Steuerfusstabelle documents for multiplier figures. YEAR: figures are 'gültig ab Steuerperiode 2026', i.e. current as of report date (Sept 2026)."
+}

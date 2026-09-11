@@ -1,0 +1,53 @@
+{
+  "canton": "AI",
+  "year": 2026,
+  "source": {
+    "incomeTax": "https://www.estv2.admin.ch/stp/kb/ai-de.pdf",
+    "wealthTax": "https://www.estv2.admin.ch/stp/kb/ai-de.pdf",
+    "multiplier": "https://www.ai.ch/themen/steuern/publikationen/administration/steuerfuesse-der-verschiedenen-koerperschaften-stand-2021.pdf/download",
+    "municipalData": "https://www.ai.ch/themen/steuern/publikationen/administration/steuerfuesse-der-verschiedenen-koerperschaften-stand-2021.pdf/download"
+  },
+  "incomeTaxBrackets": {
+    "single": [
+      { "from": 0, "rate": 0.000 },
+      { "from": 3000, "rate": 0.01 },
+      { "from": 6000, "rate": 0.02 },
+      { "from": 9000, "rate": 0.03 },
+      { "from": 12000, "rate": 0.04 },
+      { "from": 15000, "rate": 0.05 },
+      { "from": 18000, "rate": 0.06 },
+      { "from": 22000, "rate": 0.07 },
+      { "from": 26000, "rate": 0.075 },
+      { "from": 30000, "rate": 0.08 },
+      { "from": 40000, "rate": 0.085 },
+      { "from": 74000, "rate": 0.09 },
+      { "from": 140000, "rate": 0.085 },
+      { "from": 200000, "rate": 0.08 }
+    ],
+    "married": [
+      { "from": 0, "rate": 0.000 },
+      { "from": 6000, "rate": 0.01 },
+      { "from": 12000, "rate": 0.02 },
+      { "from": 18000, "rate": 0.03 },
+      { "from": 24000, "rate": 0.04 },
+      { "from": 30000, "rate": 0.05 },
+      { "from": 36000, "rate": 0.06 },
+      { "from": 44000, "rate": 0.07 },
+      { "from": 52000, "rate": 0.075 },
+      { "from": 60000, "rate": 0.08 },
+      { "from": 80000, "rate": 0.085 },
+      { "from": 148000, "rate": 0.09 },
+      { "from": 280000, "rate": 0.085 },
+      { "from": 400000, "rate": 0.08 }
+    ]
+  },
+  "wealthTaxBrackets": {
+    "general": [
+      { "from": 0, "rate": 0.0015 }
+    ]
+  },
+  "wealthTaxRateUnit": "decimal",
+  "cantonalMultiplier": { "value": 96, "unit": "percent", "appliedOnTop": true },
+  "churchTax": { "variesByMunicipality": true, "reformed": null, "catholic": null },
+  "notes": "YEAR CHOSEN: 2026 figures used throughout (Kantonsblatt 'Stand: Februar 2026'; GRB Steuerparameter fixes the 2026 Staatssteuerfuss at 96%; the Bezirk/Kirchgemeinde/Schulgemeinde multiplier table explicitly has a 2026 column). Note the source file for the multiplier table is named '...stand-2021.pdf' on ai.ch but its actual content is a running 2010-2026 historical table that DOES include a live, current 2026 column -- the filename is simply stale/never renamed by the canton; I verified the 2026 column against the Kantonsblatt's independently-stated 96% cantonal figure and they match exactly.\n\nBEZIRKE ARE THE MUNICIPALITIES (verified via ai.ch/land-und-leute/bezirke, quoted directly): 'Sie [die Bezirke] sind die unterste Verwaltungseinheit im Kanton Appenzell Innerrhoden' (they are the lowest administrative unit in the canton) -- there is NO separate layer of 'politische Gemeinden' below the Bezirk in AI; the Bezirk itself IS the political-municipality-equivalent that levies the local multiplier used in the AI_municipalities.json 'municipalMultiplier' field. CORRECTION TO BRIEF: AI currently has only FIVE Bezirke, not six. The historical six (Appenzell, Gonten, Oberegg, Schlatt-Haslen, Rüte, Schwende) were reduced to five when Schwende and Rüte merged into 'Schwende-Rüte' effective 1 May 2022 (confirmed via ai.ch and HLS). The BFS municipality register (bfs_municipalities_register.csv, canton AI) independently lists exactly these five current codes: 3101 Appenzell, 3102 Gonten, 3104 Schlatt-Haslen, 3111 Oberegg, 3112 Schwende-Rüte -- confirming both the count and the merger. There is also a historical curiosity worth flagging: Oberegg's Bezirk multiplier jumped from 34% (2016 and earlier) to 99% (2017-2019) to its current 96% (2020-2026) -- a large local tax hike, not a data error.\n\nMULTIPLIER MECHANISM: a single 'Steuerfuss' (in percent, e.g. 96% = 0.96x) is applied on top of the 'einfache Steuer' from the bracket tables, and this SAME cantonal Steuerfuss applies to BOTH income and wealth tax (confirmed: 'Diese Steuerfüsse sind bei der Einkommens- und Vermögenssteuer... anzuwenden') -- no BL/GE-style split by tax type. The full stack for natural persons is FOUR layers, all simply summed before multiplying the einfache Steuer: Staat (canton) + Bezirk + Schulgemeinde (school district -- a further, separate local layer not requested in this dataset's schema but worth knowing exists, since Schulgemeinde boundaries in AI also do not track Bezirk boundaries 1:1, e.g. 'Schlatt-Haslen' Bezirk vs. separate historical 'Haslen'/'Schlatt' Schulgemeinde entries in the same source) + Kirchgemeinde.\n\nCHURCH TAX QUIRK -- NOT CLEANLY PER-BEZIRK, AND PARTLY OUT-OF-CANTON: unlike NW, AI's Kirchgemeinden (parishes) do NOT align 1:1 with the five Bezirke -- parish boundaries predate and cut across the Bezirk map, and in the source table several named catholic parishes (Brülisau, Eggerstanden) exist as apparently distinct entities from their enclosing Bezirk without a matching Bezirk of the same name, meaning a Bezirk can contain more than one Kirchgemeinde. The catholic (kath.) figures given per Bezirk in AI_municipalities.json (Appenzell=10, Gonten=17, Oberegg=19, Schwende-Rüte=11 taken from the 'Schwende kath.' row) are therefore BEST-EFFORT matches by name/locality, not a verified authoritative 1:1 mapping -- treat them as approximate; a production implementation should source a proper address-to-Kirchgemeinde lookup rather than assuming Bezirk==Kirchgemeinde. The Schlatt-Haslen Bezirk's catholic figure could not be confidently matched (only a 'Haslen kath.' row exists, no separate 'Schlatt' or 'Schlatt-Haslen' row) so it is left null. Even more strikingly, AI has almost NO in-canton Reformed/Protestant church infrastructure: of all the 'prot.' rows in the source table, only 'Appenzell prot.' (=10) is actually located inside the canton -- every other listed Reformed parish (Reute, Wald, Berneck, Trogen, Altstätten) is named after, and located in, neighbouring cantons St. Gallen or Appenzell Ausserrhoden. This means Reformed residents of AI's other four Bezirke pay church tax to an out-of-canton parish depending on their specific home village, which cannot be reduced to a single per-Bezirk number at all -- hence churchMultiplierReformed is null for every Bezirk except Appenzell in AI_municipalities.json, and null at the canton level here (variesByMunicipality: true covers this, but really it 'varies by out-of-canton parish membership', a stronger and more unusual quirk than ordinary municipal variation).\n\nINCOME TAX -- AVERAGE-RATE CAP FOR HIGH INCOMES (Art. 38 Abs. 2 StG): for taxable income over CHF 200'000, the einfache Steuer for the WHOLE income is a flat 8%, not a continuation of the marginal schedule (whose last regular bracket, CHF 140'000-200'000, is taxed at 8.5%) -- i.e. the marginal rate actually DROPS from 8.5% to 8% at the very top, a mild regressive tail similar in spirit to (but smaller than) Nidwalden's much sharper 3.30%->2.75% cap. UNLIKE NW, this AI cap is exactly continuous at the boundary: I verified that cumulative marginal tax at exactly CHF 200'000 equals CHF 16'000, and 0.08 * 200'000 also equals CHF 16'000 -- they match to the franc, so representing the cap as a normal continuing marginal bracket {from:200000, rate:0.08} (as done in incomeTaxBrackets.single above) produces IDENTICAL results to the official 'flat rate on whole income' rule for every income level, with no special-casing required in code (this is a genuine mathematical equivalence for AI, not just an approximation -- contrast with NW where the equivalent trick does NOT reconcile exactly due to independent rounding of the NW thresholds).\n\nMARRIED/JOINT FILERS -- VOLLSPLITTING with divisor 2 (Art. 38 Abs. 3 StG): 'für gemeinsam steuerpflichtige Ehegatten... wird der Steuersatz des halben steuerbaren Einkommens angewendet' -- the average rate is looked up using HALF the taxable income, then applied to the FULL income. As with NW's 1.85 divisor, this is mathematically exactly equivalent to doubling every single-schedule threshold while keeping the same marginal rates (same proof as in NW.json), so the married array above (thresholds x2, same rates, cap now at CHF 400'000) is an exact transformation, and -- because AI's cap is exactly continuous as shown above -- remains exact at every income level for married filers too. The same halved-income rate also applies to widowed/separated/divorced/single taxpayers who live with and principally support children (identical wording/policy to NW).\n\nWEALTH TAX: flat single-rate schedule, 1.5 permille (0.0015) of taxable wealth (Art. 45 Abs. 3 StG), with taxable wealth rounded down to the nearest CHF 1'000 before applying the rate -- represented as a single-entry bracket array. A notable AI-specific quirk (Art. 45 Abs. 4 StG): income tax computed on 'Beteiligungserträge' (qualifying dividend income under Art. 22ter/23 Abs. 1bis) is CREDITED AGAINST the wealth tax levied on the same underlying shareholding -- an additive-offset mechanism between the income-tax and wealth-tax layers that has no equivalent in most other cantons in this dataset and would need its own code path if qualifying-participation wealth is ever modeled precisely.\n\nMUNICIPALITIES FILE: contains the 5 current Bezirke, each carrying the Bezirk-level ('politische Gemeinde'-equivalent) multiplier and best-effort catholic church multiplier as described above; reformed multiplier is populated only for Appenzell. Schulgemeinde (school-district) multipliers exist as a genuine additional layer in the source but are out of scope for the requested schema and were not extracted."
+}

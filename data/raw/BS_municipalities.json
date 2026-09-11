@@ -1,0 +1,44 @@
+[
+  {
+    "bfsNumber": 2701,
+    "name": "Basel",
+    "district": null,
+    "municipalMultiplier": 0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 8,
+    "churchMultiplierCatholic": 8,
+    "cantonalShareIncomePercent": 100,
+    "cantonalShareWealthPercent": 100,
+    "municipalMultiplierIncomePercent": 0,
+    "municipalMultiplierWealthPercent": 0,
+    "notes": "Stadt Basel levies NO separate municipal tax; residents pay the full 100% cantonal tariff (incomeTaxBrackets/wealthTaxBrackets result) with no municipal surcharge/discount layer at all."
+  },
+  {
+    "bfsNumber": 2702,
+    "name": "Bettingen",
+    "district": null,
+    "municipalMultiplier": null,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 8,
+    "churchMultiplierCatholic": 8,
+    "cantonalShareIncomePercent": 50,
+    "cantonalShareWealthPercent": 50,
+    "municipalMultiplierIncomePercent": 37.5,
+    "municipalMultiplierWealthPercent": 36.5,
+    "notes": "Kanton collects a fixed 50% Kantonssteuerquote of the bracket-table tax directly; Bettingen sets its own Gemeindesteuerquote (max 50%) separately for income (37.50%) and wealth (36.50%) tax. Total effective multiplier = 50+37.5=87.5% (income) / 50+36.5=86.5% (wealth) of the bracket-table amount. Generic 'municipalMultiplier' left null because BS needs two separate income/wealth figures -- see municipalMultiplierIncomePercent/WealthPercent."
+  },
+  {
+    "bfsNumber": 2703,
+    "name": "Riehen",
+    "district": null,
+    "municipalMultiplier": null,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 8,
+    "churchMultiplierCatholic": 8,
+    "cantonalShareIncomePercent": 50,
+    "cantonalShareWealthPercent": 50,
+    "municipalMultiplierIncomePercent": 40.0,
+    "municipalMultiplierWealthPercent": 46.0,
+    "notes": "Kanton collects a fixed 50% Kantonssteuerquote of the bracket-table tax directly; Riehen sets its own Gemeindesteuerquote (max 50%) separately for income (40.00%) and wealth (46.00%) tax. Total effective multiplier = 50+40=90% (income) / 50+46=96% (wealth) of the bracket-table amount. Generic 'municipalMultiplier' left null because BS needs two separate income/wealth figures -- see municipalMultiplierIncomePercent/WealthPercent."
+  }
+]

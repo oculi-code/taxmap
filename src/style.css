@@ -1,0 +1,463 @@
+:root {
+  color-scheme: light dark;
+  font: 14px/1.45 system-ui, 'Segoe UI', Roboto, sans-serif;
+  --bg: #ffffff;
+  --fg: #1a1f22;
+  --muted: #5a6b73;
+  --border: #dde3e6;
+  --panel: #f7f9fa;
+  --accent: #1f6b3a;
+  --accent-contrast: #ffffff;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #14181a;
+    --fg: #eef2f3;
+    --muted: #9aacb3;
+    --border: #2c363a;
+    --panel: #1b2124;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100svh;
+  background: var(--bg);
+  color: var(--fg);
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  height: 100svh;
+}
+
+.app-header {
+  padding: 10px 20px;
+  border-bottom: 1px solid var(--border);
+  flex: none;
+}
+.app-header h1 {
+  font-size: 18px;
+  margin: 0 0 2px;
+}
+.app-header p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.app-body {
+  display: flex;
+  flex: 1;
+  min-height: 0;
+}
+
+.sidebar {
+  width: 360px;
+  flex: none;
+  border-right: 1px solid var(--border);
+  overflow-y: auto;
+  padding: 16px;
+  background: var(--panel);
+}
+
+#map-mount {
+  flex: 1;
+  min-width: 0;
+  position: relative;
+}
+
+/* --- mobile peek bar (bottom-sheet handle) ---
+ * Hidden entirely above the mobile breakpoint; see the media query below for
+ * the bottom-sheet behavior itself. Button-reset properties live here (not
+ * just in the media query) so they apply consistently whenever it becomes
+ * visible, regardless of viewport. */
+.mobile-peek {
+  display: none;
+  width: 100%;
+  align-items: center;
+  gap: 10px;
+  border: none;
+  background: none;
+  font: inherit;
+  color: inherit;
+  text-align: left;
+  cursor: pointer;
+  padding: 0;
+}
+.mobile-peek-handle {
+  display: none;
+}
+.mobile-peek-text {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+.mobile-peek-title {
+  font-weight: 600;
+  font-size: 12px;
+  color: var(--muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+/* This IS the prominent total-tax figure on mobile — same visual weight as
+ * .results-total-amount, which results.ts hides on narrow viewports so the
+ * number isn't shown twice (see .results-total below). */
+.mobile-peek-amount-row {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  min-width: 0;
+}
+.mobile-peek-amount {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 1.2;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.mobile-peek-rate {
+  flex: none;
+  font-size: 12px;
+  color: var(--muted);
+}
+.mobile-peek-hint {
+  font-size: 13px;
+  color: var(--muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.mobile-peek-chevron {
+  flex: none;
+  font-size: 11px;
+  color: var(--muted);
+  transition: transform 0.25s ease;
+}
+.mobile-peek-chevron-expanded {
+  transform: rotate(180deg);
+}
+
+@media (max-width: 768px) {
+  .sidebar {
+    /* Collapsed height comes from --peek-height, set by JS (main.ts's
+     * updateMobilePeek) to the peek bar's own measured offsetHeight — this
+     * is a fallback for the instant before that first runs. A hardcoded
+     * guess here (as a previous version of this rule used, as the max-height
+     * itself) drifts from the real content (a plain hint vs. a name + tax
+     * amount are different heights) and clips it. */
+    --peek-height: 64px;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: auto;
+    border-right: none;
+    border-top: 1px solid var(--border);
+    border-radius: 14px 14px 0 0;
+    box-shadow: 0 -6px 20px rgba(0, 0, 0, 0.18);
+    z-index: 20;
+    max-height: var(--peek-height);
+    transition: max-height 0.28s ease;
+    /* Collapsed: nothing here should be scrollable — otherwise a drag that
+     * starts on the peek-bar strip gets captured as an internal scroll
+     * gesture instead of registering as a tap. Only the expanded sheet
+     * scrolls — and everything but the peek bar itself is hidden outright
+     * (not just visually clipped), so there's nothing to scroll to anyway. */
+    overflow: hidden;
+    /* The base (desktop) .sidebar rule sets padding: 16px, which used to
+     * force .mobile-peek into a negative margin to sit flush at the edges —
+     * negative margins on a position:sticky element throw off its own
+     * stuck-offset calculation (the browser computes it from the margin
+     * box), so the sticky header ended up resting ~16px below where it
+     * should, letting scrolled content show through above it. Zeroing the
+     * padding here and moving it onto each child instead (below) avoids
+     * needing any margin trick on the sticky element at all. */
+    padding: 0;
+  }
+  .sidebar > *:not(.mobile-peek) {
+    display: none;
+  }
+  .sidebar.expanded {
+    max-height: 75vh;
+    overflow-y: auto;
+    padding-bottom: calc(16px + env(safe-area-inset-bottom));
+  }
+  .sidebar.expanded > *:not(.mobile-peek) {
+    display: revert;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  #search-mount {
+    padding-top: 12px;
+  }
+  .mobile-peek {
+    display: flex;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background: var(--panel);
+    padding: 12px 16px calc(12px + env(safe-area-inset-bottom));
+    border-bottom: 1px solid var(--border);
+  }
+  .sidebar:not(.expanded) .mobile-peek {
+    border-bottom: none;
+  }
+  .mobile-peek-handle {
+    display: block;
+    position: absolute;
+    top: 6px;
+    left: 50%;
+    width: 36px;
+    height: 4px;
+    border-radius: 999px;
+    background: var(--border);
+    transform: translateX(-50%);
+  }
+  /* The peek bar already shows the selection name and — prominently — the
+   * total tax, so avoid repeating either right below once expanded. Scoped
+   * under .sidebar (rather than bare .results-total) so this wins the
+   * cascade over the unconditional, higher-in-source-order .results-total
+   * rule below at equal specificity — media queries don't add specificity
+   * on their own, source order decides ties. */
+  #location-mount,
+  .sidebar .results-total {
+    display: none;
+  }
+}
+
+/* --- location banner --- */
+.location-banner {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-bottom: 10px;
+  padding: 2px 0;
+}
+.location-banner-empty {
+  font-size: 15px;
+  font-weight: 500;
+  color: var(--muted);
+}
+.location-canton {
+  font-weight: 500;
+  color: var(--muted);
+  margin-left: 4px;
+}
+
+/* --- municipality search --- */
+.muni-search {
+  position: relative;
+  margin-bottom: 16px;
+}
+.muni-search-input {
+  width: 100%;
+  font: inherit;
+  padding: 8px 10px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--bg);
+  color: var(--fg);
+}
+.muni-search-dropdown {
+  position: absolute;
+  z-index: 10;
+  top: calc(100% + 4px);
+  left: 0;
+  right: 0;
+  margin: 0;
+  padding: 4px;
+  list-style: none;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
+  max-height: 260px;
+  overflow-y: auto;
+}
+.muni-search-item {
+  padding: 6px 8px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 13px;
+}
+.muni-search-item.active,
+.muni-search-item:hover {
+  background: var(--panel);
+}
+.muni-search-canton {
+  color: var(--muted);
+}
+
+/* --- form --- */
+.tax-form fieldset {
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  margin: 0 0 16px;
+  padding: 12px;
+}
+.tax-form legend {
+  font-weight: 600;
+  padding: 0 4px;
+}
+.field-row {
+  display: flex;
+  gap: 8px;
+}
+.field-row .field {
+  flex: 1;
+  min-width: 0;
+}
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-bottom: 10px;
+}
+.field[hidden] {
+  display: none;
+}
+.field span {
+  font-size: 12px;
+  color: var(--muted);
+}
+.field input,
+.field select {
+  width: 100%;
+  min-width: 0;
+  font: inherit;
+  padding: 6px 8px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--bg);
+  color: var(--fg);
+}
+.field small {
+  color: var(--muted);
+}
+
+/* --- results --- */
+.hint {
+  color: var(--muted);
+}
+.results-total {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: 12px;
+  border-radius: 8px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  margin-bottom: 12px;
+}
+.results-total-label {
+  font-size: 12px;
+  color: var(--muted);
+}
+.results-total-amount {
+  font-size: 26px;
+  font-weight: 700;
+}
+.results-total-sub {
+  font-size: 12px;
+  color: var(--muted);
+}
+.badge {
+  display: inline-block;
+  margin-top: 6px;
+  padding: 2px 8px;
+  border-radius: 999px;
+  font-size: 11px;
+  width: fit-content;
+}
+.badge-approx {
+  background: #fdecc8;
+  color: #7a5300;
+}
+.badge-precise {
+  background: #dcefe1;
+  color: #14532d;
+}
+.warning-banner {
+  background: #fdecc8;
+  color: #7a5300;
+  border: 1px solid #f0cf8f;
+  border-radius: 8px;
+  padding: 8px 10px;
+  margin-bottom: 12px;
+  font-size: 12px;
+}
+@media (prefers-color-scheme: dark) {
+  .warning-banner {
+    background: #3a2e10;
+    color: #f0cf8f;
+    border-color: #5a4718;
+  }
+}
+.warning-banner p {
+  margin: 0;
+}
+.warning-banner p + p {
+  margin-top: 6px;
+}
+
+.results-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 12px;
+  margin-bottom: 12px;
+}
+.results-table th,
+.results-table td {
+  text-align: left;
+  padding: 4px 6px;
+  border-bottom: 1px solid var(--border);
+}
+.results-table th {
+  color: var(--muted);
+  font-weight: 500;
+}
+.results-table tr.row-warning td {
+  background: #fdecc880;
+}
+@media (prefers-color-scheme: dark) {
+  .results-table tr.row-warning td {
+    background: #3a2e1080;
+  }
+}
+.deductions {
+  font-size: 12px;
+  margin-bottom: 12px;
+}
+.deductions ul {
+  margin: 6px 0;
+  padding-left: 18px;
+}
+.separate-taxation h3 {
+  font-size: 13px;
+  margin: 0 0 6px;
+}
+
+.about {
+  margin-top: 20px;
+  font-size: 12px;
+  color: var(--muted);
+}
+.about summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+.about p {
+  margin: 8px 0 0;
+  line-height: 1.5;
+}

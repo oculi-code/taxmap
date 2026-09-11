@@ -1,0 +1,72 @@
+{
+  "year": 2026,
+  "incomeTax": {
+    "single": [
+      {
+        "from": 0,
+        "rate": 0
+      },
+      {
+        "from": 11600,
+        "rate": 0.04
+      },
+      {
+        "from": 15800,
+        "rate": 0.06
+      },
+      {
+        "from": 33800,
+        "rate": 0.08
+      },
+      {
+        "from": 60300,
+        "rate": 0.092
+      },
+      {
+        "from": 98400,
+        "rate": 0.094
+      },
+      {
+        "from": 264500,
+        "rate": 0.085
+      }
+    ],
+    "married": [
+      {
+        "from": 0,
+        "rate": 0
+      },
+      {
+        "from": 23200,
+        "rate": 0.04
+      },
+      {
+        "from": 31600,
+        "rate": 0.06
+      },
+      {
+        "from": 67600,
+        "rate": 0.08
+      },
+      {
+        "from": 120600,
+        "rate": 0.092
+      },
+      {
+        "from": 196800,
+        "rate": 0.094
+      },
+      {
+        "from": 529000,
+        "rate": 0.085
+      }
+    ]
+  },
+  "wealthTax": [
+    {
+      "from": 0,
+      "rate": 0.0017
+    }
+  ],
+  "cantonalMultiplierPercent": 105
+}

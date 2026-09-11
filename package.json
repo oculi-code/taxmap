@@ -1,0 +1,28 @@
+{
+  "name": "taxmap",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "predev": "node scripts/copy-maplibre-worker.mjs",
+    "dev": "vite",
+    "prebuild": "node scripts/copy-maplibre-worker.mjs",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "prep:boundaries": "node scripts/prepare-boundaries.mjs"
+  },
+  "devDependencies": {
+    "@types/geojson": "^7946.0.16",
+    "@types/topojson-client": "^3.1.5",
+    "playwright": "^1.63.0",
+    "proj4": "^2.22.0",
+    "shapefile": "^0.6.6",
+    "typescript": "~6.0.2",
+    "vite": "^8.2.2"
+  },
+  "dependencies": {
+    "maplibre-gl": "^6.8.0",
+    "swiss-maps": "^4.7.0",
+    "topojson-client": "^3.1.0"
+  }
+}

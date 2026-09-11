@@ -1,0 +1,53 @@
+{
+  "canton": "GL",
+  "year": 2026,
+  "source": {
+    "incomeTax": "https://www.estv2.admin.ch/stp/kb/gl-de.pdf",
+    "wealthTax": "https://www.estv2.admin.ch/stp/kb/gl-de.pdf",
+    "multiplier": "https://www.landsgemeinde.gl.ch/traktandum/2025-05-04/3",
+    "municipalData": "https://www.suedostschweiz.ch/sendungen/mehrheit-folgt-gemeinderat-glarus-erhoeht-steuerfuss-auf-61-prozent-01-12-25"
+  },
+  "incomeTaxBrackets": {
+    "single": [
+      { "from": 0, "rate": 0 },
+      { "from": 10300, "rate": 0.08 },
+      { "from": 20600, "rate": 0.11 },
+      { "from": 30900, "rate": 0.13 },
+      { "from": 51600, "rate": 0.15 },
+      { "from": 103200, "rate": 0.16 },
+      { "from": 154700, "rate": 0.175 },
+      { "from": 257900, "rate": 0.19 },
+      { "from": 412600, "rate": 0.21 },
+      { "from": 464200, "rate": 0.17 }
+    ],
+    "married": [
+      { "from": 0, "rate": 0 },
+      { "from": 17510, "rate": 0.08 },
+      { "from": 35020, "rate": 0.11 },
+      { "from": 52530, "rate": 0.13 },
+      { "from": 87720, "rate": 0.15 },
+      { "from": 175440, "rate": 0.16 },
+      { "from": 262990, "rate": 0.175 },
+      { "from": 438430, "rate": 0.19 },
+      { "from": 701420, "rate": 0.21 },
+      { "from": 789140, "rate": 0.17 }
+    ]
+  },
+  "wealthTaxBrackets": {
+    "general": [
+      { "from": 0, "rate": 0.003 }
+    ]
+  },
+  "wealthTaxRateUnit": "decimal",
+  "cantonalMultiplier": {
+    "value": 58,
+    "unit": "percent",
+    "appliedOnTop": true
+  },
+  "churchTax": {
+    "variesByMunicipality": true,
+    "reformed": null,
+    "catholic": null
+  },
+  "notes": "YEAR CHOICE: Used 2026. GL's Grundtarif (Art. 34 StG) is indexed annually for cold progression by cantonal ordinance (KVKP); the ESTV Kantonsblatt Glarus (Stand Februar 2026) shows most 2025 bracket thresholds unchanged but several explicitly marked '*Gültig ab Steuerperiode 2026' (thresholds d-i: 51'600/103'200/154'700/257'900/412'600/464'200 replacing 2025's 51'500/103'100/154'600/257'700/412'400/463'900). Since today (2026-09-08) is 8 months into tax period 2026 and these figures are already in force, 2026 was used throughout (income tax, and the cantonal multiplier, which is set annually by direct vote at the Landsgemeinde -- see below). Wealth-tax rate (flat 3 permille) and exemption thresholds did not change between 2025/2026 in the source. MECHANISM: Kanton, the 3 political Gemeinden, AND each Kirchgemeinde (parish) independently set their own annual Steuerfuss (as % of the 'einfache Steuer' computed from the bracket table) -- Art. 202 StG. No basis-shifting or post-multiplier tricks: all three layers multiply the same einfache Steuer directly. INCOME TAX BRACKET DERIVATION: Art. 34 StG publishes a 'Basis + Zuschlagssatz' table (9 rows, thresholds T_i with a cumulative tax 'Basis' AND a marginal rate). It is NOT obvious from the raw text which rate governs which inter-threshold band; this was disambiguated by (a) verifying via an independent 'Steuerbetrag/Steuersatz' cross-check column present in the Steuerverwaltung's own Wegleitung 2025 (each row's printed average rate = printed Basis / that row's own threshold, confirmed to the 4th decimal for every row) and (b) checking forward-cascade arithmetic. Conclusion: the rate printed in row N applies to the band STARTING at row N's own threshold and running to row N+1's threshold (not to the band ending at row N's threshold, which was an initial misreading during derivation that produced a spurious CHF 1'339 'jump' at CHF 30'900 -- that jump does NOT exist; cascaded arithmetic reproduces every published Basis value exactly except ~CHF 1-3 of legacy rounding drift carried in the historically-indexed figures, e.g. bracket f's Basis of 20'613.33 already contains a fractional remainder from decades of indexation). REAL QUIRK -- confirmed, not a data error: the TOP bracket's marginal rate (17%, above CHF 464'200 for 2026) is LOWER than the marginal rate of the bracket just below it (21%, CHF 412'600-464'200). Total tax still strictly increases with income (monotonic), but the effective marginal rate genuinely dips at the very top of the schedule -- verified against two independent official documents (ESTV Kantonsblatt and the Steuerverwaltung's own Wegleitung 2025, byte-identical figures). MARRIED/SPLITTING: GL has no separately published married bracket table. Art. 34 Abs. 2 StG gives a splitting divisor of 1.7, applied to BOTH married couples living together AND to single/divorced/widowed taxpayers living with their own children ('Reduzierter Steuersatz'): the rate-determining income is (steuerbares Gesamteinkommen / 1.7), the AVERAGE rate at that reduced income is looked up in the single/Grundtarif table, and that average rate is then applied to the FULL income (confirmed via the Wegleitung's own worked example: CHF 175'300 / 1.7 = 103'100 -> rate 12% -> tax = 12% x 175'300 = CHF 21'036). Because every Basis in the Grundtarif equals exactly (average rate x threshold) at each breakpoint (see cross-check above), this 'average-rate' method is mathematically identical to a piecewise-linear schedule whose breakpoints are the single schedule's thresholds multiplied by 1.7 and whose rates are UNCHANGED -- the 'married' array above was derived this way and reproduces the official worked example to within the same ~CHF 1 rounding noise already present in the source table. CANTONAL MULTIPLIER / BAUSTEUERZUSCHLAG QUIRK: GL has no permanent cantonal parliament vote for the multiplier -- it is fixed EVERY YEAR by a show-of-hands vote at the Landsgemeinde (open-air citizens' assembly, first Sunday of May) for the FOLLOWING year, on the Landrat's recommendation. For 2026 the Landsgemeinde (04.05.2025) set the ordinary Steuerfuss at 58% of the einfache Steuer (recorded here as cantonalMultiplier.value), PLUS a separate earmarked 'Bausteuerzuschlag' of 1.7% of the einfache Steuer (and 5% of inheritance/gift tax), used to fund four named infrastructure projects (Lintharena renovation/expansion, Näfels-Mollis and Netstal road projects). This 1.7% is legally distinct from the ordinary Steuerfuss but is billed identically as a percentage of the einfache Steuer, so the TRUE total cantonal-level charge for 2026 is effectively 58% + 1.7% = 59.7%, not 58% -- a developer must add this surcharge on top of cantonalMultiplier.value to match real tax bills. A similar earmarked-surcharge mechanism exists at the MUNICIPAL level: Glarus Nord's and Glarus Süd's 2026 municipalMultiplier of 63% is itself composed of 60% ordinary Gemeindesteuer + 3% Bausteuer surcharge (confirmed via Glarus Nord council communication); Glarus municipality's 61% (effective 2026, up from 58% after a 5% increase approved 01.12.2025) was not confirmed to include a similar named surcharge. GL_municipalities.json stores only the single effective total (61/63/63) since the app schema has one municipalMultiplier field. CHURCH TAX -- COULD NOT CONFIRM PER-MUNICIPALITY FIGURES: unlike the 3 merged political municipalities, GL's Kirchgemeinden (parishes) were NOT consolidated in the 2011 merger -- the reformed church alone still has roughly 10 separate Kirchgemeinden within the 3 political municipalities, each independently setting its own annual Kirchensteuerfuss, so a single number per political municipality cannot correctly represent church tax liability (it depends on which parish, a sub-municipal boundary, the taxpayer resides in). The canton's own 'Gemeindezuschläge' comparison PDF (which would list this) returned HTTP 403/dead-link errors on gl.ch at the time of this research (asset ID for the 2025 edition appears to have been retired without a public 2026 replacement found), and no third-party aggregator with confirmed current per-parish figures could be located. churchTax.reformed/catholic and the per-municipality church fields are therefore left null rather than guessed; a developer needing exact church-tax figures should contact the Kantonale Steuerverwaltung Glarus directly or source a current parish-level Steuerfuss table."
+}

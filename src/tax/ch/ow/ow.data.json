@@ -1,0 +1,17 @@
+{
+  "year": 2026,
+  "incomeTax": [
+    {
+      "from": 0,
+      "rate": 0.018
+    }
+  ],
+  "wealthTax": [
+    {
+      "from": 0,
+      "rate": 0.0002
+    }
+  ],
+  "cantonalMultiplierFactor": 3.25,
+  "churchMultiplierReformedFactor": 0.54
+}

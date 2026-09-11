@@ -1,0 +1,94 @@
+{
+  "canton": "GE",
+  "year": 2026,
+  "source": {
+    "incomeTax": "https://silgeneve.ch/legis/data/rsg_d3_08p05.htm",
+    "incomeTaxLaw": "https://www.estv2.admin.ch/stp/kb/ge-fr.pdf",
+    "wealthTax": "https://silgeneve.ch/legis/data/rsg_d3_08p05.htm",
+    "multiplier": "https://silgeneve.ch/legis/program/books/RSG/htm/rsg_d3_05p30.htm",
+    "cantonalCentimesLaw": "https://www.estv2.admin.ch/stp/kb/ge-fr.pdf",
+    "municipalData": "https://silgeneve.ch/legis/program/books/RSG/htm/rsg_d3_05p30.htm",
+    "baremeReference2025": "https://www.ge.ch/document/baremes-icc-impots-revenu-fortune-avec-exemples-calcul-2025"
+  },
+  "incomeTaxBrackets": {
+    "single": [
+      { "from": 0, "rate": 0 },
+      { "from": 18701, "rate": 0.073 },
+      { "from": 22531, "rate": 0.082 },
+      { "from": 24785, "rate": 0.091 },
+      { "from": 27037, "rate": 0.100 },
+      { "from": 29291, "rate": 0.109 },
+      { "from": 34923, "rate": 0.113 },
+      { "from": 39429, "rate": 0.123 },
+      { "from": 43936, "rate": 0.128 },
+      { "from": 48442, "rate": 0.132 },
+      { "from": 77731, "rate": 0.142 },
+      { "from": 127298, "rate": 0.150 },
+      { "from": 171232, "rate": 0.156 },
+      { "from": 193763, "rate": 0.158 },
+      { "from": 277126, "rate": 0.160 },
+      { "from": 295151, "rate": 0.168 },
+      { "from": 415689, "rate": 0.176 },
+      { "from": 651132, "rate": 0.180 }
+    ],
+    "married": [
+      { "from": 0, "rate": 0 },
+      { "from": 37402, "rate": 0.073 },
+      { "from": 45062, "rate": 0.082 },
+      { "from": 49570, "rate": 0.091 },
+      { "from": 54074, "rate": 0.100 },
+      { "from": 58582, "rate": 0.109 },
+      { "from": 69846, "rate": 0.113 },
+      { "from": 78858, "rate": 0.123 },
+      { "from": 87872, "rate": 0.128 },
+      { "from": 96884, "rate": 0.132 },
+      { "from": 155462, "rate": 0.142 },
+      { "from": 254596, "rate": 0.150 },
+      { "from": 342464, "rate": 0.156 },
+      { "from": 387526, "rate": 0.158 },
+      { "from": 554252, "rate": 0.160 },
+      { "from": 590302, "rate": 0.168 },
+      { "from": 831378, "rate": 0.176 },
+      { "from": 1302264, "rate": 0.180 }
+    ]
+  },
+  "wealthTaxBrackets": {
+    "general": [
+      { "from": 0, "rate": 0.00149 },
+      { "from": 118723, "rate": 0.00191 },
+      { "from": 237444, "rate": 0.00234 },
+      { "from": 356166, "rate": 0.00255 },
+      { "from": 474887, "rate": 0.00276 },
+      { "from": 712331, "rate": 0.00298 },
+      { "from": 949773, "rate": 0.00319 },
+      { "from": 1187216, "rate": 0.00340 },
+      { "from": 1424659, "rate": 0.00361 },
+      { "from": 1780824, "rate": 0.00383 }
+    ],
+    "supplementaryNoMultiplier": [
+      { "from": 0, "rate": 0 },
+      { "from": 118723, "rate": 0.0000956 },
+      { "from": 237444, "rate": 0.0001169 },
+      { "from": 356166, "rate": 0.0002550 },
+      { "from": 474887, "rate": 0.0002763 },
+      { "from": 712331, "rate": 0.0004463 },
+      { "from": 949773, "rate": 0.0004781 },
+      { "from": 1187216, "rate": 0.0006800 },
+      { "from": 1424659, "rate": 0.0007225 },
+      { "from": 1780824, "rate": 0.0009563 },
+      { "from": 3561647, "rate": 0.0011475 }
+    ]
+  },
+  "wealthTaxRateUnit": "decimal",
+  "cantonalMultiplier": {
+    "value": 148.5,
+    "unit": "percent",
+    "appliedOnTop": true
+  },
+  "churchTax": {
+    "variesByMunicipality": false,
+    "reformed": null,
+    "catholic": null
+  },
+  "notes": "YEAR: 2026 is the current, enacted, in-force tax period. GE indexes its income/wealth bracket thresholds every year for cold progression (Art. 67 LIPP), and the RCEPF regulation (D 3 08.05, adopted by the Conseil d'Etat 8 Oct 2025, 'dernières modifications au 1er janvier 2026') sets the officially adapted Art. 41 (income) and Art. 59 (wealth) barèmes for fiscal year 2026 - these are the figures used here, fetched directly from the regulation's own text at https://silgeneve.ch/legis/data/rsg_d3_08p05.htm (Art. 17 and Art. 18 RCEPF), NOT from the ge.ch 'Barèmes ICC...2025' PDF (data/raw/sources/GE_baremes_ICC_2025_avec_exemples.pdf, kept only as background/cross-check material with 2020-2025 municipal-rate history and worked examples for the OLDER 2025 barème - do not use its rate tables directly for 2026 calculations, only the RCEPF 2026 figures above are current). Both HTML sources (RCEPF at rsg_d3_08p05.htm and the ArCA-2026 communal-rate decree at rsg_d3_05p30.htm) were saved to data/raw/sources/ as GE_RCEPF_reglement_progression_froid_2026.html and GE_ArCA_2026_centimes_communaux.html.\n\nMECHANISM - THREE-LAYER STRUCTURE WITH AN ASYMMETRIC REBATE (a genuine, load-bearing GE-specific quirk, not a generic cantonal+communal split): (1) The 'impôt de base'/'impôt cantonal de base' is computed from the marginal bracket table above (Art. 41 LIPP, values indexed annually). (2) 'Centimes additionnels cantonaux' are added per Art. 2 LCACant: 47.5 centimes per franc, PLUS 1 additional centime per franc earmarked for home-care funding = 48.5 centimes total, i.e. the cantonal layer multiplies the base tax by (100%+48.5%) = 148.5% - this is the 'cantonalMultiplier' value above (148.5%, appliedOnTop=true), and per Art. 2 LCACant it applies identically to BOTH the income-tax base and the wealth-tax base (al. 1 says 'revenu et la fortune'). (3) CRITICAL QUIRK - Art. 1 LDIRPP (Loi du 26 septembre 1999 relative à la diminution de l'impôt sur le revenu des personnes physiques): 'L'impôt direct sur le revenu des personnes physiques, à l'exception des centimes additionnels communaux, est diminué de 12%.' This 12% rebate applies ONLY to INCOME tax (never wealth tax) and explicitly EXCLUDES the municipal ('communaux') layer - i.e. it discounts the CANTONAL income-tax amount (base x 148.5%) by a further 12%, but the municipal centimes additionnels (added on top, see below) are computed on the UNDISCOUNTED base tax and are NOT themselves reduced. So the correct formula is: cantonalIncomeTax = baseTax x 1.485 x 0.88 = baseTax x 1.3068; municipalIncomeTax = baseTax x (communalRate/100); totalIncomeTax = cantonalIncomeTax + municipalIncomeTax. For WEALTH tax there is NO 12% rebate anywhere: cantonalWealthTax = baseWealthTax x 1.485; municipalWealthTax = baseWealthTax x (communalRate/100). A naive 'single combined multiplier' model (as works for many other cantons in this dataset) will silently over-tax GE income by treating it the same as wealth - this is the single most important GE-specific implementation detail.\n\nSECOND QUIRK - WEALTH TAX HAS TWO INDEPENDENT LAYERS, ONE OF WHICH IS COMPLETELY IMMUNE TO ANY MULTIPLIER: Art. 59 al. 1 LIPP defines the ordinary wealth-tax bracket table (wealthTaxBrackets.general above, subject to the normal cantonal 148.5% + municipal centimes exactly as described above, no 12% rebate). Art. 59 al. 2 LIPP additionally levies a SEPARATE 'impôt supplémentaire sur la fortune' using its own, much-lower-rate bracket table (wealthTaxBrackets.supplementaryNoMultiplier above) computed on the SAME net taxable wealth - and the RCEPF text explicitly states after both Art. 18 al. 1 and al. 2 tables: 'Il n'est perçu aucun centime additionnel sur cet impôt supplémentaire sur la fortune' (no centimes additionnels whatsoever - neither cantonal nor municipal - are levied on this supplementary tax). So total wealth tax = [general-layer tax x 1.485 (cantonal, wealth has no 12% rebate) + general-layer tax x communalRate%] + [supplementaryNoMultiplier-layer tax, taken completely flat/as-is, no multiplier of any kind]. This second, un-multiplied layer is a structural quirk unique to GE in this dataset and is easy to miss since the schema's single 'cantonalMultiplier' field cannot represent 'a bracket table this multiplier does not apply to' - a developer must special-case wealthTaxBrackets.supplementaryNoMultiplier.\n\nMARRIED / SPLITTING (Art. 41 al. 2-4 LIPP): GE uses the classic Genevan 'splitting' (quotient conjugal) method: for spouses taxed jointly (ménage commun), 'le taux appliqué à leur revenu est celui qui correspond à 50% de ce dernier' - i.e. look up the AVERAGE (effective) rate that the ordinary single-filer bracket table would produce for HALF the couple's income, then apply that flat average rate to the FULL income. This is mathematically exactly equivalent (verified algebraically) to using a bracket table with every 'single' threshold DOUBLED and the SAME marginal rates - which is how incomeTaxBrackets.married above was derived (not an official published table; it is a correct mechanical derivation of the al.2 splitting rule). The same 50%-splitting rule (al. 3) additionally applies to single/widowed/divorced/separated taxpayers who maintain an independent household with dependent minor/majority children or a dependent relative ('foyer avec charge de famille') - i.e. GE's 'married' bracket table also functions as the single-parent/head-of-household table, not literally 'married-only'. A further special case (al. 4) gives separated/divorced parents sharing custody 50/50 a 55.56%-of-income rate lookup instead of 50% - a third rate-lookup variant not modeled in either bracket table here, flagged for completeness. Wealth tax uses NO splitting: Art. 59 al. 1 explicitly states 'Il en est de même de la fortune des époux vivant en ménage commun' (the same undivided table applies to married couples' wealth as to singles') - hence wealthTaxBrackets only has one 'general' schedule, correct for all marital statuses.\n\nCHURCH TAX - GENUINELY ABSENT AS A STRUCTURED MULTIPLIER (confirmed, not missing data): Geneva's 2018 Loi sur la laïcité de l'Etat (LLE) enshrines strict separation of church and state. There is NO compulsory church-tax multiplier of any kind in the standard GE tax bill - churchTax.variesByMunicipality is correctly false and reformed/catholic are correctly null (not merely unconfirmed; the structure does not exist to confirm). What DOES exist (Art. 5 LLE) is a 'contribution religieuse volontaire' (CRV, voluntary religious contribution): the cantonal tax administration will, on request, collect a purely VOLUNTARY donation on behalf of any 'organisation religieuse reconnue' that asks for it, structured as a fixed per-capita fee plus centimes additionnels on the taxpayer's cantonal income/wealth tax, capped by law at 1.5% of net taxable income (Art. 5 al. 3 LLE) - but critically 'le recouvrement de cette contribution ne peut faire l'objet d'aucune contrainte' (no legal means of enforcement/collection exists) and it is billed and tracked SEPARATELY from the actual tax bill, with no offsetting against it. Per the Guide fiscal 2025 (quoted in the ESTV Kantonsblatt), the three 'églises enrôlées' for the CRV in 2024 all independently chose the identical formula: 16% of the cantonal base income tax + 6% of the wealth tax + a flat CHF 10 - but since this is (a) opt-in per religious organization, (b) not compulsory, (c) not part of the standard tax computation a calculator would reproduce, and (d) structured completely differently from every other canton's per-municipality/per-parish reformed/catholic multiplier fields, it is intentionally NOT encoded into churchMultiplierReformed/churchMultiplierCatholic in GE_municipalities.json (left null throughout) - a developer wanting to model the CRV would need a wholly separate optional line item, not the standard church-multiplier field.\n\nTAX SHIELD ('bouclier fiscal' / charge maximale, Art. 60 LIPP, flagged per instructions, NOT modeled here): combined cantonal+communal income and wealth tax cannot exceed 60% of net taxable income; for this calculation net wealth's imputed yield is floored at 1% of net wealth even if actual investment income is lower. Any reduction needed is applied to the wealth-tax portion only (Art. 60 al. 4), proportionally between canton and commune.\n\nIMPOSITION D'APRÈS LA DÉPENSE (lump-sum/expenditure-based taxation for qualifying foreign nationals, Art. 14 LIPP, not modeled): minimum taxable base for 2026 is the highest of CHF 426'357 (indexed minimum, Art. 4 RCEPF), 7x annual rental value/rent, or 3x annual room-and-board cost; the equivalent wealth base is 5x this amount; taxed at the ordinary barème.\n\nMUNICIPALITIES: All 45 GE communes (44 named communes + the city of Genève itself; GE has no district/Bezirk subdivision, so 'district' is null throughout) with their 2026 'centimes additionnels communaux' rate, sourced directly from the Conseil d'Etat's ArCA-2026 arrêté (D 3 05.30, adopted 18 March 2026), cross-checked against its own raw legal text saved at data/raw/sources/GE_ArCA_2026_centimes_communaux.html. Rates observed range from 25 (Cologny, Genthod) to 51 (Avully, Chancy) percent. Vernier's rate (50) was fixed by a LATER amendment (19 August 2026, footnoted '(1)' in the source) since Vernier's communal budget had not yet been voted when the main arrêté was adopted in March 2026 - some earlier-dated secondary sources found during research still show Vernier excluded/pending, but the live legal text confirms 50 is now final and in force for 2026. BFS municipality numbers matched 1:1 by name against data/raw/bfs_municipalities_register.csv (45/45 GE register rows matched with only cosmetic disambiguation-suffix differences: 'Ville de Genève'->'Genève', 'Carouge'->'Carouge (GE)', 'Corsier'->'Corsier (GE)', 'Grand-Saconnex'->'Le Grand-Saconnex', 'Vandœuvres'->'Vandoeuvres'). Per-municipality church multipliers are null for all rows (see CHURCH TAX section above - not applicable/not published in the standard multiplier sense for GE).\n\nCOULD NOT CONFIRM: an official ge.ch-hosted (rather than silgeneve.ch legal-database-hosted) PDF specifically labelled '...2026' for the income/wealth barème was not found as of this research pass (only the 2025-dated 'Barèmes ICC' PDF is published under that title on ge.ch; the 2026 figures live in the RCEPF regulation text itself, which is the authoritative source used here)."
+}

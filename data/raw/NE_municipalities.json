@@ -1,0 +1,218 @@
+[
+  {
+    "bfsNumber": 6404,
+    "name": "Boudry",
+    "district": "Boudry",
+    "municipalMultiplier": 68,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 6408,
+    "name": "Cortaillod",
+    "district": "Boudry",
+    "municipalMultiplier": 66,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 6413,
+    "name": "Rochefort",
+    "district": "Boudry",
+    "municipalMultiplier": 67,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 6416,
+    "name": "Milvignes",
+    "district": "Boudry",
+    "municipalMultiplier": 63,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 6417,
+    "name": "La Grande Béroche",
+    "district": "Boudry",
+    "municipalMultiplier": 63,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 6421,
+    "name": "La Chaux-de-Fonds",
+    "district": "La Chaux-de-Fonds",
+    "municipalMultiplier": 75,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 6422,
+    "name": "Les Planchettes",
+    "district": "La Chaux-de-Fonds",
+    "municipalMultiplier": 77,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 6423,
+    "name": "La Sagne",
+    "district": "La Chaux-de-Fonds",
+    "municipalMultiplier": 75,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 6432,
+    "name": "La Brévine",
+    "district": "Le Locle",
+    "municipalMultiplier": 75,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 6433,
+    "name": "Brot-Plamboz",
+    "district": "Le Locle",
+    "municipalMultiplier": 75,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 6434,
+    "name": "Le Cerneux-Péquignot",
+    "district": "Le Locle",
+    "municipalMultiplier": 72,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 6435,
+    "name": "La Chaux-du-Milieu",
+    "district": "Le Locle",
+    "municipalMultiplier": 75,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 6436,
+    "name": "Le Locle",
+    "district": "Le Locle",
+    "municipalMultiplier": 69,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 6437,
+    "name": "Les Ponts-de-Martel",
+    "district": "Le Locle",
+    "municipalMultiplier": 75,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 6451,
+    "name": "Cornaux",
+    "district": "Neuchâtel",
+    "municipalMultiplier": 74,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 6452,
+    "name": "Cressier (NE)",
+    "district": "Neuchâtel",
+    "municipalMultiplier": 77,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 6455,
+    "name": "Le Landeron",
+    "district": "Neuchâtel",
+    "municipalMultiplier": 66,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 6456,
+    "name": "Lignières",
+    "district": "Neuchâtel",
+    "municipalMultiplier": 67,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 6458,
+    "name": "Neuchâtel",
+    "district": "Neuchâtel",
+    "municipalMultiplier": 65,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 6487,
+    "name": "Val-de-Ruz",
+    "district": "Val-de-Ruz",
+    "municipalMultiplier": 66,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 6504,
+    "name": "La Côte-aux-Fées",
+    "district": "Val-de-Travers",
+    "municipalMultiplier": 75,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 6511,
+    "name": "Les Verrières",
+    "district": "Val-de-Travers",
+    "municipalMultiplier": 79,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 6512,
+    "name": "Val-de-Travers",
+    "district": "Val-de-Travers",
+    "municipalMultiplier": 76,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 6513,
+    "name": "Laténa",
+    "district": "Neuchâtel",
+    "municipalMultiplier": 68,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "bfsNumber": 2931,
+    "name": "Bargen",
+    "municipalMultiplierPercent": 102,
+    "churchMultiplierReformedPercent": 12,
+    "churchMultiplierCatholicPercent": 13
+  },
+  {
+    "bfsNumber": 2951,
+    "name": "Beggingen",
+    "municipalMultiplierPercent": 117,
+    "churchMultiplierReformedPercent": 12,
+    "churchMultiplierCatholicPercent": 14
+  },
+  {
+    "bfsNumber": 2932,
+    "name": "Beringen",
+    "municipalMultiplierPercent": 91,
+    "churchMultiplierReformedPercent": null,
+    "churchMultiplierCatholicPercent": 14
+  },
+  {
+    "bfsNumber": 2961,
+    "name": "Buch",
+    "municipalMultiplierPercent": 96,
+    "churchMultiplierReformedPercent": 12,
+    "churchMultiplierCatholicPercent": 15
+  },
+  {
+    "bfsNumber": 2933,
+    "name": "Buchberg",
+    "municipalMultiplierPercent": 59,
+    "churchMultiplierReformedPercent": 11,
+    "churchMultiplierCatholicPercent": 14
+  },
+  {
+    "bfsNumber": 2914,
+    "name": "Büttenhardt",
+    "municipalMultiplierPercent": 85,
+    "churchMultiplierReformedPercent": 11,
+    "churchMultiplierCatholicPercent": 13
+  },
+  {
+    "bfsNumber": 2915,
+    "name": "Dörflingen",
+    "municipalMultiplierPercent": 88,
+    "churchMultiplierReformedPercent": 12,
+    "churchMultiplierCatholicPercent": 13
+  },
+  {
+    "bfsNumber": 2901,
+    "name": "Gächlingen",
+    "municipalMultiplierPercent": 115,
+    "churchMultiplierReformedPercent": 13,
+    "churchMultiplierCatholicPercent": 14
+  },
+  {
+    "bfsNumber": 2971,
+    "name": "Hallau",
+    "municipalMultiplierPercent": 112,
+    "churchMultiplierReformedPercent": 10,
+    "churchMultiplierCatholicPercent": 14
+  },
+  {
+    "bfsNumber": 2962,
+    "name": "Hemishofen",
+    "municipalMultiplierPercent": 89,
+    "churchMultiplierReformedPercent": 11.5,
+    "churchMultiplierCatholicPercent": 13
+  },
+  {
+    "bfsNumber": 2903,
+    "name": "Löhningen",
+    "municipalMultiplierPercent": 93,
+    "churchMultiplierReformedPercent": 10,
+    "churchMultiplierCatholicPercent": 14
+  },
+  {
+    "bfsNumber": 2917,
+    "name": "Lohn (SH)",
+    "municipalMultiplierPercent": 98,
+    "churchMultiplierReformedPercent": 11,
+    "churchMultiplierCatholicPercent": 13
+  },
+  {
+    "bfsNumber": 2936,
+    "name": "Merishausen",
+    "municipalMultiplierPercent": 110,
+    "churchMultiplierReformedPercent": 12,
+    "churchMultiplierCatholicPercent": 13
+  },
+  {
+    "bfsNumber": 2937,
+    "name": "Neuhausen am Rheinfall",
+    "municipalMultiplierPercent": 83,
+    "churchMultiplierReformedPercent": 14,
+    "churchMultiplierCatholicPercent": 14
+  },
+  {
+    "bfsNumber": 2904,
+    "name": "Neunkirch",
+    "municipalMultiplierPercent": 99,
+    "churchMultiplierReformedPercent": 11,
+    "churchMultiplierCatholicPercent": 14
+  },
+  {
+    "bfsNumber": 2972,
+    "name": "Oberhallau",
+    "municipalMultiplierPercent": 117,
+    "churchMultiplierReformedPercent": 12,
+    "churchMultiplierCatholicPercent": 14
+  },
+  {
+    "bfsNumber": 2963,
+    "name": "Ramsen",
+    "municipalMultiplierPercent": 95,
+    "churchMultiplierReformedPercent": 14,
+    "churchMultiplierCatholicPercent": 15
+  },
+  {
+    "bfsNumber": 2938,
+    "name": "Rüdlingen",
+    "municipalMultiplierPercent": 75,
+    "churchMultiplierReformedPercent": 11,
+    "churchMultiplierCatholicPercent": 14
+  },
+  {
+    "bfsNumber": 2939,
+    "name": "Schaffhausen",
+    "municipalMultiplierPercent": 86,
+    "churchMultiplierReformedPercent": 13,
+    "churchMultiplierCatholicPercent": 13
+  },
+  {
+    "bfsNumber": 2952,
+    "name": "Schleitheim",
+    "municipalMultiplierPercent": 115,
+    "churchMultiplierReformedPercent": 10,
+    "churchMultiplierCatholicPercent": 14
+  },
+  {
+    "bfsNumber": 2953,
+    "name": "Siblingen",
+    "municipalMultiplierPercent": 105,
+    "churchMultiplierReformedPercent": 12,
+    "churchMultiplierCatholicPercent": 14
+  },
+  {
+    "bfsNumber": 2964,
+    "name": "Stein am Rhein",
+    "municipalMultiplierPercent": 95,
+    "churchMultiplierReformedPercent": null,
+    "churchMultiplierCatholicPercent": 13
+  },
+  {
+    "bfsNumber": 2919,
+    "name": "Stetten (SH)",
+    "municipalMultiplierPercent": 61,
+    "churchMultiplierReformedPercent": 11,
+    "churchMultiplierCatholicPercent": 13
+  },
+  {
+    "bfsNumber": 2920,
+    "name": "Thayngen",
+    "municipalMultiplierPercent": 92,
+    "churchMultiplierReformedPercent": 10,
+    "churchMultiplierCatholicPercent": 13
+  },
+  {
+    "bfsNumber": 2973,
+    "name": "Trasadingen",
+    "municipalMultiplierPercent": 112,
+    "churchMultiplierReformedPercent": 11,
+    "churchMultiplierCatholicPercent": 14
+  },
+  {
+    "bfsNumber": 2974,
+    "name": "Wilchingen",
+    "municipalMultiplierPercent": 112,
+    "churchMultiplierReformedPercent": null,
+    "churchMultiplierCatholicPercent": 14
+  }
+]

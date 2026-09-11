@@ -1,0 +1,272 @@
+[
+  {
+    "bfsNumber": 1301,
+    "name": "Einsiedeln",
+    "district": "Einsiedeln",
+    "municipalMultiplier": 170,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 25,
+    "churchMultiplierCatholic": 26
+  },
+  {
+    "bfsNumber": 1311,
+    "name": "Gersau",
+    "district": "Gersau",
+    "municipalMultiplier": 145,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 25,
+    "churchMultiplierCatholic": 25
+  },
+  {
+    "bfsNumber": 1321,
+    "name": "Feusisberg",
+    "district": "Höfe",
+    "municipalMultiplier": 69,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 8,
+    "churchMultiplierCatholic": 15
+  },
+  {
+    "bfsNumber": 1322,
+    "name": "Freienbach",
+    "district": "Höfe",
+    "municipalMultiplier": 64,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 8,
+    "churchMultiplierCatholic": 9
+  },
+  {
+    "bfsNumber": 1323,
+    "name": "Wollerau",
+    "district": "Höfe",
+    "municipalMultiplier": 64,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 8,
+    "churchMultiplierCatholic": 8
+  },
+  {
+    "bfsNumber": 1331,
+    "name": "Küssnacht",
+    "district": "Küssnacht",
+    "municipalMultiplier": 145,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 16,
+    "churchMultiplierCatholic": 18
+  },
+  {
+    "bfsNumber": 1341,
+    "name": "Altendorf",
+    "district": "March",
+    "municipalMultiplier": 115,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 15
+  },
+  {
+    "bfsNumber": 1342,
+    "name": "Galgenen",
+    "district": "March",
+    "municipalMultiplier": 155,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 16
+  },
+  {
+    "bfsNumber": 1343,
+    "name": "Innerthal",
+    "district": "March",
+    "municipalMultiplier": 140,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 32
+  },
+  {
+    "bfsNumber": 1344,
+    "name": "Lachen",
+    "district": "March",
+    "municipalMultiplier": 125,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 12
+  },
+  {
+    "bfsNumber": 1345,
+    "name": "Reichenburg",
+    "district": "March",
+    "municipalMultiplier": 180,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 30
+  },
+  {
+    "bfsNumber": 1346,
+    "name": "Schübelbach",
+    "district": "March",
+    "municipalMultiplier": 180,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 38
+  },
+  {
+    "bfsNumber": 1347,
+    "name": "Tuggen",
+    "district": "March",
+    "municipalMultiplier": 154,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 25
+  },
+  {
+    "bfsNumber": 1348,
+    "name": "Vorderthal",
+    "district": "March",
+    "municipalMultiplier": 165,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 32
+  },
+  {
+    "bfsNumber": 1349,
+    "name": "Wangen",
+    "district": "March",
+    "municipalMultiplier": 165,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 30
+  },
+  {
+    "bfsNumber": 1361,
+    "name": "Alpthal",
+    "district": "Schwyz",
+    "municipalMultiplier": 155,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 25,
+    "churchMultiplierCatholic": 25
+  },
+  {
+    "bfsNumber": 1362,
+    "name": "Arth",
+    "district": "Schwyz",
+    "municipalMultiplier": 145,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 31,
+    "churchMultiplierCatholic": 27
+  },
+  {
+    "bfsNumber": 1363,
+    "name": "Illgau",
+    "district": "Schwyz",
+    "municipalMultiplier": 195,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 25,
+    "churchMultiplierCatholic": 30
+  },
+  {
+    "bfsNumber": 1364,
+    "name": "Ingenbohl",
+    "district": "Schwyz",
+    "municipalMultiplier": 165,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 25,
+    "churchMultiplierCatholic": 18
+  },
+  {
+    "bfsNumber": 1365,
+    "name": "Lauerz",
+    "district": "Schwyz",
+    "municipalMultiplier": 175,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 31,
+    "churchMultiplierCatholic": 29
+  },
+  {
+    "bfsNumber": 1366,
+    "name": "Morschach",
+    "district": "Schwyz",
+    "municipalMultiplier": 165,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 25,
+    "churchMultiplierCatholic": 36
+  },
+  {
+    "bfsNumber": 1367,
+    "name": "Muotathal",
+    "district": "Schwyz",
+    "municipalMultiplier": 150,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 25,
+    "churchMultiplierCatholic": 25
+  },
+  {
+    "bfsNumber": 1368,
+    "name": "Oberiberg",
+    "district": "Schwyz",
+    "municipalMultiplier": 125,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 25,
+    "churchMultiplierCatholic": 28
+  },
+  {
+    "bfsNumber": 1369,
+    "name": "Riemenstalden",
+    "district": "Schwyz",
+    "municipalMultiplier": 135,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 25,
+    "churchMultiplierCatholic": 26
+  },
+  {
+    "bfsNumber": 1370,
+    "name": "Rothenthurm",
+    "district": "Schwyz",
+    "municipalMultiplier": 155,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 25,
+    "churchMultiplierCatholic": 25
+  },
+  {
+    "bfsNumber": 1371,
+    "name": "Sattel",
+    "district": "Schwyz",
+    "municipalMultiplier": 155,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 31,
+    "churchMultiplierCatholic": 31
+  },
+  {
+    "bfsNumber": 1372,
+    "name": "Schwyz",
+    "district": "Schwyz",
+    "municipalMultiplier": 175,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 25,
+    "churchMultiplierCatholic": 26
+  },
+  {
+    "bfsNumber": 1373,
+    "name": "Steinen",
+    "district": "Schwyz",
+    "municipalMultiplier": 195,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 25,
+    "churchMultiplierCatholic": 29
+  },
+  {
+    "bfsNumber": 1374,
+    "name": "Steinerberg",
+    "district": "Schwyz",
+    "municipalMultiplier": 155,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 31,
+    "churchMultiplierCatholic": 30
+  },
+  {
+    "bfsNumber": 1375,
+    "name": "Unteriberg",
+    "district": "Schwyz",
+    "municipalMultiplier": 155,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 25,
+    "churchMultiplierCatholic": 30
+  }
+]

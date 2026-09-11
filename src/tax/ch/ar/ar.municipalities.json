@@ -1,0 +1,162 @@
+[
+  {
+    "bfsNumber": 3001,
+    "name": "Herisau",
+    "district": "Bezirk Hinterland",
+    "municipalMultiplierFactor": 4.1,
+    "churchMultiplierReformedFactor": 0.6,
+    "churchMultiplierCatholicFactor": 0.47
+  },
+  {
+    "bfsNumber": 3002,
+    "name": "Hundwil",
+    "district": "Bezirk Hinterland",
+    "municipalMultiplierFactor": 4.3,
+    "churchMultiplierReformedFactor": 0.75,
+    "churchMultiplierCatholicFactor": 0.45
+  },
+  {
+    "bfsNumber": 3003,
+    "name": "Schönengrund",
+    "district": "Bezirk Hinterland",
+    "municipalMultiplierFactor": 4.2,
+    "churchMultiplierReformedFactor": 0.6,
+    "churchMultiplierCatholicFactor": 0.71
+  },
+  {
+    "bfsNumber": 3004,
+    "name": "Schwellbrunn",
+    "district": "Bezirk Hinterland",
+    "municipalMultiplierFactor": 4,
+    "churchMultiplierReformedFactor": 0.6,
+    "churchMultiplierCatholicFactor": 0.47
+  },
+  {
+    "bfsNumber": 3005,
+    "name": "Stein (AR)",
+    "district": "Bezirk Hinterland",
+    "municipalMultiplierFactor": 3.7,
+    "churchMultiplierReformedFactor": 0.55,
+    "churchMultiplierCatholicFactor": null
+  },
+  {
+    "bfsNumber": 3006,
+    "name": "Urnäsch",
+    "district": "Bezirk Hinterland",
+    "municipalMultiplierFactor": 4.2,
+    "churchMultiplierReformedFactor": 0.6,
+    "churchMultiplierCatholicFactor": 0.45
+  },
+  {
+    "bfsNumber": 3007,
+    "name": "Waldstatt",
+    "district": "Bezirk Hinterland",
+    "municipalMultiplierFactor": 3.7,
+    "churchMultiplierReformedFactor": 0.6,
+    "churchMultiplierCatholicFactor": 0.47
+  },
+  {
+    "bfsNumber": 3021,
+    "name": "Bühler",
+    "district": "Bezirk Mittelland",
+    "municipalMultiplierFactor": 3.7,
+    "churchMultiplierReformedFactor": 0.8,
+    "churchMultiplierCatholicFactor": 0.46
+  },
+  {
+    "bfsNumber": 3022,
+    "name": "Gais",
+    "district": "Bezirk Mittelland",
+    "municipalMultiplierFactor": 3.35,
+    "churchMultiplierReformedFactor": 0.55,
+    "churchMultiplierCatholicFactor": 0.46
+  },
+  {
+    "bfsNumber": 3023,
+    "name": "Speicher",
+    "district": "Bezirk Mittelland",
+    "municipalMultiplierFactor": 3.6,
+    "churchMultiplierReformedFactor": 0.6,
+    "churchMultiplierCatholicFactor": 0.65
+  },
+  {
+    "bfsNumber": 3024,
+    "name": "Teufen (AR)",
+    "district": "Bezirk Mittelland",
+    "municipalMultiplierFactor": 2.6,
+    "churchMultiplierReformedFactor": 0.45,
+    "churchMultiplierCatholicFactor": 0.46
+  },
+  {
+    "bfsNumber": 3025,
+    "name": "Trogen",
+    "district": "Bezirk Mittelland",
+    "municipalMultiplierFactor": 4.5,
+    "churchMultiplierReformedFactor": 0.75,
+    "churchMultiplierCatholicFactor": 0.65
+  },
+  {
+    "bfsNumber": 3031,
+    "name": "Grub (AR)",
+    "district": "Bezirk Vorderland",
+    "municipalMultiplierFactor": 4,
+    "churchMultiplierReformedFactor": 0.75,
+    "churchMultiplierCatholicFactor": 0.45
+  },
+  {
+    "bfsNumber": 3032,
+    "name": "Heiden",
+    "district": "Bezirk Vorderland",
+    "municipalMultiplierFactor": 3.9,
+    "churchMultiplierReformedFactor": 0.6,
+    "churchMultiplierCatholicFactor": 0.45
+  },
+  {
+    "bfsNumber": 3033,
+    "name": "Lutzenberg",
+    "district": "Bezirk Vorderland",
+    "municipalMultiplierFactor": 3.5,
+    "churchMultiplierReformedFactor": 0.72,
+    "churchMultiplierCatholicFactor": null
+  },
+  {
+    "bfsNumber": 3034,
+    "name": "Rehetobel",
+    "district": "Bezirk Vorderland",
+    "municipalMultiplierFactor": 4.2,
+    "churchMultiplierReformedFactor": 0.7,
+    "churchMultiplierCatholicFactor": 0.45
+  },
+  {
+    "bfsNumber": 3035,
+    "name": "Reute (AR)",
+    "district": "Bezirk Vorderland",
+    "municipalMultiplierFactor": 3.5,
+    "churchMultiplierReformedFactor": 0.75,
+    "churchMultiplierCatholicFactor": 0.57
+  },
+  {
+    "bfsNumber": 3036,
+    "name": "Wald (AR)",
+    "district": "Bezirk Vorderland",
+    "municipalMultiplierFactor": 4.1,
+    "churchMultiplierReformedFactor": 0.6,
+    "churchMultiplierCatholicFactor": 0.65
+  },
+  {
+    "bfsNumber": 3037,
+    "name": "Walzenhausen",
+    "district": "Bezirk Vorderland",
+    "municipalMultiplierFactor": 3.2,
+    "churchMultiplierReformedFactor": 0.8,
+    "churchMultiplierCatholicFactor": 0.45
+  },
+  {
+    "bfsNumber": 3038,
+    "name": "Wolfhalden",
+    "district": "Bezirk Vorderland",
+    "municipalMultiplierFactor": 3.7,
+    "churchMultiplierReformedFactor": 0.7,
+    "churchMultiplierCatholicFactor": null
+  }
+]

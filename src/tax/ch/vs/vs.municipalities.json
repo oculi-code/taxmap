@@ -1,0 +1,734 @@
+[
+  {
+    "bfsNumber": 6002,
+    "name": "Brigue-Glis",
+    "district": "Brigue",
+    "municipalMultiplierFactor": 1
+  },
+  {
+    "bfsNumber": 6004,
+    "name": "Eggerberg",
+    "district": "Brigue",
+    "municipalMultiplierFactor": 1.3
+  },
+  {
+    "bfsNumber": 6007,
+    "name": "Naters",
+    "district": "Brigue",
+    "municipalMultiplierFactor": 1.1
+  },
+  {
+    "bfsNumber": 6008,
+    "name": "Ried-Brig",
+    "district": "Brigue",
+    "municipalMultiplierFactor": 1.1
+  },
+  {
+    "bfsNumber": 6009,
+    "name": "Simplon",
+    "district": "Brigue",
+    "municipalMultiplierFactor": 1
+  },
+  {
+    "bfsNumber": 6010,
+    "name": "Termen",
+    "district": "Brigue",
+    "municipalMultiplierFactor": 1.2
+  },
+  {
+    "bfsNumber": 6011,
+    "name": "Zwischbergen",
+    "district": "Brigue",
+    "municipalMultiplierFactor": 1
+  },
+  {
+    "bfsNumber": 6021,
+    "name": "Ardon",
+    "district": "Conthey",
+    "municipalMultiplierFactor": 1.3
+  },
+  {
+    "bfsNumber": 6022,
+    "name": "Chamoson",
+    "district": "Conthey",
+    "municipalMultiplierFactor": 1.25
+  },
+  {
+    "bfsNumber": 6023,
+    "name": "Conthey",
+    "district": "Conthey",
+    "municipalMultiplierFactor": 1.2
+  },
+  {
+    "bfsNumber": 6024,
+    "name": "Nendaz",
+    "district": "Conthey",
+    "municipalMultiplierFactor": 1.3
+  },
+  {
+    "bfsNumber": 6025,
+    "name": "Vétroz",
+    "district": "Conthey",
+    "municipalMultiplierFactor": 1.15
+  },
+  {
+    "bfsNumber": 6032,
+    "name": "Bourg-Saint-Pierre",
+    "district": "Entremont",
+    "municipalMultiplierFactor": 1
+  },
+  {
+    "bfsNumber": 6033,
+    "name": "Liddes",
+    "district": "Entremont",
+    "municipalMultiplierFactor": 1.25
+  },
+  {
+    "bfsNumber": 6034,
+    "name": "Orsières",
+    "district": "Entremont",
+    "municipalMultiplierFactor": 1.2
+  },
+  {
+    "bfsNumber": 6035,
+    "name": "Sembrancher",
+    "district": "Entremont",
+    "municipalMultiplierFactor": 1.2
+  },
+  {
+    "bfsNumber": 6037,
+    "name": "Val de Bagnes",
+    "district": "Entremont",
+    "municipalMultiplierFactor": 1
+  },
+  {
+    "bfsNumber": 6052,
+    "name": "Bellwald",
+    "district": "Conches",
+    "municipalMultiplierFactor": 1.3
+  },
+  {
+    "bfsNumber": 6054,
+    "name": "Binn",
+    "district": "Conches",
+    "municipalMultiplierFactor": 1.2
+  },
+  {
+    "bfsNumber": 6056,
+    "name": "Ernen",
+    "district": "Conches",
+    "municipalMultiplierFactor": 1.1
+  },
+  {
+    "bfsNumber": 6057,
+    "name": "Fiesch",
+    "district": "Conches",
+    "municipalMultiplierFactor": 1.15
+  },
+  {
+    "bfsNumber": 6058,
+    "name": "Fieschertal",
+    "district": "Conches",
+    "municipalMultiplierFactor": 1.1
+  },
+  {
+    "bfsNumber": 6061,
+    "name": "Lax",
+    "district": "Conches",
+    "municipalMultiplierFactor": 1.4
+  },
+  {
+    "bfsNumber": 6076,
+    "name": "Obergoms",
+    "district": "Conches",
+    "municipalMultiplierFactor": 1.1
+  },
+  {
+    "bfsNumber": 6077,
+    "name": "Goms",
+    "district": "Conches",
+    "municipalMultiplierFactor": 1.1
+  },
+  {
+    "bfsNumber": 6082,
+    "name": "Ayent",
+    "district": "Hérens",
+    "municipalMultiplierFactor": 1.3
+  },
+  {
+    "bfsNumber": 6083,
+    "name": "Evolène",
+    "district": "Hérens",
+    "municipalMultiplierFactor": 1.25
+  },
+  {
+    "bfsNumber": 6084,
+    "name": "Hérémence",
+    "district": "Hérens",
+    "municipalMultiplierFactor": 1
+  },
+  {
+    "bfsNumber": 6087,
+    "name": "Saint-Martin",
+    "district": "Hérens",
+    "municipalMultiplierFactor": 1.35
+  },
+  {
+    "bfsNumber": 6089,
+    "name": "Vex",
+    "district": "Hérens",
+    "municipalMultiplierFactor": 1.3
+  },
+  {
+    "bfsNumber": 6090,
+    "name": "Mont-Noble",
+    "district": "Hérens",
+    "municipalMultiplierFactor": 1.35
+  },
+  {
+    "bfsNumber": 6101,
+    "name": "Agarn",
+    "district": "Loèche",
+    "municipalMultiplierFactor": 1.3
+  },
+  {
+    "bfsNumber": 6102,
+    "name": "Albinen",
+    "district": "Loèche",
+    "municipalMultiplierFactor": 1.3
+  },
+  {
+    "bfsNumber": 6104,
+    "name": "Ergisch",
+    "district": "Loèche",
+    "municipalMultiplierFactor": 1
+  },
+  {
+    "bfsNumber": 6109,
+    "name": "Inden",
+    "district": "Loèche",
+    "municipalMultiplierFactor": 1.1
+  },
+  {
+    "bfsNumber": 6110,
+    "name": "Loèche",
+    "district": "Loèche",
+    "municipalMultiplierFactor": 1.3
+  },
+  {
+    "bfsNumber": 6111,
+    "name": "Loèche-les-Bains",
+    "district": "Loèche",
+    "municipalMultiplierFactor": 1.45
+  },
+  {
+    "bfsNumber": 6112,
+    "name": "Oberems",
+    "district": "Loèche",
+    "municipalMultiplierFactor": 1
+  },
+  {
+    "bfsNumber": 6113,
+    "name": "Salquenen",
+    "district": "Loèche",
+    "municipalMultiplierFactor": 1.2
+  },
+  {
+    "bfsNumber": 6116,
+    "name": "Varonne",
+    "district": "Loèche",
+    "municipalMultiplierFactor": 1.2
+  },
+  {
+    "bfsNumber": 6117,
+    "name": "Guttet-Feschel",
+    "district": "Loèche",
+    "municipalMultiplierFactor": 1.3
+  },
+  {
+    "bfsNumber": 6118,
+    "name": "Gampel-Bratsch",
+    "district": "Loèche",
+    "municipalMultiplierFactor": 1.3
+  },
+  {
+    "bfsNumber": 6119,
+    "name": "Turtmann-Unterems",
+    "district": "Loèche",
+    "municipalMultiplierFactor": 1.2
+  },
+  {
+    "bfsNumber": 6131,
+    "name": "Bovernier",
+    "district": "Martigny",
+    "municipalMultiplierFactor": 1.2
+  },
+  {
+    "bfsNumber": 6133,
+    "name": "Fully",
+    "district": "Martigny",
+    "municipalMultiplierFactor": 1.25
+  },
+  {
+    "bfsNumber": 6134,
+    "name": "Isérables",
+    "district": "Martigny",
+    "municipalMultiplierFactor": 1.35
+  },
+  {
+    "bfsNumber": 6135,
+    "name": "Leytron",
+    "district": "Martigny",
+    "municipalMultiplierFactor": 1.2
+  },
+  {
+    "bfsNumber": 6136,
+    "name": "Martigny",
+    "district": "Martigny",
+    "municipalMultiplierFactor": 1.1
+  },
+  {
+    "bfsNumber": 6137,
+    "name": "Martigny-Combe",
+    "district": "Martigny",
+    "municipalMultiplierFactor": 1.1
+  },
+  {
+    "bfsNumber": 6139,
+    "name": "Riddes",
+    "district": "Martigny",
+    "municipalMultiplierFactor": 1.25
+  },
+  {
+    "bfsNumber": 6140,
+    "name": "Saillon",
+    "district": "Martigny",
+    "municipalMultiplierFactor": 1.2
+  },
+  {
+    "bfsNumber": 6141,
+    "name": "Saxon",
+    "district": "Martigny",
+    "municipalMultiplierFactor": 1.2
+  },
+  {
+    "bfsNumber": 6142,
+    "name": "Trient",
+    "district": "Martigny",
+    "municipalMultiplierFactor": 1
+  },
+  {
+    "bfsNumber": 6151,
+    "name": "Champéry",
+    "district": "Monthey",
+    "municipalMultiplierFactor": 1.35
+  },
+  {
+    "bfsNumber": 6152,
+    "name": "Collombey-Muraz",
+    "district": "Monthey",
+    "municipalMultiplierFactor": 1.25
+  },
+  {
+    "bfsNumber": 6153,
+    "name": "Monthey",
+    "district": "Monthey",
+    "municipalMultiplierFactor": 1.2
+  },
+  {
+    "bfsNumber": 6154,
+    "name": "Port-Valais",
+    "district": "Monthey",
+    "municipalMultiplierFactor": 1.1
+  },
+  {
+    "bfsNumber": 6155,
+    "name": "Saint-Gingolph",
+    "district": "Monthey",
+    "municipalMultiplierFactor": 1.35
+  },
+  {
+    "bfsNumber": 6156,
+    "name": "Troistorrents",
+    "district": "Monthey",
+    "municipalMultiplierFactor": 1.2
+  },
+  {
+    "bfsNumber": 6157,
+    "name": "Val-d'Illiez",
+    "district": "Monthey",
+    "municipalMultiplierFactor": 1.3
+  },
+  {
+    "bfsNumber": 6158,
+    "name": "Vionnaz",
+    "district": "Monthey",
+    "municipalMultiplierFactor": 1.1
+  },
+  {
+    "bfsNumber": 6159,
+    "name": "Vouvry",
+    "district": "Monthey",
+    "municipalMultiplierFactor": 1.25
+  },
+  {
+    "bfsNumber": 6172,
+    "name": "Bister",
+    "district": "Rarogne oriental",
+    "municipalMultiplierFactor": 1
+  },
+  {
+    "bfsNumber": 6173,
+    "name": "Bitsch",
+    "district": "Rarogne oriental",
+    "municipalMultiplierFactor": 1
+  },
+  {
+    "bfsNumber": 6177,
+    "name": "Grengiols",
+    "district": "Rarogne oriental",
+    "municipalMultiplierFactor": 1
+  },
+  {
+    "bfsNumber": 6181,
+    "name": "Riederalp",
+    "district": "Rarogne oriental",
+    "municipalMultiplierFactor": 1.2
+  },
+  {
+    "bfsNumber": 6191,
+    "name": "Ausserberg",
+    "district": "Rarogne occidental",
+    "municipalMultiplierFactor": 1.3
+  },
+  {
+    "bfsNumber": 6192,
+    "name": "Blatten",
+    "district": "Rarogne occidental",
+    "municipalMultiplierFactor": 1.4
+  },
+  {
+    "bfsNumber": 6193,
+    "name": "Bürchen",
+    "district": "Rarogne occidental",
+    "municipalMultiplierFactor": 1.3
+  },
+  {
+    "bfsNumber": 6194,
+    "name": "Eischoll",
+    "district": "Rarogne occidental",
+    "municipalMultiplierFactor": 1.3
+  },
+  {
+    "bfsNumber": 6195,
+    "name": "Ferden",
+    "district": "Rarogne occidental",
+    "municipalMultiplierFactor": 1.4
+  },
+  {
+    "bfsNumber": 6197,
+    "name": "Kippel",
+    "district": "Rarogne occidental",
+    "municipalMultiplierFactor": 1.4
+  },
+  {
+    "bfsNumber": 6198,
+    "name": "Niedergesteln",
+    "district": "Rarogne occidental",
+    "municipalMultiplierFactor": 1.2
+  },
+  {
+    "bfsNumber": 6199,
+    "name": "Rarogne",
+    "district": "Rarogne occidental",
+    "municipalMultiplierFactor": 1.2
+  },
+  {
+    "bfsNumber": 6201,
+    "name": "Unterbäch",
+    "district": "Rarogne occidental",
+    "municipalMultiplierFactor": 1.2
+  },
+  {
+    "bfsNumber": 6202,
+    "name": "Wiler",
+    "district": "Rarogne occidental",
+    "municipalMultiplierFactor": 1.4
+  },
+  {
+    "bfsNumber": 6203,
+    "name": "Mörel-Filet",
+    "district": "Rarogne oriental",
+    "municipalMultiplierFactor": 1.15
+  },
+  {
+    "bfsNumber": 6204,
+    "name": "Steg-Hohtenn",
+    "district": "Rarogne occidental",
+    "municipalMultiplierFactor": 1.2
+  },
+  {
+    "bfsNumber": 6205,
+    "name": "Bettmeralp",
+    "district": "Rarogne oriental",
+    "municipalMultiplierFactor": 1.2
+  },
+  {
+    "bfsNumber": 6211,
+    "name": "Collonges",
+    "district": "Saint-Maurice",
+    "municipalMultiplierFactor": 1.1
+  },
+  {
+    "bfsNumber": 6212,
+    "name": "Dorénaz",
+    "district": "Saint-Maurice",
+    "municipalMultiplierFactor": 1.2
+  },
+  {
+    "bfsNumber": 6213,
+    "name": "Evionnaz",
+    "district": "Saint-Maurice",
+    "municipalMultiplierFactor": 1.3
+  },
+  {
+    "bfsNumber": 6214,
+    "name": "Finhaut",
+    "district": "Saint-Maurice",
+    "municipalMultiplierFactor": 1
+  },
+  {
+    "bfsNumber": 6215,
+    "name": "Massongex",
+    "district": "Saint-Maurice",
+    "municipalMultiplierFactor": 1.2
+  },
+  {
+    "bfsNumber": 6217,
+    "name": "Saint-Maurice",
+    "district": "Saint-Maurice",
+    "municipalMultiplierFactor": 1.25
+  },
+  {
+    "bfsNumber": 6218,
+    "name": "Salvan",
+    "district": "Saint-Maurice",
+    "municipalMultiplierFactor": 1.15
+  },
+  {
+    "bfsNumber": 6219,
+    "name": "Vernayaz",
+    "district": "Saint-Maurice",
+    "municipalMultiplierFactor": 1.2
+  },
+  {
+    "bfsNumber": 6220,
+    "name": "Vérossaz",
+    "district": "Saint-Maurice",
+    "municipalMultiplierFactor": 1.3
+  },
+  {
+    "bfsNumber": 6232,
+    "name": "Chalais",
+    "district": "Sierre",
+    "municipalMultiplierFactor": 1.3
+  },
+  {
+    "bfsNumber": 6235,
+    "name": "Chippis",
+    "district": "Sierre",
+    "municipalMultiplierFactor": 1.2
+  },
+  {
+    "bfsNumber": 6238,
+    "name": "Grône",
+    "district": "Sierre",
+    "municipalMultiplierFactor": 1.25
+  },
+  {
+    "bfsNumber": 6239,
+    "name": "Icogne",
+    "district": "Sierre",
+    "municipalMultiplierFactor": 1.2
+  },
+  {
+    "bfsNumber": 6240,
+    "name": "Lens",
+    "district": "Sierre",
+    "municipalMultiplierFactor": 1.05
+  },
+  {
+    "bfsNumber": 6246,
+    "name": "Saint-Léonard",
+    "district": "Sierre",
+    "municipalMultiplierFactor": 1.2
+  },
+  {
+    "bfsNumber": 6248,
+    "name": "Sierre",
+    "district": "Sierre",
+    "municipalMultiplierFactor": 1.2
+  },
+  {
+    "bfsNumber": 6252,
+    "name": "Anniviers",
+    "district": "Sierre",
+    "municipalMultiplierFactor": 1.25
+  },
+  {
+    "bfsNumber": 6253,
+    "name": "Crans-Montana",
+    "district": "Sierre",
+    "municipalMultiplierFactor": 1.15
+  },
+  {
+    "bfsNumber": 6254,
+    "name": "Noble-Contrée",
+    "district": "Sierre",
+    "municipalMultiplierFactor": 1.1
+  },
+  {
+    "bfsNumber": 6261,
+    "name": "Arbaz",
+    "district": "Sion",
+    "municipalMultiplierFactor": 1.25
+  },
+  {
+    "bfsNumber": 6263,
+    "name": "Grimisuat",
+    "district": "Sion",
+    "municipalMultiplierFactor": 1.25
+  },
+  {
+    "bfsNumber": 6265,
+    "name": "Savièse",
+    "district": "Sion",
+    "municipalMultiplierFactor": 1.15
+  },
+  {
+    "bfsNumber": 6266,
+    "name": "Sion",
+    "district": "Sion",
+    "municipalMultiplierFactor": 1.1
+  },
+  {
+    "bfsNumber": 6267,
+    "name": "Veysonnaz",
+    "district": "Sion",
+    "municipalMultiplierFactor": 1.2
+  },
+  {
+    "bfsNumber": 6281,
+    "name": "Baltschieder",
+    "district": "Viège",
+    "municipalMultiplierFactor": 1.2
+  },
+  {
+    "bfsNumber": 6282,
+    "name": "Eisten",
+    "district": "Viège",
+    "municipalMultiplierFactor": 1
+  },
+  {
+    "bfsNumber": 6283,
+    "name": "Embd",
+    "district": "Viège",
+    "municipalMultiplierFactor": 1.3
+  },
+  {
+    "bfsNumber": 6285,
+    "name": "Grächen",
+    "district": "Viège",
+    "municipalMultiplierFactor": 1.4
+  },
+  {
+    "bfsNumber": 6286,
+    "name": "Lalden",
+    "district": "Viège",
+    "municipalMultiplierFactor": 1.2
+  },
+  {
+    "bfsNumber": 6287,
+    "name": "Randa",
+    "district": "Viège",
+    "municipalMultiplierFactor": 1.1
+  },
+  {
+    "bfsNumber": 6288,
+    "name": "Saas-Almagell",
+    "district": "Viège",
+    "municipalMultiplierFactor": 1.2
+  },
+  {
+    "bfsNumber": 6289,
+    "name": "Saas-Balen",
+    "district": "Viège",
+    "municipalMultiplierFactor": 1.1
+  },
+  {
+    "bfsNumber": 6290,
+    "name": "Saas-Fee",
+    "district": "Viège",
+    "municipalMultiplierFactor": 1.2
+  },
+  {
+    "bfsNumber": 6291,
+    "name": "Saas-Grund",
+    "district": "Viège",
+    "municipalMultiplierFactor": 1.3
+  },
+  {
+    "bfsNumber": 6292,
+    "name": "Saint-Nicolas",
+    "district": "Viège",
+    "municipalMultiplierFactor": 1.2
+  },
+  {
+    "bfsNumber": 6293,
+    "name": "Stalden",
+    "district": "Viège",
+    "municipalMultiplierFactor": 1.1
+  },
+  {
+    "bfsNumber": 6294,
+    "name": "Staldenried",
+    "district": "Viège",
+    "municipalMultiplierFactor": 1.1
+  },
+  {
+    "bfsNumber": 6295,
+    "name": "Täsch",
+    "district": "Viège",
+    "municipalMultiplierFactor": 1.2
+  },
+  {
+    "bfsNumber": 6296,
+    "name": "Törbel",
+    "district": "Viège",
+    "municipalMultiplierFactor": 1.4
+  },
+  {
+    "bfsNumber": 6297,
+    "name": "Viège",
+    "district": "Viège",
+    "municipalMultiplierFactor": 1.1
+  },
+  {
+    "bfsNumber": 6298,
+    "name": "Visperterminen",
+    "district": "Viège",
+    "municipalMultiplierFactor": 1.3
+  },
+  {
+    "bfsNumber": 6299,
+    "name": "Zeneggen",
+    "district": "Viège",
+    "municipalMultiplierFactor": 1.3
+  },
+  {
+    "bfsNumber": 6300,
+    "name": "Zermatt",
+    "district": "Viège",
+    "municipalMultiplierFactor": 1
+  }
+]

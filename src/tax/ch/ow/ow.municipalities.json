@@ -1,0 +1,51 @@
+[
+  {
+    "bfsNumber": 1401,
+    "name": "Alpnach",
+    "municipalMultiplierFactor": 4.85,
+    "churchMultiplierReformedFactor": 0.54,
+    "churchMultiplierCatholicFactor": 0.68
+  },
+  {
+    "bfsNumber": 1402,
+    "name": "Engelberg",
+    "municipalMultiplierFactor": 4.65,
+    "churchMultiplierReformedFactor": null,
+    "churchMultiplierCatholicFactor": null
+  },
+  {
+    "bfsNumber": 1403,
+    "name": "Giswil",
+    "municipalMultiplierFactor": 4.85,
+    "churchMultiplierReformedFactor": 0.54,
+    "churchMultiplierCatholicFactor": 0.7
+  },
+  {
+    "bfsNumber": 1404,
+    "name": "Kerns",
+    "municipalMultiplierFactor": 4.7,
+    "churchMultiplierReformedFactor": 0.54,
+    "churchMultiplierCatholicFactor": 0.67
+  },
+  {
+    "bfsNumber": 1405,
+    "name": "Lungern",
+    "municipalMultiplierFactor": 5.25,
+    "churchMultiplierReformedFactor": 0.54,
+    "churchMultiplierCatholicFactor": 0.7
+  },
+  {
+    "bfsNumber": 1406,
+    "name": "Sachseln",
+    "municipalMultiplierFactor": 4.7,
+    "churchMultiplierReformedFactor": 0.54,
+    "churchMultiplierCatholicFactor": 0.68
+  },
+  {
+    "bfsNumber": 1407,
+    "name": "Sarnen",
+    "municipalMultiplierFactor": 3.86,
+    "churchMultiplierReformedFactor": 0.54,
+    "churchMultiplierCatholicFactor": 0.54
+  }
+]

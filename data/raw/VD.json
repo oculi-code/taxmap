@@ -1,0 +1,80 @@
+{
+  "canton": "VD",
+  "year": 2026,
+  "source": {
+    "incomeTax": "https://www.estv2.admin.ch/stp/kb/vd-fr.pdf",
+    "incomeTaxBareme": "https://www.vd.ch/fileadmin/user_upload/organisation/dfin/aci/fichiers_pdf/Bar%C3%A8mes_Revenu_2026.pdf",
+    "wealthTax": "https://www.estv2.admin.ch/stp/kb/vd-fr.pdf",
+    "wealthTaxBareme": "https://www.vd.ch/fileadmin/user_upload/organisation/dfin/aci/fichiers_pdf/Bar%C3%A8mes_Fortune_2026.pdf",
+    "multiplier": "https://www.estv2.admin.ch/stp/kb/vd-fr.pdf",
+    "municipalData": "https://www.vd.ch/fileadmin/user_upload/themes/territoire/communes/finances_communales/fichiers_xls/Arr%C3%AAt%C3%A9s_d_imposition_2026.xls",
+    "municipalDataPortal": "https://www.vd.ch/etat-droit-finances/communes/finances-communales/arretes-dimposition-et-tableaux-des-impots-communaux",
+    "bfsMunicipalityList": "internal file data/raw/bfs_municipalities_register.csv (eCH-0071 Gemeindestand, cross-checked name-for-name against the 304 rows of Arrêtés_d_imposition_2026.xls - all 300 register communes matched, 4 extra rows were sub-commune hamlet fractions of Le Chenit and were excluded, see notes)"
+  },
+  "incomeTaxBrackets": {
+    "single": [
+      { "from": 0, "rate": 0.01 },
+      { "from": 1600, "rate": 0.02 },
+      { "from": 3400, "rate": 0.03 },
+      { "from": 5100, "rate": 0.04 },
+      { "from": 8300, "rate": 0.05 },
+      { "from": 11900, "rate": 0.06 },
+      { "from": 15100, "rate": 0.07 },
+      { "from": 23600, "rate": 0.08 },
+      { "from": 40500, "rate": 0.09 },
+      { "from": 57200, "rate": 0.10 },
+      { "from": 74400, "rate": 0.11 },
+      { "from": 91200, "rate": 0.12 },
+      { "from": 108100, "rate": 0.125 },
+      { "from": 135000, "rate": 0.13 },
+      { "from": 162000, "rate": 0.135 },
+      { "from": 192500, "rate": 0.14 },
+      { "from": 223000, "rate": 0.145 },
+      { "from": 256000, "rate": 0.15 },
+      { "from": 291700, "rate": 0.155 }
+    ],
+    "married": [
+      { "from": 0, "rate": 0.01 },
+      { "from": 2880, "rate": 0.02 },
+      { "from": 6120, "rate": 0.03 },
+      { "from": 9180, "rate": 0.04 },
+      { "from": 14940, "rate": 0.05 },
+      { "from": 21420, "rate": 0.06 },
+      { "from": 27180, "rate": 0.07 },
+      { "from": 42480, "rate": 0.08 },
+      { "from": 72900, "rate": 0.09 },
+      { "from": 102960, "rate": 0.10 },
+      { "from": 133920, "rate": 0.11 },
+      { "from": 164160, "rate": 0.12 },
+      { "from": 194580, "rate": 0.125 },
+      { "from": 243000, "rate": 0.13 },
+      { "from": 291600, "rate": 0.135 },
+      { "from": 346500, "rate": 0.14 },
+      { "from": 401400, "rate": 0.145 },
+      { "from": 460800, "rate": 0.15 },
+      { "from": 525060, "rate": 0.155 }
+    ]
+  },
+  "wealthTaxBrackets": {
+    "general": [
+      { "from": 0, "rate": 0.00024 },
+      { "from": 60000, "rate": 0.00097 },
+      { "from": 95000, "rate": 0.00169 },
+      { "from": 177000, "rate": 0.00242 },
+      { "from": 355000, "rate": 0.00315 },
+      { "from": 711000, "rate": 0.00339 }
+    ]
+  },
+  "wealthTaxRateUnit": "decimal",
+  "cantonalMultiplier": {
+    "value": 155,
+    "unit": "percent",
+    "appliedOnTop": true
+  },
+  "churchTax": {
+    "variesByMunicipality": false,
+    "reformed": 0,
+    "catholic": 0
+  },
+  "notes": "YEAR: 2026 is the current, enacted tax period (Loi sur l'impôt 2026, 'LA 2026', sets both the 155% coefficient annuel and the fiscal-2026-specific 5% cantonal-base reduction described below; the ACI's own communal-coefficient spreadsheet is likewise the '2026' edition). Sources: ESTV 'Feuille cantonale Vaud' (Etat: février 2026) for the legal mechanism and bracket thresholds (Art. 47 LI for income, Art. 59 LI for wealth, both showing base-1986-vintage amounts alongside their current 2026-indexed amounts in bold); cross-checked directly against the canton's own official 'Barème de l'impôt sur le revenu 2026' / 'Barème ... fortune 2026' PDFs (ACI, published at 'Coefficient 100%', i.e. before the 155% cantonal+communal multiplier is applied) - the official barème PDF publishes a per-CHF-100 average-rate lookup table, and spot-checking it (e.g. income 1'700 -> impôt de base 18.00, i.e. average rate 1.059%) exactly reproduces the marginal-bracket table transcribed here, confirming VD's schedule IS a normal marginal-bracket system (unlike Valais's independent continuous-formula design) and that the barème PDF's average-rate column is simply a derived convenience presentation of the same brackets, not an alternate specification. MECHANISM: VD splits the multiplier into a CANTONAL layer and an independent COMMUNAL layer, both expressed as a percent of the SAME 'impôt cantonal de base' (the bracket-table result before any multiplier - i.e. structurally like AG/ZH/GR, appliedOnTop=true), rather than a single combined cantonal+communal percentage. The cantonal coefficient annuel is fixed at 155% for 2026 (Art. 2 LA 2026, unchanged since 2021) - this is the 'cantonalMultiplier' above. CRITICAL 2026-SPECIFIC QUIRK - ASYMMETRIC CANTONAL-ONLY REBATE: Art. 4 LRIPP additionally reduces the CANTONAL portion of the base income tax by 5% specifically for fiscal year 2026 (it was 4% for fiscal year 2025), with an exception carved out for income taxed under the special Art. 48a/49 LI regimes (liquidation profits / capital payments from pension provision) which are NOT discounted. This reduction applies ONLY to the state's own share, NOT to the communal share, which is computed straight off the undiscounted 'impôt de base' at each commune's own coefficient (see VD_municipalities.json, sourced from the same 'En % imp. cant. base' column in the ACI's own official Arrêtés d'imposition spreadsheet). So total ICC (cantonal+communal) tax = baseTax*155%*0.95 (cantonal share, 2026) + baseTax*communalCoefficient% (communal share) - the two shares are NOT simply summed at a flat combined percentage; a developer must apply the 5% reduction to the cantonal slice only. No equivalent reduction applies to the wealth tax base per this source. MARRIED / QUOTIENT FAMILIAL (Art. 43 LI): VD does not use a fixed splitting divisor like GR/SZ but a 'quotient familial' with parts: 1.0 for a single/divorced/widowed taxpayer, 1.8 for spouses taxed jointly ('en ménage commun'), 1.3 for a single taxpayer maintaining an independent household alone with a dependent minor/apprentice/student child, plus a further +0.5 part per dependent child (capped: the resulting reduction of the rate-determining income is itself capped at CHF 212'900 for 2026, +23'600 per additional child beyond the cap). The tax due is: look up the rate for (net income / total parts) in the SAME single-filer barème, then apply that AVERAGE rate to the FULL income. This is mathematically equivalent to scaling every single-schedule breakpoint by the parts divisor while keeping the same marginal rates (same technique used for GR/SZ's divisor mechanisms) - the 'married' array above was derived by scaling the 1.0-part single thresholds by 1.8 (spouses, no children) and is NOT itself an official published table; it does NOT reflect the additional +0.5-per-child parts or the CHF 212'900 cap on the rate-determining-income reduction, both of which a full implementation must add on top of this base married table. WEALTH TAX EXEMPTION (not baked into the bracket table, consistent with how other cantons in this dataset handle exemptions separately): Art. 58 LI exempts net wealth below CHF 60'000 (2026-indexed; base amount CHF 50'000) entirely from wealth tax for a single filer, DOUBLED to CHF 120'000 for spouses taxed jointly - apply this deduction to net wealth before looking up the bracket table above. TAX SHIELD / 'MAXIMUM D'IMPOSITION' (Art. 8 LICom, a real quirk worth flagging): combined cantonal+communal income tax cannot exceed 30% of net income, combined cantonal+communal wealth tax cannot exceed 10 permille (1%) of net wealth, and the TWO TAXES TOGETHER (income+wealth) are additionally capped at 60% of a specially-defined net income figure (net income per Art. 29 LI, plus certain add-backs, minus deductions under Art.21b/23/23a/37 al.1 lit.h/h-bis/j/k) - not modeled in the bracket tables here, must be applied as a post-hoc cap by any calculator aiming for full accuracy. CHURCH TAX: Vaud levies NO separate ecclesiastical/parish tax at all - unlike most other cantons in this dataset, the state funds the two public-law-recognised churches (EERV reformed, FEDEC catholic) directly out of general cantonal and communal tax revenue (per LREEDP, Loi sur les relations entre l'Etat et les Eglises reconnues de droit public). A taxpayer's declared religious affiliation has NO effect on their VD tax bill. churchTax.variesByMunicipality is therefore false and both reformed/catholic are genuinely 0 (confirmed, not a placeholder for missing data), and churchMultiplierReformed/churchMultiplierCatholic are set to 0 (not null) for every row of VD_municipalities.json accordingly. MUNICIPALITIES: the ACI's official 'Arrêtés d'imposition 2026' spreadsheet lists 304 rows organized under 10 district headers; 300 of these are genuine communes and were matched 1:1 by name against the canton's official BFS municipality register with zero unmatched rows on either side (17 names required a '(VD)' or similar disambiguation suffix, e.g. Crans/Renens/Ecublens/Saint-Sulpice also exist as commune names in other cantons; 'Treytorrens'->'Treytorrens (Payerne)'; 'St-Saphorin (Lavaux)'->'Saint-Saphorin (Lavaux)'). The remaining 4 rows ('Les Bioux (fraction)', 'Le Brassus (fraction)', 'Le Sentier (fraction)', \"L'Orient (fraction)\") are NOT separate BFS municipalities but small supplementary hamlet-level coefficients (3%, 8%, 8%, 10% respectively, for 2026) levied ADDITIONALLY within the single commune 'Le Chenit' (BFS 5872, whose own commune-wide coefficient is 58.5%) - these fraction-level surtaxes were excluded from VD_municipalities.json (which lists Le Chenit once, at 58.5%) since the app schema has no field for a fourth, hamlet-level layer; flag this as a known simplification for anyone needing address-level precision within Le Chenit. The 'municipalMultiplier' field uses the spreadsheet's 'Pour-cent total' column (the sum of the general communal coefficient plus any commune-specific 'impôt spécial affecté' add-on, where present, e.g. La Tour-de-Peilz 62.5+1.5=64.0) - communal coefficients observed range from 46% to 83% across the canton for 2026, consistent with independent press reporting of the extremes (lowest ~Eclépens, highest ~Rossinière)."
+}

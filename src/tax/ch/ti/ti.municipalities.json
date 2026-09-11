@@ -1,0 +1,602 @@
+[
+  {
+    "bfsNumber": 5048,
+    "name": "Acquarossa",
+    "district": "Blenio",
+    "municipalMultiplierPercent": 95
+  },
+  {
+    "bfsNumber": 5141,
+    "name": "Agno",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 82
+  },
+  {
+    "bfsNumber": 5061,
+    "name": "Airolo",
+    "district": "Leventina",
+    "municipalMultiplierPercent": 90
+  },
+  {
+    "bfsNumber": 5237,
+    "name": "Alto Malcantone",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 90
+  },
+  {
+    "bfsNumber": 5143,
+    "name": "Aranno",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 92
+  },
+  {
+    "bfsNumber": 5001,
+    "name": "Arbedo-Castione",
+    "district": "Bellinzona",
+    "municipalMultiplierPercent": 91
+  },
+  {
+    "bfsNumber": 5144,
+    "name": "Arogno",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 95
+  },
+  {
+    "bfsNumber": 5091,
+    "name": "Ascona",
+    "district": "Locarno",
+    "municipalMultiplierPercent": 75
+  },
+  {
+    "bfsNumber": 5324,
+    "name": "Avegno Gordevio",
+    "district": "Vallemaggia",
+    "municipalMultiplierPercent": 95
+  },
+  {
+    "bfsNumber": 5242,
+    "name": "Balerna",
+    "district": "Mendrisio",
+    "municipalMultiplierPercent": 75
+  },
+  {
+    "bfsNumber": 5148,
+    "name": "Bedano",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 78
+  },
+  {
+    "bfsNumber": 5063,
+    "name": "Bedretto",
+    "district": "Leventina",
+    "municipalMultiplierPercent": 60
+  },
+  {
+    "bfsNumber": 5002,
+    "name": "Bellinzona",
+    "district": "Bellinzona",
+    "municipalMultiplierPercent": 93
+  },
+  {
+    "bfsNumber": 5281,
+    "name": "Biasca",
+    "district": "Riviera",
+    "municipalMultiplierPercent": 95
+  },
+  {
+    "bfsNumber": 5151,
+    "name": "Bioggio",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 65
+  },
+  {
+    "bfsNumber": 5154,
+    "name": "Bissone",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 69
+  },
+  {
+    "bfsNumber": 5049,
+    "name": "Blenio",
+    "district": "Blenio",
+    "municipalMultiplierPercent": 90
+  },
+  {
+    "bfsNumber": 5304,
+    "name": "Bosco/Gurin",
+    "district": "Vallemaggia",
+    "municipalMultiplierPercent": 100
+  },
+  {
+    "bfsNumber": 5269,
+    "name": "Breggia",
+    "district": "Mendrisio",
+    "municipalMultiplierPercent": 95
+  },
+  {
+    "bfsNumber": 5096,
+    "name": "Brione sopra Minusio",
+    "district": "Locarno",
+    "municipalMultiplierPercent": 78
+  },
+  {
+    "bfsNumber": 5097,
+    "name": "Brissago",
+    "district": "Locarno",
+    "municipalMultiplierPercent": 85
+  },
+  {
+    "bfsNumber": 5160,
+    "name": "Brusino Arsizio",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 85
+  },
+  {
+    "bfsNumber": 5161,
+    "name": "Cademario",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 95
+  },
+  {
+    "bfsNumber": 5162,
+    "name": "Cadempino",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 70
+  },
+  {
+    "bfsNumber": 5003,
+    "name": "Cadenazzo",
+    "district": "Bellinzona",
+    "municipalMultiplierPercent": 88
+  },
+  {
+    "bfsNumber": 5307,
+    "name": "Campo (Vallemaggia)",
+    "district": "Vallemaggia",
+    "municipalMultiplierPercent": 65
+  },
+  {
+    "bfsNumber": 5167,
+    "name": "Canobbio",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 78
+  },
+  {
+    "bfsNumber": 5226,
+    "name": "Capriasca",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 94
+  },
+  {
+    "bfsNumber": 5171,
+    "name": "Caslano",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 85
+  },
+  {
+    "bfsNumber": 5249,
+    "name": "Castel San Pietro",
+    "district": "Mendrisio",
+    "municipalMultiplierPercent": 70
+  },
+  {
+    "bfsNumber": 5397,
+    "name": "Centovalli",
+    "district": "Locarno",
+    "municipalMultiplierPercent": 95
+  },
+  {
+    "bfsNumber": 5309,
+    "name": "Cerentino",
+    "district": "Vallemaggia",
+    "municipalMultiplierPercent": 100
+  },
+  {
+    "bfsNumber": 5310,
+    "name": "Cevio",
+    "district": "Vallemaggia",
+    "municipalMultiplierPercent": 94
+  },
+  {
+    "bfsNumber": 5250,
+    "name": "Chiasso",
+    "district": "Mendrisio",
+    "municipalMultiplierPercent": 88
+  },
+  {
+    "bfsNumber": 5251,
+    "name": "Coldrerio",
+    "district": "Mendrisio",
+    "municipalMultiplierPercent": 85
+  },
+  {
+    "bfsNumber": 5236,
+    "name": "Collina d'Oro",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 60
+  },
+  {
+    "bfsNumber": 5176,
+    "name": "Comano",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 79
+  },
+  {
+    "bfsNumber": 5138,
+    "name": "Cugnasco-Gerra",
+    "district": "Locarno",
+    "municipalMultiplierPercent": 90
+  },
+  {
+    "bfsNumber": 5180,
+    "name": "Cureglia",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 75
+  },
+  {
+    "bfsNumber": 5071,
+    "name": "Dalpe",
+    "district": "Leventina",
+    "municipalMultiplierPercent": 70
+  },
+  {
+    "bfsNumber": 5072,
+    "name": "Faido",
+    "district": "Leventina",
+    "municipalMultiplierPercent": 94
+  },
+  {
+    "bfsNumber": 5398,
+    "name": "Gambarogno",
+    "district": "Locarno",
+    "municipalMultiplierPercent": 85
+  },
+  {
+    "bfsNumber": 5073,
+    "name": "Giornico",
+    "district": "Leventina",
+    "municipalMultiplierPercent": 95
+  },
+  {
+    "bfsNumber": 5108,
+    "name": "Gordola",
+    "district": "Locarno",
+    "municipalMultiplierPercent": 88
+  },
+  {
+    "bfsNumber": 5186,
+    "name": "Grancia",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 75
+  },
+  {
+    "bfsNumber": 5187,
+    "name": "Gravesano",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 70
+  },
+  {
+    "bfsNumber": 5009,
+    "name": "Isone",
+    "district": "Bellinzona",
+    "municipalMultiplierPercent": 92
+  },
+  {
+    "bfsNumber": 5189,
+    "name": "Lamone",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 85
+  },
+  {
+    "bfsNumber": 5112,
+    "name": "Lavertezzo",
+    "district": "Locarno",
+    "municipalMultiplierPercent": 100
+  },
+  {
+    "bfsNumber": 5323,
+    "name": "Lavizzara",
+    "district": "Vallemaggia",
+    "municipalMultiplierPercent": 95
+  },
+  {
+    "bfsNumber": 5395,
+    "name": "Lema",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 95
+  },
+  {
+    "bfsNumber": 5315,
+    "name": "Linescio",
+    "district": "Vallemaggia",
+    "municipalMultiplierPercent": 65
+  },
+  {
+    "bfsNumber": 5113,
+    "name": "Locarno",
+    "district": "Locarno",
+    "municipalMultiplierPercent": 90
+  },
+  {
+    "bfsNumber": 5115,
+    "name": "Losone",
+    "district": "Locarno",
+    "municipalMultiplierPercent": 90
+  },
+  {
+    "bfsNumber": 5192,
+    "name": "Lugano",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 80
+  },
+  {
+    "bfsNumber": 5010,
+    "name": "Lumino",
+    "district": "Bellinzona",
+    "municipalMultiplierPercent": 90
+  },
+  {
+    "bfsNumber": 5317,
+    "name": "Maggia",
+    "district": "Vallemaggia",
+    "municipalMultiplierPercent": 90
+  },
+  {
+    "bfsNumber": 5193,
+    "name": "Magliaso",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 78
+  },
+  {
+    "bfsNumber": 5194,
+    "name": "Manno",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 65
+  },
+  {
+    "bfsNumber": 5196,
+    "name": "Massagno",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 70
+  },
+  {
+    "bfsNumber": 5198,
+    "name": "Melide",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 65
+  },
+  {
+    "bfsNumber": 5254,
+    "name": "Mendrisio",
+    "district": "Mendrisio",
+    "municipalMultiplierPercent": 77
+  },
+  {
+    "bfsNumber": 5117,
+    "name": "Mergoscia",
+    "district": "Locarno",
+    "municipalMultiplierPercent": 100
+  },
+  {
+    "bfsNumber": 5199,
+    "name": "Mezzovico-Vira",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 60
+  },
+  {
+    "bfsNumber": 5118,
+    "name": "Minusio",
+    "district": "Locarno",
+    "municipalMultiplierPercent": 82
+  },
+  {
+    "bfsNumber": 5238,
+    "name": "Monteceneri",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 92
+  },
+  {
+    "bfsNumber": 5257,
+    "name": "Morbio Inferiore",
+    "district": "Mendrisio",
+    "municipalMultiplierPercent": 82
+  },
+  {
+    "bfsNumber": 5203,
+    "name": "Morcote",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 80
+  },
+  {
+    "bfsNumber": 5120,
+    "name": "Muralto",
+    "district": "Locarno",
+    "municipalMultiplierPercent": 75
+  },
+  {
+    "bfsNumber": 5205,
+    "name": "Muzzano",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 75
+  },
+  {
+    "bfsNumber": 5206,
+    "name": "Neggio",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 90
+  },
+  {
+    "bfsNumber": 5260,
+    "name": "Novazzano",
+    "district": "Mendrisio",
+    "municipalMultiplierPercent": 65
+  },
+  {
+    "bfsNumber": 5136,
+    "name": "Onsernone",
+    "district": "Locarno",
+    "municipalMultiplierPercent": 95
+  },
+  {
+    "bfsNumber": 5208,
+    "name": "Origlio",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 70
+  },
+  {
+    "bfsNumber": 5121,
+    "name": "Orselina",
+    "district": "Locarno",
+    "municipalMultiplierPercent": 82
+  },
+  {
+    "bfsNumber": 5210,
+    "name": "Paradiso",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 58
+  },
+  {
+    "bfsNumber": 5076,
+    "name": "Personico",
+    "district": "Leventina",
+    "municipalMultiplierPercent": 90
+  },
+  {
+    "bfsNumber": 5077,
+    "name": "Pollegio",
+    "district": "Leventina",
+    "municipalMultiplierPercent": 95
+  },
+  {
+    "bfsNumber": 5212,
+    "name": "Ponte Capriasca",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 85
+  },
+  {
+    "bfsNumber": 5214,
+    "name": "Porza",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 56
+  },
+  {
+    "bfsNumber": 5216,
+    "name": "Pura",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 87
+  },
+  {
+    "bfsNumber": 5079,
+    "name": "Quinto",
+    "district": "Leventina",
+    "municipalMultiplierPercent": 90
+  },
+  {
+    "bfsNumber": 5263,
+    "name": "Riva San Vitale",
+    "district": "Mendrisio",
+    "municipalMultiplierPercent": 83
+  },
+  {
+    "bfsNumber": 5287,
+    "name": "Riviera",
+    "district": "Riviera",
+    "municipalMultiplierPercent": 95
+  },
+  {
+    "bfsNumber": 5125,
+    "name": "Ronco sopra Ascona",
+    "district": "Locarno",
+    "municipalMultiplierPercent": 75
+  },
+  {
+    "bfsNumber": 5017,
+    "name": "Sant'Antonino",
+    "district": "Bellinzona",
+    "municipalMultiplierPercent": 78
+  },
+  {
+    "bfsNumber": 5221,
+    "name": "Savosa",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 75
+  },
+  {
+    "bfsNumber": 5050,
+    "name": "Serravalle",
+    "district": "Blenio",
+    "municipalMultiplierPercent": 93
+  },
+  {
+    "bfsNumber": 5225,
+    "name": "Sorengo",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 65
+  },
+  {
+    "bfsNumber": 5266,
+    "name": "Stabio",
+    "district": "Mendrisio",
+    "municipalMultiplierPercent": 65
+  },
+  {
+    "bfsNumber": 5131,
+    "name": "Tenero-Contra",
+    "district": "Locarno",
+    "municipalMultiplierPercent": 93
+  },
+  {
+    "bfsNumber": 5396,
+    "name": "Terre di Pedemonte",
+    "district": "Locarno",
+    "municipalMultiplierPercent": 85
+  },
+  {
+    "bfsNumber": 5227,
+    "name": "Torricella-Taverne",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 85
+  },
+  {
+    "bfsNumber": 5239,
+    "name": "Tresa",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 85
+  },
+  {
+    "bfsNumber": 5268,
+    "name": "Vacallo",
+    "district": "Mendrisio",
+    "municipalMultiplierPercent": 79
+  },
+  {
+    "bfsNumber": 5240,
+    "name": "Val Mara",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 80
+  },
+  {
+    "bfsNumber": 5230,
+    "name": "Vernate",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 80
+  },
+  {
+    "bfsNumber": 5399,
+    "name": "Verzasca",
+    "district": "Locarno",
+    "municipalMultiplierPercent": 100
+  },
+  {
+    "bfsNumber": 5231,
+    "name": "Vezia",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 90
+  },
+  {
+    "bfsNumber": 5233,
+    "name": "Vico Morcote",
+    "district": "Lugano",
+    "municipalMultiplierPercent": 65
+  }
+]

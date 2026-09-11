@@ -1,0 +1,37 @@
+[
+  {
+    "bfsNumber": 3101,
+    "name": "Appenzell",
+    "municipalMultiplierPercent": 16,
+    "churchMultiplierReformedPercent": 10,
+    "churchMultiplierCatholicPercent": 10
+  },
+  {
+    "bfsNumber": 3102,
+    "name": "Gonten",
+    "municipalMultiplierPercent": 18,
+    "churchMultiplierReformedPercent": null,
+    "churchMultiplierCatholicPercent": 17
+  },
+  {
+    "bfsNumber": 3104,
+    "name": "Schlatt-Haslen",
+    "municipalMultiplierPercent": 20,
+    "churchMultiplierReformedPercent": null,
+    "churchMultiplierCatholicPercent": null
+  },
+  {
+    "bfsNumber": 3111,
+    "name": "Oberegg",
+    "municipalMultiplierPercent": 96,
+    "churchMultiplierReformedPercent": null,
+    "churchMultiplierCatholicPercent": 19
+  },
+  {
+    "bfsNumber": 3112,
+    "name": "Schwende-Rüte",
+    "municipalMultiplierPercent": 18,
+    "churchMultiplierReformedPercent": null,
+    "churchMultiplierCatholicPercent": 11
+  }
+]

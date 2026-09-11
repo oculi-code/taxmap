@@ -1,0 +1,713 @@
+[
+  {
+    "bfsNumber": 1001,
+    "name": "Doppleschwand",
+    "district": "Wahlkreis Entlebuch",
+    "municipalMultiplierPercent": 230,
+    "churchMultiplierReformedPercent": 30,
+    "churchMultiplierCatholicPercent": 40,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1002,
+    "name": "Entlebuch",
+    "district": "Wahlkreis Entlebuch",
+    "municipalMultiplierPercent": 210,
+    "churchMultiplierReformedPercent": 30,
+    "churchMultiplierCatholicPercent": 40,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1004,
+    "name": "Flühli",
+    "district": "Wahlkreis Entlebuch",
+    "municipalMultiplierPercent": 230,
+    "churchMultiplierReformedPercent": 40,
+    "churchMultiplierCatholicPercent": 40,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1005,
+    "name": "Hasle (LU)",
+    "district": "Wahlkreis Entlebuch",
+    "municipalMultiplierPercent": 230,
+    "churchMultiplierReformedPercent": 40,
+    "churchMultiplierCatholicPercent": 42,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1007,
+    "name": "Romoos",
+    "district": "Wahlkreis Entlebuch",
+    "municipalMultiplierPercent": 220,
+    "churchMultiplierReformedPercent": 30,
+    "churchMultiplierCatholicPercent": 40,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1008,
+    "name": "Schüpfheim",
+    "district": "Wahlkreis Entlebuch",
+    "municipalMultiplierPercent": 220,
+    "churchMultiplierReformedPercent": 40,
+    "churchMultiplierCatholicPercent": 35,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1009,
+    "name": "Werthenstein",
+    "district": "Wahlkreis Entlebuch",
+    "municipalMultiplierPercent": 215,
+    "churchMultiplierReformedPercent": 30,
+    "churchMultiplierCatholicPercent": 31,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1010,
+    "name": "Escholzmatt-Marbach",
+    "district": "Wahlkreis Entlebuch",
+    "municipalMultiplierPercent": 200,
+    "churchMultiplierReformedPercent": 40,
+    "churchMultiplierCatholicPercent": 38,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1021,
+    "name": "Aesch (LU)",
+    "district": "Wahlkreis Hochdorf",
+    "municipalMultiplierPercent": 180,
+    "churchMultiplierReformedPercent": 22,
+    "churchMultiplierCatholicPercent": 35,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1023,
+    "name": "Ballwil",
+    "district": "Wahlkreis Hochdorf",
+    "municipalMultiplierPercent": 150,
+    "churchMultiplierReformedPercent": 22,
+    "churchMultiplierCatholicPercent": 25,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1024,
+    "name": "Emmen",
+    "district": "Wahlkreis Hochdorf",
+    "municipalMultiplierPercent": 215,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 28.5,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1025,
+    "name": "Ermensee",
+    "district": "Wahlkreis Hochdorf",
+    "municipalMultiplierPercent": 185,
+    "churchMultiplierReformedPercent": 22,
+    "churchMultiplierCatholicPercent": 28,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1026,
+    "name": "Eschenbach (LU)",
+    "district": "Wahlkreis Hochdorf",
+    "municipalMultiplierPercent": 140,
+    "churchMultiplierReformedPercent": 22,
+    "churchMultiplierCatholicPercent": 25,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1030,
+    "name": "Hitzkirch",
+    "district": "Wahlkreis Hochdorf",
+    "municipalMultiplierPercent": 180,
+    "churchMultiplierReformedPercent": 22,
+    "churchMultiplierCatholicPercent": 28,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1031,
+    "name": "Hochdorf",
+    "district": "Wahlkreis Hochdorf",
+    "municipalMultiplierPercent": 190,
+    "churchMultiplierReformedPercent": 22,
+    "churchMultiplierCatholicPercent": 26,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1032,
+    "name": "Hohenrain",
+    "district": "Wahlkreis Hochdorf",
+    "municipalMultiplierPercent": 205,
+    "churchMultiplierReformedPercent": 22,
+    "churchMultiplierCatholicPercent": 45,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1033,
+    "name": "Inwil",
+    "district": "Wahlkreis Hochdorf",
+    "municipalMultiplierPercent": 160,
+    "churchMultiplierReformedPercent": 22,
+    "churchMultiplierCatholicPercent": 21.6,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1037,
+    "name": "Rain",
+    "district": "Wahlkreis Hochdorf",
+    "municipalMultiplierPercent": 160,
+    "churchMultiplierReformedPercent": 22,
+    "churchMultiplierCatholicPercent": 28,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1039,
+    "name": "Römerswil",
+    "district": "Wahlkreis Hochdorf",
+    "municipalMultiplierPercent": 200,
+    "churchMultiplierReformedPercent": 22,
+    "churchMultiplierCatholicPercent": 45,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1040,
+    "name": "Rothenburg",
+    "district": "Wahlkreis Hochdorf",
+    "municipalMultiplierPercent": 165,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 25,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1041,
+    "name": "Schongau",
+    "district": "Wahlkreis Hochdorf",
+    "municipalMultiplierPercent": 210,
+    "churchMultiplierReformedPercent": 22,
+    "churchMultiplierCatholicPercent": 42,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1051,
+    "name": "Adligenswil",
+    "district": "Wahlkreis Luzern-Land",
+    "municipalMultiplierPercent": 185,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 22,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1052,
+    "name": "Buchrain",
+    "district": "Wahlkreis Luzern-Land",
+    "municipalMultiplierPercent": 195,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 25.65,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1053,
+    "name": "Dierikon",
+    "district": "Wahlkreis Luzern-Land",
+    "municipalMultiplierPercent": 185,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 20,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1054,
+    "name": "Ebikon",
+    "district": "Wahlkreis Luzern-Land",
+    "municipalMultiplierPercent": 205,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 25,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1055,
+    "name": "Gisikon",
+    "district": "Wahlkreis Luzern-Land",
+    "municipalMultiplierPercent": 160,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 20,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1056,
+    "name": "Greppen",
+    "district": "Wahlkreis Luzern-Land",
+    "municipalMultiplierPercent": 185,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 35,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1058,
+    "name": "Horw",
+    "district": "Wahlkreis Luzern-Land",
+    "municipalMultiplierPercent": 140,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 25,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1059,
+    "name": "Kriens",
+    "district": "Wahlkreis Luzern-Land",
+    "municipalMultiplierPercent": 185,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 25,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1061,
+    "name": "Luzern",
+    "district": "Wahlkreis Luzern-Stadt",
+    "municipalMultiplierPercent": 145,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 23,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1062,
+    "name": "Malters",
+    "district": "Wahlkreis Luzern-Land",
+    "municipalMultiplierPercent": 195,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 30,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1063,
+    "name": "Meggen",
+    "district": "Wahlkreis Luzern-Land",
+    "municipalMultiplierPercent": 90,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 14.45,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1064,
+    "name": "Meierskappel",
+    "district": "Wahlkreis Luzern-Land",
+    "municipalMultiplierPercent": 170,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 33,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1065,
+    "name": "Root",
+    "district": "Wahlkreis Luzern-Land",
+    "municipalMultiplierPercent": 150,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 20,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1066,
+    "name": "Schwarzenberg",
+    "district": "Wahlkreis Luzern-Land",
+    "municipalMultiplierPercent": 210,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 32,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1067,
+    "name": "Udligenswil",
+    "district": "Wahlkreis Luzern-Land",
+    "municipalMultiplierPercent": 180,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 30,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1068,
+    "name": "Vitznau",
+    "district": "Wahlkreis Luzern-Land",
+    "municipalMultiplierPercent": 140,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 25,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1069,
+    "name": "Weggis",
+    "district": "Wahlkreis Luzern-Land",
+    "municipalMultiplierPercent": 130,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 22,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1081,
+    "name": "Beromünster",
+    "district": "Wahlkreis Sursee",
+    "municipalMultiplierPercent": 185,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 30,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1082,
+    "name": "Büron",
+    "district": "Wahlkreis Sursee",
+    "municipalMultiplierPercent": 190,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 35,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1083,
+    "name": "Buttisholz",
+    "district": "Wahlkreis Sursee",
+    "municipalMultiplierPercent": 190,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 28,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1084,
+    "name": "Eich",
+    "district": "Wahlkreis Sursee",
+    "municipalMultiplierPercent": 130,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 21,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1085,
+    "name": "Geuensee",
+    "district": "Wahlkreis Sursee",
+    "municipalMultiplierPercent": 205,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 33,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1086,
+    "name": "Grosswangen",
+    "district": "Wahlkreis Sursee",
+    "municipalMultiplierPercent": 185,
+    "churchMultiplierReformedPercent": 35,
+    "churchMultiplierCatholicPercent": 32.5,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1088,
+    "name": "Hildisrieden",
+    "district": "Wahlkreis Sursee",
+    "municipalMultiplierPercent": 150,
+    "churchMultiplierReformedPercent": 22,
+    "churchMultiplierCatholicPercent": 27,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1089,
+    "name": "Knutwil",
+    "district": "Wahlkreis Sursee",
+    "municipalMultiplierPercent": 225,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 33,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1091,
+    "name": "Mauensee",
+    "district": "Wahlkreis Sursee",
+    "municipalMultiplierPercent": 210,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 25,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1093,
+    "name": "Neuenkirch",
+    "district": "Wahlkreis Sursee",
+    "municipalMultiplierPercent": 185,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 28,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1094,
+    "name": "Nottwil",
+    "district": "Wahlkreis Sursee",
+    "municipalMultiplierPercent": 185,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 27.5,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1095,
+    "name": "Oberkirch",
+    "district": "Wahlkreis Sursee",
+    "municipalMultiplierPercent": 165,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 26,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1097,
+    "name": "Rickenbach (LU)",
+    "district": "Wahlkreis Sursee",
+    "municipalMultiplierPercent": 150,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 30,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1098,
+    "name": "Ruswil",
+    "district": "Wahlkreis Sursee",
+    "municipalMultiplierPercent": 200,
+    "churchMultiplierReformedPercent": 30,
+    "churchMultiplierCatholicPercent": 32,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1099,
+    "name": "Schenkon",
+    "district": "Wahlkreis Sursee",
+    "municipalMultiplierPercent": 125,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 25,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1100,
+    "name": "Schlierbach",
+    "district": "Wahlkreis Sursee",
+    "municipalMultiplierPercent": 180,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 35,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1102,
+    "name": "Sempach",
+    "district": "Wahlkreis Sursee",
+    "municipalMultiplierPercent": 165,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 22,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1103,
+    "name": "Sursee",
+    "district": "Wahlkreis Sursee",
+    "municipalMultiplierPercent": 185,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 25,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1104,
+    "name": "Triengen",
+    "district": "Wahlkreis Sursee",
+    "municipalMultiplierPercent": 210,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 25.5,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1107,
+    "name": "Wolhusen",
+    "district": "Wahlkreis Entlebuch",
+    "municipalMultiplierPercent": 230,
+    "churchMultiplierReformedPercent": 30,
+    "churchMultiplierCatholicPercent": 31,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1121,
+    "name": "Alberswil",
+    "district": "Wahlkreis Willisau",
+    "municipalMultiplierPercent": 215,
+    "churchMultiplierReformedPercent": 35,
+    "churchMultiplierCatholicPercent": 29,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1122,
+    "name": "Altbüron",
+    "district": "Wahlkreis Willisau",
+    "municipalMultiplierPercent": 230,
+    "churchMultiplierReformedPercent": 26.5,
+    "churchMultiplierCatholicPercent": 41,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1123,
+    "name": "Altishofen",
+    "district": "Wahlkreis Willisau",
+    "municipalMultiplierPercent": 185,
+    "churchMultiplierReformedPercent": 26.5,
+    "churchMultiplierCatholicPercent": 28,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1125,
+    "name": "Dagmersellen",
+    "district": "Wahlkreis Willisau",
+    "municipalMultiplierPercent": 170,
+    "churchMultiplierReformedPercent": 26.5,
+    "churchMultiplierCatholicPercent": 28,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1127,
+    "name": "Egolzwil",
+    "district": "Wahlkreis Willisau",
+    "municipalMultiplierPercent": 200,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 29,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1128,
+    "name": "Ettiswil",
+    "district": "Wahlkreis Willisau",
+    "municipalMultiplierPercent": 215,
+    "churchMultiplierReformedPercent": 35,
+    "churchMultiplierCatholicPercent": 29,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1129,
+    "name": "Fischbach",
+    "district": "Wahlkreis Willisau",
+    "municipalMultiplierPercent": 210,
+    "churchMultiplierReformedPercent": 35,
+    "churchMultiplierCatholicPercent": 41,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1131,
+    "name": "Grossdietwil",
+    "district": "Wahlkreis Willisau",
+    "municipalMultiplierPercent": 230,
+    "churchMultiplierReformedPercent": 26.5,
+    "churchMultiplierCatholicPercent": 41,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1132,
+    "name": "Hergiswil bei Willisau",
+    "district": "Wahlkreis Willisau",
+    "municipalMultiplierPercent": 200,
+    "churchMultiplierReformedPercent": 35,
+    "churchMultiplierCatholicPercent": 45,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1135,
+    "name": "Luthern",
+    "district": "Wahlkreis Willisau",
+    "municipalMultiplierPercent": 240,
+    "churchMultiplierReformedPercent": 35,
+    "churchMultiplierCatholicPercent": 45,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1136,
+    "name": "Menznau",
+    "district": "Wahlkreis Willisau",
+    "municipalMultiplierPercent": 195,
+    "churchMultiplierReformedPercent": 30,
+    "churchMultiplierCatholicPercent": 40,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1137,
+    "name": "Nebikon",
+    "district": "Wahlkreis Willisau",
+    "municipalMultiplierPercent": 180,
+    "churchMultiplierReformedPercent": 26.5,
+    "churchMultiplierCatholicPercent": 28,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1139,
+    "name": "Pfaffnau",
+    "district": "Wahlkreis Willisau",
+    "municipalMultiplierPercent": 230,
+    "churchMultiplierReformedPercent": 26.5,
+    "churchMultiplierCatholicPercent": 40,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1140,
+    "name": "Reiden",
+    "district": "Wahlkreis Willisau",
+    "municipalMultiplierPercent": 220,
+    "churchMultiplierReformedPercent": 26.5,
+    "churchMultiplierCatholicPercent": 32,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1142,
+    "name": "Roggliswil",
+    "district": "Wahlkreis Willisau",
+    "municipalMultiplierPercent": 210,
+    "churchMultiplierReformedPercent": 26.5,
+    "churchMultiplierCatholicPercent": 40,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1143,
+    "name": "Schötz",
+    "district": "Wahlkreis Willisau",
+    "municipalMultiplierPercent": 210,
+    "churchMultiplierReformedPercent": 26.5,
+    "churchMultiplierCatholicPercent": 26,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1145,
+    "name": "Ufhusen",
+    "district": "Wahlkreis Willisau",
+    "municipalMultiplierPercent": 220,
+    "churchMultiplierReformedPercent": 35,
+    "churchMultiplierCatholicPercent": 45,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1146,
+    "name": "Wauwil",
+    "district": "Wahlkreis Willisau",
+    "municipalMultiplierPercent": 205,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 29,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1147,
+    "name": "Wikon",
+    "district": "Wahlkreis Willisau",
+    "municipalMultiplierPercent": 220,
+    "churchMultiplierReformedPercent": 26.5,
+    "churchMultiplierCatholicPercent": 32,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1150,
+    "name": "Zell (LU)",
+    "district": "Wahlkreis Willisau",
+    "municipalMultiplierPercent": 190,
+    "churchMultiplierReformedPercent": 35,
+    "churchMultiplierCatholicPercent": 36,
+    "churchMultiplierChristCatholicPercent": 31
+  },
+  {
+    "bfsNumber": 1151,
+    "name": "Willisau",
+    "district": "Wahlkreis Willisau",
+    "municipalMultiplierPercent": 210,
+    "churchMultiplierReformedPercent": 35,
+    "churchMultiplierCatholicPercent": 33,
+    "churchMultiplierChristCatholicPercent": 31
+  }
+]

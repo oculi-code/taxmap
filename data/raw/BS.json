@@ -1,0 +1,85 @@
+{
+  "canton": "BS",
+  "year": 2026,
+  "source": {
+    "incomeTax": "https://media.bs.ch/original_file/d8cf2817b481307cd7943afa4f80b99a8878297a/einkommenssteuertarife-2019-2026.pdf",
+    "wealthTax": "https://media.bs.ch/original_file/47a483fc991f91d59b9a86e4fbbbc0a9de77bd79/17000-steuertarife-2025.pdf",
+    "multiplier": "https://www.estv2.admin.ch/stp/kb/bs-de.pdf (Kantonsblatt Basel-Stadt, Stand Februar 2026, Abschnitt 'Steuern in den Gemeinden und Kirchgemeinden')",
+    "municipalData": "https://www.estv2.admin.ch/stp/kb/bs-de.pdf (Section 228 StG: Kantonsanteil/Gemeindesteuerquote Bettingen & Riehen) and https://media.bs.ch/original_file/47a483fc991f91d59b9a86e4fbbbc0a9de77bd79/17000-steuertarife-2025.pdf (p.2, actual Steuerfuss values)",
+    "kantonsblatt": "https://www.estv2.admin.ch/stp/kb/bs-de.pdf",
+    "churchTaxCatholic": "https://www.rkk-bs.ch/a-z/kirchensteuern-wozu/wissen-wie-laeuft-das-mit-der-kirchensteuer-in-basel-stadt"
+  },
+  "incomeTaxBrackets": {
+    "single": [
+      {
+        "from": 100,
+        "rate": 0.21
+      },
+      {
+        "from": 212500,
+        "rate": 0.2725
+      },
+      {
+        "from": 316300,
+        "rate": 0.2825
+      }
+    ],
+    "married": [
+      {
+        "from": 100,
+        "rate": 0.21
+      },
+      {
+        "from": 424900,
+        "rate": 0.2725
+      },
+      {
+        "from": 632500,
+        "rate": 0.2825
+      }
+    ]
+  },
+  "wealthTaxBrackets": {
+    "single": [
+      {
+        "from": 0,
+        "rate": 0.0045
+      },
+      {
+        "from": 250000,
+        "rate": 0.0065
+      },
+      {
+        "from": 750000,
+        "rate": 0.0079
+      }
+    ],
+    "married": [
+      {
+        "from": 0,
+        "rate": 0.0045
+      },
+      {
+        "from": 400000,
+        "rate": 0.0065
+      },
+      {
+        "from": 1200000,
+        "rate": 0.0079
+      }
+    ],
+    "general": null
+  },
+  "wealthTaxRateUnit": "decimal",
+  "cantonalMultiplier": {
+    "value": 100,
+    "unit": "percent",
+    "appliedOnTop": false
+  },
+  "churchTax": {
+    "variesByMunicipality": false,
+    "reformed": 8,
+    "catholic": 8
+  },
+  "notes": "YEAR/BRACKETS: Steuerperiode 2025 and 2026 use IDENTICAL income tax bracket thresholds and rates (explicitly confirmed 'Steuerjahr 2025-2026' as one unchanged row in the canton's own official 'Einkommensteuertarif 2019-2026' historical-comparison document, dated 18.12.2025) -- there was no 'Ausgleich der kalten Progression' adjustment between 2025 and 2026, so the figures below are current for both years. The 2025 tariff booklet ('Steuertarife... Ausgabe 2025') is the latest published wealth-tax tariff found; no evidence of a 2026 wealth-tax bracket change was found (BS's kalte-Progression indexing mechanism, per the Kantonsblatt, applies explicitly to income tax deductions/brackets only, not to the wealth tax brackets, which are legislated as fixed CHF amounts in Section 50 StG and do not appear to be automatically re-indexed annually) so these wealth figures should be treated as stable/current for 2026 too. SPLIT WEALTH TARIFF (deviation from the generic {general:[...]} template): unlike the schema's generic example, Basel-Stadt -- like the income tax -- runs TWO separate wealth tax bracket tables, Tarif A (single) and Tarif B (married in ungetrennter Ehe), with different threshold amounts (though identical per-mille rates 4.5/6.5/7.9). This file therefore uses 'single' and 'married' keys under wealthTaxBrackets instead of a single 'general' array (general is left null for schema compatibility). Rates were published as CHF per CHF 1'000 ('je CHF 1'000'), i.e. per-mille, and converted to decimal here (e.g. 4.50 je 1'000 -> 0.0045). **BIGGEST QUIRK - NO TRADITIONAL 3-LAYER STRUCTURE**: Basel-Stadt does NOT have a standard cantonal-multiplier-plus-independent-municipal-multiplier system. Because Basel-Stadt is a small, almost entirely urban half-canton where the city of Basel effectively IS the canton (its ~3 municipalities hold roughly 90%/5%/5% of the cantonal population), the Steuergesetz (Section 228 StG) integrates municipal tax directly into the cantonal one, and the mechanism differs COMPLETELY between the three municipalities: (1) STADT BASEL (the city itself, ~91% of cantonal population): residents pay the FULL 100% cantonal tariff shown above with ZERO separate municipal tax layer -- confirmed explicitly in both the official 2025 tariff booklet ('Die in der Stadt Basel steuerpflichtigen Personen entrichten die vollen kantonalen Steuern... Dafür schulden sie keine Gemeindesteuer') and the Kantonsblatt ('In der Stadt Basel werden keine kommunalen Steuern erhoben'). So for Basel city, cantonalMultiplier.value=100 appliedOnTop=false above is the WHOLE story: tax = bracket-table result, full stop. (2) RIEHEN and (3) BETTINGEN (the two Einwohnergemeinden, together ~9% of cantonal population): these are NOT full-canton-tax-plus-municipal-surcharge like other cantons' municipalities. Instead, Section 228 Abs. 1 StG splits the cantonal tariff amount itself into two fixed halves: a 'Kantonssteuerquote' of exactly 50% that the CANTON collects directly and unconditionally, and a 'Gemeindesteuerquote' of up to 50% that is the Einwohnergemeinde's OWN to autonomously set as its municipal Steuerfuss, EACH YEAR, separately for income tax and for wealth tax. This is why BS_municipalities.json cannot use a single generic 'municipalMultiplier' number for Riehen/Bettingen -- it uses additional explicit 'cantonalShareIncomePercent'/'cantonalShareWealthPercent' (both fixed at 50 by law) plus 'municipalMultiplierIncomePercent'/'municipalMultiplierWealthPercent' fields holding each municipality's own current rate (from the 2025 tariff booklet, latest published; no 2026 change was found): Bettingen = 37.50% (income) / 36.50% (wealth); Riehen = 40.00% (income) / 46.00% (wealth). So e.g. a Riehen resident's TOTAL effective income-tax charge = 50% (fixed cantonal share) + 40% (Riehen's own municipal share) = 90% of the bracket-table amount -- i.e. actually LESS than what a Basel-city resident pays (100%), which is the reverse of the usual pattern where the 'main city' has the LOWEST combined multiplier. Also note: unlike almost every other canton, a municipality's income-tax rate and wealth-tax rate are NOT required to be equal in BS (Riehen: 40% vs 46%; Bettingen: 37.50% vs 36.50%) -- each Einwohnergemeinde sets them independently within the shared 50% cap. On property/real-estate located within Stadt Basel and its income, the canton always levies the FULL rate regardless of the taxpayer's home municipality (Section 228 Abs. 1 StG, last sentence). CHURCH TAX: BS has exactly TWO recognized Landeskirchen (Evangelisch-reformierte Kirche and Römisch-Katholische Kirche), each organized as a SINGLE canton-wide Kirchgemeinde (there is no per-municipality or per-parish variation the way BL has, and no Christ-katholische/Israelitische church tax on natural persons under this StG) -- so churchTax.variesByMunicipality=false above is correct and BS_municipalities.json applies the same reformed=8%/catholic=8% to all three municipalities. Both rates are set annually by each church's own Synode 'als Prozentsatz der kantonalen Steuer auf dem Einkommen' (Section 37 SEK / Section 37 SRK) -- i.e. church tax in BS applies to INCOME tax ONLY, never to wealth tax (a real asymmetry worth flagging: some other cantons, e.g. BL, apply church tax to both). BS levies NO church tax at all on legal entities. The 8%/8% figures have been independently corroborated (the Catholic rate is explicitly confirmed by the church's own site as 'seit vielen Jahren unverändert bei 8%'; the Reformed rate at 8% is corroborated by a secondary tax-advisory source but was NOT found stated verbatim on the Reformed church's own site during this research -- a developer should double check with erk-bs.ch before relying on it for anything beyond an estimate). One UNRESOLVED nuance: it is not fully confirmed from primary sources whether the 8% church-tax rate is applied to the FULL notional 100%-cantonal-tariff amount for Riehen/Bettingen residents, or to their ACTUAL (reduced, ~87.5-90%) cantonal-plus-municipal tax bill -- the church-tax legal text says 'Prozentsatz der kantonalen Steuer auf dem Einkommen', which most likely means the Kantonsanteil actually assessed (i.e. the reduced amount for Riehen/Bettingen), but this file does not assert that with full confidence. MONOTONICITY: all bracket tables above were checked; wealth-tax and income-tax amounts are strictly non-decreasing in taxable base at every published breakpoint. SOURCES: BS_einkommenssteuertarife_2019-2026.pdf (historical comparison table, 18.12.2025, confirms 2025=2026), BS_steuertarife_2025.pdf (full tariff tables + the Bettingen/Riehen Steuerfuss box on p.2), BS_kantonsblatt_estv_2026.pdf (Stand Februar 2026, esp. pp.12 and 24-26), all in ../sources/."
+}

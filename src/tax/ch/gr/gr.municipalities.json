@@ -1,0 +1,802 @@
+[
+  {
+    "bfsNumber": 3701,
+    "name": "Andeer",
+    "district": "Region Viamala",
+    "municipalMultiplierPercent": 90,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 16
+  },
+  {
+    "bfsNumber": 3921,
+    "name": "Arosa",
+    "district": "Region Plessur",
+    "municipalMultiplierPercent": 90,
+    "churchMultiplierReformedLocalPercent": 13,
+    "churchMultiplierCatholicPercent": 13
+  },
+  {
+    "bfsNumber": 3792,
+    "name": "Bregaglia",
+    "district": "Region Maloja",
+    "municipalMultiplierPercent": 90,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 15
+  },
+  {
+    "bfsNumber": 3681,
+    "name": "Avers",
+    "district": "Region Viamala",
+    "municipalMultiplierPercent": 110,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 16
+  },
+  {
+    "bfsNumber": 3781,
+    "name": "Bever",
+    "district": "Region Maloja",
+    "municipalMultiplierPercent": 70,
+    "churchMultiplierReformedLocalPercent": 14,
+    "churchMultiplierCatholicPercent": 7
+  },
+  {
+    "bfsNumber": 3721,
+    "name": "Bonaduz",
+    "district": "Region Imboden",
+    "municipalMultiplierPercent": 84,
+    "churchMultiplierReformedLocalPercent": 15.5,
+    "churchMultiplierCatholicPercent": 11
+  },
+  {
+    "bfsNumber": 3981,
+    "name": "Breil/Brigels",
+    "district": "Region Surselva",
+    "municipalMultiplierPercent": 90,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 15
+  },
+  {
+    "bfsNumber": 3551,
+    "name": "Brusio",
+    "district": "Region Bernina",
+    "municipalMultiplierPercent": 85,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 15
+  },
+  {
+    "bfsNumber": 3804,
+    "name": "Buseno",
+    "district": "Region Moesa",
+    "municipalMultiplierPercent": 100,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 13
+  },
+  {
+    "bfsNumber": 3831,
+    "name": "Cama",
+    "district": "Region Moesa",
+    "municipalMultiplierPercent": 73,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 7
+  },
+  {
+    "bfsNumber": 3713,
+    "name": "Ferrera",
+    "district": "Region Viamala",
+    "municipalMultiplierPercent": 70,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 16
+  },
+  {
+    "bfsNumber": 3805,
+    "name": "Castaneda",
+    "district": "Region Moesa",
+    "municipalMultiplierPercent": 90,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 13
+  },
+  {
+    "bfsNumber": 3661,
+    "name": "Cazis",
+    "district": "Region Viamala",
+    "municipalMultiplierPercent": 115,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 15
+  },
+  {
+    "bfsNumber": 3901,
+    "name": "Chur",
+    "district": "Region Plessur",
+    "municipalMultiplierPercent": 88,
+    "churchMultiplierReformedLocalPercent": 11,
+    "churchMultiplierCatholicPercent": 9
+  },
+  {
+    "bfsNumber": 3911,
+    "name": "Churwalden",
+    "district": "Region Plessur",
+    "municipalMultiplierPercent": 90,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 15
+  },
+  {
+    "bfsNumber": 3881,
+    "name": "Conters im Prättigau",
+    "district": "Region Prättigau / Davos",
+    "municipalMultiplierPercent": 60,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 13.2
+  },
+  {
+    "bfsNumber": 3851,
+    "name": "Davos",
+    "district": "Region Prättigau / Davos",
+    "municipalMultiplierPercent": 95,
+    "churchMultiplierReformedLocalPercent": 13,
+    "churchMultiplierCatholicPercent": 13
+  },
+  {
+    "bfsNumber": 3982,
+    "name": "Disentis/Mustér",
+    "district": "Region Surselva",
+    "municipalMultiplierPercent": 99,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 12
+  },
+  {
+    "bfsNumber": 3722,
+    "name": "Domat/Ems",
+    "district": "Region Imboden",
+    "municipalMultiplierPercent": 85,
+    "churchMultiplierReformedLocalPercent": 14.5,
+    "churchMultiplierCatholicPercent": 12
+  },
+  {
+    "bfsNumber": 3572,
+    "name": "Falera",
+    "district": "Region Surselva",
+    "municipalMultiplierPercent": 65,
+    "churchMultiplierReformedLocalPercent": 11.5,
+    "churchMultiplierCatholicPercent": 10
+  },
+  {
+    "bfsNumber": 3731,
+    "name": "Felsberg",
+    "district": "Region Imboden",
+    "municipalMultiplierPercent": 100,
+    "churchMultiplierReformedLocalPercent": 13.5,
+    "churchMultiplierCatholicPercent": 12
+  },
+  {
+    "bfsNumber": 3861,
+    "name": "Fideris",
+    "district": "Region Prättigau / Davos",
+    "municipalMultiplierPercent": 100,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 13
+  },
+  {
+    "bfsNumber": 3951,
+    "name": "Fläsch",
+    "district": "Region Landquart",
+    "municipalMultiplierPercent": 70,
+    "churchMultiplierReformedLocalPercent": 13,
+    "churchMultiplierCatholicPercent": 15
+  },
+  {
+    "bfsNumber": 3662,
+    "name": "Flerden",
+    "district": "Region Viamala",
+    "municipalMultiplierPercent": 120,
+    "churchMultiplierReformedLocalPercent": 18,
+    "churchMultiplierCatholicPercent": 15
+  },
+  {
+    "bfsNumber": 3732,
+    "name": "Flims",
+    "district": "Region Imboden",
+    "municipalMultiplierPercent": 60,
+    "churchMultiplierReformedLocalPercent": 10,
+    "churchMultiplierCatholicPercent": 14
+  },
+  {
+    "bfsNumber": 3862,
+    "name": "Furna",
+    "district": "Region Prättigau / Davos",
+    "municipalMultiplierPercent": 120,
+    "churchMultiplierReformedLocalPercent": 18,
+    "churchMultiplierCatholicPercent": 13
+  },
+  {
+    "bfsNumber": 3633,
+    "name": "Fürstenau",
+    "district": "Region Viamala",
+    "municipalMultiplierPercent": 110,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 10
+  },
+  {
+    "bfsNumber": 3832,
+    "name": "Grono",
+    "district": "Region Moesa",
+    "municipalMultiplierPercent": 87,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 10
+  },
+  {
+    "bfsNumber": 3961,
+    "name": "Grüsch",
+    "district": "Region Prättigau / Davos",
+    "municipalMultiplierPercent": 98,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 13
+  },
+  {
+    "bfsNumber": 3619,
+    "name": "Ilanz/Glion",
+    "district": "Region Surselva",
+    "municipalMultiplierPercent": 100,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 17
+  },
+  {
+    "bfsNumber": 3863,
+    "name": "Jenaz",
+    "district": "Region Prättigau / Davos",
+    "municipalMultiplierPercent": 95,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 13
+  },
+  {
+    "bfsNumber": 3952,
+    "name": "Jenins",
+    "district": "Region Landquart",
+    "municipalMultiplierPercent": 93,
+    "churchMultiplierReformedLocalPercent": 14.5,
+    "churchMultiplierCatholicPercent": 15
+  },
+  {
+    "bfsNumber": 3871,
+    "name": "Klosters",
+    "district": "Region Prättigau / Davos",
+    "municipalMultiplierPercent": 78,
+    "churchMultiplierReformedLocalPercent": 13.5,
+    "churchMultiplierCatholicPercent": 13.2
+  },
+  {
+    "bfsNumber": 3882,
+    "name": "Küblis",
+    "district": "Region Prättigau / Davos",
+    "municipalMultiplierPercent": 110,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 13.2
+  },
+  {
+    "bfsNumber": 3575,
+    "name": "Laax",
+    "district": "Region Surselva",
+    "municipalMultiplierPercent": 40,
+    "churchMultiplierReformedLocalPercent": 11.5,
+    "churchMultiplierCatholicPercent": 10
+  },
+  {
+    "bfsNumber": 3955,
+    "name": "Landquart",
+    "district": "Region Landquart",
+    "municipalMultiplierPercent": 95,
+    "churchMultiplierReformedLocalPercent": 15,
+    "churchMultiplierCatholicPercent": 15
+  },
+  {
+    "bfsNumber": 3513,
+    "name": "Lantsch/Lenz",
+    "district": "Region Albula",
+    "municipalMultiplierPercent": 75,
+    "churchMultiplierReformedLocalPercent": 9.5,
+    "churchMultiplierCatholicPercent": 15
+  },
+  {
+    "bfsNumber": 3821,
+    "name": "Lostallo",
+    "district": "Region Moesa",
+    "municipalMultiplierPercent": 80,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 9
+  },
+  {
+    "bfsNumber": 3891,
+    "name": "Luzein",
+    "district": "Region Prättigau / Davos",
+    "municipalMultiplierPercent": 85,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 13.2
+  },
+  {
+    "bfsNumber": 3783,
+    "name": "Madulain",
+    "district": "Region Maloja",
+    "municipalMultiplierPercent": 85,
+    "churchMultiplierReformedLocalPercent": 14,
+    "churchMultiplierCatholicPercent": 6
+  },
+  {
+    "bfsNumber": 3953,
+    "name": "Maienfeld",
+    "district": "Region Landquart",
+    "municipalMultiplierPercent": 68,
+    "churchMultiplierReformedLocalPercent": 10,
+    "churchMultiplierCatholicPercent": 15
+  },
+  {
+    "bfsNumber": 3954,
+    "name": "Malans",
+    "district": "Region Landquart",
+    "municipalMultiplierPercent": 75,
+    "churchMultiplierReformedLocalPercent": 11,
+    "churchMultiplierCatholicPercent": 15
+  },
+  {
+    "bfsNumber": 3663,
+    "name": "Masein",
+    "district": "Region Viamala",
+    "municipalMultiplierPercent": 120,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 15
+  },
+  {
+    "bfsNumber": 3983,
+    "name": "Medel (Lucmagn)",
+    "district": "Region Surselva",
+    "municipalMultiplierPercent": 70,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 15
+  },
+  {
+    "bfsNumber": 3822,
+    "name": "Mesocco",
+    "district": "Region Moesa",
+    "municipalMultiplierPercent": 87,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 9.5
+  },
+  {
+    "bfsNumber": 3847,
+    "name": "Val Müstair",
+    "district": "Region Engiadina Bassa / Val Müstair",
+    "municipalMultiplierPercent": 120,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 16
+  },
+  {
+    "bfsNumber": 3618,
+    "name": "Lumnezia",
+    "district": "Region Surselva",
+    "municipalMultiplierPercent": 90,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 15
+  },
+  {
+    "bfsNumber": 3784,
+    "name": "Pontresina",
+    "district": "Region Maloja",
+    "municipalMultiplierPercent": 75,
+    "churchMultiplierReformedLocalPercent": 14,
+    "churchMultiplierCatholicPercent": 12
+  },
+  {
+    "bfsNumber": 3561,
+    "name": "Poschiavo",
+    "district": "Region Bernina",
+    "municipalMultiplierPercent": 90,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 15
+  },
+  {
+    "bfsNumber": 3785,
+    "name": "La Punt Chamues-ch",
+    "district": "Region Maloja",
+    "municipalMultiplierPercent": 49,
+    "churchMultiplierReformedLocalPercent": 14,
+    "churchMultiplierCatholicPercent": 6
+  },
+  {
+    "bfsNumber": 3723,
+    "name": "Rhäzüns",
+    "district": "Region Imboden",
+    "municipalMultiplierPercent": 120,
+    "churchMultiplierReformedLocalPercent": 15.5,
+    "churchMultiplierCatholicPercent": 15
+  },
+  {
+    "bfsNumber": 3672,
+    "name": "Safiental",
+    "district": "Region Surselva",
+    "municipalMultiplierPercent": 105,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 11
+  },
+  {
+    "bfsNumber": 3711,
+    "name": "Rongellen",
+    "district": "Region Viamala",
+    "municipalMultiplierPercent": 30,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 16
+  },
+  {
+    "bfsNumber": 3808,
+    "name": "Rossa",
+    "district": "Region Moesa",
+    "municipalMultiplierPercent": 77,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 13
+  },
+  {
+    "bfsNumber": 3637,
+    "name": "Rothenbrunnen",
+    "district": "Region Viamala",
+    "municipalMultiplierPercent": 80,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 10
+  },
+  {
+    "bfsNumber": 3834,
+    "name": "Roveredo (GR)",
+    "district": "Region Moesa",
+    "municipalMultiplierPercent": 105,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 9
+  },
+  {
+    "bfsNumber": 3581,
+    "name": "Sagogn",
+    "district": "Region Surselva",
+    "municipalMultiplierPercent": 80,
+    "churchMultiplierReformedLocalPercent": 11.5,
+    "churchMultiplierCatholicPercent": 18
+  },
+  {
+    "bfsNumber": 3786,
+    "name": "Samedan",
+    "district": "Region Maloja",
+    "municipalMultiplierPercent": 75,
+    "churchMultiplierReformedLocalPercent": 14,
+    "churchMultiplierCatholicPercent": 7
+  },
+  {
+    "bfsNumber": 3752,
+    "name": "Samnaun",
+    "district": "Region Engiadina Bassa / Val Müstair",
+    "municipalMultiplierPercent": 100,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 15
+  },
+  {
+    "bfsNumber": 3764,
+    "name": "Valsot",
+    "district": "Region Engiadina Bassa / Val Müstair",
+    "municipalMultiplierPercent": 95,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 5
+  },
+  {
+    "bfsNumber": 3810,
+    "name": "Santa Maria in Calanca",
+    "district": "Region Moesa",
+    "municipalMultiplierPercent": 100,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 15
+  },
+  {
+    "bfsNumber": 3787,
+    "name": "St. Moritz",
+    "district": "Region Maloja",
+    "municipalMultiplierPercent": 55,
+    "churchMultiplierReformedLocalPercent": 14,
+    "churchMultiplierCatholicPercent": 6
+  },
+  {
+    "bfsNumber": 3835,
+    "name": "San Vittore",
+    "district": "Region Moesa",
+    "municipalMultiplierPercent": 85,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 7
+  },
+  {
+    "bfsNumber": 3788,
+    "name": "S-chanf",
+    "district": "Region Maloja",
+    "municipalMultiplierPercent": 65,
+    "churchMultiplierReformedLocalPercent": 14,
+    "churchMultiplierCatholicPercent": 6
+  },
+  {
+    "bfsNumber": 3638,
+    "name": "Scharans",
+    "district": "Region Viamala",
+    "municipalMultiplierPercent": 90,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 10
+  },
+  {
+    "bfsNumber": 3962,
+    "name": "Schiers",
+    "district": "Region Prättigau / Davos",
+    "municipalMultiplierPercent": 109,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 13
+  },
+  {
+    "bfsNumber": 3782,
+    "name": "Celerina/Schlarigna",
+    "district": "Region Maloja",
+    "municipalMultiplierPercent": 50,
+    "churchMultiplierReformedLocalPercent": 14,
+    "churchMultiplierCatholicPercent": 6
+  },
+  {
+    "bfsNumber": 3582,
+    "name": "Schluein",
+    "district": "Region Surselva",
+    "municipalMultiplierPercent": 50,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 13
+  },
+  {
+    "bfsNumber": 3514,
+    "name": "Schmitten (GR)",
+    "district": "Region Albula",
+    "municipalMultiplierPercent": 100,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 15
+  },
+  {
+    "bfsNumber": 3762,
+    "name": "Scuol",
+    "district": "Region Engiadina Bassa / Val Müstair",
+    "municipalMultiplierPercent": 100,
+    "churchMultiplierReformedLocalPercent": 15,
+    "churchMultiplierCatholicPercent": 15
+  },
+  {
+    "bfsNumber": 3972,
+    "name": "Seewis im Prättigau",
+    "district": "Region Prättigau / Davos",
+    "municipalMultiplierPercent": 105,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 13
+  },
+  {
+    "bfsNumber": 3640,
+    "name": "Sils im Domleschg",
+    "district": "Region Viamala",
+    "municipalMultiplierPercent": 110,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 15
+  },
+  {
+    "bfsNumber": 3789,
+    "name": "Sils im Engadin/Segl",
+    "district": "Region Maloja",
+    "municipalMultiplierPercent": 70,
+    "churchMultiplierReformedLocalPercent": 14,
+    "churchMultiplierCatholicPercent": 6
+  },
+  {
+    "bfsNumber": 3790,
+    "name": "Silvaplana",
+    "district": "Region Maloja",
+    "municipalMultiplierPercent": 55,
+    "churchMultiplierReformedLocalPercent": 14,
+    "churchMultiplierCatholicPercent": 6
+  },
+  {
+    "bfsNumber": 3823,
+    "name": "Soazza",
+    "district": "Region Moesa",
+    "municipalMultiplierPercent": 60,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 13
+  },
+  {
+    "bfsNumber": 3985,
+    "name": "Sumvitg",
+    "district": "Region Surselva",
+    "municipalMultiplierPercent": 105,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 18
+  },
+  {
+    "bfsNumber": 3695,
+    "name": "Sufers",
+    "district": "Region Viamala",
+    "municipalMultiplierPercent": 75,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 16
+  },
+  {
+    "bfsNumber": 3733,
+    "name": "Tamins",
+    "district": "Region Imboden",
+    "municipalMultiplierPercent": 100,
+    "churchMultiplierReformedLocalPercent": 15.5,
+    "churchMultiplierCatholicPercent": 11
+  },
+  {
+    "bfsNumber": 3986,
+    "name": "Tujetsch",
+    "district": "Region Surselva",
+    "municipalMultiplierPercent": 90,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 15
+  },
+  {
+    "bfsNumber": 3668,
+    "name": "Thusis",
+    "district": "Region Viamala",
+    "municipalMultiplierPercent": 115,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 15
+  },
+  {
+    "bfsNumber": 3945,
+    "name": "Trimmis",
+    "district": "Region Landquart",
+    "municipalMultiplierPercent": 85,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 14
+  },
+  {
+    "bfsNumber": 3734,
+    "name": "Trin",
+    "district": "Region Imboden",
+    "municipalMultiplierPercent": 95,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 14
+  },
+  {
+    "bfsNumber": 3987,
+    "name": "Trun",
+    "district": "Region Surselva",
+    "municipalMultiplierPercent": 95,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 15
+  },
+  {
+    "bfsNumber": 3669,
+    "name": "Tschappina",
+    "district": "Region Viamala",
+    "municipalMultiplierPercent": 100,
+    "churchMultiplierReformedLocalPercent": 18,
+    "churchMultiplierCatholicPercent": 15
+  },
+  {
+    "bfsNumber": 3946,
+    "name": "Untervaz",
+    "district": "Region Landquart",
+    "municipalMultiplierPercent": 85,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 13
+  },
+  {
+    "bfsNumber": 3670,
+    "name": "Urmein",
+    "district": "Region Viamala",
+    "municipalMultiplierPercent": 80,
+    "churchMultiplierReformedLocalPercent": 18,
+    "churchMultiplierCatholicPercent": 15
+  },
+  {
+    "bfsNumber": 3603,
+    "name": "Vals",
+    "district": "Region Surselva",
+    "municipalMultiplierPercent": 95,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 15
+  },
+  {
+    "bfsNumber": 3506,
+    "name": "Vaz/Obervaz",
+    "district": "Region Albula",
+    "municipalMultiplierPercent": 70,
+    "churchMultiplierReformedLocalPercent": 9.5,
+    "churchMultiplierCatholicPercent": 15
+  },
+  {
+    "bfsNumber": 3746,
+    "name": "Zernez",
+    "district": "Region Engiadina Bassa / Val Müstair",
+    "municipalMultiplierPercent": 84,
+    "churchMultiplierReformedLocalPercent": 15,
+    "churchMultiplierCatholicPercent": 15
+  },
+  {
+    "bfsNumber": 3712,
+    "name": "Zillis-Reischen",
+    "district": "Region Viamala",
+    "municipalMultiplierPercent": 70,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 16
+  },
+  {
+    "bfsNumber": 3947,
+    "name": "Zizers",
+    "district": "Region Landquart",
+    "municipalMultiplierPercent": 80,
+    "churchMultiplierReformedLocalPercent": 16.5,
+    "churchMultiplierCatholicPercent": 11
+  },
+  {
+    "bfsNumber": 3791,
+    "name": "Zuoz",
+    "district": "Region Maloja",
+    "municipalMultiplierPercent": 80,
+    "churchMultiplierReformedLocalPercent": 14,
+    "churchMultiplierCatholicPercent": 6
+  },
+  {
+    "bfsNumber": 3542,
+    "name": "Albula/Alvra",
+    "district": "Region Albula",
+    "municipalMultiplierPercent": 100,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 15
+  },
+  {
+    "bfsNumber": 3837,
+    "name": "Calanca",
+    "district": "Region Moesa",
+    "municipalMultiplierPercent": 100,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 5
+  },
+  {
+    "bfsNumber": 3673,
+    "name": "Domleschg",
+    "district": "Region Viamala",
+    "municipalMultiplierPercent": 110,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 10
+  },
+  {
+    "bfsNumber": 3543,
+    "name": "Surses",
+    "district": "Region Albula",
+    "municipalMultiplierPercent": 90,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 15
+  },
+  {
+    "bfsNumber": 3988,
+    "name": "Obersaxen Mundaun",
+    "district": "Region Surselva",
+    "municipalMultiplierPercent": 95,
+    "churchMultiplierReformedLocalPercent": 12,
+    "churchMultiplierCatholicPercent": 16
+  },
+  {
+    "bfsNumber": 3544,
+    "name": "Bergün Filisur",
+    "district": "Region Albula",
+    "municipalMultiplierPercent": 100,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 15
+  },
+  {
+    "bfsNumber": 3714,
+    "name": "Rheinwald",
+    "district": "Region Viamala",
+    "municipalMultiplierPercent": 100,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 16
+  },
+  {
+    "bfsNumber": 3715,
+    "name": "Muntogna da Schons",
+    "district": "Region Viamala",
+    "municipalMultiplierPercent": 100,
+    "churchMultiplierReformedLocalPercent": 17,
+    "churchMultiplierCatholicPercent": 16
+  }
+]

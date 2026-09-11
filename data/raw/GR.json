@@ -1,0 +1,80 @@
+{
+  "canton": "GR",
+  "year": 2026,
+  "source": {
+    "incomeTax": "https://www.estv2.admin.ch/stp/kb/gr-de.pdf",
+    "wealthTax": "https://www.estv2.admin.ch/stp/kb/gr-de.pdf",
+    "multiplier": "https://www.gr.ch/DE/institutionen/verwaltung/dfg/stv/berechnen/Documents/gemeindesteuerfuesse2026.pdf",
+    "municipalData": "https://www.gr.ch/DE/institutionen/verwaltung/dfg/stv/berechnen/Documents/gemeindesteuerfuesse2026.pdf",
+    "steuergesetz": "https://www.gr-lex.gr.ch/api/de/versions/3555/pdf_file",
+    "bfsMunicipalityList": "internal file data/raw/bfs_municipalities_register.csv (eCH-0071 Gemeindestand, cross-checked name-for-name against the 100 rows of the gemeindesteuerfuesse2026.pdf list - exact 1:1 match, no gaps on either side)"
+  },
+  "incomeTaxBrackets": {
+    "single": [
+      { "from": 0, "rate": 0.0 },
+      { "from": 16895, "rate": 0.025 },
+      { "from": 17985, "rate": 0.04 },
+      { "from": 19075, "rate": 0.05 },
+      { "from": 20165, "rate": 0.06 },
+      { "from": 21255, "rate": 0.065 },
+      { "from": 22345, "rate": 0.07 },
+      { "from": 24525, "rate": 0.08 },
+      { "from": 31065, "rate": 0.085 },
+      { "from": 35425, "rate": 0.09 },
+      { "from": 39785, "rate": 0.095 },
+      { "from": 44145, "rate": 0.103 },
+      { "from": 65945, "rate": 0.106 },
+      { "from": 87745, "rate": 0.107 },
+      { "from": 109545, "rate": 0.112 },
+      { "from": 218545, "rate": 0.113 },
+      { "from": 327545, "rate": 0.114 },
+      { "from": 436545, "rate": 0.116 },
+      { "from": 780440, "rate": 0.11 }
+    ],
+    "married": [
+      { "from": 0, "rate": 0.0 },
+      { "from": 32101, "rate": 0.025 },
+      { "from": 34162, "rate": 0.04 },
+      { "from": 36243, "rate": 0.05 },
+      { "from": 38314, "rate": 0.06 },
+      { "from": 40385, "rate": 0.065 },
+      { "from": 42456, "rate": 0.07 },
+      { "from": 46598, "rate": 0.08 },
+      { "from": 59024, "rate": 0.085 },
+      { "from": 67308, "rate": 0.09 },
+      { "from": 75592, "rate": 0.095 },
+      { "from": 83876, "rate": 0.103 },
+      { "from": 125296, "rate": 0.106 },
+      { "from": 166716, "rate": 0.107 },
+      { "from": 208136, "rate": 0.112 },
+      { "from": 415236, "rate": 0.113 },
+      { "from": 622336, "rate": 0.114 },
+      { "from": 829636, "rate": 0.116 },
+      { "from": 1482836, "rate": 0.11 }
+    ]
+  },
+  "wealthTaxBrackets": {
+    "general": [
+      { "from": 0, "rate": 0.0009 },
+      { "from": 76300, "rate": 0.0011 },
+      { "from": 122080, "rate": 0.0014 },
+      { "from": 167860, "rate": 0.0015 },
+      { "from": 228900, "rate": 0.0016 },
+      { "from": 305200, "rate": 0.00185 },
+      { "from": 457800, "rate": 0.00215 },
+      { "from": 677980, "rate": 0.0017 }
+    ]
+  },
+  "wealthTaxRateUnit": "decimal",
+  "cantonalMultiplier": {
+    "value": 92,
+    "unit": "percent",
+    "appliedOnTop": true
+  },
+  "churchTax": {
+    "variesByMunicipality": true,
+    "reformed": 3.5,
+    "catholic": null
+  },
+  "notes": "YEAR: 2026 is the current, enacted tax period. Source is the ESTV 'Kantonsblatt Graubünden' (Stand Februar 2026, Steuerperiode 2026 figures) plus the canton's own 'Gemeindesteuerfüsse 2026' table (dated 23 January 2026, Kantonssteuerfuss 92% explicitly stated on its header) for the cantonal and municipal multipliers. MECHANISM: like AG/ZH, GR computes an 'einfache Kantonssteuer' (simple cantonal tax) from the bracket table in Art. 39 StG (income) / Art. 64 StG (wealth), then the Grosser Rat sets an annual cantonal multiplier ('Jährliches Vielfaches', Art. 3 StG) as a percent of that simple tax; municipalities and Kirchgemeinden each separately set their own multiplier on the SAME simple-tax base (cantonalMultiplier.appliedOnTop=true, and GR_municipalities.json's municipalMultiplier/churchMultiplier* fields are likewise percentages of the simple tax, summed independently, not stacked on each other). BRACKET TABLE QUIRK (real, verified, same structural pattern as Schwyz): both the income-tax (Art. 39 Abs. 1 StG) and wealth-tax (Art. 64 Abs. 1 StG) schedules are defined as a sequence of marginal brackets (items a-s for income, a-g for wealth) followed by a FINAL bracket (item t for income / item h for wealth) that is NOT marginal: it specifies a flat AVERAGE rate applied to the WHOLE taxable amount once a threshold is exceeded, and that flat rate is LOWER than the marginal rate of the bracket immediately below it (income: 11.0% flat vs 11.6% marginal in the previous bracket; wealth: 1.7 permille flat vs 2.15 permille marginal in the previous bracket). This was verified for both self-consistency (the flat-rate threshold in each case equals exactly the sum of all the preceding bracket widths: 780'440 for income, 677'980 for wealth) and continuity (tax computed via marginal-bracket summation at the threshold matches tax computed via threshold*flatRate to within a few CHF, i.e. rounding noise only) - this is a genuine anti-cliff design, not a data error, and a correct implementation MUST special-case income/wealth above the threshold as flatRate*fullAmount rather than continuing to sum marginal brackets. INDEXATION: all bracket thresholds shown above are the INDEXED amounts 'gültig ab Steuerperiode 2025' (per the source's own footnote) - i.e. these indexed thresholds were last adjusted for the 2025 tax period and remained unchanged for 2026 (GR indexes brackets only when cumulative CPI drift reaches +/-3%, per Art. 4 StG 'Kalte Progression'; no re-indexation trigger fired between 2025 and 2026), so they are still the correct, currently-valid 2026 thresholds. Certain flat-CHF deductions (Kinderabzug, Unterstützungsabzug) WERE re-indexed for 2026 specifically per the source, but those are deduction amounts affecting taxable income, not the rate-bracket thresholds themselves, and are not modeled in this dataset (only pre-deduction bracket tables are in scope here). MARRIED / SPLITTING: GR does NOT publish a separate married bracket table. Art. 39 Abs. 2 StG: 'Zur Ermittlung des Steuersatzes von gemeinsam steuerpflichtigen Ehegatten wird das steuerbare Einkommen durch den Divisor von 1.9 geteilt' - a rate-determining divisor (not a true income-splitting deduction): the AVERAGE rate is looked up using (income/1.9) against the single/Art.39 table, and that rate is then applied to the FULL (undivided) income. This is mathematically equivalent to scaling every single-table breakpoint threshold by x1.9 while keeping the same marginal rates (same proof as used for Schwyz, which coincidentally also uses a 1.9 divisor). The 'married' array above was derived this way (single thresholds x 1.9, rounded to the nearest whole franc) and is NOT an official published table - verify against the canton's own married-tariff calculator before relying on it for precision-critical use. The same divisor also determines the extended 'Verheiratetentarif' rate-lookup for unmarried taxpayers who support dependent children/persons in their household (Art. 39 Abs. 3 StG) - not modeled separately here. Note the top-bracket flat-rate quirk described above also transfers proportionally: the married schedule's flat 11.0% top rate now kicks in at income > CHF 1'482'836 (=780'440 x 1.9). WEALTH TAX: same single bracket table applies to all filers (no separate married wealth schedule) - the difference for married couples is only in the deduction/exemption amounts (Art. 63 StG: CHF 138'000 exempt for jointly-taxed spouses vs CHF 69'000 for others, both 2026-indexed; not modeled in the bracket table itself, consistent with how deductions are handled elsewhere in this dataset). RATES CONVERTED: wealth-tax source rates were in permille (e.g. 0.9 permille, 2.15 permille) and have been converted to decimal per wealthTaxRateUnit (0.9 permille -> 0.0009, etc.). CHURCH TAX - REAL TWO-TIER QUIRK FOR THE REFORMED CHURCH: the source table ('Gemeindesteuerfüsse 2026') has FIVE columns per municipality: Gemeindesteuerfuss, 'Evang. Kirche' (local Reformed parish rate, varies 9.5%-20.5% by municipality), 'Evang.Kant. Kirche' (a SEPARATE, perfectly uniform 3.5% rate in every single one of the 100 rows - the Evangelisch-reformierte Landeskirche Graubünden's own CANTON-WIDE surcharge), and 'Kath. Kirche' (local Catholic parish rate, varies 5%-20% by municipality, with NO equivalent cantonal-level Catholic layer in this source). This means a Reformed taxpayer's TOTAL church-tax multiplier = churchMultiplierReformed (local, per GR_municipalities.json) + 3.5 (uniform cantonal Landeskirche layer, canton.churchTax.reformed field above) - both expressed as percent of the einfache Steuer and simply summed (same additive pattern as SZ's Bezirk+Gemeinde). Catholic taxpayers only pay the local churchMultiplierCatholic figure (canton.churchTax.catholic left null - there is no uniform cantonal number to report; only per-municipality local rates exist, captured in GR_municipalities.json). MULTI-PARISH MUNICIPALITIES: a handful of the 100 current (post-2016 Region-merger) municipalities are internally still split into multiple historical Kirchgemeinde/parish areas with DIFFERENT local church rates for the same civil municipality (e.g. Davos: Davos Platz/Dischma/Clavadel at 13% Evang. vs Dorf/Wolfgang/Laret at 11% vs Frauenkirch/Glaris/Monstein/Sertig/Wiesen at 17%, all under municipalSteuerfuss 95%; similarly Chur, Churwalden, Ilanz/Glion, Landquart, Luzein, Scuol and others have internal parish-level variation). Since the app schema allows only ONE church rate per municipality, GR_municipalities.json uses the FIRST-listed sub-parish's rate as a representative value for these municipalities - flag clearly to any developer needing address-level precision that a handful of large/merged GR municipalities have parish-level church-tax variation not fully captured here. MUNICIPALITY LIST: the source's 100 top-level rows (identified by having a PLZ+internal Steuerverwaltungs-Nr., as opposed to indented parish/fraction sub-rows) were matched 1:1 by name against the canton's official 100-row BFS municipality register with zero unmatched rows on either side, confirming complete current coverage (GR's post-2016 Region reorganization and ongoing municipal mergers are already reflected in both sources). A few names differ cosmetically between the tax-fuess table and the BFS register (tax-fuess name -> BFS register name): 'Landquart/Igis'->'Landquart', 'Medel/Lucmagn'->'Medel (Lucmagn)', 'Safien/Tenna/Versam'->'Safiental', 'Roveredo'->'Roveredo (GR)', 'Valsot/Ramosch/Tschlin'->'Valsot', 'Sta. Maria i.C.'->'Santa Maria in Calanca', 'Celerina'->'Celerina/Schlarigna', 'Schmitten'->'Schmitten (GR)', 'Seewis i.P.'->'Seewis im Prättigau', 'Sils i.D.'->'Sils im Domleschg', 'Sils i.E.'->'Sils im Engadin/Segl', 'Tujetsch/Sedrun'->'Tujetsch', 'Zillis'->'Zillis-Reischen', 'Calanca/Arvigo'->'Calanca'; the 'district' field in GR_municipalities.json uses the BFS register's post-2016 'Region ...' names (11 regions), per the task's note that Graubünden replaced its ~39 Kreise/11 Bezirke with 11 Regionen in 2016."
+}

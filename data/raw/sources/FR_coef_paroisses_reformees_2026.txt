@@ -1,0 +1,180 @@
+                    Coefficients d'impôt des paroisses réformées, par commune, état au 1er août 2026
+                    Steuerfüsse der reformierten Pfarreien nach Gemeinde, Stand am 1. August 2026
+                    —
+                   En % de l'impôt cantonal de base / In % der einfachen Kantonssteuer
+
+
+                                                                                         Personnes physiques / Natürliche Personen       Personnes morales / Juristische Personen
+                                                                                           Impôt sur le revenu    Impôt sur la fortune    Impôt sur le bénéfice    Impôt sur le capital
+                                                                                               Steuer auf dem         Steuer auf dem                Steuer auf         Steuer auf dem
+                   Commune / Gemeinde                        Paroisse / Pfarrei                   Einkommen                Vermögen               dem Gewinn                   Kapital
+
+
+                   Broye / Broye
+                   Belmont-Broye                             Estavayer-le-Lac                             9.0                    20.0                      8.0                      10.0
+                   Châtillon (FR)                            Estavayer-le-Lac                             9.0                    20.0                      8.0                      10.0
+                   Cheyres-Châbles                           Estavayer-le-Lac                             9.0                    20.0                      8.0                      10.0
+                   Cugy (FR)                                 Estavayer-le-Lac                             9.0                    20.0                      8.0                      10.0
+                   Delley-Portalban                          Estavayer-le-Lac                             9.0                    20.0                      8.0                      10.0
+                   Estavayer                                 Estavayer-le-Lac                             9.0                    20.0                      8.0                      10.0
+                   Fétigny-Ménières                          Estavayer-le-Lac                             9.0                    20.0                      8.0                      10.0
+                   Gletterens                                Estavayer-le-Lac                             9.0                    20.0                      8.0                      10.0
+                   Lully (FR)                                Estavayer-le-Lac                             9.0                    20.0                      8.0                      10.0
+                   Montagny (FR)                             Estavayer-le-Lac                             9.0                    20.0                      8.0                      10.0
+                   Les Montets                               Estavayer-le-Lac                             9.0                    20.0                      8.0                      10.0
+                   Nuvilly                                   Estavayer-le-Lac                             9.0                    20.0                      8.0                      10.0
+                   Prévondavaux                              Estavayer-le-Lac                             9.0                    20.0                      8.0                      10.0
+                   Saint-Aubin (FR)                          Estavayer-le-Lac                             9.0                    20.0                      8.0                      10.0
+                   Sévaz                                     Estavayer-le-Lac                             9.0                    20.0                      8.0                      10.0
+                   Surpierre                                 Estavayer-le-Lac                             9.0                    20.0                      8.0                      10.0
+                   Vallon                                    Estavayer-le-Lac                             9.0                    20.0                      8.0                      10.0
+
+
+                   Glâne / Glane
+                   Billens-Hennens                           La Glâne - Romont                           10.0                    20.0                     10.0                      10.0
+                   Le Châtelard                              La Glâne - Romont                           10.0                    20.0                     10.0                      10.0
+                   Châtonnaye                                La Glâne - Romont                           10.0                    20.0                     10.0                      10.0
+                   Grangettes                                La Glâne - Romont                           10.0                    20.0                     10.0                      10.0
+                   Massonnens                                La Glâne - Romont                           10.0                    20.0                     10.0                      10.0
+                   Mézières (FR)                             La Glâne - Romont                           10.0                    20.0                     10.0                      10.0
+                   Romont (FR)                               La Glâne - Romont                           10.0                    20.0                     10.0                      10.0
+                   Rue                                       La Glâne - Romont                           10.0                    20.0                     10.0                      10.0
+                   Siviriez                                  La Glâne - Romont                           10.0                    20.0                     10.0                      10.0
+                   Torny                                     La Glâne - Romont                           10.0                    20.0                     10.0                      10.0
+                   Ursy                                      La Glâne - Romont                           10.0                    20.0                     10.0                      10.0
+                   Villaz                                    La Glâne - Romont                           10.0                    20.0                     10.0                      10.0
+                   Villorsonnens                             La Glâne - Romont                           10.0                    20.0                     10.0                      10.0
+                   Vuisternens-devant-Romont                 La Glâne - Romont                           10.0                    20.0                     10.0                      10.0
+
+
+                   Gruyère / Greyerz
+                   Bas-Intyamon                              Bulle - La Gruyère                           9.0                    20.0                      9.0                      10.0
+                   Botterens                                 Bulle - La Gruyère                           9.0                    20.0                      9.0                      10.0
+                   Broc                                      Bulle - La Gruyère                           9.0                    20.0                      9.0                      10.0
+                   Bulle                                     Bulle - La Gruyère                           9.0                    20.0                      9.0                      10.0
+                   Châtel-sur-Montsalvens                    Bulle - La Gruyère                           9.0                    20.0                      9.0                      10.0
+                   Corbières                                 Bulle - La Gruyère                           9.0                    20.0                      9.0                      10.0
+                   Crésuz                                    Bulle - La Gruyère                           9.0                    20.0                      9.0                      10.0
+                   Echarlens                                 Bulle - La Gruyère                           9.0                    20.0                      9.0                      10.0
+                   Grandvillard                              Bulle - La Gruyère                           9.0                    20.0                      9.0                      10.0
+                   Gruyères                                  Bulle - La Gruyère                           9.0                    20.0                      9.0                      10.0
+                   Hauteville                                Bulle - La Gruyère                           9.0                    20.0                      9.0                      10.0
+                   Haut-Intyamon                             Bulle - La Gruyère                           9.0                    20.0                      9.0                      10.0
+                   Jaun                                      Bulle - La Gruyère                           9.0                    20.0                      9.0                      10.0
+                   Marsens                                   Bulle - La Gruyère                           9.0                    20.0                      9.0                      10.0
+                   Morlon                                    Bulle - La Gruyère                           9.0                    20.0                      9.0                      10.0
+                   Le Pâquier (FR)                           Bulle - La Gruyère                           9.0                    20.0                      9.0                      10.0
+                   Pont-en-Ogoz                              Bulle - La Gruyère                           9.0                    20.0                      9.0                      10.0
+                   Pont-la-Ville                             Bulle - La Gruyère                           9.0                    20.0                      9.0                      10.0
+                   Riaz                                      Bulle - La Gruyère                           9.0                    20.0                      9.0                      10.0
+                   La Roche                                  Bulle - La Gruyère                           9.0                    20.0                      9.0                      10.0
+                   Sâles                                     Bulle - La Gruyère                           9.0                    20.0                      9.0                      10.0
+                   Sorens                                    Bulle - La Gruyère                           9.0                    20.0                      9.0                      10.0
+                   Val-de-Charmey                            Bulle - La Gruyère                           9.0                    20.0                      9.0                      10.0
+                   Vaulruz                                   Bulle - La Gruyère                           9.0                    20.0                      9.0                      10.0
+                   Vuadens                                   Bulle - La Gruyère                           9.0                    20.0                      9.0                      10.0
+
+
+
+
+Service de la statistique et de la donnée du canton de Fribourg
+J:\Outils\Coefficients d'impots\2026\coef_impots_reformes_2026-17.08.2026-12:26                                                                                                            1/2
+                    Coefficients d'impôt des paroisses réformées, par commune, état au 1er août 2026
+                    Steuerfüsse der reformierten Pfarreien nach Gemeinde, Stand am 1. August 2026
+                    —
+                   En % de l'impôt cantonal de base / In % der einfachen Kantonssteuer
+
+
+                                                                                               Personnes physiques / Natürliche Personen         Personnes morales / Juristische Personen
+                                                                                                 Impôt sur le revenu    Impôt sur la fortune      Impôt sur le bénéfice    Impôt sur le capital
+                                                                                                     Steuer auf dem         Steuer auf dem                  Steuer auf         Steuer auf dem
+                   Commune / Gemeinde                        Paroisse / Pfarrei                         Einkommen                Vermögen                 dem Gewinn                   Kapital
+
+
+
+
+                   Sarine / Saane
+                   Autigny                                   Fribourg                                           9.0                    10.0                       10.0                      10.0
+                   Avry                                      Fribourg                                           9.0                    10.0                       10.0                      10.0
+                   Belfaux                                   Fribourg                                           9.0                    10.0                       10.0                      10.0
+                   Bois-d'Amont                              Fribourg                                           9.0                    10.0                       10.0                      10.0
+                   La Brillaz                                Fribourg                                           9.0                    10.0                       10.0                      10.0
+                   Chénens                                   Fribourg                                           9.0                    10.0                       10.0                      10.0
+                   Corminboeuf                               Fribourg                                           9.0                    10.0                       10.0                      10.0
+                   Cottens (FR)                              Fribourg                                           9.0                    10.0                       10.0                      10.0
+                   Ferpicloz                                 Fribourg                                           9.0                    10.0                       10.0                      10.0
+                   Fribourg / Freiburg                       Fribourg                                           9.0                    10.0                       10.0                      10.0
+                   Gibloux                                   Fribourg                                           9.0                    10.0                       10.0                      10.0
+                   Givisiez                                  Fribourg                                           9.0                    10.0                       10.0                      10.0
+                   Granges-Paccot                            Fribourg                                           9.0                    10.0                       10.0                      10.0
+                   Grolley-Ponthaux                          Fribourg                                           9.0                    10.0                       10.0                      10.0
+                   Hauterive (FR)                            Fribourg                                           9.0                    10.0                       10.0                      10.0
+                   Marly                                     Fribourg                                           9.0                    10.0                       10.0                      10.0
+                   Matran                                    Fribourg                                           9.0                    10.0                       10.0                      10.0
+                   Le Mouret                                 Fribourg                                           9.0                    10.0                       10.0                      10.0
+                   Neyruz (FR)                               Fribourg                                           9.0                    10.0                       10.0                      10.0
+                   Pierrafortscha                            Fribourg                                           9.0                    10.0                       10.0                      10.0
+                   Prez                                      Fribourg                                           9.0                    10.0                       10.0                      10.0
+                   La Sonnaz                                 Fribourg                                           9.0                    10.0                       10.0                      10.0
+                   Treyvaux                                  Fribourg                                           9.0                    10.0                       10.0                      10.0
+                   Villars-sur-Glâne                         Fribourg                                           9.0                    10.0                       10.0                      10.0
+                   Villarsel-sur-Marly                       Fribourg                                           9.0                    10.0                       10.0                      10.0
+
+
+                   See / Lac
+                   Courgevaux                                Meyriez                                           10.0                    10.0                       10.0                      10.0
+                   Courtepin                                 Cordast                                           11.5                    11.5                       10.0                      10.0
+                   Cressier (FR)                             Cordast                                           11.5                    11.5                       10.0                      10.0
+                   Fräschels                                 Kerzers                                            9.5                        9.5                     9.5                       9.5
+                   Greng                                     Meyriez                                           10.0                    10.0                       10.0                      10.0
+                   Gurmels                                   Cordast                                           11.5                    11.5                       10.0                      10.0
+                                                             Ferenbalm                                          9.0                        9.0                    10.0                      10.0
+                   Kerzers                                   Kerzers                                            9.5                        9.5                     9.5                       9.5
+                   Kleinbösingen                             Cordast                                           11.5                    11.5                       10.0                      10.0
+                   Meyriez                                   Meyriez                                           10.0                    10.0                       10.0                      10.0
+                   Misery-Courtion                           Cordast                                           11.5                    11.5                       10.0                      10.0
+                   Mont-Vully                                Môtier – Vully                                    10.0                    10.0                       10.0                      10.0
+                   Muntelier                                 Murten                                             9.0                        9.0                     9.0                       9.0
+                   Murten / Morat                            Ferenbalm                                          9.0                        9.0                    10.0                      10.0
+                                                             Meyriez                                           10.0                    10.0                       10.0                      10.0
+                                                             Murten                                             9.0                        9.0                     9.0                       9.0
+                   Ried bei Kerzers                          Ferenbalm                                          9.0                        9.0                    10.0                      10.0
+                                                             Murten                                             9.0                        9.0                     9.0                       9.0
+
+
+                   Singine / Sense
+                   Bösingen                                  Bösingen                                          11.5                    20.0                       10.0                      10.0
+                   Brünisried                                Weissenstein/Rechthalten                          11.5                    20.0                       10.0                      10.0
+                   Düdingen                                  Düdingen                                          10.0                    15.0                       10.0                      10.0
+                                                             St. Antoni                                        10.0                    10.0                       10.0                      10.0
+                   Giffers                                   Weissenstein/Rechthalten                          11.5                    20.0                       10.0                      10.0
+                   Heitenried                                St. Antoni                                        10.0                    10.0                       10.0                      10.0
+                   Plaffeien                                 Weissenstein/Rechthalten                          11.5                    20.0                       10.0                      10.0
+                   Plasselb                                  Weissenstein/Rechthalten                          11.5                    20.0                       10.0                      10.0
+                   Rechthalten                               Weissenstein/Rechthalten                          11.5                    20.0                       10.0                      10.0
+                   St. Silvester                             Weissenstein/Rechthalten                          11.5                    20.0                       10.0                      10.0
+                   St. Ursen                                 Weissenstein/Rechthalten                          11.5                    20.0                       10.0                      10.0
+                   Schmitten (FR)                            St. Antoni                                        10.0                    10.0                       10.0                      10.0
+                   Tafers                                    St. Antoni                                        10.0                    10.0                       10.0                      10.0
+                   Tentlingen                                Weissenstein/Rechthalten                          11.5                    20.0                       10.0                      10.0
+                   Ueberstorf                                Wünnewil – Flamatt – Ueberstorf                   10.0                    15.0                       10.0                      10.0
+                   Wünnewil-Flamatt                          Wünnewil – Flamatt – Ueberstorf                   10.0                    15.0                       10.0                      10.0
+
+
+                   Veveyse / Vivisbach
+                   Attalens                                  Châtel-St-Denis - La Veveyse                      10.0                    20.0                       10.0                      10.0
+                   Bossonnens                                Châtel-St-Denis - La Veveyse                      10.0                    20.0                       10.0                      10.0
+                   Châtel-Saint-Denis                        Châtel-St-Denis - La Veveyse                      10.0                    20.0                       10.0                      10.0
+                   Le Flon                                   Châtel-St-Denis - La Veveyse                      10.0                    20.0                       10.0                      10.0
+                   Granges (Veveyse)                         Châtel-St-Denis - La Veveyse                      10.0                    20.0                       10.0                      10.0
+                   Remaufens                                 Châtel-St-Denis - La Veveyse                      10.0                    20.0                       10.0                      10.0
+                   Saint-Martin (FR)                         Châtel-St-Denis - La Veveyse                      10.0                    20.0                       10.0                      10.0
+                   Semsales                                  Châtel-St-Denis - La Veveyse                      10.0                    20.0                       10.0                      10.0
+                   La Verrerie                               Châtel-St-Denis - La Veveyse                      10.0                    20.0                       10.0                      10.0
+
+
+
+
+Service de la statistique et de la donnée du canton de Fribourg
+J:\Outils\Coefficients d'impots\2026\coef_impots_reformes_2026-17.08.2026-12:26                                                                                                                    2/2
+
