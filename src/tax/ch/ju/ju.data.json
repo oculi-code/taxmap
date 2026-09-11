@@ -1,0 +1,94 @@
+{
+  "year": 2025,
+  "incomeTax": {
+    "single": [
+      {
+        "from": 0,
+        "rate": 0
+      },
+      {
+        "from": 6800,
+        "rate": 0.01667
+      },
+      {
+        "from": 14600,
+        "rate": 0.03149
+      },
+      {
+        "from": 28600,
+        "rate": 0.04029
+      },
+      {
+        "from": 50400,
+        "rate": 0.04909
+      },
+      {
+        "from": 92500,
+        "rate": 0.05558
+      },
+      {
+        "from": 204900,
+        "rate": 0.05789
+      }
+    ],
+    "married": [
+      {
+        "from": 0,
+        "rate": 0
+      },
+      {
+        "from": 12600,
+        "rate": 0.0088
+      },
+      {
+        "from": 18800,
+        "rate": 0.02269
+      },
+      {
+        "from": 28100,
+        "rate": 0.03242
+      },
+      {
+        "from": 48400,
+        "rate": 0.04122
+      },
+      {
+        "from": 90500,
+        "rate": 0.04771
+      },
+      {
+        "from": 202900,
+        "rate": 0.05697
+      },
+      {
+        "from": 437200,
+        "rate": 0.05789
+      }
+    ]
+  },
+  "wealthTax": [
+    {
+      "from": 0,
+      "rate": 0.0005
+    },
+    {
+      "from": 112000,
+      "rate": 0.00075
+    },
+    {
+      "from": 448000,
+      "rate": 0.00095
+    },
+    {
+      "from": 841000,
+      "rate": 0.0011
+    },
+    {
+      "from": 1683000,
+      "rate": 0.0012
+    }
+  ],
+  "wealthExemptionThreshold": 58000,
+  "cantonalMultiplierFactor": 2.85,
+  "churchReformedRate": 0.081
+}

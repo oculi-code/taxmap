@@ -1,0 +1,83 @@
+{
+  "canton": "ZH",
+  "year": 2026,
+  "source": {
+    "incomeTax": "https://www.estv2.admin.ch/stp/kb/zh-de.pdf",
+    "wealthTax": "https://www.estv2.admin.ch/stp/kb/zh-de.pdf",
+    "multiplier": "https://www.kantonsrat.zh.ch/geschaefte/geschaeft/?id=41c4779b492a4513bfe3b2444b360ab9",
+    "municipalData": "https://opendata.swiss/de/dataset/steuerfusse-der-zurcher-gemeinden-fur-naturliche-und-juristische-personen"
+  },
+  "incomeTaxBrackets": {
+    "single": [
+      { "from": 0, "rate": 0 },
+      { "from": 7000, "rate": 0.02 },
+      { "from": 12000, "rate": 0.03 },
+      { "from": 16800, "rate": 0.04 },
+      { "from": 24800, "rate": 0.05 },
+      { "from": 34500, "rate": 0.06 },
+      { "from": 45700, "rate": 0.07 },
+      { "from": 58800, "rate": 0.08 },
+      { "from": 76400, "rate": 0.09 },
+      { "from": 110400, "rate": 0.10 },
+      { "from": 144100, "rate": 0.11 },
+      { "from": 197400, "rate": 0.12 },
+      { "from": 266700, "rate": 0.13 }
+    ],
+    "married": [
+      { "from": 0, "rate": 0 },
+      { "from": 14100, "rate": 0.02 },
+      { "from": 20500, "rate": 0.03 },
+      { "from": 28600, "rate": 0.04 },
+      { "from": 38400, "rate": 0.05 },
+      { "from": 49600, "rate": 0.06 },
+      { "from": 64100, "rate": 0.07 },
+      { "from": 96300, "rate": 0.08 },
+      { "from": 128700, "rate": 0.09 },
+      { "from": 177200, "rate": 0.10 },
+      { "from": 235100, "rate": 0.11 },
+      { "from": 298000, "rate": 0.12 },
+      { "from": 370600, "rate": 0.13 }
+    ]
+  },
+  "wealthTaxBrackets": {
+    "general": [
+      { "from": 0, "rate": 0 },
+      { "from": 81000, "rate": 0.0005 },
+      { "from": 322000, "rate": 0.001 },
+      { "from": 726000, "rate": 0.0015 },
+      { "from": 1371000, "rate": 0.002 },
+      { "from": 2339000, "rate": 0.0025 },
+      { "from": 3304000, "rate": 0.003 }
+    ],
+    "single": [
+      { "from": 0, "rate": 0 },
+      { "from": 81000, "rate": 0.0005 },
+      { "from": 322000, "rate": 0.001 },
+      { "from": 726000, "rate": 0.0015 },
+      { "from": 1371000, "rate": 0.002 },
+      { "from": 2339000, "rate": 0.0025 },
+      { "from": 3304000, "rate": 0.003 }
+    ],
+    "married": [
+      { "from": 0, "rate": 0 },
+      { "from": 161000, "rate": 0.0005 },
+      { "from": 403000, "rate": 0.001 },
+      { "from": 805000, "rate": 0.0015 },
+      { "from": 1451000, "rate": 0.002 },
+      { "from": 2418000, "rate": 0.0025 },
+      { "from": 3385000, "rate": 0.003 }
+    ]
+  },
+  "wealthTaxRateUnit": "decimal",
+  "cantonalMultiplier": {
+    "value": 95,
+    "unit": "percent",
+    "appliedOnTop": true
+  },
+  "churchTax": {
+    "variesByMunicipality": true,
+    "reformed": null,
+    "catholic": null
+  },
+  "notes": "MECHANISM: ZH computes a bracket-based 'einfache Staatssteuer' (simple state tax) per § 35 StG (income) and § 47 StG (wealth), then applies THREE separate multipliers on top, each expressed as a percentage of the einfache Steuer: (1) the cantonal multiplier (Staatssteuerfuss), set by the Kantonsrat for 2-year periods -- 98% for 2024-2025, reduced to 95% for 2026-2027 (largest cut in >20 years, enacted Dec 2025); (2) each Gemeinde's own municipal multiplier (Gemeindesteuerfuss), ranging roughly 72-129% and set annually by each municipality; (3) each Kirchgemeinde's own multiplier (varies by municipality/parish, 0 if no religious affiliation or 'konfessionslos'). Total simple tax x (cantonal% + municipal% + church%) = total tax owed (all three percentages summed and applied to the same base, they are NOT compounded/multiplied against each other). WEALTH TAX: ZH, unlike most cantons, ALSO splits its wealth tax schedule into a Grundtarif (single) and Verheiratetentarif (married) -- not a single unified 'general' table -- so both are provided; 'general' duplicates 'single' for schema compatibility. INCOME TAX: ZH does NOT use a splitting divisor; married/jointly-taxed couples and single parents with children use a wholly separate, less steep bracket table (Verheiratetentarif, § 35 Abs. 2) rather than a divisor applied to the single schedule. BRACKETS: figures are 'gültig ab Steuerperiode 2026' per the ESTV Kantonsblatt Zürich (Stand Februar 2026), i.e. these are the current, already-enacted 2026 brackets (indexed for kalte Progression), which supersede the 2025 brackets. All breakpoints were derived by cumulative-summing the canton's official per-segment 'Fr. X for the next Fr. Y' bracket table (§ 35 Abs. 1/2 StG, § 47 Abs. 1/2 StG) into marginal-rate thresholds; monotonicity verified. Deductions (Sozialabzüge, Kinderabzug, etc.) are NOT included in this data -- these bracket tables apply to steuerbares Einkommen/Vermögen (taxable income/wealth) after all deductions. CANTONAL MULTIPLIER SOURCE: news reporting (Tagesanzeiger, 20min, Blick, SRF, swissinfo, Sept 2026) confirms the Kantonsrat's Dec 2025 vote cutting the Staatssteuerfuss from 98% to 95% for 2026/2027; could not locate a single canonical zh.ch page stating the bare number, so 'multiplier' source points to the Kantonsrat Geschäft page. MUNICIPAL DATA: full current (2026, 'definitiv' status) dataset for all 160 ZH municipalities from the canton's own opendata.swiss CSV (kanton_zuerich_stf_aktuell.csv). Church multipliers were derived by subtracting the municipal-only multiplier (STF_O_KIRCHE) from the combined municipal+church totals (STF_REF, STF_KATH) given per row; a small number of rows show DIFF columns indicating recent changes, not reflected here (only current-year absolute values used). Christ-catholic (christkatholisch) multipliers exist in the source (STF_CKRKATH) but were not carried into the municipality output since the task only requested reformed/catholic. DISTRICT (Bezirk) could not be confirmed from the available municipal dataset (it only carries BFS numbers, not Bezirk names) within the scope of this research pass, so 'district' is null for all ZH municipalities rather than guessed -- ZH has 12 Bezirke (Affoltern, Andelfingen, Bülach, Dielsdorf, Dietikon, Hinwil, Horgen, Meilen, Pfäffikon, Uster, Winterthur, Zürich) and a verified BFS-Nr-to-Bezirk crosswalk should be added separately."
+}

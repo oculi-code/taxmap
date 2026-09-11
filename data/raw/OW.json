@@ -1,0 +1,35 @@
+{
+  "canton": "OW",
+  "year": 2026,
+  "source": {
+    "incomeTax": "https://www.estv2.admin.ch/stp/kb/ow-de.pdf",
+    "wealthTax": "https://www.estv2.admin.ch/stp/kb/ow-de.pdf",
+    "multiplier": "https://www.ow.ch/publikationen/8258",
+    "municipalData": "https://www.ow.ch/publikationen/8258"
+  },
+  "incomeTaxBrackets": {
+    "single": [
+      { "from": 0, "rate": 0.018 }
+    ],
+    "married": [
+      { "from": 0, "rate": 0.018 }
+    ]
+  },
+  "wealthTaxBrackets": {
+    "general": [
+      { "from": 0, "rate": 0.0002 }
+    ]
+  },
+  "wealthTaxRateUnit": "decimal",
+  "cantonalMultiplier": {
+    "value": 3.25,
+    "unit": "einheiten",
+    "appliedOnTop": true
+  },
+  "churchTax": {
+    "variesByMunicipality": true,
+    "reformed": 0.54,
+    "catholic": null
+  },
+  "notes": "YEAR CHOICE: Used 2026. Both the ESTV Kantonsblatt Obwalden (Stand Februar 2026) and the official ow.ch 'Steuerfuesse 2001-2026' comparison table (fetched live from https://www.ow.ch/publikationen/8258, saved as OW_steuerfuesse_2001_2026.html) publish a 'Steuerperiode 2026' column that is already in force; that column was used throughout (verified byte-for-byte against the underlying HTML, not just an LLM summary of the page). A 'Steuerperiode 2025' column on the same page was cross-checked and is identical to 2026 for every municipality/canton figure except Engelberg's one-year-only 2026 rebate (see below). CONFIRMED, GENUINE FLAT-RATE SYSTEM (matches the task prompt's hint that Obwalden is known for this): Art. 38 Abs. 1 StG sets the cantonal 'einfache Steuer' on taxable income at a flat 1,8 Prozent -- literally 'Die einfache Steuer vom steuerbaren Einkommen fuer ein Steuerjahr betraegt 1,8 Prozent', with explicit wording in Abs. 2 that 'Diese Ansaetze gelten jeweils fuer den ganzen steuerbaren Einkommensbetrag' (this single rate applies to the WHOLE taxable amount, i.e. genuinely flat, not a bracket schedule). Art. 55 StG sets the wealth tax 'einfache Steuer' flat at 0,2 Promille. As with UR, there is no splitting divisor and no separate married tariff -- family relief comes entirely from fixed-CHF deductions: income tax gets no marital-status deduction difference documented in the Kantonsblatt beyond the CHF 3'400 two-earner deduction (Art. 35-ish) and per-status exemptions; wealth tax explicitly deducts CHF 50'000 for married-jointly-taxed couples vs CHF 25'000 for everyone else (Art. 54 StG), plus CHF 10'000 per child. The 'married' bracket array is therefore identical to 'single' (both single-entry [{from:0, rate:...}]) per the task spec's convention for flat-rate cantons -- real progressivity/family relief lives in the (not modeled here) deduction amounts. MULTIPLIER UNIT QUIRK -- 'EINHEITEN' NOT PERCENT, AND A LAYERED CANTONAL SPECIAL-PURPOSE SURTAX: unlike most cantons, Obwalden's Steuerfuss is expressed in 'Einheiten' (a factor, NOT a percentage: canton multiplies its einfache Steuer by a raw factor rather than a per-100 percentage) -- Art. 2 Abs. 3 StG: 'Der Steuerfuss der Kantonssteuer betraegt 3,15 Einheiten'. On top of that base 3,15, ALL municipalities carry an additional +0,10 Einheiten cantonal 'Zwecksteuer Hochwasserschutz Kanton' (earmarked flood-protection purpose-tax, footnote 2 in the source table), making the TRUE effective 2026 cantonal multiplier 3,25 Einheiten (stored as cantonalMultiplier.value=3.25; a developer who only applies 3.15 will underclock every bill by this flood levy). A parallel Art. 2 Abs. 5 StG allows the Kantonsrat to grant a discretionary rebate of up to 0,3 Einheiten in good financial years, but the 2026 table shows NO such cantonal-level rebate applied (full 3.15+0.10 charged) -- only Engelberg has a local rebate (see below). MUNICIPAL-LEVEL SPECIAL LEVIES (same 'stacking' pattern repeats locally): Sarnen's municipal multiplier of 3,76 Einheiten carries its OWN +0,10 'Zwecksteuer Hochwasserschutz Gemeinde' (footnote 1) -> effective 3.86; Sachseln's 4,45 carries a +0,25 earmarked 'Zwecksteuer Gemeinde: Sachseln Schulhaus' (school-building special tax, footnote 3) -> effective 4.70; Engelberg's 4,85 carries a ONE-YEAR-ONLY -0,20 'auf Steuerperiode 2026 beschraenkter Steuerrabatt' (footnote 4, expires after 2026) -> effective 4.65 for 2026 only, developers updating this data for 2027 should expect Engelberg's multiplier to revert upward. The municipalMultiplier values stored in OW_municipalities.json are these ALL-IN combined totals (base + any special levy), not the bare headline figure, since that is what actually gets billed; the breakdown for each is: Sarnen 3.86 (=3.76+0.10), Kerns 4.70 (flat, no add-on), Sachseln 4.70 (=4.45+0.25), Alpnach 4.85, Giswil 4.85, Lungern 5.25, Engelberg 4.65 (=4.85-0.20, 2026-only). CHURCH TAX MECHANISM -- CHURCH ALSO USES THE SAME 'EINHEITEN' STACKING (adds directly into the same total, confirmed by reproducing every published 'Total katholisch'/'Total reformiert' column to the last digit: cantonal 3.25 + municipal + church Einheiten = published total in all 12 checked cases): Reformed church tax is essentially CANTON-WIDE FLAT at 0,54 Einheiten because Obwalden's Reformed community is organized as a single 'Evangelisch-reformierte Kirchgemeinde Obwalden (alter Kantonsteil)' -- literally 'old/original part of the canton', i.e. explicitly EXCLUDING Engelberg (confirmed in the Kantonsblatt's legal-basis list, item 160.2) -- hence churchTax.reformed=0.54 above and every municipality except Engelberg carries 0.54 as churchMultiplierReformed. Catholic church tax genuinely VARIES by municipality (0.54 Sarnen/Kerns-adjacent up to 0.70 Giswil/Lungern) because each municipality's Roman Catholic Kirchgemeinde sets its own Steuerfuss within the cantonal 'Verband der roemisch-katholischen Kirchgemeinden des Kantons Obwalden' (SRKK) framework -- so churchTax.catholic is left null at the top level (no single canton-wide figure exists) and the real values live in OW_municipalities.json. ENGELBERG IS A GENUINE OUTLIER, FLAGGED EXPLICITLY: it shows NO separate church-tax line at all -- both 'Total katholisch' and 'Total reformiert' for Engelberg are the identical 7.90, and the arithmetic (3.25 cantonal + 4.65 municipal = 7.90 exactly) proves the church component is 0, not merely unpublished. This is plausible given Engelberg's unusual history (former prince-abbey/Kloster Engelberg territory, only administratively joined Obwalden's civil structures relatively recently and was explicitly excluded from the cantonal Reformed Kirchgemeinde per the source above); it is possible Engelberg's own historic Catholic parish (tied to the Benedictine monastery) funds itself outside the cantonal Steuerfuss system entirely, or bills separately outside this comparison table. Both churchMultiplierReformed and churchMultiplierCatholic are stored as null for Engelberg in OW_municipalities.json rather than guessed at 0, since the mechanism (genuinely zero vs. simply not shown in this comparison) could not be fully confirmed from official documentation reviewed. MONOTONICITY: trivially satisfied, flat proportional rate from CHF 0 after deductions, same as UR."
+}

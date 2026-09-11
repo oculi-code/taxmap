@@ -1,0 +1,722 @@
+[
+  {
+    "bfsNumber": 4401,
+    "name": "Arbon",
+    "district": "Arbon",
+    "municipalMultiplier": 175,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 20,
+    "churchMultiplierCatholic": 18
+  },
+  {
+    "bfsNumber": 4406,
+    "name": "Dozwil",
+    "district": "Arbon",
+    "municipalMultiplier": 123,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 23,
+    "churchMultiplierCatholic": 23
+  },
+  {
+    "bfsNumber": 4411,
+    "name": "Egnach",
+    "district": "Arbon",
+    "municipalMultiplier": 150,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 20,
+    "churchMultiplierCatholic": 20
+  },
+  {
+    "bfsNumber": 4416,
+    "name": "Hefenhofen",
+    "district": "Arbon",
+    "municipalMultiplier": 163,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 23.5,
+    "churchMultiplierCatholic": 22.5
+  },
+  {
+    "bfsNumber": 4421,
+    "name": "Horn",
+    "district": "Arbon",
+    "municipalMultiplier": 99,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 20,
+    "churchMultiplierCatholic": 16
+  },
+  {
+    "bfsNumber": 4426,
+    "name": "Kesswil",
+    "district": "Arbon",
+    "municipalMultiplier": 129,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 23,
+    "churchMultiplierCatholic": 14
+  },
+  {
+    "bfsNumber": 4431,
+    "name": "Roggwil (TG)",
+    "district": "Arbon",
+    "municipalMultiplier": 147,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 16,
+    "churchMultiplierCatholic": 18
+  },
+  {
+    "bfsNumber": 4436,
+    "name": "Romanshorn",
+    "district": "Arbon",
+    "municipalMultiplier": 163,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 25,
+    "churchMultiplierCatholic": 22
+  },
+  {
+    "bfsNumber": 4441,
+    "name": "Salmsach",
+    "district": "Arbon",
+    "municipalMultiplier": 147,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 25,
+    "churchMultiplierCatholic": 22
+  },
+  {
+    "bfsNumber": 4446,
+    "name": "Sommeri",
+    "district": "Arbon",
+    "municipalMultiplier": 152,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 22,
+    "churchMultiplierCatholic": 23
+  },
+  {
+    "bfsNumber": 4451,
+    "name": "Uttwil",
+    "district": "Arbon",
+    "municipalMultiplier": 114,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 17,
+    "churchMultiplierCatholic": 22
+  },
+  {
+    "bfsNumber": 4461,
+    "name": "Amriswil",
+    "district": "Arbon",
+    "municipalMultiplier": 160,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 22,
+    "churchMultiplierCatholic": 22
+  },
+  {
+    "bfsNumber": 4471,
+    "name": "Bischofszell",
+    "district": "Weinfelden",
+    "municipalMultiplier": 158,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 28,
+    "churchMultiplierCatholic": 24
+  },
+  {
+    "bfsNumber": 4476,
+    "name": "Erlen",
+    "district": "Weinfelden",
+    "municipalMultiplier": 146.5,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 23.5,
+    "churchMultiplierCatholic": 22
+  },
+  {
+    "bfsNumber": 4486,
+    "name": "Hauptwil-Gottshaus",
+    "district": "Weinfelden",
+    "municipalMultiplier": 150,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 28,
+    "churchMultiplierCatholic": 24
+  },
+  {
+    "bfsNumber": 4495,
+    "name": "Hohentannen",
+    "district": "Weinfelden",
+    "municipalMultiplier": 141.5,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 26.5,
+    "churchMultiplierCatholic": 22.5
+  },
+  {
+    "bfsNumber": 4501,
+    "name": "Kradolf-Schönenberg",
+    "district": "Weinfelden",
+    "municipalMultiplier": 148,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 27.5,
+    "churchMultiplierCatholic": 24
+  },
+  {
+    "bfsNumber": 4506,
+    "name": "Sulgen",
+    "district": "Weinfelden",
+    "municipalMultiplier": 140,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 25,
+    "churchMultiplierCatholic": 21
+  },
+  {
+    "bfsNumber": 4511,
+    "name": "Zihlschlacht-Sitterdorf",
+    "district": "Weinfelden",
+    "municipalMultiplier": 150,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 25,
+    "churchMultiplierCatholic": 24
+  },
+  {
+    "bfsNumber": 4536,
+    "name": "Basadingen-Schlattingen",
+    "district": "Frauenfeld",
+    "municipalMultiplier": 143,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 28,
+    "churchMultiplierCatholic": 18
+  },
+  {
+    "bfsNumber": 4545,
+    "name": "Diessenhofen",
+    "district": "Frauenfeld",
+    "municipalMultiplier": 140,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 22,
+    "churchMultiplierCatholic": 18
+  },
+  {
+    "bfsNumber": 4546,
+    "name": "Schlatt (TG)",
+    "district": "Frauenfeld",
+    "municipalMultiplier": 141,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 23,
+    "churchMultiplierCatholic": 18
+  },
+  {
+    "bfsNumber": 4551,
+    "name": "Aadorf",
+    "district": "Münchwilen",
+    "municipalMultiplier": 155,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 19,
+    "churchMultiplierCatholic": 19
+  },
+  {
+    "bfsNumber": 4561,
+    "name": "Felben-Wellhausen",
+    "district": "Frauenfeld",
+    "municipalMultiplier": 147,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 18,
+    "churchMultiplierCatholic": 16
+  },
+  {
+    "bfsNumber": 4566,
+    "name": "Frauenfeld",
+    "district": "Frauenfeld",
+    "municipalMultiplier": 142,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 16,
+    "churchMultiplierCatholic": 16
+  },
+  {
+    "bfsNumber": 4571,
+    "name": "Gachnang",
+    "district": "Frauenfeld",
+    "municipalMultiplier": 132,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 15,
+    "churchMultiplierCatholic": 16
+  },
+  {
+    "bfsNumber": 4590,
+    "name": "Hüttlingen",
+    "district": "Frauenfeld",
+    "municipalMultiplier": 155,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 26,
+    "churchMultiplierCatholic": 22
+  },
+  {
+    "bfsNumber": 4591,
+    "name": "Matzingen",
+    "district": "Frauenfeld",
+    "municipalMultiplier": 151,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 26,
+    "churchMultiplierCatholic": 19
+  },
+  {
+    "bfsNumber": 4601,
+    "name": "Neunforn",
+    "district": "Frauenfeld",
+    "municipalMultiplier": 129,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 24,
+    "churchMultiplierCatholic": 16
+  },
+  {
+    "bfsNumber": 4606,
+    "name": "Stettfurt",
+    "district": "Frauenfeld",
+    "municipalMultiplier": 145.5,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 23,
+    "churchMultiplierCatholic": 19
+  },
+  {
+    "bfsNumber": 4611,
+    "name": "Thundorf",
+    "district": "Frauenfeld",
+    "municipalMultiplier": 155,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 27,
+    "churchMultiplierCatholic": 16
+  },
+  {
+    "bfsNumber": 4616,
+    "name": "Uesslingen-Buch",
+    "district": "Frauenfeld",
+    "municipalMultiplier": 142,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 24,
+    "churchMultiplierCatholic": 16
+  },
+  {
+    "bfsNumber": 4621,
+    "name": "Warth-Weiningen",
+    "district": "Frauenfeld",
+    "municipalMultiplier": 94,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 20,
+    "churchMultiplierCatholic": 16
+  },
+  {
+    "bfsNumber": 4641,
+    "name": "Altnau",
+    "district": "Kreuzlingen",
+    "municipalMultiplier": 144,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 25,
+    "churchMultiplierCatholic": 14
+  },
+  {
+    "bfsNumber": 4643,
+    "name": "Bottighofen",
+    "district": "Kreuzlingen",
+    "municipalMultiplier": 103,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 9,
+    "churchMultiplierCatholic": 14
+  },
+  {
+    "bfsNumber": 4646,
+    "name": "Ermatingen",
+    "district": "Kreuzlingen",
+    "municipalMultiplier": 111,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 15,
+    "churchMultiplierCatholic": 15
+  },
+  {
+    "bfsNumber": 4651,
+    "name": "Gottlieben",
+    "district": "Kreuzlingen",
+    "municipalMultiplier": 129,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 24,
+    "churchMultiplierCatholic": 15
+  },
+  {
+    "bfsNumber": 4656,
+    "name": "Güttingen",
+    "district": "Kreuzlingen",
+    "municipalMultiplier": 138,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 27,
+    "churchMultiplierCatholic": 14
+  },
+  {
+    "bfsNumber": 4666,
+    "name": "Kemmental",
+    "district": "Kreuzlingen",
+    "municipalMultiplier": 140,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 22,
+    "churchMultiplierCatholic": 19.5
+  },
+  {
+    "bfsNumber": 4671,
+    "name": "Kreuzlingen",
+    "district": "Kreuzlingen",
+    "municipalMultiplier": 136,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 16,
+    "churchMultiplierCatholic": 15
+  },
+  {
+    "bfsNumber": 4681,
+    "name": "Langrickenbach",
+    "district": "Kreuzlingen",
+    "municipalMultiplier": 151,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 26,
+    "churchMultiplierCatholic": 14
+  },
+  {
+    "bfsNumber": 4683,
+    "name": "Lengwil",
+    "district": "Kreuzlingen",
+    "municipalMultiplier": 141.5,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 26,
+    "churchMultiplierCatholic": 14.5
+  },
+  {
+    "bfsNumber": 4691,
+    "name": "Münsterlingen",
+    "district": "Kreuzlingen",
+    "municipalMultiplier": 127,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 17,
+    "churchMultiplierCatholic": 14
+  },
+  {
+    "bfsNumber": 4696,
+    "name": "Tägerwilen",
+    "district": "Kreuzlingen",
+    "municipalMultiplier": 118,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 24,
+    "churchMultiplierCatholic": 15
+  },
+  {
+    "bfsNumber": 4701,
+    "name": "Wäldi",
+    "district": "Kreuzlingen",
+    "municipalMultiplier": 143,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 32,
+    "churchMultiplierCatholic": 18.5
+  },
+  {
+    "bfsNumber": 4711,
+    "name": "Affeltrangen",
+    "district": "Weinfelden",
+    "municipalMultiplier": 149,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 24,
+    "churchMultiplierCatholic": 23
+  },
+  {
+    "bfsNumber": 4716,
+    "name": "Bettwiesen",
+    "district": "Münchwilen",
+    "municipalMultiplier": 146,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 26,
+    "churchMultiplierCatholic": 20
+  },
+  {
+    "bfsNumber": 4721,
+    "name": "Bichelsee-Balterswil",
+    "district": "Münchwilen",
+    "municipalMultiplier": 150,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 25,
+    "churchMultiplierCatholic": 24
+  },
+  {
+    "bfsNumber": 4723,
+    "name": "Braunau",
+    "district": "Münchwilen",
+    "municipalMultiplier": 147,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 26,
+    "churchMultiplierCatholic": 24
+  },
+  {
+    "bfsNumber": 4724,
+    "name": "Eschlikon",
+    "district": "Münchwilen",
+    "municipalMultiplier": 144,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 20,
+    "churchMultiplierCatholic": 18
+  },
+  {
+    "bfsNumber": 4726,
+    "name": "Fischingen",
+    "district": "Münchwilen",
+    "municipalMultiplier": 155,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 25,
+    "churchMultiplierCatholic": 24
+  },
+  {
+    "bfsNumber": 4741,
+    "name": "Lommis",
+    "district": "Münchwilen",
+    "municipalMultiplier": 138,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 27,
+    "churchMultiplierCatholic": 20
+  },
+  {
+    "bfsNumber": 4746,
+    "name": "Münchwilen (TG)",
+    "district": "Münchwilen",
+    "municipalMultiplier": 151,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 20,
+    "churchMultiplierCatholic": 18
+  },
+  {
+    "bfsNumber": 4751,
+    "name": "Rickenbach (TG)",
+    "district": "Münchwilen",
+    "municipalMultiplier": 147,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 23,
+    "churchMultiplierCatholic": 22
+  },
+  {
+    "bfsNumber": 4756,
+    "name": "Schönholzerswilen",
+    "district": "Weinfelden",
+    "municipalMultiplier": 151.5,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 26,
+    "churchMultiplierCatholic": 24.5
+  },
+  {
+    "bfsNumber": 4761,
+    "name": "Sirnach",
+    "district": "Münchwilen",
+    "municipalMultiplier": 142,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 21,
+    "churchMultiplierCatholic": 18
+  },
+  {
+    "bfsNumber": 4776,
+    "name": "Tobel-Tägerschen",
+    "district": "Münchwilen",
+    "municipalMultiplier": 156,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 26,
+    "churchMultiplierCatholic": 24
+  },
+  {
+    "bfsNumber": 4781,
+    "name": "Wängi",
+    "district": "Münchwilen",
+    "municipalMultiplier": 140,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 25,
+    "churchMultiplierCatholic": 19
+  },
+  {
+    "bfsNumber": 4786,
+    "name": "Wilen (TG)",
+    "district": "Münchwilen",
+    "municipalMultiplier": 137,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 23,
+    "churchMultiplierCatholic": 22
+  },
+  {
+    "bfsNumber": 4791,
+    "name": "Wuppenau",
+    "district": "Weinfelden",
+    "municipalMultiplier": 146,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 28,
+    "churchMultiplierCatholic": 27
+  },
+  {
+    "bfsNumber": 4801,
+    "name": "Berlingen",
+    "district": "Frauenfeld",
+    "municipalMultiplier": 129,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 24,
+    "churchMultiplierCatholic": 19
+  },
+  {
+    "bfsNumber": 4806,
+    "name": "Eschenz",
+    "district": "Frauenfeld",
+    "municipalMultiplier": 142,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 17,
+    "churchMultiplierCatholic": 21
+  },
+  {
+    "bfsNumber": 4811,
+    "name": "Herdern",
+    "district": "Frauenfeld",
+    "municipalMultiplier": 146,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 22,
+    "churchMultiplierCatholic": 20
+  },
+  {
+    "bfsNumber": 4816,
+    "name": "Homburg",
+    "district": "Frauenfeld",
+    "municipalMultiplier": 159,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 25,
+    "churchMultiplierCatholic": 26
+  },
+  {
+    "bfsNumber": 4821,
+    "name": "Hüttwilen",
+    "district": "Frauenfeld",
+    "municipalMultiplier": 137,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 24,
+    "churchMultiplierCatholic": 16
+  },
+  {
+    "bfsNumber": 4826,
+    "name": "Mammern",
+    "district": "Frauenfeld",
+    "municipalMultiplier": 139,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 24,
+    "churchMultiplierCatholic": 21
+  },
+  {
+    "bfsNumber": 4831,
+    "name": "Müllheim",
+    "district": "Frauenfeld",
+    "municipalMultiplier": 140,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 26,
+    "churchMultiplierCatholic": 22
+  },
+  {
+    "bfsNumber": 4841,
+    "name": "Pfyn",
+    "district": "Frauenfeld",
+    "municipalMultiplier": 158,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 24,
+    "churchMultiplierCatholic": 24
+  },
+  {
+    "bfsNumber": 4846,
+    "name": "Raperswilen",
+    "district": "Kreuzlingen",
+    "municipalMultiplier": 163,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 25,
+    "churchMultiplierCatholic": 26
+  },
+  {
+    "bfsNumber": 4851,
+    "name": "Salenstein",
+    "district": "Kreuzlingen",
+    "municipalMultiplier": 115,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 15,
+    "churchMultiplierCatholic": 15
+  },
+  {
+    "bfsNumber": 4864,
+    "name": "Steckborn",
+    "district": "Frauenfeld",
+    "municipalMultiplier": 121,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 21,
+    "churchMultiplierCatholic": 19
+  },
+  {
+    "bfsNumber": 4871,
+    "name": "Wagenhausen",
+    "district": "Frauenfeld",
+    "municipalMultiplier": 154,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 30,
+    "churchMultiplierCatholic": 21
+  },
+  {
+    "bfsNumber": 4881,
+    "name": "Amlikon-Bissegg",
+    "district": "Weinfelden",
+    "municipalMultiplier": 161.5,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 24.5,
+    "churchMultiplierCatholic": 23
+  },
+  {
+    "bfsNumber": 4891,
+    "name": "Berg (TG)",
+    "district": "Weinfelden",
+    "municipalMultiplier": 137,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 21,
+    "churchMultiplierCatholic": 24
+  },
+  {
+    "bfsNumber": 4901,
+    "name": "Birwinken",
+    "district": "Weinfelden",
+    "municipalMultiplier": 152.5,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 26,
+    "churchMultiplierCatholic": 19
+  },
+  {
+    "bfsNumber": 4911,
+    "name": "Bürglen (TG)",
+    "district": "Weinfelden",
+    "municipalMultiplier": 151,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 25,
+    "churchMultiplierCatholic": 21
+  },
+  {
+    "bfsNumber": 4921,
+    "name": "Bussnang",
+    "district": "Weinfelden",
+    "municipalMultiplier": 148,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 26,
+    "churchMultiplierCatholic": 22
+  },
+  {
+    "bfsNumber": 4941,
+    "name": "Märstetten",
+    "district": "Weinfelden",
+    "municipalMultiplier": 154,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 25,
+    "churchMultiplierCatholic": 17
+  },
+  {
+    "bfsNumber": 4946,
+    "name": "Weinfelden",
+    "district": "Weinfelden",
+    "municipalMultiplier": 144,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 15,
+    "churchMultiplierCatholic": 17
+  },
+  {
+    "bfsNumber": 4951,
+    "name": "Wigoltingen",
+    "district": "Weinfelden",
+    "municipalMultiplier": 159,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 25,
+    "churchMultiplierCatholic": 22
+  }
+]

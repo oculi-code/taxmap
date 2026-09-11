@@ -1,0 +1,54 @@
+{
+  "year": 2026,
+  "source": {
+    "brackets": "https://www.estv.admin.ch/dam/de/sd-web/vFK3ntWLQ4s4/2-215-D-2025-d.pdf",
+    "brackets_alt": "https://www.estv.admin.ch/dam/de/sd-web/gnde9CmEsalK/dbst-tairfe-58c-2026-dfi.pdf",
+    "deductions": "https://www.estv.admin.ch/dam/de/sd-web/vFK3ntWLQ4s4/2-215-D-2025-d.pdf",
+    "fetchedNote": "Fetched 2026-09-08. Primary source is the official ESTV circular 'Rundschreiben: Ausgleich der Folgen der kalten Progression sowie Zinssätze bei der direkten Bundessteuer für das Steuerjahr 2026' (ref. 2-215-D-2025-d), dated Bern, 11 September 2025, published at estv.admin.ch. It reproduces the exact legal tariff text of Art. 36 DBG (Tarif 2026) as fixed by the EFD ordinance of 10 September 2025, in force since 1 January 2026, plus the full Art. 26/33/35/36 deduction table for 2025 vs 2026. Cross-checked against the official ESTV Form 58c bracket tables for 2025 and 2026 (dbst-tarife-58c-2025-de.pdf / dbst-tairfe-58c-2026-dfi.pdf) and a cantonal (Basel-Landschaft) reproduction of the same 2026 federal tariff. All breakpoints below were verified by re-deriving cumulative tax at every checkpoint the source lists and confirming an exact match (married tariff matches to the cent everywhere checked; single/Grundtarif matches within the documented 'rounded down to the nearest CHF 0.05' rule, off by at most a few cents at high incomes due to that rounding). Raw PDFs archived at data/raw/sources/ESTV_circular_2-215-D-2025_tariff_and_deductions_2026.pdf, ESTV_form58c_federal_tariff_2026.pdf, ESTV_form58c_federal_tariff_2025.pdf, BL_canton_reproduction_federal_tariff_2026.pdf."
+  },
+  "incomeTaxBrackets": {
+    "single": [
+      { "from": 0, "rate": 0 },
+      { "from": 15200, "rate": 0.0077 },
+      { "from": 33200, "rate": 0.0088 },
+      { "from": 43500, "rate": 0.0264 },
+      { "from": 58000, "rate": 0.0297 },
+      { "from": 76200, "rate": 0.0594 },
+      { "from": 82100, "rate": 0.066 },
+      { "from": 108900, "rate": 0.088 },
+      { "from": 141500, "rate": 0.11 },
+      { "from": 185100, "rate": 0.132 },
+      { "from": 793900, "rate": 0.1185 },
+      { "from": 794000, "rate": 0.115 }
+    ],
+    "married": [
+      { "from": 0, "rate": 0 },
+      { "from": 29700, "rate": 0.01 },
+      { "from": 53400, "rate": 0.02 },
+      { "from": 61300, "rate": 0.03 },
+      { "from": 79100, "rate": 0.04 },
+      { "from": 94900, "rate": 0.05 },
+      { "from": 108700, "rate": 0.06 },
+      { "from": 120600, "rate": 0.07 },
+      { "from": 130500, "rate": 0.08 },
+      { "from": 138400, "rate": 0.09 },
+      { "from": 144300, "rate": 0.10 },
+      { "from": 148300, "rate": 0.11 },
+      { "from": 150400, "rate": 0.12 },
+      { "from": 152400, "rate": 0.13 },
+      { "from": 941300, "rate": 0.12 },
+      { "from": 941400, "rate": 0.115 }
+    ]
+  },
+  "deductions": {
+    "childDeduction": 6800,
+    "insuranceDeductionSingle": 2700,
+    "insuranceDeductionMarried": 5550,
+    "insuranceDeductionPerChild": 700,
+    "marriedDeduction": 2800,
+    "parentTaxCreditPerChild": 263,
+    "twoEarnerDeduction": { "percentOfLowerIncome": 0.50, "min": 8600, "max": 14100 },
+    "notes": "All figures are for tax year 2026 (Art. 33/35/36 DBG), identical to 2025 (the 2026 circular shows no change to any deduction amount that year, only the bracket thresholds moved). Kinderabzug (child deduction, Art. 35 Abs. 1 Bst. a DBG) = CHF 6'800 per child. Unterstützungsabzug (support deduction for a dependent person, Art. 35 Abs. 1 Bst. b DBG) = CHF 6'800, same amount as the child deduction, not requested but closely related. Verheiratetenabzug (Art. 35 Abs. 1 Bst. c DBG) DOES exist as a separate income deduction on top of the married tariff itself: CHF 2'800 for 2026 (this is distinct from, and in addition to, the rate relief already built into the married tariff schedule). Höchstabzüge für Versicherungsprämien und Sparkapitalzinsen (Art. 33 Abs. 1 Bst. g / Abs. 1bis DBG) actually has FOUR tiers, not two, depending on whether the taxpayer also has pension contributions: married WITH Pillar 2/3a contributions = CHF 3'700, married WITHOUT such contributions = CHF 5'550; single/other WITH Pillar 2/3a contributions = CHF 1'800, single/other WITHOUT such contributions = CHF 2'700. The insuranceDeductionSingle/insuranceDeductionMarried fields above use the higher 'ohne Beiträge an die Säulen 2 und 3a' amounts (2'700 / 5'550) as the general-case default; if the calculator models pension contributions explicitly, use 1'800 (single) / 3'700 (married) instead for taxpayers who do contribute to a 2nd-pillar pension fund or Pillar 3a. Per-child/per-dependent increment is CHF 700 regardless of which tier applies. Zweiverdienerabzug (Art. 33 Abs. 2 DBG): 50% of the LOWER of the two spouses' net earned incomes (after professional-expense and Pillar 2/3a deductions), minimum CHF 8'600, maximum CHF 14'100 (unchanged 2025->2026); only applicable when both spouses have earned income (not for a single earner). Separately, for taxpayers taxed under the Elterntarif (parent tariff, i.e. the married-tariff schedule used by anyone with children/dependents in their household under primary support), Art. 36 Abs. 2bis DBG grants an additional CHF 263 reduction taken directly off the computed TAX AMOUNT (not off income) per child/dependent -- this is on top of, and separate from, the CHF 6'800 Kinderabzug taken off income before computing tax; do not confuse the two. Berufskostenabzug (standard professional expense deduction): the 'übrige Berufskosten' flat-rate item is not a single flat number -- it is 3% of net employment income, with a floor of CHF 2'000 and a cap of CHF 4'000 (unchanged 2025->2026); this is on top of separately capped items for commuting (max CHF 3'300/year for a car per Art. 26 Abs. 1 Bst. a DBG, since deduction of actual driving costs for the main commute was capped starting 2016) and meals away from home, which are itemized/capped individually and not reduced to one number here."
+  },
+  "notes": "Year used: 2026, not 2025. The task's default was 2025 unless 2026 is 'confirmed finalized and in force' -- it is: the EFD adopted the 2026 federal tariff and deduction figures by ordinance on 10 September 2025 (kalte-Progression adjustment based on the LIK index at 30 June 2025), published via ESTV circular 2-215-D-2025-d, and it took legal effect on 1 January 2026, which has already begun (today is 2026-09-08). The bracket thresholds for 2026 differ slightly from 2025 (indexed for cold progression); all deduction CHF amounts happen to be unchanged from 2025 to 2026. Married/joint taxation: DBG taxes spouses living in a legally and factually undivided marriage (or registered partnership) JOINTLY on their COMBINED taxable income (Art. 9 DBG, Faktorenaddition) -- both incomes (and assets, deductions) are added together into one tax return/one taxable amount, and the married tariff (Verheiratetentarif, this is also the base tariff used for the Elterntarif for parents/those supporting dependents) is applied to that single combined figure, not applied separately per spouse. This is the current legal regime; a 2026 popular initiative on switching to fully individual taxation (Individualbesteuerung) has not been enacted as law as of this writing, so combined/joint taxation remains in force. Implementation notes for a developer: (1) both bracket arrays include a short, real 'kink' near the top where the marginal rate is LOWER than the bracket just below it (married: 12% from 941'300 vs 13% below; single: 11.85% from 793'900 vs 13.2% below) before settling into a flat 11.5% top rate from 941'400 (married) / 794'000 (single) onward -- this is not a data error, it is how the official law is written, and it still produces a monotonically non-decreasing tax-owed curve since all rates stay positive; verified programmatically against every published checkpoint. (2) The official published tables express tax in per-CHF-100-of-income steps and round the resulting annual tax DOWN to the nearest CHF 0.05 at each step; a naive continuous marginal-bracket calculation (as encoded here) will be off by at most a few cents at high incomes versus the official stepped table -- immaterial for a calculator but worth knowing if exact-cent parity with the official table is ever required. (3) Amounts under CHF 25 are not levied (Art. 36 Abs. 3 DBG) -- a de minimis floor, not modeled in the bracket array. (4) The married tariff as given is also the base for the Elterntarif; the CHF 263-per-child/dependent tax-amount credit (see deductions.notes) must be applied on top of it separately for taxpayers with children/dependents, it is not baked into the bracket table."
+}

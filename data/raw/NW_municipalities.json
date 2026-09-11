@@ -1,0 +1,123 @@
+[
+  {
+    "bfsNumber": 1501,
+    "name": "Beckenried",
+    "district": null,
+    "municipalMultiplier": 1.79,
+    "municipalMultiplierUnit": "factor",
+    "municipalMultiplierNominal": 1.79,
+    "municipalMultiplierRebate": 0.00,
+    "churchMultiplierReformed": 0.26,
+    "churchMultiplierCatholic": 0.35
+  },
+  {
+    "bfsNumber": 1502,
+    "name": "Buochs",
+    "district": null,
+    "municipalMultiplier": 1.97,
+    "municipalMultiplierUnit": "factor",
+    "municipalMultiplierNominal": 2.17,
+    "municipalMultiplierRebate": 0.20,
+    "churchMultiplierReformed": 0.26,
+    "churchMultiplierCatholic": 0.38
+  },
+  {
+    "bfsNumber": 1503,
+    "name": "Dallenwil",
+    "district": null,
+    "municipalMultiplier": 2.40,
+    "municipalMultiplierUnit": "factor",
+    "municipalMultiplierNominal": 2.40,
+    "municipalMultiplierRebate": 0.00,
+    "churchMultiplierReformed": 0.26,
+    "churchMultiplierCatholic": 0.37
+  },
+  {
+    "bfsNumber": 1504,
+    "name": "Emmetten",
+    "district": null,
+    "municipalMultiplier": 2.22,
+    "municipalMultiplierUnit": "factor",
+    "municipalMultiplierNominal": 2.22,
+    "municipalMultiplierRebate": 0.00,
+    "churchMultiplierReformed": 0.26,
+    "churchMultiplierCatholic": 0.55
+  },
+  {
+    "bfsNumber": 1505,
+    "name": "Ennetbürgen",
+    "district": null,
+    "municipalMultiplier": 1.50,
+    "municipalMultiplierUnit": "factor",
+    "municipalMultiplierNominal": 1.50,
+    "municipalMultiplierRebate": 0.00,
+    "churchMultiplierReformed": 0.26,
+    "churchMultiplierCatholic": 0.36
+  },
+  {
+    "bfsNumber": 1506,
+    "name": "Ennetmoos",
+    "district": null,
+    "municipalMultiplier": 1.80,
+    "municipalMultiplierUnit": "factor",
+    "municipalMultiplierNominal": 2.00,
+    "municipalMultiplierRebate": 0.20,
+    "churchMultiplierReformed": 0.26,
+    "churchMultiplierCatholic": 0.43
+  },
+  {
+    "bfsNumber": 1507,
+    "name": "Hergiswil (NW)",
+    "district": null,
+    "municipalMultiplier": 1.20,
+    "municipalMultiplierUnit": "factor",
+    "municipalMultiplierNominal": 1.40,
+    "municipalMultiplierRebate": 0.20,
+    "churchMultiplierReformed": 0.26,
+    "churchMultiplierCatholic": 0.21
+  },
+  {
+    "bfsNumber": 1508,
+    "name": "Oberdorf (NW)",
+    "district": null,
+    "municipalMultiplier": 2.00,
+    "municipalMultiplierUnit": "factor",
+    "municipalMultiplierNominal": 2.00,
+    "municipalMultiplierRebate": 0.00,
+    "churchMultiplierReformed": 0.26,
+    "churchMultiplierCatholic": 0.40
+  },
+  {
+    "bfsNumber": 1509,
+    "name": "Stans",
+    "district": null,
+    "municipalMultiplier": 2.35,
+    "municipalMultiplierUnit": "factor",
+    "municipalMultiplierNominal": 2.35,
+    "municipalMultiplierRebate": 0.00,
+    "churchMultiplierReformed": 0.26,
+    "churchMultiplierCatholic": 0.40
+  },
+  {
+    "bfsNumber": 1510,
+    "name": "Stansstad",
+    "district": null,
+    "municipalMultiplier": 1.87,
+    "municipalMultiplierUnit": "factor",
+    "municipalMultiplierNominal": 1.87,
+    "municipalMultiplierRebate": 0.00,
+    "churchMultiplierReformed": 0.26,
+    "churchMultiplierCatholic": 0.40
+  },
+  {
+    "bfsNumber": 1511,
+    "name": "Wolfenschiessen",
+    "district": null,
+    "municipalMultiplier": 2.50,
+    "municipalMultiplierUnit": "factor",
+    "municipalMultiplierNominal": 2.50,
+    "municipalMultiplierRebate": 0.00,
+    "churchMultiplierReformed": 0.26,
+    "churchMultiplierCatholic": 0.40
+  }
+]

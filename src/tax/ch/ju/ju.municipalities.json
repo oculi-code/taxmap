@@ -1,0 +1,692 @@
+[
+  {
+    "bfsNumber": 6831,
+    "name": "Moutier",
+    "district": "Moutier",
+    "municipalMultiplierFactor": 1.975,
+    "municipalMultiplierEstimated": true,
+    "churchMultiplierReformedRate": null,
+    "churchMultiplierCatholicRate": 0.068,
+    "churchMultiplierCatholicEstimated": true
+  },
+  {
+    "bfsNumber": 6729,
+    "name": "Haute-Sorne",
+    "district": "Delémont",
+    "municipalMultiplierFactor": 2.1,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.072,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6702,
+    "name": "Boécourt",
+    "district": "Delémont",
+    "municipalMultiplierFactor": 2,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.08,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6703,
+    "name": "Bourrignon",
+    "district": "Delémont",
+    "municipalMultiplierFactor": 2.25,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.113,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6704,
+    "name": "Châtillon",
+    "district": "Delémont",
+    "municipalMultiplierFactor": 2,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.064,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6730,
+    "name": "Val Terbi (Corban)",
+    "district": "Delémont",
+    "municipalMultiplierFactor": 2.2,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.105,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6706,
+    "name": "Courchapoix",
+    "district": "Delémont",
+    "municipalMultiplierFactor": 2.15,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.105,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6729,
+    "name": "Haute-Sorne (Courfaivre)",
+    "district": "Delémont",
+    "municipalMultiplierFactor": 2.1,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.097,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6708,
+    "name": "Courrendlin",
+    "district": "Delémont",
+    "municipalMultiplierFactor": 2.25,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.064,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6709,
+    "name": "Courroux",
+    "district": "Delémont",
+    "municipalMultiplierFactor": 2.15,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.07,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6710,
+    "name": "Courtételle",
+    "district": "Delémont",
+    "municipalMultiplierFactor": 1.65,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.078,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6711,
+    "name": "Delémont",
+    "district": "Delémont",
+    "municipalMultiplierFactor": 1.9,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.064,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6712,
+    "name": "Develier",
+    "district": "Delémont",
+    "municipalMultiplierFactor": 1.95,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.089,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6713,
+    "name": "Ederswiler",
+    "district": "Delémont",
+    "municipalMultiplierFactor": 2.2,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.1,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6729,
+    "name": "Haute-Sorne (Glovelier)",
+    "district": "Delémont",
+    "municipalMultiplierFactor": 2.1,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.075,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6729,
+    "name": "Haute-Sorne (Soulce-Sceut)",
+    "district": "Delémont",
+    "municipalMultiplierFactor": 2.1,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.1,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6715,
+    "name": "Mervelier",
+    "district": "Delémont",
+    "municipalMultiplierFactor": 2.25,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.097,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6716,
+    "name": "Mettembert",
+    "district": "Delémont",
+    "municipalMultiplierFactor": 2.2,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.11,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6730,
+    "name": "Val Terbi (Montsevelier)",
+    "district": "Delémont",
+    "municipalMultiplierFactor": 2.2,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.097,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6718,
+    "name": "Movelier",
+    "district": "Delémont",
+    "municipalMultiplierFactor": 2.25,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.11,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6719,
+    "name": "Pleigne",
+    "district": "Delémont",
+    "municipalMultiplierFactor": 2.1,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.113,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6721,
+    "name": "Rossemaison",
+    "district": "Delémont",
+    "municipalMultiplierFactor": 2,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.064,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6722,
+    "name": "Saulcy",
+    "district": "Delémont",
+    "municipalMultiplierFactor": 2.2,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.105,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6729,
+    "name": "Haute-Sorne (Soulce)",
+    "district": "Delémont",
+    "municipalMultiplierFactor": 2.1,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.1,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6724,
+    "name": "Soyhières",
+    "district": "Delémont",
+    "municipalMultiplierFactor": 2.15,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.085,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6729,
+    "name": "Haute-Sorne (Undervelier)",
+    "district": "Delémont",
+    "municipalMultiplierFactor": 2.1,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.105,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6730,
+    "name": "Val Terbi (Vermes)",
+    "district": "Delémont",
+    "municipalMultiplierFactor": 2.2,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.115,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6730,
+    "name": "Val Terbi (Vicques)",
+    "district": "Delémont",
+    "municipalMultiplierFactor": 2.2,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.065,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6741,
+    "name": "Le Bémont",
+    "district": "Franches-Montagnes",
+    "municipalMultiplierFactor": 1.95,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.08,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6742,
+    "name": "Les Bois",
+    "district": "Franches-Montagnes",
+    "municipalMultiplierFactor": 2.05,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.08,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6743,
+    "name": "Les Breuleux",
+    "district": "Franches-Montagnes",
+    "municipalMultiplierFactor": 1.3,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.087,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6745,
+    "name": "Les Enfers",
+    "district": "Franches-Montagnes",
+    "municipalMultiplierFactor": 2.05,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.113,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6808,
+    "name": "Clos du Doubs (Epauvillers-Epiquerez)",
+    "district": "Porrentruy",
+    "municipalMultiplierFactor": 2.15,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.113,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6748,
+    "name": "Les Genevez",
+    "district": "Franches-Montagnes",
+    "municipalMultiplierFactor": 2.05,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.097,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6750,
+    "name": "Lajoux",
+    "district": "Franches-Montagnes",
+    "municipalMultiplierFactor": 2.2,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.103,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6751,
+    "name": "Montfaucon",
+    "district": "Franches-Montagnes",
+    "municipalMultiplierFactor": 2.2,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.113,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6751,
+    "name": "Montfaucon (Montfavergier)",
+    "district": "Franches-Montagnes",
+    "municipalMultiplierFactor": 2.2,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.1,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6753,
+    "name": "Muriaux",
+    "district": "Franches-Montagnes",
+    "municipalMultiplierFactor": 1.6,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.08,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6753,
+    "name": "Muriaux (Les Cerneux-Veusil/Le Peuchapatte)",
+    "district": "Franches-Montagnes",
+    "municipalMultiplierFactor": 1.6,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.087,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6754,
+    "name": "Le Noirmont",
+    "district": "Franches-Montagnes",
+    "municipalMultiplierFactor": 1.7,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.089,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6757,
+    "name": "Saignelégier",
+    "district": "Franches-Montagnes",
+    "municipalMultiplierFactor": 2.3,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.08,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6758,
+    "name": "Saint-Brais",
+    "district": "Franches-Montagnes",
+    "municipalMultiplierFactor": 2.25,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.1,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6759,
+    "name": "Soubey",
+    "district": "Franches-Montagnes",
+    "municipalMultiplierFactor": 2.25,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.097,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6771,
+    "name": "Alle",
+    "district": "Porrentruy",
+    "municipalMultiplierFactor": 2.25,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.08,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6812,
+    "name": "Basse-Vendline (Beurnevésin)",
+    "district": "Porrentruy",
+    "municipalMultiplierFactor": 2.1,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.113,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6774,
+    "name": "Boncourt",
+    "district": "Porrentruy",
+    "municipalMultiplierFactor": 1.55,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.107,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6812,
+    "name": "Basse-Vendline (Bonfol)",
+    "district": "Porrentruy",
+    "municipalMultiplierFactor": 2.1,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.08,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6807,
+    "name": "Basse-Allaine (Buix)",
+    "district": "Porrentruy",
+    "municipalMultiplierFactor": 2.35,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.113,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6778,
+    "name": "Bure",
+    "district": "Porrentruy",
+    "municipalMultiplierFactor": 2.25,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.0805,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6809,
+    "name": "Haute-Ajoie",
+    "district": "Porrentruy",
+    "municipalMultiplierFactor": 2.15,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.095,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6781,
+    "name": "Coeuve",
+    "district": "Porrentruy",
+    "municipalMultiplierFactor": 2.35,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.09,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6782,
+    "name": "Cornol",
+    "district": "Porrentruy",
+    "municipalMultiplierFactor": 2.05,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.085,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6783,
+    "name": "Courchavon",
+    "district": "Porrentruy",
+    "municipalMultiplierFactor": 1.9,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.105,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6784,
+    "name": "Courgenay",
+    "district": "Porrentruy",
+    "municipalMultiplierFactor": 2.05,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.08,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6785,
+    "name": "Courtedoux",
+    "district": "Porrentruy",
+    "municipalMultiplierFactor": 2.2,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.088,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6807,
+    "name": "Basse-Allaine (Fontenais area)",
+    "district": "Porrentruy",
+    "municipalMultiplierFactor": 2.35,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.105,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6811,
+    "name": "Damphreux-Lugnez",
+    "district": "Porrentruy",
+    "municipalMultiplierFactor": 2.15,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.113,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6809,
+    "name": "Haute-Ajoie (Damvant)",
+    "district": "Porrentruy",
+    "municipalMultiplierFactor": 2.15,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.113,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6789,
+    "name": "Fahy",
+    "district": "Porrentruy",
+    "municipalMultiplierFactor": 2.3,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.113,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6790,
+    "name": "Fontenais",
+    "district": "Porrentruy",
+    "municipalMultiplierFactor": 2.35,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.072,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6792,
+    "name": "Grandfontaine",
+    "district": "Porrentruy",
+    "municipalMultiplierFactor": 2.25,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.113,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6810,
+    "name": "La Baroche",
+    "district": "Porrentruy",
+    "municipalMultiplierFactor": 2.15,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.105,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6807,
+    "name": "Basse-Allaine (Montignez)",
+    "district": "Porrentruy",
+    "municipalMultiplierFactor": 2.35,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.113,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6800,
+    "name": "Porrentruy",
+    "district": "Porrentruy",
+    "municipalMultiplierFactor": 2.05,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.072,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6809,
+    "name": "Haute-Ajoie (Réclère)",
+    "district": "Porrentruy",
+    "municipalMultiplierFactor": 2.15,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.113,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6809,
+    "name": "Haute-Ajoie (Roche-d'Or)",
+    "district": "Porrentruy",
+    "municipalMultiplierFactor": 2.15,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.113,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6809,
+    "name": "Haute-Ajoie (Rocourt)",
+    "district": "Porrentruy",
+    "municipalMultiplierFactor": 2.15,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.113,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6808,
+    "name": "Clos du Doubs",
+    "district": "Porrentruy",
+    "municipalMultiplierFactor": 2.15,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.097,
+    "churchMultiplierCatholicEstimated": false
+  },
+  {
+    "bfsNumber": 6806,
+    "name": "Vendlincourt",
+    "district": "Porrentruy",
+    "municipalMultiplierFactor": 2.3,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedRate": 0.081,
+    "churchMultiplierCatholicRate": 0.096,
+    "churchMultiplierCatholicEstimated": false
+  }
+]

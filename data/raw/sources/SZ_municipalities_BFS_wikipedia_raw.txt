@@ -1,0 +1,246 @@
+<!--schweizbezogen-->
+[[Datei:Karte Gemeinden des Kantons Schwyz farbig 2016.png|mini|hochkant=2|Gemeinden des Kantons Schwyz]]
+
+Der [[Kanton (Schweiz)|Kanton]] [[Kanton Schwyz|Schwyz]] umfasst 30 [[politische Gemeinde]]n (Stand: Januar 2026). 
+Die Staatsverfassung von 1833 (Wiedervereinigung mit [[Kanton Ausserschwyz|Ausserschwyz]]) teilte den Kanton in sechs Bezirke und insgesamt 28 Gemeinden.<ref>
+§ 28. Der Bezirk Schwyz begreift die Gemeinden: Schwyz, Arth, Ingenbohl, Muorathal, Steinen, Sattel, Rothenthurm, Iberg, Lauerz, Steinerberg, Morschach, Alpthal, Illgau, Riemenstalden. Hauptort: der Flecken Schwyz.
+Der Bezirk Gersau: Gersau inner seiner Gränzen. Hauptort: Gersau.
+Der Bezirk March:  Lachen, Altendorf, Galgenen, Vorder-Wäggithal, Hinter-Wäggithal, Schübelbach, Tuggen, mit Inbegriff des Schlosses Grinau, Wangen mit Nuolen, Reichenburg. Hauptort Lachen.
+Der Bezirk Einsiedeln begreift seine ehevorigen sieben Viertel: Das Dorf Einsiedeln, Binzen, Groß, Willerszell, Euthal, Etzel und Egg, Bennau und Trachslau; Hauptort: Einsiedeln.
+Der Bezirk Küßnacht: die vier ehevorigen Zehnten, Küßnacht, Immensee, Haltiken und Merlischachen; Hauptort Küßnacht.
+Der Bezirk Wollerau: Die vier ehevorigen Viertel: Wilen, Berg, Erlen, Wollerau. Hauptort Wollerau.
+Der Bezirk Pfeffikon: Pfeffikon inner seinen Grenzen. Hauptort: Pfeffikon.
+</ref>
+
+In der Liste der Gemeinden sind Bezirkshauptorte fett hervorgehoben.
+
+{{Siehe auch|Bezirk (Schweiz)#Kanton Schwyz|titel1=Bezirke des Kantons Schwyz}}
+
+== Gemeinden ==
+{{Tabellenstile}}
+{| class="wikitable zebra sortable tabelle-kopf-fixiert"; style="text-align:right;
+! class="unsortable" | Wappen
+! Gemeindename 
+! Einwohner<br /><small>{{EWD|CH-SZ}}</small> 
+! Fläche<br />in km²<ref>{{Metadaten Fläche CH||QUELLE}}</ref>
+! Einwohner<br />pro km² !! Bezirk
+|-
+| style="text-align:center" | [[Datei:CHE Alpthal COA.svg|35px|Alpthal]]
+| style="text-align:left" | [[Alpthal]] 
+| data-sort-value="{{EWZ|CH-SZ|1361}}" | {{EWZ CH|CH-SZ|1361}}
+| {{formatnum: {{ RundenDez | {{Metadaten Fläche CH|1361}} | 2 }}}} || {{#expr:{{Metadaten Einwohnerzahl CH-SZ|1361}}/{{Metadaten Fläche CH|1361}} round 0}}
+| style="text-align:left" | [[Bezirk Schwyz|Schwyz]]
+|-
+| style="text-align:center" | [[Datei:Altendorf SZ-blazon.svg|35px|Altendorf]]
+| style="text-align:left" | [[Altendorf SZ|Altendorf]]
+| data-sort-value="{{EWZ|CH-SZ|1341}}" | {{EWZ CH|CH-SZ|1341}}
+| {{formatnum: {{ RundenDez | {{Metadaten Fläche CH|1341}} | 2 }}}} || {{#expr:{{Metadaten Einwohnerzahl CH-SZ|1341}}/{{Metadaten Fläche CH|1341}} round 0}}
+| style="text-align:left" | [[Bezirk March|March]]
+|-
+| style="text-align:center" | [[Datei:CHE Arth COA.svg|35px|Arth]]
+| style="text-align:left" | [[Arth SZ|Arth]] 
+| data-sort-value="{{EWZ|CH-SZ|1362}}" | {{EWZ CH|CH-SZ|1362}}
+| {{formatnum: {{ RundenDez | {{Metadaten Fläche CH|1362}} | 2 }}}} || {{#expr:{{Metadaten Einwohnerzahl CH-SZ|1362}}/{{Metadaten Fläche CH|1362}} round 0}}
+| style="text-align:left" | [[Bezirk Schwyz|Schwyz]]
+|-
+| style="text-align:center" | [[Datei:Einsiedeln-coat of arms.svg|35px|Einsiedeln]]
+| style="text-align:left" | '''[[Einsiedeln]]'''
+| data-sort-value="{{EWZ|CH-SZ|1301}}" | {{EWZ CH|CH-SZ|1301}}
+| {{formatnum: {{ RundenDez | {{Metadaten Fläche CH|1301}} | 2 }}}} || {{#expr:{{Metadaten Einwohnerzahl CH-SZ|1301}}/{{Metadaten Fläche CH|1301}} round 0}}
+| style="text-align:left" | [[Bezirk Einsiedeln|Einsiedeln]]
+|-
+| style="text-align:center" | [[Datei:Feusisberg-blazon.svg|35px|Feusisberg]]
+| style="text-align:left" | [[Feusisberg]] 
+| data-sort-value="{{EWZ|CH-SZ|1321}}" | {{EWZ CH|CH-SZ|1321}}
+| {{formatnum: {{ RundenDez | {{Metadaten Fläche CH|1321}} | 2 }}}} || {{#expr:{{Metadaten Einwohnerzahl CH-SZ|1321}}/{{Metadaten Fläche CH|1321}} round 0}}
+| style="text-align:left" | [[Bezirk Höfe|Höfe]]
+|-
+| style="text-align:center" | [[Datei:CHE Freienbach SZ COA.svg|35px|Freienbach]]
+| style="text-align:left" | [[Freienbach]]''' <sup>1</sup>'''
+| data-sort-value="{{EWZ|CH-SZ|1322}}" | {{EWZ CH|CH-SZ|1322}}
+| {{formatnum: {{ RundenDez | {{Metadaten Fläche CH|1322}} | 2 }}}} || {{#expr:{{Metadaten Einwohnerzahl CH-SZ|1322}}/{{Metadaten Fläche CH|1322}} round 0}}
+| style="text-align:left" | [[Bezirk Höfe|Höfe]]
+|-
+| style="text-align:center" | [[Datei:CHE Galgenen COA.svg|35px|Galgenen]]
+| style="text-align:left" | [[Galgenen]]
+| data-sort-value="{{EWZ|CH-SZ|1342}}" | {{EWZ CH|CH-SZ|1342}}
+| {{formatnum: {{ RundenDez | {{Metadaten Fläche CH|1342}} | 2 }}}} || {{#expr:{{Metadaten Einwohnerzahl CH-SZ|1342}}/{{Metadaten Fläche CH|1342}} round 0}}
+| style="text-align:left" | [[Bezirk March|March]]
+|-
+| style="text-align:center" | [[Datei:Wappen Gersau.svg|35px|Gersau]]
+| style="text-align:left" | '''[[Gersau]]''' 
+| data-sort-value="{{EWZ|CH-SZ|1311}}" | {{EWZ CH|CH-SZ|1311}}
+| {{formatnum: {{ RundenDez | {{Metadaten Fläche CH|1311}} | 2 }}}} || {{#expr:{{Metadaten Einwohnerzahl CH-SZ|1311}}/{{Metadaten Fläche CH|1311}} round 0}}
+| style="text-align:left" | [[Bezirk Gersau|Gersau]]
+|-
+| style="text-align:center" | [[Datei:Illgau-blazon.svg|35px|Illgau]]
+| style="text-align:left" | [[Illgau]] 
+| data-sort-value="{{EWZ|CH-SZ|1363}}" | {{EWZ CH|CH-SZ|1363}}
+| {{formatnum: {{ RundenDez | {{Metadaten Fläche CH|1363}} | 2 }}}} || {{#expr:{{Metadaten Einwohnerzahl CH-SZ|1363}}/{{Metadaten Fläche CH|1363}} round 0}}
+| style="text-align:left" | [[Bezirk Schwyz|Schwyz]]
+|-
+| style="text-align:center" | [[Datei:Ingenbohl-blazon.svg|35px|Ingenbohl]]
+| style="text-align:left" | [[Ingenbohl]] 
+| data-sort-value="{{EWZ|CH-SZ|1364}}" | {{EWZ CH|CH-SZ|1364}}
+| {{formatnum: {{ RundenDez | {{Metadaten Fläche CH|1364}} | 2 }}}} || {{#expr:{{Metadaten Einwohnerzahl CH-SZ|1364}}/{{Metadaten Fläche CH|1364}} round 0}}
+| style="text-align:left" | [[Bezirk Schwyz|Schwyz]]
+|-
+| style="text-align:center" | [[Datei:Innerthal-blazon.svg|35px|Innerthal]]
+| style="text-align:left" | [[Innerthal]] 
+| data-sort-value="{{EWZ|CH-SZ|1343}}" | {{EWZ CH|CH-SZ|1343}}
+| {{formatnum: {{ RundenDez | {{Metadaten Fläche CH|1343}} | 2 }}}} || {{#expr:{{Metadaten Einwohnerzahl CH-SZ|1343}}/{{Metadaten Fläche CH|1343}} round 0}}
+| style="text-align:left" | [[Bezirk March|March]]
+|-
+| style="text-align:center" | [[Datei:CHE Küssnacht COA.svg|35px|Küssnacht]]
+| style="text-align:left" | '''[[Küssnacht SZ|Küssnacht (SZ)]]'''
+| data-sort-value="{{EWZ|CH-SZ|1331}}" | {{EWZ CH|CH-SZ|1331}}
+| {{formatnum: {{ RundenDez | {{Metadaten Fläche CH|1331}} | 2 }}}} || {{#expr:{{Metadaten Einwohnerzahl CH-SZ|1331}}/{{Metadaten Fläche CH|1331}} round 0}}
+| style="text-align:left" | [[Bezirk Küssnacht|Küssnacht]]
+|-
+| style="text-align:center" | [[Datei:Lachen SZ-blazon.svg|35px|Lachen]]
+| style="text-align:left" | '''[[Lachen SZ|Lachen]]'''
+| data-sort-value="{{EWZ|CH-SZ|1344}}" | {{EWZ CH|CH-SZ|1344}}
+| {{formatnum: {{ RundenDez | {{Metadaten Fläche CH|1344}} | 2 }}}} || {{#expr:{{Metadaten Einwohnerzahl CH-SZ|1344}}/{{Metadaten Fläche CH|1344}} round 0}}
+| style="text-align:left" | [[Bezirk March|March]]
+|-
+| style="text-align:center" | [[Datei:Lauerz-blazon.svg|35px|Lauerz]]
+| style="text-align:left" | [[Lauerz]] 
+| data-sort-value="{{EWZ|CH-SZ|1365}}" | {{EWZ CH|CH-SZ|1365}}
+| {{formatnum: {{ RundenDez | {{Metadaten Fläche CH|1365}} | 2 }}}} || {{#expr:{{Metadaten Einwohnerzahl CH-SZ|1365}}/{{Metadaten Fläche CH|1365}} round 0}}
+| style="text-align:left" | [[Bezirk Schwyz|Schwyz]]
+|-
+| style="text-align:center" | [[Datei:Morschach-blazon.svg|35px|Morschach]]
+| style="text-align:left" | [[Morschach]] 
+| data-sort-value="{{EWZ|CH-SZ|1366}}" | {{EWZ CH|CH-SZ|1366}}
+| {{formatnum: {{ RundenDez | {{Metadaten Fläche CH|1366}} | 2 }}}} || {{#expr:{{Metadaten Einwohnerzahl CH-SZ|1366}}/{{Metadaten Fläche CH|1366}} round 0}}
+| style="text-align:left" | [[Bezirk Schwyz|Schwyz]]
+|-
+| style="text-align:center" | [[Datei:Muotathal-blazon.svg|35px|Muotathal]]
+| style="text-align:left" | [[Muotathal]] 
+| data-sort-value="{{EWZ|CH-SZ|1367}}" | {{EWZ CH|CH-SZ|1367}}
+| {{formatnum: {{ RundenDez | {{Metadaten Fläche CH|1367}} | 2 }}}} || {{#expr:{{Metadaten Einwohnerzahl CH-SZ|1367}}/{{Metadaten Fläche CH|1367}} round 0}}
+| style="text-align:left" | [[Bezirk Schwyz|Schwyz]]
+|-
+| style="text-align:center" | [[Datei:Oberiberg-blazon.svg|35px|Oberiberg]]
+| style="text-align:left" | [[Oberiberg]] 
+| data-sort-value="{{EWZ|CH-SZ|1368}}" | {{EWZ CH|CH-SZ|1368}}
+| {{formatnum: {{ RundenDez | {{Metadaten Fläche CH|1368}} | 2 }}}} || {{#expr:{{Metadaten Einwohnerzahl CH-SZ|1368}}/{{Metadaten Fläche CH|1368}} round 0}}
+| style="text-align:left" | [[Bezirk Schwyz|Schwyz]]
+|-
+| style="text-align:center" | [[Datei:Reichenburg-blazon.svg|35px|Reichenburg]]
+| style="text-align:left" | [[Reichenburg]]
+| data-sort-value="{{EWZ|CH-SZ|1345}}" | {{EWZ CH|CH-SZ|1345}}
+| {{formatnum: {{ RundenDez | {{Metadaten Fläche CH|1345}} | 2 }}}} || {{#expr:{{Metadaten Einwohnerzahl CH-SZ|1345}}/{{Metadaten Fläche CH|1345}} round 0}}
+| style="text-align:left" | [[Bezirk March|March]]
+|-
+| style="text-align:center" | [[Datei:Riemenstalden-blazon.svg|35px|Riemenstalden]]
+| style="text-align:left" | [[Riemenstalden]]
+| data-sort-value="{{EWZ|CH-SZ|1369}}" | {{EWZ CH|CH-SZ|1369}}
+| {{formatnum: {{ RundenDez | {{Metadaten Fläche CH|1369}} | 2 }}}} || {{#expr:{{Metadaten Einwohnerzahl CH-SZ|1369}}/{{Metadaten Fläche CH|1369}} round 0}}
+| style="text-align:left" | [[Bezirk Schwyz|Schwyz]]
+|-
+| style="text-align:center" | [[Datei:CHE Rothenthurm COA.svg|35px|Rothenthurm]]
+| style="text-align:left" | [[Rothenthurm SZ|Rothenthurm]] 
+| data-sort-value="{{EWZ|CH-SZ|1370}}" | {{EWZ CH|CH-SZ|1370}}
+| {{formatnum: {{ RundenDez | {{Metadaten Fläche CH|1370}} | 2 }}}} || {{#expr:{{Metadaten Einwohnerzahl CH-SZ|1370}}/{{Metadaten Fläche CH|1370}} round 0}}
+| style="text-align:left" | [[Bezirk Schwyz|Schwyz]]
+|-
+| style="text-align:center" | [[Datei:Sattel-blazon.svg|35px|Sattel]]
+| style="text-align:left" | [[Sattel SZ|Sattel]] 
+| data-sort-value="{{EWZ|CH-SZ|1371}}" | {{EWZ CH|CH-SZ|1371}}
+| {{formatnum: {{ RundenDez | {{Metadaten Fläche CH|1371}} | 2 }}}} || {{#expr:{{Metadaten Einwohnerzahl CH-SZ|1371}}/{{Metadaten Fläche CH|1371}} round 0}}
+| style="text-align:left" | [[Bezirk Schwyz|Schwyz]]
+|-
+| style="text-align:center" | [[Datei:Schübelbach-blazon.svg|35px|Schübelbach]]
+| style="text-align:left" | [[Schübelbach]]
+| data-sort-value="{{EWZ|CH-SZ|1346}}" | {{EWZ CH|CH-SZ|1346}}
+| {{formatnum: {{ RundenDez | {{Metadaten Fläche CH|1346}} | 2 }}}} || {{#expr:{{Metadaten Einwohnerzahl CH-SZ|1346}}/{{Metadaten Fläche CH|1346}} round 0}}
+| style="text-align:left" | [[Bezirk March|March]]
+|-
+| style="text-align:center" | [[Datei:Wappen Schwyz matt.svg|35px|Schwyz]]
+| style="text-align:left" | '''[[Schwyz (Gemeinde)|Schwyz]]'''
+| data-sort-value="{{EWZ|CH-SZ|1372}}" | {{EWZ CH|CH-SZ|1372}}
+| {{formatnum: {{ RundenDez | {{Metadaten Fläche CH|1372}} | 2 }}}} || {{#expr:{{Metadaten Einwohnerzahl CH-SZ|1372}}/{{Metadaten Fläche CH|1372}} round 0}}
+| style="text-align:left" | [[Bezirk Schwyz|Schwyz]]
+|-
+| style="text-align:center" | [[Datei:Steinen SZ-blazon.svg|35px|Steinen]]
+| style="text-align:left" | [[Steinen SZ|Steinen]]
+| data-sort-value="{{EWZ|CH-SZ|1373}}" | {{EWZ CH|CH-SZ|1373}}
+| {{formatnum: {{ RundenDez | {{Metadaten Fläche CH|1373}} | 2 }}}} || {{#expr:{{Metadaten Einwohnerzahl CH-SZ|1373}}/{{Metadaten Fläche CH|1373}} round 0}}
+| style="text-align:left" | [[Bezirk Schwyz|Schwyz]]
+|-
+| style="text-align:center" | [[Datei:Steinerberg-blazon.svg|35px|Steinerberg]]
+| style="text-align:left" | [[Steinerberg]]
+| data-sort-value="{{EWZ|CH-SZ|1374}}" | {{EWZ CH|CH-SZ|1374}}
+| {{formatnum: {{ RundenDez | {{Metadaten Fläche CH|1374}} | 2 }}}} || {{#expr:{{Metadaten Einwohnerzahl CH-SZ|1374}}/{{Metadaten Fläche CH|1374}} round 0}}
+| style="text-align:left" | [[Bezirk Schwyz|Schwyz]]
+|-
+| style="text-align:center" | [[Datei:Tuggen-blazon.svg|35px|Tuggen]]
+| style="text-align:left" | [[Tuggen]] 
+| data-sort-value="{{EWZ|CH-SZ|1347}}" | {{EWZ CH|CH-SZ|1347}}
+| {{formatnum: {{ RundenDez | {{Metadaten Fläche CH|1347}} | 2 }}}} || {{#expr:{{Metadaten Einwohnerzahl CH-SZ|1347}}/{{Metadaten Fläche CH|1347}} round 0}}
+| style="text-align:left" | [[Bezirk March|March]]
+|-
+| style="text-align:center" | [[Datei:Unteriberg-blazon.svg|35px|Unteriberg]]
+| style="text-align:left" | [[Unteriberg]] 
+| data-sort-value="{{EWZ|CH-SZ|1375}}" | {{EWZ CH|CH-SZ|1375}}
+| {{formatnum: {{ RundenDez | {{Metadaten Fläche CH|1375}} | 2 }}}} || {{#expr:{{Metadaten Einwohnerzahl CH-SZ|1375}}/{{Metadaten Fläche CH|1375}} round 0}}
+| style="text-align:left" | [[Bezirk Schwyz|Schwyz]]
+|-
+| style="text-align:center" | [[Datei:CHE Vorderthal COA.svg|35px|Vorderthal]]
+| style="text-align:left" | [[Vorderthal]] 
+| data-sort-value="{{EWZ|CH-SZ|1348}}" | {{EWZ CH|CH-SZ|1348}}
+| {{formatnum: {{ RundenDez | {{Metadaten Fläche CH|1348}} | 2 }}}} || {{#expr:{{Metadaten Einwohnerzahl CH-SZ|1348}}/{{Metadaten Fläche CH|1348}} round 0}}
+| style="text-align:left" | [[Bezirk March|March]]
+|-
+| style="text-align:center" | [[Datei:Wangen SZ-blazon.svg|35px|Wangen]]
+| style="text-align:left" | [[Wangen SZ|Wangen (SZ)]]
+| data-sort-value="{{EWZ|CH-SZ|1349}}" | {{EWZ CH|CH-SZ|1349}}
+| {{formatnum: {{ RundenDez | {{Metadaten Fläche CH|1349}} | 2 }}}} || {{#expr:{{Metadaten Einwohnerzahl CH-SZ|1349}}/{{Metadaten Fläche CH|1349}} round 0}}
+| style="text-align:left" | [[Bezirk March|March]]
+|-
+| style="text-align:center" | [[Datei:CHE Wollerau COA.svg|35px|Wollerau]]
+| style="text-align:left" | '''[[Wollerau]]'''
+| data-sort-value="{{EWZ|CH-SZ|1323}}" | {{EWZ CH|CH-SZ|1323}}
+| {{formatnum: {{ RundenDez | {{Metadaten Fläche CH|1323}} | 2 }}}} || {{#expr:{{Metadaten Einwohnerzahl CH-SZ|1323}}/{{Metadaten Fläche CH|1323}} round 0}}
+| style="text-align:left" | [[Bezirk Höfe|Höfe]]
+|-
+! colspan="2" | Total (30)
+! style="text-align:right" | {{EWZ CH|CH-SZ|CH-SZ}}
+! style="text-align:right" | {{formatnum: {{ RundenDez | {{Metadaten Fläche CH|CH-SZ}} | 2 }}}}
+! style="text-align:right" | {{#expr:{{Metadaten Einwohnerzahl CH-SZ|CH-SZ}}/851.31 round 0}}
+! -
+|}
+
+Bemerkung: '''<sup>1</sup>''' [[Pfäffikon SZ|Pfäffikon]] in der Gemeinde Freienbach ist ebenfalls ein Bezirkshauptort.
+
+== Änderungen im Gemeindebestand ==
+<gallery>
+Karte Gemeinden des Kantons Schwyz farbig 1850.png|Gemeinden bis 1875
+Karte Gemeinden des Kantons Schwyz farbig 1876.png|Gemeinden bis 1950
+Karte Gemeinden des Kantons Schwyz farbig 1884.png|Gemeinden bis 1950
+Karte Gemeinden des Kantons Schwyz farbig 1951.png|Gemeinden bis 2003
+Karte Gemeinden des Kantons Schwyz farbig 2004.png|Gemeinden bis 2015
+</gallery>
+Von 1817 bis 1832 kannte der Kanton nur den "Bezirk" [[Gersau]], das restliche Gebiet wurde wie bisher als Untertanenland von Schwyz betrachtet. Erst die Abspaltung von [[Ausserschwyz (Region)|Ausserschwyz]] 1832 führte zur Bildung der vier Bezirke  March, Einsiedeln, Küßnacht und Pfäffikon, so dass mit der Wiedervereinigung von 1833 der Kanton Schwyz nun sechs Bezirke hatte, Schwyz, Gersau und die vier Bezirke von Ausserschwyz, mit insgesamt 28 Gemeinden. 
+Seit 1833 gab es folgende Änderungen im Bestand der Gemeinden:
+
+*1848: Gründung von [[Feusisberg]] <!--Abtrennng von Wollerau?--> (neu 29 Gemeinden)
+*1848: Namensänderung Pfäffikon → [[Freienbach]] (ausserdem Umbenennung des Bezirks Pfäffikon in [[Bezirk Höfe|Höfe]])
+*1876: Namensänderung Vorder-Wäggithal → [[Vorderthal]]
+*1876: Namensänderung Hinter-Wäggithal → [[Innerthal]]
+*1884: Aufteilung von Iberg in [[Oberiberg]] und [[Unteriberg]] (neu 30 Gemeinden)
+*1951: Landabtausch, das Lidernental wechselt von der Gemeinde [[Muotathal]] zur Gemeinde [[Riemenstalden]]
+*2003: Namensänderung [[Küssnacht SZ|Küssnacht am Rigi]] → [[Küssnacht SZ|Küssnacht (SZ)]]
+*2016: Diverse kleinere Grenzkorrekturen
+
+== Weblinks ==
+{{Commonscat|Municipalities in the canton of Schwyz|Gemeinden des Kantons Schwyz|audio=1|video=1}}
+
+== Einzelnachweise ==
+<references />
+
+{{Navigationsleiste Gemeinden der Schweizer Kantone}}
+
+[[Kategorie:Ort im Kanton Schwyz|!]]
+[[Kategorie:Liste (Gemeinden in der Schweiz)|Schwyz]]

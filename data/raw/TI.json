@@ -1,0 +1,69 @@
+{
+  "canton": "TI",
+  "year": 2026,
+  "source": {
+    "incomeTax": "https://www.estv2.admin.ch/stp/kb/ti-it.pdf",
+    "wealthTax": "https://www.estv2.admin.ch/stp/kb/ti-it.pdf",
+    "topRateDegressivityLaw": "https://m3.ti.ch/CAN/RLeggi/public/index.php/raccolta-leggi/legge/num/749",
+    "dipf2026Decree": "https://m3.ti.ch/CAN/RLeggi/public/index.php/raccolta-leggi/legge/num/862",
+    "multiplier": "https://m3.ti.ch/CAN/RLeggi/public/index.php/raccolta-leggi/legge/num/749",
+    "municipalData": "https://www4.ti.ch/dfe/dc/sportello/moltiplicatori-comunali"
+  },
+  "incomeTaxBrackets": {
+    "single": [
+      { "from": 0, "rate": 0.00160 },
+      { "from": 12600, "rate": 0.05232 },
+      { "from": 17500, "rate": 0.05949 },
+      { "from": 20900, "rate": 0.03923 },
+      { "from": 26100, "rate": 0.07499 },
+      { "from": 30200, "rate": 0.09461 },
+      { "from": 40000, "rate": 0.10377 },
+      { "from": 52800, "rate": 0.10988 },
+      { "from": 58200, "rate": 0.11800 },
+      { "from": 73100, "rate": 0.11597 },
+      { "from": 91500, "rate": 0.12470 },
+      { "from": 114000, "rate": 0.13080 },
+      { "from": 227900, "rate": 0.14040 },
+      { "from": 380700, "rate": 0.14000 }
+    ],
+    "married": [
+      { "from": 0, "rate": 0.00145 },
+      { "from": 20500, "rate": 0.03923 },
+      { "from": 24900, "rate": 0.04360 },
+      { "from": 28300, "rate": 0.02616 },
+      { "from": 33200, "rate": 0.03923 },
+      { "from": 42400, "rate": 0.06540 },
+      { "from": 47900, "rate": 0.07848 },
+      { "from": 60700, "rate": 0.10116 },
+      { "from": 79900, "rate": 0.11074 },
+      { "from": 90500, "rate": 0.12645 },
+      { "from": 122700, "rate": 0.12034 },
+      { "from": 141100, "rate": 0.12906 },
+      { "from": 183300, "rate": 0.13777 },
+      { "from": 227900, "rate": 0.14302 },
+      { "from": 304000, "rate": 0.14650 },
+      { "from": 761500, "rate": 0.14000 }
+    ]
+  },
+  "wealthTaxBrackets": {
+    "general": [
+      { "from": 0, "rate": 0.00100 },
+      { "from": 201000, "rate": 0.00200 },
+      { "from": 281000, "rate": 0.00250 },
+      { "from": 701000, "rate": 0.00300 },
+      { "from": 1381000, "rate": 0.00250 }
+    ]
+  },
+  "wealthTaxRateUnit": "decimal",
+  "cantonalMultiplier": {
+    "value": 100,
+    "unit": "percent",
+    "appliedOnTop": true
+  },
+  "churchTax": {
+    "variesByMunicipality": true,
+    "reformed": null,
+    "catholic": null
+  },
+  "notes": "YEAR: 2026 is the current, enacted tax period. TI's income-tax bracket THRESHOLDS were indexed for cold progression 'a partire dal periodo d'imposta 2025' (Art. 35 LT, per the ESTV Kantonsblatt Ticino, Stato febbraio 2026) and have NOT been re-indexed for 2026 (no CPI move large enough to trigger Art. 39 LT's 1%-cumulative-inflation re-indexing threshold since then) - so the 2025-indexed thresholds are still exactly the ones in force for 2026. HOWEVER the TOP bracket's marginal rate is separately overridden every year by a multi-year phase-down clause (Art. 309g LT for single filers, Art. 309h LT for married filers), independent of the indexation: 14.5% (2025) -> 14.0% (2026) -> 13.5% (2027) -> 13.0% (2028) -> 12.5% (2029) -> 12.0% permanently from 2030 (at which point Art. 35 itself, not an override, applies). The tables above therefore use the 2025-indexed thresholds for every bracket EXCEPT the last one, whose rate was changed from the Kantonsblatt's stated 14.500%/14.500% (2025) to 14.000%/14.000% (2026) per Art. 309g cpv. 2 / Art. 309h cpv. 2 LT. Verified this is genuinely a 2026 rule already enacted (decree dated 19 Nov 2025, in force 1 Jan 2026), not a future plan. The canton's own 2026 executive decree (640.210 DIPF, 19 Nov 2025) was checked directly and confirmed it does NOT touch the Art. 35 rate table at all (it only re-indexes flat-CHF deduction amounts and withholding-tax forfait percentages) - so the bracket table itself really is unchanged from 2025 apart from the legislated top-rate step-down described above.\n\nGENUINE QUIRK - NON-MONOTONIC MARGINAL RATES (verified against the source's own cumulative 'imposta dovuta' and 'aliquota effettiva' columns, which DO increase monotonically throughout - only the marginal/incremental rate per bracket dips at points, which is mathematically fine and does not violate total-tax monotonicity): for SINGLE filers the marginal rate rises 0.16%->5.232%->5.949% and then DROPS to 3.923% for the 20'900-26'100 bracket before resuming its climb; it dips again 11.800%->11.597% for the 73'100-91'500 bracket. For MARRIED filers there are several dips (e.g. 4.360%->2.616%, 12.645%->12.034%) and, most strikingly, the SECOND-TO-LAST bracket (304'000-761'400) carries a HIGHER marginal rate (14.650%) than the final/top bracket above 761'500 (14.000% for 2026, 14.500% in 2025) - i.e. the marginal rate schedule has a local hump/peak below the top end rather than rising monotonically to its asymptote. This is transcribed faithfully from the canton's own official table (Art. 35 cpv. 1/2 LT) and is a real, intentional feature of TI's tariff design, not a transcription error - a developer implementing marginal-bracket calculation logic must NOT assume rates are monotonically non-decreasing.\n\nEXEMPTION QUIRK: Art. 35 cpv. 3 LT explicitly EXEMPTS incomes below CHF 12'500 (single) / CHF 20'400 (married) from tax entirely (full CHF 0, not merely 'apply the first bracket's 0.16%/0.145% rate') - the first bracket's nominal marginal rate (0.160% single, 0.145% married) technically only bites for taxpayers whose total income EXCEEDS the exemption threshold (their first CHF 12'500/20'400 of income is taxed at that low rate as part of the normal cumulative bracket calculation), while anyone at or under the threshold owes nothing at all. Fractions of income below CHF 100 are also disregarded (not modeled here, immaterial).\n\nWEALTH TAX - CORRECTED (see errata at end of this notes field): the rates ARE per-mille, not percent, despite the source PDF's own column header literally reading '%' (a pdftotext/OCR mangling of the original '‰' per-mille glyph -- the '%' header appears on BOTH the 'Aliquote di ogni categoria' and 'Aliquota effettiva' columns in the extracted text). This is a rate-hump schedule like income tax: marginal rate rises 0.1‰->0.2‰->0.25‰->0.3‰ and then DROPS to 0.25‰ for wealth above CHF 1'381'000 (again a genuine feature, source table's own cumulative-tax column keeps increasing). Net wealth below CHF 200'000 is fully exempt (Art. 49 cpv. 2 LT) - consistent with/identical to the first bracket's lower bound.\n\nERRATA (added after initial research pass): the original version of this file stated the wealth-tax rates were in percent (0.01/0.02/0.025/0.03/0.025) and cited the source's own '%' column header as justification. This was WRONG and was caught by the user reviewing data/raw/sources/TI_kantonsblatt.txt directly: the source's own precomputed 'Imposta dovuta per la sostanza massima di ogni categoria' column proves the rates are per-mille, not percent -- e.g. CHF 200'000 of wealth at the stated first-category rate produces CHF 200.00 of tax per the source table, which is only consistent with a 0.1% (1‰) rate (200'000 * 0.001 = 200), not 1% (which would be CHF 2'000). Cross-checked at every bracket boundary (CHF 1'380'000 -> CHF 3'450.00 cumulative tax, exactly reproduced by summing 200'000*0.001 + 80'000*0.002 + 420'000*0.0025 + 680'000*0.003 = 3'450) -- confirms per-mille throughout. The wealthTaxBrackets rates above have been corrected accordingly (divided by 10 from the original percent-based figures). A 'freno all'imposta sulla sostanza' (wealth-tax brake, Art. 49a LT) caps combined cantonal+communal income+wealth tax at 60% of total taxable income (with net wealth yield floored at 1% of net wealth for this calculation) - flagged per instructions, NOT modeled in the bracket tables; the relief is applied against the wealth tax and split proportionally between canton and commune per the municipal multiplier.\n\nMECHANISM - CANTONAL MULTIPLIER: TI computes a single 'imposta cantonale base' from the bracket tables above, then multiplies by a 'coefficiente di imposta cantonale' fixed at 100% (Art. 1b cpv. 1 LT, confirmed current for 2026 - a historical reduction to 97% under Art. 300a LT applied ONLY to fiscal periods 2020-2023 and has long since expired) to get the 'imposta effettiva'. The identical coefficient mechanism and the identical 100%-in-2026 value apply uniformly to income tax, wealth tax, corporate profit/capital tax, and withholding tax alike (Art. 1a cpv. 3 LT) - i.e. unlike GE, there is no per-tax-type asymmetry in TI's cantonal layer. Municipalities then apply their OWN independent 'moltiplicatore comunale' to the same cantonal-base tax (Art. 276 LT) - this is what TI_municipalities.json's municipalMultiplier field captures.\n\nCHURCH TAX - HIGHLY HETEROGENEOUS, NOT A CLEAN PER-MUNICIPALITY TABLE (a real, important quirk): the 'imposta di culto' (Decreto legislativo 10 Nov 1992, DIC) is levied PER PARROCCHIA (parish) or per Comunità regionale della Chiesa evangelica riformata, NOT per political municipality, and its rate is whatever each parish's own assembly votes to cover its budget needs each year (Art. 3 DIC: '...aliquota è determinata in base al fabbisogno votato dall'Assemblea parrocchiale...') - there is no canton-wide table published by ti.ch analogous to the moltiplicatori-comunali page. Independent research (marcofrigerio.ch summary of the cantonal situation) indicates TI's ~238 Catholic parishes and Reformed communities are highly heterogeneous in how they are funded: roughly 166 receive their funding via ordinary municipal-budget contributions (no separate 'imposta di culto' line at all), only about 39 actually levy a structured imposta di culto as a percentage of the cantonal ordinary tax (which is what churchMultiplierReformed/Catholic would represent if populated), 20 have no dedicated public financing, and 13 rely on purely voluntary contributions - and a single political municipality can contain multiple parishes with DIFFERENT regimes. Because of this, and because a per-parish (not per-municipality) structured dataset was not found from an authoritative canton-wide source within this research pass, churchTax.reformed/catholic and every row's churchMultiplierReformed/churchMultiplierCatholic in TI_municipalities.json are left null (genuinely unconfirmed/inapplicable in a uniform per-municipality sense) rather than guessed - a full implementation would need parish-level, not municipality-level, data, and would need to handle municipalities where no structured imposta di culto exists at all.\n\nMUNICIPALITIES: 100 municipalities with a live 2026 'moltiplicatore comunale' (persone fisiche column used; the source table also carries a separate persone giuridiche/PG column not captured here) were scraped directly from the canton's own interactive table at https://www4.ti.ch/dfe/dc/sportello/moltiplicatori-comunali (raw HTML saved to data/raw/sources/TI_moltiplicatori_page_raw.html) and matched 1:1 by name against data/raw/bfs_municipalities_register.csv's 100 TI rows (all matched, after fixing 4 cosmetic name variants: 'Bosco Gurin'->'Bosco/Gurin', 'Brione s/Minusio'->'Brione Sopra Minusio', apostrophe-encoding differences in \"Collina d'Oro\" and \"Sant'Antonino\"). Note this is fewer than the ~106 municipalities mentioned as TI's historical count in the task brief - TI has been actively consolidating municipalities via merger in recent years (e.g. 'Lema' is itself a 2021 merger product with only recent-year multiplier history in the source table), and 100 is the CURRENT, live count per both the canton's own multiplier table and the BFS register, so this is treated as complete/authoritative rather than a partial scrape. Multipliers observed range from 56% (Porza) to 126% (Maggia, per independent 2025 press reporting on business-only rates; the lowest residential/PF multipliers found in the scraped 2026 column were around 56-65%, e.g. Porza, Paradiso, Vico Morcote, with several small/mountain municipalities still at 100%, e.g. Verzasca)."
+}

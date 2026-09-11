@@ -1,0 +1,432 @@
+[
+  {
+    "bfsNumber": 2761,
+    "name": "Aesch",
+    "municipalMultiplierPercent": 56
+  },
+  {
+    "bfsNumber": 2762,
+    "name": "Allschwil",
+    "municipalMultiplierPercent": 58
+  },
+  {
+    "bfsNumber": 2763,
+    "name": "Arlesheim",
+    "municipalMultiplierPercent": 47
+  },
+  {
+    "bfsNumber": 2764,
+    "name": "Biel-Benken",
+    "municipalMultiplierPercent": 46
+  },
+  {
+    "bfsNumber": 2765,
+    "name": "Binningen",
+    "municipalMultiplierPercent": 49
+  },
+  {
+    "bfsNumber": 2766,
+    "name": "Birsfelden",
+    "municipalMultiplierPercent": 62
+  },
+  {
+    "bfsNumber": 2767,
+    "name": "Bottmingen",
+    "municipalMultiplierPercent": 48
+  },
+  {
+    "bfsNumber": 2768,
+    "name": "Ettingen",
+    "municipalMultiplierPercent": 61
+  },
+  {
+    "bfsNumber": 2769,
+    "name": "Münchenstein",
+    "municipalMultiplierPercent": 60
+  },
+  {
+    "bfsNumber": 2770,
+    "name": "Muttenz",
+    "municipalMultiplierPercent": 56
+  },
+  {
+    "bfsNumber": 2771,
+    "name": "Oberwil",
+    "municipalMultiplierPercent": 50
+  },
+  {
+    "bfsNumber": 2772,
+    "name": "Pfeffingen",
+    "municipalMultiplierPercent": 45
+  },
+  {
+    "bfsNumber": 2773,
+    "name": "Reinach",
+    "municipalMultiplierPercent": 58.5
+  },
+  {
+    "bfsNumber": 2774,
+    "name": "Schönenbuch",
+    "municipalMultiplierPercent": 54
+  },
+  {
+    "bfsNumber": 2775,
+    "name": "Therwil",
+    "municipalMultiplierPercent": 52
+  },
+  {
+    "bfsNumber": 2781,
+    "name": "Blauen",
+    "municipalMultiplierPercent": 59.5
+  },
+  {
+    "bfsNumber": 2782,
+    "name": "Brislach",
+    "municipalMultiplierPercent": 57
+  },
+  {
+    "bfsNumber": 2783,
+    "name": "Burg i.L.",
+    "municipalMultiplierPercent": 68
+  },
+  {
+    "bfsNumber": 2784,
+    "name": "Dittingen",
+    "municipalMultiplierPercent": 64
+  },
+  {
+    "bfsNumber": 2785,
+    "name": "Duggingen",
+    "municipalMultiplierPercent": 54
+  },
+  {
+    "bfsNumber": 2786,
+    "name": "Grellingen",
+    "municipalMultiplierPercent": 62
+  },
+  {
+    "bfsNumber": 2787,
+    "name": "Laufen",
+    "municipalMultiplierPercent": 59
+  },
+  {
+    "bfsNumber": 2788,
+    "name": "Liesberg",
+    "municipalMultiplierPercent": 61
+  },
+  {
+    "bfsNumber": 2789,
+    "name": "Nenzlingen",
+    "municipalMultiplierPercent": 62.5
+  },
+  {
+    "bfsNumber": 2790,
+    "name": "Roggenburg",
+    "municipalMultiplierPercent": 62
+  },
+  {
+    "bfsNumber": 2791,
+    "name": "Röschenz",
+    "municipalMultiplierPercent": 58
+  },
+  {
+    "bfsNumber": 2792,
+    "name": "Wahlen",
+    "municipalMultiplierPercent": 60
+  },
+  {
+    "bfsNumber": 2793,
+    "name": "Zwingen",
+    "municipalMultiplierPercent": 62
+  },
+  {
+    "bfsNumber": 2821,
+    "name": "Arisdorf",
+    "municipalMultiplierPercent": 59
+  },
+  {
+    "bfsNumber": 2822,
+    "name": "Augst",
+    "municipalMultiplierPercent": 53
+  },
+  {
+    "bfsNumber": 2823,
+    "name": "Bubendorf",
+    "municipalMultiplierPercent": 60
+  },
+  {
+    "bfsNumber": 2824,
+    "name": "Frenkendorf",
+    "municipalMultiplierPercent": 57
+  },
+  {
+    "bfsNumber": 2825,
+    "name": "Füllinsdorf",
+    "municipalMultiplierPercent": 60
+  },
+  {
+    "bfsNumber": 2826,
+    "name": "Giebenach",
+    "municipalMultiplierPercent": 55
+  },
+  {
+    "bfsNumber": 2827,
+    "name": "Hersberg",
+    "municipalMultiplierPercent": 59
+  },
+  {
+    "bfsNumber": 2828,
+    "name": "Lausen",
+    "municipalMultiplierPercent": 55
+  },
+  {
+    "bfsNumber": 2829,
+    "name": "Liestal",
+    "municipalMultiplierPercent": 65
+  },
+  {
+    "bfsNumber": 2830,
+    "name": "Lupsingen",
+    "municipalMultiplierPercent": 58
+  },
+  {
+    "bfsNumber": 2831,
+    "name": "Pratteln",
+    "municipalMultiplierPercent": 58.5
+  },
+  {
+    "bfsNumber": 2832,
+    "name": "Ramlinsburg",
+    "municipalMultiplierPercent": 52
+  },
+  {
+    "bfsNumber": 2833,
+    "name": "Seltisberg",
+    "municipalMultiplierPercent": 59
+  },
+  {
+    "bfsNumber": 2834,
+    "name": "Ziefen",
+    "municipalMultiplierPercent": 59
+  },
+  {
+    "bfsNumber": 2841,
+    "name": "Anwil",
+    "municipalMultiplierPercent": 60
+  },
+  {
+    "bfsNumber": 2842,
+    "name": "Böckten",
+    "municipalMultiplierPercent": 64
+  },
+  {
+    "bfsNumber": 2843,
+    "name": "Buckten",
+    "municipalMultiplierPercent": 64
+  },
+  {
+    "bfsNumber": 2844,
+    "name": "Buus",
+    "municipalMultiplierPercent": 58
+  },
+  {
+    "bfsNumber": 2845,
+    "name": "Diepflingen",
+    "municipalMultiplierPercent": 65
+  },
+  {
+    "bfsNumber": 2846,
+    "name": "Gelterkinden",
+    "municipalMultiplierPercent": 59
+  },
+  {
+    "bfsNumber": 2847,
+    "name": "Häfelfingen",
+    "municipalMultiplierPercent": 61
+  },
+  {
+    "bfsNumber": 2848,
+    "name": "Hemmiken",
+    "municipalMultiplierPercent": 67
+  },
+  {
+    "bfsNumber": 2849,
+    "name": "Itingen",
+    "municipalMultiplierPercent": 63
+  },
+  {
+    "bfsNumber": 2850,
+    "name": "Känerkinden",
+    "municipalMultiplierPercent": 63
+  },
+  {
+    "bfsNumber": 2851,
+    "name": "Kilchberg",
+    "municipalMultiplierPercent": 67
+  },
+  {
+    "bfsNumber": 2852,
+    "name": "Läufelfingen",
+    "municipalMultiplierPercent": 64.2
+  },
+  {
+    "bfsNumber": 2853,
+    "name": "Maisprach",
+    "municipalMultiplierPercent": 56
+  },
+  {
+    "bfsNumber": 2854,
+    "name": "Nusshof",
+    "municipalMultiplierPercent": 62
+  },
+  {
+    "bfsNumber": 2855,
+    "name": "Oltingen",
+    "municipalMultiplierPercent": 64
+  },
+  {
+    "bfsNumber": 2856,
+    "name": "Ormalingen",
+    "municipalMultiplierPercent": 59
+  },
+  {
+    "bfsNumber": 2857,
+    "name": "Rickenbach",
+    "municipalMultiplierPercent": 62
+  },
+  {
+    "bfsNumber": 2858,
+    "name": "Rothenfluh",
+    "municipalMultiplierPercent": 62
+  },
+  {
+    "bfsNumber": 2859,
+    "name": "Rümlingen",
+    "municipalMultiplierPercent": 63
+  },
+  {
+    "bfsNumber": 2860,
+    "name": "Rünenberg",
+    "municipalMultiplierPercent": 62
+  },
+  {
+    "bfsNumber": 2861,
+    "name": "Sissach",
+    "municipalMultiplierPercent": 57
+  },
+  {
+    "bfsNumber": 2862,
+    "name": "Tecknau",
+    "municipalMultiplierPercent": 60
+  },
+  {
+    "bfsNumber": 2863,
+    "name": "Tenniken",
+    "municipalMultiplierPercent": 60
+  },
+  {
+    "bfsNumber": 2864,
+    "name": "Thürnen",
+    "municipalMultiplierPercent": 56
+  },
+  {
+    "bfsNumber": 2865,
+    "name": "Wenslingen",
+    "municipalMultiplierPercent": 58
+  },
+  {
+    "bfsNumber": 2866,
+    "name": "Wintersingen",
+    "municipalMultiplierPercent": 56
+  },
+  {
+    "bfsNumber": 2867,
+    "name": "Wittinsburg",
+    "municipalMultiplierPercent": 63
+  },
+  {
+    "bfsNumber": 2868,
+    "name": "Zeglingen",
+    "municipalMultiplierPercent": 64
+  },
+  {
+    "bfsNumber": 2869,
+    "name": "Zunzgen",
+    "municipalMultiplierPercent": 59
+  },
+  {
+    "bfsNumber": 2881,
+    "name": "Arboldswil",
+    "municipalMultiplierPercent": 59
+  },
+  {
+    "bfsNumber": 2882,
+    "name": "Bennwil",
+    "municipalMultiplierPercent": 64
+  },
+  {
+    "bfsNumber": 2883,
+    "name": "Bretzwil",
+    "municipalMultiplierPercent": 58
+  },
+  {
+    "bfsNumber": 2884,
+    "name": "Diegten",
+    "municipalMultiplierPercent": 56
+  },
+  {
+    "bfsNumber": 2885,
+    "name": "Eptingen",
+    "municipalMultiplierPercent": 65
+  },
+  {
+    "bfsNumber": 2886,
+    "name": "Hölstein",
+    "municipalMultiplierPercent": 63
+  },
+  {
+    "bfsNumber": 2887,
+    "name": "Lampenberg",
+    "municipalMultiplierPercent": 62
+  },
+  {
+    "bfsNumber": 2888,
+    "name": "Langenbruck",
+    "municipalMultiplierPercent": 56
+  },
+  {
+    "bfsNumber": 2889,
+    "name": "Lauwil",
+    "municipalMultiplierPercent": 60
+  },
+  {
+    "bfsNumber": 2890,
+    "name": "Liedertswil",
+    "municipalMultiplierPercent": 55
+  },
+  {
+    "bfsNumber": 2891,
+    "name": "Niederdorf",
+    "municipalMultiplierPercent": 64
+  },
+  {
+    "bfsNumber": 2892,
+    "name": "Oberdorf",
+    "municipalMultiplierPercent": 65
+  },
+  {
+    "bfsNumber": 2893,
+    "name": "Reigoldswil",
+    "municipalMultiplierPercent": 66
+  },
+  {
+    "bfsNumber": 2894,
+    "name": "Titterten",
+    "municipalMultiplierPercent": 65
+  },
+  {
+    "bfsNumber": 2895,
+    "name": "Waldenburg",
+    "municipalMultiplierPercent": 72
+  }
+]

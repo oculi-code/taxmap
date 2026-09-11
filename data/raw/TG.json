@@ -1,0 +1,43 @@
+{
+  "canton": "TG",
+  "year": 2026,
+  "source": {
+    "incomeTax": "https://www.estv2.admin.ch/stp/kb/tg-de.pdf (Kantonsblatt Thurgau, Stand Februar 2026, citing § 37 StG); official bracket table at https://www.rechtsbuch.tg.ch/api/de/change_document_annexes/7 (Tabelle der einfachen Einkommenssteuer, Stand 2025)",
+    "wealthTax": "https://www.estv2.admin.ch/stp/kb/tg-de.pdf (§ 54 StG)",
+    "multiplier": "https://statistik.tg.ch/themen-und-daten/staat-und-politik/steuern/steuerfuesse.html/6031 (Amt für Daten und Statistik, 'Teil- und Gesamtsteuerfüsse nach Gemeinden und Bezugsgruppen, 2007-2026')",
+    "municipalData": "https://statistik.tg.ch/public/upload/assets/190150/Teil_Gesamtsteuerfuesse_nach_Gemeinden_und_Bezugsgruppen_2007_2026.xlsx"
+  },
+  "incomeTaxBrackets": {
+    "single": [
+      { "from": 0, "rate": 0.0 },
+      { "from": 12200, "rate": 0.02 },
+      { "from": 14600, "rate": 0.03 },
+      { "from": 16800, "rate": 0.04 },
+      { "from": 18900, "rate": 0.05 },
+      { "from": 21000, "rate": 0.06 },
+      { "from": 36800, "rate": 0.07 },
+      { "from": 84400, "rate": 0.075 },
+      { "from": 158400, "rate": 0.08 }
+    ],
+    "married": [
+      { "from": 0, "rate": 0.0 },
+      { "from": 24400, "rate": 0.02 },
+      { "from": 29200, "rate": 0.03 },
+      { "from": 33600, "rate": 0.04 },
+      { "from": 37800, "rate": 0.05 },
+      { "from": 42000, "rate": 0.06 },
+      { "from": 73600, "rate": 0.07 },
+      { "from": 168800, "rate": 0.075 },
+      { "from": 316800, "rate": 0.08 }
+    ]
+  },
+  "wealthTaxBrackets": {
+    "general": [
+      { "from": 0, "rate": 0.0011 }
+    ]
+  },
+  "wealthTaxRateUnit": "decimal",
+  "cantonalMultiplier": { "value": 109, "unit": "percent", "appliedOnTop": true },
+  "churchTax": { "variesByMunicipality": true, "reformed": null, "catholic": null },
+  "notes": "YEAR: overall year is labeled 2026 (the Staatssteuerfuss and all municipal/school/church multipliers are confirmed, current, and specific to 2026 -- verified against the canton statistics office's own '2026' spreadsheet tab, which is separate from and more current than the equivalent 2025 tab). HOWEVER the underlying INCOME- and WEALTH-TAX BRACKET TABLES (the 'einfache Steuer' schedule in section incomeTaxBrackets/wealthTaxBrackets below) are the ones that took effect for Steuerperiode 2025 and were verified to still be the currently-applicable schedule as of the ESTV Kantonsblatt Thurgau dated Stand Februar 2026 (which cites them as 'Gültig ab Steuerperiode 2025' with no newer 2026 revision noted) -- i.e. TG's kalte-Progression indexation (§ 40 StG / VAKP ordinance) did not produce a materially different table for 2026, so the 2025 bracket table remains in force through 2026. A developer should treat the bracket thresholds as 'current as of 2026' but be aware they were last actually SET in 2025. MECHANISM: TG uses the classic three-independent-multiplier system PLUS a genuine 4th independent local layer, which is the canton's headline quirk: Staat (cantonal, 109% for all municipalities, unchanged since 2022) + Gemeinde (political municipality) + Schule (Schulgemeinde/school district) + Kirche (Kirchgemeinde/parish, reformed or Catholic), each set INDEPENDENTLY by its own governing body and applied as a separate percentage of the 'einfache Steuer'. Critically, Schulgemeinde and Kirchgemeinde boundaries frequently do NOT align with political-municipality boundaries -- a single political Gemeinde can straddle multiple Schulgemeinden and/or Kirchgemeinden with different multipliers for different addresses within the same municipality (e.g. Egnach political municipality: most residents pay Schulsteuer 95%, but a subset belonging to the Amriswil Schulgemeinde pay 97%; Hefenhofen's Catholic church multiplier varies 22-25% across three named Bezugsgruppen -- Hatswil / Moos Nord+Sonnenberg / Moos Süd -- within the one municipality). Because this app's schema has only ONE 'municipalMultiplier' field (no separate school-tax field), TG_municipalities.json's municipalMultiplier is the SUM of Gemeindesteuer + Schulsteuer (following the same combining convention already used for SZ's Bezirk+Gemeinde) -- the two components are NOT separately exposed in the JSON, but the full breakdown (Staat/Gemeinde/Schule/evang./kath./jur.Pers., including every Bezugsgruppe sub-row) is preserved verbatim in the raw source spreadsheet at data/raw/sources/TG_Teil_Gesamtsteuerfuesse_nach_Gemeinden_und_Bezugsgruppen_2007_2026.xlsx for any future refinement. Where a municipality's Schulsteuer or church rate varies by Bezugsgruppe, this dataset uses (in priority order): (1) the sub-row whose Bezugsgruppe name exactly matches the municipality's own name, when one exists (the 'default'/majority parish or school district), else (2) the arithmetic average of the published range's endpoints. 38 of 80 municipalities (~48%) required one of these two resolution methods for at least one field -- production code needing address-level precision should consult the raw XLSX rather than relying on the single per-municipality figure here. INCOME TAX BRACKET DECODING (§ 37 Abs. 1 StG): the law is NOT published as marginal widths (unlike SG) but as a 'cumulative tax reached at a round income threshold, then a marginal rate applying above that threshold' table, e.g. row 1 reads 'Fr. 0.- bis Fr. 12'200.- und 2% für den Mehrbetrag' meaning: tax is Fr. 0 for income up to Fr. 12'200, and the NEXT bracket's marginal rate is 2% (applying to income above 12'200, until the next listed threshold). This was decoded by verifying that each row's stated 'Fr. X' cumulative-tax figure exactly equals the running total computed from all prior brackets (e.g. tax at Fr. 14'600 = 0 + (14'600-12'200) x 2% = Fr. 48, matching row 2's stated 'Fr. 48' -- verified programmatically for all 8 rows to the exact centime, and the resulting {from,rate} breakpoint table in this JSON is a direct, exact transcription of that verified decoding, not an approximation). Top marginal rate above Fr. 158'400 is 8% (open-ended, ordinary marginal bracket -- unlike SG, TG has NO flat-rate-of-whole-income quirk at the top end). SPLITTING (married filers): § 37 Abs. 2 StG explicitly states a rate-determining divisor of 2.0 ('wird der Steuersatz ermittelt, indem das steuerbare Einkommen durch den Divisor 2,0 geteilt wird') -- mathematically identical to SG's Vollsplitting mechanism despite the more explicit statutory wording here. tax_married(income) = 2 x tax_single(income/2), equivalent to doubling every single-schedule breakpoint threshold while keeping the same marginal rates; the 'married' array above was derived this way and verified monotonic/self-consistent (not a separately published table, though it should match one if the canton publishes it). WEALTH TAX: flat rate, not bracketed -- § 54 StG: 'Die Vermögenssteuer beträgt 1,1 Promille des steuerbaren Vermögens' (1.1 per-mille = 0.0011 decimal), a single {from:0, rate:0.0011} entry. Steuerfreie Beträge (exempt amounts) of Fr. 200'000 for couples in ungetrennter Ehe, Fr. 100'000 for all other taxpayers, plus Fr. 100'000 per child taxed separately are deductions from net wealth, not rate brackets, and are not encoded here (consistent with this project's deduction-simplification scope decision). CHURCH TAX: no canton-wide flat rate for either denomination (unlike SG's Christ-katholisch quirk) -- both reformed and Catholic multipliers are set independently per Kirchgemeinde and were extracted per-municipality as described above. MUNICIPALITY COUNT: all 80 political municipalities across TG's 5 Bezirke are included, matching the BFS municipality register exactly (80/80 matched with no manual overrides beyond stripping the cantonal disambiguator suffix ' (TG)')."
+}

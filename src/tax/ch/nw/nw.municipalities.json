@@ -1,0 +1,68 @@
+[
+  {
+    "bfsNumber": 1501,
+    "name": "Beckenried",
+    "municipalMultiplierFactor": 1.79,
+    "churchMultiplierCatholicFactor": 0.35
+  },
+  {
+    "bfsNumber": 1502,
+    "name": "Buochs",
+    "municipalMultiplierFactor": 1.97,
+    "churchMultiplierCatholicFactor": 0.38
+  },
+  {
+    "bfsNumber": 1503,
+    "name": "Dallenwil",
+    "municipalMultiplierFactor": 2.4,
+    "churchMultiplierCatholicFactor": 0.37
+  },
+  {
+    "bfsNumber": 1504,
+    "name": "Emmetten",
+    "municipalMultiplierFactor": 2.22,
+    "churchMultiplierCatholicFactor": 0.55
+  },
+  {
+    "bfsNumber": 1505,
+    "name": "Ennetbürgen",
+    "municipalMultiplierFactor": 1.5,
+    "churchMultiplierCatholicFactor": 0.36
+  },
+  {
+    "bfsNumber": 1506,
+    "name": "Ennetmoos",
+    "municipalMultiplierFactor": 1.8,
+    "churchMultiplierCatholicFactor": 0.43
+  },
+  {
+    "bfsNumber": 1507,
+    "name": "Hergiswil (NW)",
+    "municipalMultiplierFactor": 1.2,
+    "churchMultiplierCatholicFactor": 0.21
+  },
+  {
+    "bfsNumber": 1508,
+    "name": "Oberdorf (NW)",
+    "municipalMultiplierFactor": 2,
+    "churchMultiplierCatholicFactor": 0.4
+  },
+  {
+    "bfsNumber": 1509,
+    "name": "Stans",
+    "municipalMultiplierFactor": 2.35,
+    "churchMultiplierCatholicFactor": 0.4
+  },
+  {
+    "bfsNumber": 1510,
+    "name": "Stansstad",
+    "municipalMultiplierFactor": 1.87,
+    "churchMultiplierCatholicFactor": 0.4
+  },
+  {
+    "bfsNumber": 1511,
+    "name": "Wolfenschiessen",
+    "municipalMultiplierFactor": 2.5,
+    "churchMultiplierCatholicFactor": 0.4
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "canton": "SH",
+  "year": 2025,
+  "source": {
+    "incomeTax": "https://www.estv2.admin.ch/stp/kb/sh-de.pdf",
+    "wealthTax": "https://www.estv2.admin.ch/stp/kb/sh-de.pdf",
+    "multiplier": "https://sh.ch/CMS/get/file/40a314f4-33a6-49d6-a6fa-da4c8868ab1b",
+    "municipalData": "https://sh.ch/CMS/get/file/40a314f4-33a6-49d6-a6fa-da4c8868ab1b",
+    "lawText": "https://rechtsbuch.sh.ch/app/de/texts_of_law/641.100"
+  },
+  "incomeTaxBrackets": {
+    "single": [
+      { "from": 0, "rate": 0.0 },
+      { "from": 6300, "rate": 0.01 },
+      { "from": 6600, "rate": 0.02 },
+      { "from": 8300, "rate": 0.03 },
+      { "from": 10400, "rate": 0.04 },
+      { "from": 12700, "rate": 0.05 },
+      { "from": 20600, "rate": 0.06 },
+      { "from": 28500, "rate": 0.07 },
+      { "from": 36400, "rate": 0.08 },
+      { "from": 44300, "rate": 0.09 },
+      { "from": 56900, "rate": 0.1 },
+      { "from": 69500, "rate": 0.11 },
+      { "from": 141000, "rate": 0.12 },
+      { "from": 210100, "rate": 0.099 }
+    ],
+    "married": [
+      { "from": 0, "rate": 0.0 },
+      { "from": 11970, "rate": 0.01 },
+      { "from": 12540, "rate": 0.02 },
+      { "from": 15770, "rate": 0.03 },
+      { "from": 19760, "rate": 0.04 },
+      { "from": 24130, "rate": 0.05 },
+      { "from": 39140, "rate": 0.06 },
+      { "from": 54150, "rate": 0.07 },
+      { "from": 69160, "rate": 0.08 },
+      { "from": 84170, "rate": 0.09 },
+      { "from": 108110, "rate": 0.1 },
+      { "from": 132050, "rate": 0.11 },
+      { "from": 267900, "rate": 0.12 },
+      { "from": 399190, "rate": 0.099 }
+    ]
+  },
+  "wealthTaxBrackets": {
+    "general": [
+      { "from": 0, "rate": 0.0009 },
+      { "from": 350000, "rate": 0.0019 },
+      { "from": 750000, "rate": 0.00295 },
+      { "from": 1750000, "rate": 0.0023 }
+    ]
+  },
+  "wealthTaxRateUnit": "decimal",
+  "cantonalMultiplier": {
+    "value": 79,
+    "unit": "percent",
+    "appliedOnTop": true
+  },
+  "churchTax": {
+    "variesByMunicipality": true,
+    "reformed": null,
+    "catholic": null
+  },
+  "notes": "YEAR CHOICE: used 2025 (Steuerperiode 2025) rather than 2026, because the official ESTV Kantonsblatt for SH (estv2.admin.ch/stp/kb/sh-de.pdf, 'Stand: Februar 2026') itself still documents Steuerperiode 2025 as its reference period, and the complete, verified, official municipality-by-municipality multiplier table (canton + all 26 municipalities + all church parishes) is only publicly available for 2025 (SH_steuerfuesse_2025.pdf, sh.ch). The cantonal multiplier for 2026 IS already known from secondary sources (news coverage of the Kantonsrat budget decision: reduced by 3 points to 76% for natural persons, 98% unchanged for legal persons) but a complete official 2026 municipal-level table could not be located/downloaded (the sh.ch CMS serves these PDFs behind opaque, non-guessable file IDs and the public tax-rates page did not resolve via automated fetch) — a developer wanting 2026 figures should re-check https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Finanzdepartement/Steuerverwaltung/Steuerf-sse-und-Steuerf-sseberechnung/Steuerf-sse-2244125-DE.html directly. INCOME TAX BRACKET TABLE: unchanged since 'Tarife ab 01.01.2010' per Art. 38 StG — i.e. the bracket structure itself is stable across 2025/2026, only the cantonal/municipal/church multipliers move yearly, so this table is valid for both years. MARRIED-TABLE MECHANISM (Art. 38 Abs. 2 StG, SPLITTING): SH has only ONE statutory bracket table (the 'single' table above applies literally to unmarried taxpayers without dependents). For (a) married couples living together and (b) widowed/separated/divorced/single taxpayers who live with and mainly support children or dependents, the LAW requires dividing the taxable income by divisor 1.9 to determine the rate-determining income ('satzbestimmendes Einkommen'), then applying the resulting AVERAGE rate to the full (undivided) income. Mathematically this is exactly equivalent to Tax_married(x) = 1.9 * Tax_single(x / 1.9), which — because Tax_single is piecewise-linear — collapses to a bracket table with the SAME marginal rates as the single table but with every breakpoint multiplied by 1.9. That is exactly how the 'married' table above was derived (verified: all resulting breakpoints are exact integers since original breakpoints are multiples of 100 and 100*1.9=190). TOP-BRACKET QUIRK (flag prominently): both the income tariff (Art. 38 Abs. 1 lit. n) and the wealth tariff (Art. 49 Abs. 2, final sentence) are written in the LAW as 'for income/wealth above threshold X, the tax rate is UNIFORMLY (einheitlich) 9.9% / 2.3‰' — i.e. drafted as a flat AVERAGE-rate statement, not as 'a further N% for amounts above X' the way every other bracket is worded. We verified by summing the cumulative tax from all lower brackets at exactly the stated threshold (income 210'100 -> CHF 20'797 cumulative tax -> average rate 9.899%; wealth 1'750'000 -> CHF 4'025 -> average rate 2.3‰ exactly) that this 'uniform rate' is numerically identical to simply continuing the marginal schedule at that same rate — so it is safe to model as one more ordinary marginal breakpoint (as done above) and no special-cased 'flat tax on the whole amount' logic is needed. But note the statute's own framing (an explicit average-rate/proportional-tax cap for top earners/wealth, not organically continued progression) is a genuine SH-specific drafting quirk worth knowing about. CHILD TAX CREDIT (Art. 192a StG) — NOT a deduction: SH grants a flat CHF 320 credit per dependent child SUBTRACTED DIRECTLY FROM THE COMPUTED TAX (Steuergutschrift), not from taxable income before applying the tariff. This is unusual versus most cantons' income-deduction approach and must not be modeled as a bracket/deduction adjustment. WEALTH TAX WORLDWIDE-RATE QUIRK (Art. 49 Abs. 3 StG, marked '*Wird angewendet ab Steuerperiode 2026'): starting only in the 2026 tax period (not yet in force for the 2025 data used here), the rate-determining wealth for the wealth-tax bracket lookup is the taxpayer's WORLDWIDE total wealth even if only part of it is taxable in SH (analogous to the standard Swiss satzbestimmend mechanism already common for income) — a developer implementing 2026 figures must add this. MULTIPLIER MECHANISM: all three layers (cantonal Art. 3 StG, municipal Art. 198 StG, church Art. 112 Kantonsverfassung) apply their own separate percentage multiplier to the SAME base: the 'einfache Steuer' (100%) computed straight from the bracket tables above — they are additive percentages of one common base, not compounded/nested. Municipalities may set different multipliers for natural vs. legal persons but the gap may not exceed 15 percentage points (Art 198 Abs 4). DISTRICTS: SH's historical Bezirke (still present in the BFS register for statistical grouping) were abolished as an administrative/tax layer, so 'district' is set to null for every SH municipality rather than populated with the historical Bezirk name. CHURCH TAX: canton-wide flat rates do not exist — reformed, roman-catholic and christ-catholic multipliers are set per municipality/Kirchgemeinde (source: SH_steuerfuesse_2025.pdf, which lists all three for every one of the 26 municipalities); see SH_municipalities.json. A few municipalities (Beringen, Schaffhausen, Stein am Rhein, Thayngen, Wilchingen) have their reformed multiplier expressed in the source as two sub-parish figures separated by '/' (e.g. Schaffhausen 'SH13/H13' = Stadt Schaffhausen 13 / Hemmental 13) because they cover more than one historical reformed Kirchgemeinde within the same political municipality; where both sub-values were numerically identical we recorded the single shared value, otherwise see the raw source PDF. CHRIST-CATHOLIC RATE (not in the municipalities schema above, so noted here): the Christian Catholic ('christkatholisch') church multiplier is a uniform 12.5% in every single one of the 26 municipalities per the source table — effectively a flat canton-wide rate for that (very small) denomination, unlike reformed/catholic which genuinely vary per municipality."
+}

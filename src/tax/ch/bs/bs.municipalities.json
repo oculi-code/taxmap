@@ -1,0 +1,32 @@
+[
+  {
+    "bfsNumber": 2701,
+    "name": "Basel",
+    "cantonalShareIncomePercent": 100,
+    "cantonalShareWealthPercent": 100,
+    "municipalShareIncomePercent": 0,
+    "municipalShareWealthPercent": 0,
+    "churchMultiplierReformedPercent": 8,
+    "churchMultiplierCatholicPercent": 8
+  },
+  {
+    "bfsNumber": 2702,
+    "name": "Bettingen",
+    "cantonalShareIncomePercent": 50,
+    "cantonalShareWealthPercent": 50,
+    "municipalShareIncomePercent": 37.5,
+    "municipalShareWealthPercent": 36.5,
+    "churchMultiplierReformedPercent": 8,
+    "churchMultiplierCatholicPercent": 8
+  },
+  {
+    "bfsNumber": 2703,
+    "name": "Riehen",
+    "cantonalShareIncomePercent": 50,
+    "cantonalShareWealthPercent": 50,
+    "municipalShareIncomePercent": 40,
+    "municipalShareWealthPercent": 46,
+    "churchMultiplierReformedPercent": 8,
+    "churchMultiplierCatholicPercent": 8
+  }
+]

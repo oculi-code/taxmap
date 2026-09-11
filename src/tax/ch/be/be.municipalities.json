@@ -1,0 +1,3008 @@
+[
+  {
+    "bfsNumber": 301,
+    "name": "Aarberg",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 175,
+    "churchMultiplierReformedPercent": 16.1,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 302,
+    "name": "Bargen (BE)",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 184,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 303,
+    "name": "Grossaffoltern",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 169,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 304,
+    "name": "Kallnach",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 145,
+    "churchMultiplierReformedPercent": 16.1,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 305,
+    "name": "Kappelen",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 160,
+    "churchMultiplierReformedPercent": 16,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 306,
+    "name": "Lyss",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 170,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 307,
+    "name": "Meikirch",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 154,
+    "churchMultiplierReformedPercent": 19.5,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 309,
+    "name": "Radelfingen",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 169,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 310,
+    "name": "Rapperswil (BE)",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 168,
+    "churchMultiplierReformedPercent": 19.55,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 311,
+    "name": "Schüpfen",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 174,
+    "churchMultiplierReformedPercent": 21,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 312,
+    "name": "Seedorf (BE)",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 174,
+    "churchMultiplierReformedPercent": 20.7,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 321,
+    "name": "Aarwangen",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 157,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 322,
+    "name": "Auswil",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 175,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 323,
+    "name": "Bannwil",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 180,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 324,
+    "name": "Bleienbach",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 145,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 325,
+    "name": "Busswil bei Melchnau",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 160,
+    "churchMultiplierReformedPercent": 19,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 326,
+    "name": "Gondiswil",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 184,
+    "churchMultiplierReformedPercent": 19,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 329,
+    "name": "Langenthal",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 144,
+    "churchMultiplierReformedPercent": 16,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 331,
+    "name": "Lotzwil",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 170,
+    "churchMultiplierReformedPercent": 17.5,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 332,
+    "name": "Madiswil",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 165,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 333,
+    "name": "Melchnau",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 174,
+    "churchMultiplierReformedPercent": 19,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 335,
+    "name": "Oeschenbach",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 200,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 336,
+    "name": "Reisiswil",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 179,
+    "churchMultiplierReformedPercent": 19,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 337,
+    "name": "Roggwil (BE)",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 171,
+    "churchMultiplierReformedPercent": 19,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 338,
+    "name": "Rohrbach",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 135,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 339,
+    "name": "Rohrbachgraben",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 194,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 340,
+    "name": "Rütschelen",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 170,
+    "churchMultiplierReformedPercent": 17.5,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 341,
+    "name": "Schwarzhäusern",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 160,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 342,
+    "name": "Thunstetten",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 165,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 344,
+    "name": "Ursenbach",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 175,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 345,
+    "name": "Wynau",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 180,
+    "churchMultiplierReformedPercent": 20,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 351,
+    "name": "Bern",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 154,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 352,
+    "name": "Bolligen",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 160,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 353,
+    "name": "Bremgarten bei Bern",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 149,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 354,
+    "name": "Kirchlindach",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 160,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 355,
+    "name": "Köniz",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 158,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 356,
+    "name": "Muri bei Bern",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 114,
+    "churchMultiplierReformedPercent": 17.6,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 357,
+    "name": "Oberbalm",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 175,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 358,
+    "name": "Stettlen",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 157,
+    "churchMultiplierReformedPercent": 20.7,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 359,
+    "name": "Vechigen",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 154,
+    "churchMultiplierReformedPercent": 19.7,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 360,
+    "name": "Wohlen bei Bern",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 154,
+    "churchMultiplierReformedPercent": 19.55,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 361,
+    "name": "Zollikofen",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 135,
+    "churchMultiplierReformedPercent": 18.5,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 362,
+    "name": "Ittigen",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 133,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 363,
+    "name": "Ostermundigen",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 169,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 371,
+    "name": "Biel/Bienne",
+    "district": "Verwaltungskreis Biel/Bienne",
+    "municipalMultiplierPercent": 163,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 23,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 372,
+    "name": "Evilard",
+    "district": "Verwaltungskreis Biel/Bienne",
+    "municipalMultiplierPercent": 152,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 23,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 381,
+    "name": "Arch",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 175,
+    "churchMultiplierReformedPercent": 14,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 382,
+    "name": "Büetigen",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 155,
+    "churchMultiplierReformedPercent": 20,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 383,
+    "name": "Büren an der Aare",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 164,
+    "churchMultiplierReformedPercent": 19.7,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 385,
+    "name": "Diessbach bei Büren",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 180,
+    "churchMultiplierReformedPercent": 20,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 386,
+    "name": "Dotzigen",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 185,
+    "churchMultiplierReformedPercent": 20,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 387,
+    "name": "Lengnau (BE)",
+    "district": "Verwaltungskreis Biel/Bienne",
+    "municipalMultiplierPercent": 149,
+    "churchMultiplierReformedPercent": 22,
+    "churchMultiplierCatholicPercent": 24.15,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 388,
+    "name": "Leuzigen",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 194,
+    "churchMultiplierReformedPercent": 18,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 389,
+    "name": "Meienried",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 100,
+    "churchMultiplierReformedPercent": 19.7,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 390,
+    "name": "Meinisberg",
+    "district": "Verwaltungskreis Biel/Bienne",
+    "municipalMultiplierPercent": 195,
+    "churchMultiplierReformedPercent": 19,
+    "churchMultiplierCatholicPercent": 24.15,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 391,
+    "name": "Oberwil bei Büren",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 187,
+    "churchMultiplierReformedPercent": 18,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 392,
+    "name": "Pieterlen",
+    "district": "Verwaltungskreis Biel/Bienne",
+    "municipalMultiplierPercent": 175,
+    "churchMultiplierReformedPercent": 22,
+    "churchMultiplierCatholicPercent": 24.15,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 393,
+    "name": "Rüti bei Büren",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 185,
+    "churchMultiplierReformedPercent": 27.9,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 394,
+    "name": "Wengi",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 185,
+    "churchMultiplierReformedPercent": 19.55,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 401,
+    "name": "Aefligen",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 195,
+    "churchMultiplierReformedPercent": 16,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 402,
+    "name": "Alchenstorf",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 175,
+    "churchMultiplierReformedPercent": 22,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 403,
+    "name": "Bäriswil",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 164,
+    "churchMultiplierReformedPercent": 21,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 404,
+    "name": "Burgdorf",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 163,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 405,
+    "name": "Ersigen",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 170,
+    "churchMultiplierReformedPercent": 16,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 406,
+    "name": "Hasle bei Burgdorf",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 179,
+    "churchMultiplierReformedPercent": 22,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 407,
+    "name": "Heimiswil",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 184,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 408,
+    "name": "Hellsau",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 180,
+    "churchMultiplierReformedPercent": 22,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 409,
+    "name": "Hindelbank",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 159,
+    "churchMultiplierReformedPercent": 21,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 410,
+    "name": "Höchstetten",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 175,
+    "churchMultiplierReformedPercent": 22,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 411,
+    "name": "Kernenried",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 150,
+    "churchMultiplierReformedPercent": 16,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 412,
+    "name": "Kirchberg (BE)",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 159,
+    "churchMultiplierReformedPercent": 16,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 413,
+    "name": "Koppigen",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 165,
+    "churchMultiplierReformedPercent": 22,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 414,
+    "name": "Krauchthal",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 169,
+    "churchMultiplierReformedPercent": 19.5,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 415,
+    "name": "Lyssach",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 139,
+    "churchMultiplierReformedPercent": 16,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 418,
+    "name": "Oberburg",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 188,
+    "churchMultiplierReformedPercent": 24.2,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 420,
+    "name": "Rüdtligen-Alchenflüh",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 165,
+    "churchMultiplierReformedPercent": 16,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 421,
+    "name": "Rumendingen",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 100,
+    "churchMultiplierReformedPercent": 20.7,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 422,
+    "name": "Rüti bei Lyssach",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 179,
+    "churchMultiplierReformedPercent": 16,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 423,
+    "name": "Willadingen",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 159,
+    "churchMultiplierReformedPercent": 22,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 424,
+    "name": "Wynigen",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 175,
+    "churchMultiplierReformedPercent": 20.7,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 431,
+    "name": "Corgémont",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 179,
+    "churchMultiplierReformedPercent": 21.42,
+    "churchMultiplierCatholicPercent": 19.7,
+    "churchMultiplierChristCatholicPercent": 30.6
+  },
+  {
+    "bfsNumber": 432,
+    "name": "Cormoret",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 204,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 19.7,
+    "churchMultiplierChristCatholicPercent": 30.6
+  },
+  {
+    "bfsNumber": 433,
+    "name": "Cortébert",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 199,
+    "churchMultiplierReformedPercent": 21.42,
+    "churchMultiplierCatholicPercent": 19.7,
+    "churchMultiplierChristCatholicPercent": 30.6
+  },
+  {
+    "bfsNumber": 434,
+    "name": "Courtelary",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 214,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 19.7,
+    "churchMultiplierChristCatholicPercent": 30.6
+  },
+  {
+    "bfsNumber": 435,
+    "name": "La Ferrière",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 194,
+    "churchMultiplierReformedPercent": 25.3,
+    "churchMultiplierCatholicPercent": 24.48,
+    "churchMultiplierChristCatholicPercent": 30.6
+  },
+  {
+    "bfsNumber": 437,
+    "name": "Mont-Tramelan",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 204,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 25,
+    "churchMultiplierChristCatholicPercent": 30.6
+  },
+  {
+    "bfsNumber": 438,
+    "name": "Orvin",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 188,
+    "churchMultiplierReformedPercent": 18,
+    "churchMultiplierCatholicPercent": 23,
+    "churchMultiplierChristCatholicPercent": 30.6
+  },
+  {
+    "bfsNumber": 441,
+    "name": "Renan (BE)",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 204,
+    "churchMultiplierReformedPercent": 30.6,
+    "churchMultiplierCatholicPercent": 19.7,
+    "churchMultiplierChristCatholicPercent": 30.6
+  },
+  {
+    "bfsNumber": 442,
+    "name": "Romont (BE)",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 160,
+    "churchMultiplierReformedPercent": 18,
+    "churchMultiplierCatholicPercent": 23,
+    "churchMultiplierChristCatholicPercent": 30.6
+  },
+  {
+    "bfsNumber": 443,
+    "name": "Saint-Imier",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 175,
+    "churchMultiplierReformedPercent": 25.6,
+    "churchMultiplierCatholicPercent": 19.7,
+    "churchMultiplierChristCatholicPercent": 30.6
+  },
+  {
+    "bfsNumber": 444,
+    "name": "Sonceboz-Sombeval",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 162,
+    "churchMultiplierReformedPercent": 20.2,
+    "churchMultiplierCatholicPercent": 19.7,
+    "churchMultiplierChristCatholicPercent": 30.6
+  },
+  {
+    "bfsNumber": 445,
+    "name": "Sonvilier",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 207,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 19.7,
+    "churchMultiplierChristCatholicPercent": 30.6
+  },
+  {
+    "bfsNumber": 446,
+    "name": "Tramelan",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 194,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 25,
+    "churchMultiplierChristCatholicPercent": 30.6
+  },
+  {
+    "bfsNumber": 448,
+    "name": "Villeret",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 179,
+    "churchMultiplierReformedPercent": 21.85,
+    "churchMultiplierCatholicPercent": 19.7,
+    "churchMultiplierChristCatholicPercent": 30.6
+  },
+  {
+    "bfsNumber": 449,
+    "name": "Sauge",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 190,
+    "churchMultiplierReformedPercent": 18,
+    "churchMultiplierCatholicPercent": 23,
+    "churchMultiplierChristCatholicPercent": 30.6
+  },
+  {
+    "bfsNumber": 450,
+    "name": "Péry-La Heutte",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 155,
+    "churchMultiplierReformedPercent": 18,
+    "churchMultiplierCatholicPercent": 23,
+    "churchMultiplierChristCatholicPercent": 30.6
+  },
+  {
+    "bfsNumber": 491,
+    "name": "Brüttelen",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 190,
+    "churchMultiplierReformedPercent": 18,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 492,
+    "name": "Erlach",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 150,
+    "churchMultiplierReformedPercent": 20.7,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 493,
+    "name": "Finsterhennen",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 180,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 494,
+    "name": "Gals",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 139,
+    "churchMultiplierReformedPercent": 13.5,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 495,
+    "name": "Gampelen",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 139,
+    "churchMultiplierReformedPercent": 13.5,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 496,
+    "name": "Ins",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 163,
+    "churchMultiplierReformedPercent": 18,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 497,
+    "name": "Lüscherz",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 150,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 498,
+    "name": "Müntschemier",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 179,
+    "churchMultiplierReformedPercent": 18,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 499,
+    "name": "Siselen",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 180,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 500,
+    "name": "Treiten",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 140,
+    "churchMultiplierReformedPercent": 18,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 501,
+    "name": "Tschugg",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 159,
+    "churchMultiplierReformedPercent": 20.7,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 502,
+    "name": "Vinelz",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 169,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 533,
+    "name": "Bätterkinden",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 180,
+    "churchMultiplierReformedPercent": 21,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 535,
+    "name": "Deisswil bei Münchenbuchsee",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 89,
+    "churchMultiplierReformedPercent": 19.55,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 538,
+    "name": "Fraubrunnen",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 175,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 540,
+    "name": "Jegenstorf",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 153,
+    "churchMultiplierReformedPercent": 21.8,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 541,
+    "name": "Iffwil",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 110,
+    "churchMultiplierReformedPercent": 21.8,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 543,
+    "name": "Mattstetten",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 148,
+    "churchMultiplierReformedPercent": 21.8,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 544,
+    "name": "Moosseedorf",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 138,
+    "churchMultiplierReformedPercent": 19.55,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 546,
+    "name": "Münchenbuchsee",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 164,
+    "churchMultiplierReformedPercent": 19.55,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 551,
+    "name": "Urtenen-Schönbühl",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 150,
+    "churchMultiplierReformedPercent": 21.8,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 552,
+    "name": "Utzenstorf",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 172,
+    "churchMultiplierReformedPercent": 19,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 553,
+    "name": "Wiggiswil",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 140,
+    "churchMultiplierReformedPercent": 19.55,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 554,
+    "name": "Wiler bei Utzenstorf",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 180,
+    "churchMultiplierReformedPercent": 19,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 556,
+    "name": "Zielebach",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 150,
+    "churchMultiplierReformedPercent": 19,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 557,
+    "name": "Zuzwil (BE)",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 164,
+    "churchMultiplierReformedPercent": 21.8,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 561,
+    "name": "Adelboden",
+    "district": "Verwaltungskreis Frutigen-Niedersimmental",
+    "municipalMultiplierPercent": 199,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 20,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 562,
+    "name": "Aeschi bei Spiez",
+    "district": "Verwaltungskreis Frutigen-Niedersimmental",
+    "municipalMultiplierPercent": 179,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 23,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 563,
+    "name": "Frutigen",
+    "district": "Verwaltungskreis Frutigen-Niedersimmental",
+    "municipalMultiplierPercent": 185,
+    "churchMultiplierReformedPercent": 21,
+    "churchMultiplierCatholicPercent": 20,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 564,
+    "name": "Kandergrund",
+    "district": "Verwaltungskreis Frutigen-Niedersimmental",
+    "municipalMultiplierPercent": 185,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 20,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 565,
+    "name": "Kandersteg",
+    "district": "Verwaltungskreis Frutigen-Niedersimmental",
+    "municipalMultiplierPercent": 180,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 20,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 566,
+    "name": "Krattigen",
+    "district": "Verwaltungskreis Frutigen-Niedersimmental",
+    "municipalMultiplierPercent": 175,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 23,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 567,
+    "name": "Reichenbach im Kandertal",
+    "district": "Verwaltungskreis Frutigen-Niedersimmental",
+    "municipalMultiplierPercent": 177,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 20,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 571,
+    "name": "Beatenberg",
+    "district": "Verwaltungskreis Interlaken-Oberhasli",
+    "municipalMultiplierPercent": 198,
+    "churchMultiplierReformedPercent": 24.15,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 572,
+    "name": "Bönigen",
+    "district": "Verwaltungskreis Interlaken-Oberhasli",
+    "municipalMultiplierPercent": 185,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 573,
+    "name": "Brienz (BE)",
+    "district": "Verwaltungskreis Interlaken-Oberhasli",
+    "municipalMultiplierPercent": 175,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 20,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 574,
+    "name": "Brienzwiler",
+    "district": "Verwaltungskreis Interlaken-Oberhasli",
+    "municipalMultiplierPercent": 164,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 20,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 575,
+    "name": "Därligen",
+    "district": "Verwaltungskreis Interlaken-Oberhasli",
+    "municipalMultiplierPercent": 185,
+    "churchMultiplierReformedPercent": 15,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 576,
+    "name": "Grindelwald",
+    "district": "Verwaltungskreis Interlaken-Oberhasli",
+    "municipalMultiplierPercent": 169,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 577,
+    "name": "Gsteigwiler",
+    "district": "Verwaltungskreis Interlaken-Oberhasli",
+    "municipalMultiplierPercent": 193,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 578,
+    "name": "Gündlischwand",
+    "district": "Verwaltungskreis Interlaken-Oberhasli",
+    "municipalMultiplierPercent": 200,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 579,
+    "name": "Habkern",
+    "district": "Verwaltungskreis Interlaken-Oberhasli",
+    "municipalMultiplierPercent": 185,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 580,
+    "name": "Hofstetten bei Brienz",
+    "district": "Verwaltungskreis Interlaken-Oberhasli",
+    "municipalMultiplierPercent": 170,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 20,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 581,
+    "name": "Interlaken",
+    "district": "Verwaltungskreis Interlaken-Oberhasli",
+    "municipalMultiplierPercent": 177,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 582,
+    "name": "Iseltwald",
+    "district": "Verwaltungskreis Interlaken-Oberhasli",
+    "municipalMultiplierPercent": 175,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 584,
+    "name": "Lauterbrunnen",
+    "district": "Verwaltungskreis Interlaken-Oberhasli",
+    "municipalMultiplierPercent": 174,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 585,
+    "name": "Leissigen",
+    "district": "Verwaltungskreis Interlaken-Oberhasli",
+    "municipalMultiplierPercent": 190,
+    "churchMultiplierReformedPercent": 15,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 586,
+    "name": "Lütschental",
+    "district": "Verwaltungskreis Interlaken-Oberhasli",
+    "municipalMultiplierPercent": 150,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 587,
+    "name": "Matten bei Interlaken",
+    "district": "Verwaltungskreis Interlaken-Oberhasli",
+    "municipalMultiplierPercent": 188,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 588,
+    "name": "Niederried bei Interlaken",
+    "district": "Verwaltungskreis Interlaken-Oberhasli",
+    "municipalMultiplierPercent": 194,
+    "churchMultiplierReformedPercent": 19,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 589,
+    "name": "Oberried am Brienzersee",
+    "district": "Verwaltungskreis Interlaken-Oberhasli",
+    "municipalMultiplierPercent": 194,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 20,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 590,
+    "name": "Ringgenberg (BE)",
+    "district": "Verwaltungskreis Interlaken-Oberhasli",
+    "municipalMultiplierPercent": 180,
+    "churchMultiplierReformedPercent": 19,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 591,
+    "name": "Saxeten",
+    "district": "Verwaltungskreis Interlaken-Oberhasli",
+    "municipalMultiplierPercent": 169,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 592,
+    "name": "Schwanden bei Brienz",
+    "district": "Verwaltungskreis Interlaken-Oberhasli",
+    "municipalMultiplierPercent": 175,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 20,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 593,
+    "name": "Unterseen",
+    "district": "Verwaltungskreis Interlaken-Oberhasli",
+    "municipalMultiplierPercent": 170,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 594,
+    "name": "Wilderswil",
+    "district": "Verwaltungskreis Interlaken-Oberhasli",
+    "municipalMultiplierPercent": 169,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 602,
+    "name": "Arni (BE)",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 174,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 603,
+    "name": "Biglen",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 190,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 605,
+    "name": "Bowil",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 184,
+    "churchMultiplierReformedPercent": 20.7,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 606,
+    "name": "Brenzikofen",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 186,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 607,
+    "name": "Freimettigen",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 180,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 608,
+    "name": "Grosshöchstetten",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 162,
+    "churchMultiplierReformedPercent": 20.7,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 609,
+    "name": "Häutligen",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 155,
+    "churchMultiplierReformedPercent": 20.7,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 610,
+    "name": "Herbligen",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 190,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 611,
+    "name": "Kiesen",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 154,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 17,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 612,
+    "name": "Konolfingen",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 169,
+    "churchMultiplierReformedPercent": 20.7,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 613,
+    "name": "Landiswil",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 185,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 614,
+    "name": "Linden",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 180,
+    "churchMultiplierReformedPercent": 27,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 615,
+    "name": "Mirchel",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 179,
+    "churchMultiplierReformedPercent": 20.7,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 616,
+    "name": "Münsingen",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 158,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 17,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 617,
+    "name": "Niederhünigen",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 170,
+    "churchMultiplierReformedPercent": 20.7,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 619,
+    "name": "Oberdiessbach",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 164,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 620,
+    "name": "Oberthal",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 187,
+    "churchMultiplierReformedPercent": 20.7,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 622,
+    "name": "Oppligen",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 150,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 623,
+    "name": "Rubigen",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 144,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 17,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 626,
+    "name": "Walkringen",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 187,
+    "churchMultiplierReformedPercent": 27.6,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 627,
+    "name": "Worb",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 170,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 628,
+    "name": "Zäziwil",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 189,
+    "churchMultiplierReformedPercent": 20.7,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 629,
+    "name": "Oberhünigen",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 180,
+    "churchMultiplierReformedPercent": 27,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 630,
+    "name": "Allmendingen",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 125,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 17,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 632,
+    "name": "Wichtrach",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 164,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 17,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 662,
+    "name": "Ferenbalm",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 175,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 663,
+    "name": "Frauenkappelen",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 160,
+    "churchMultiplierReformedPercent": 18,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 665,
+    "name": "Gurbrü",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 190,
+    "churchMultiplierReformedPercent": 21.85,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 666,
+    "name": "Kriechenwil",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 179,
+    "churchMultiplierReformedPercent": 19,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 667,
+    "name": "Laupen",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 174,
+    "churchMultiplierReformedPercent": 19,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 668,
+    "name": "Mühleberg",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 140,
+    "churchMultiplierReformedPercent": 19,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 669,
+    "name": "Münchenwiler",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 150,
+    "churchMultiplierReformedPercent": 20.7,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 670,
+    "name": "Neuenegg",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 149,
+    "churchMultiplierReformedPercent": 17.25,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 671,
+    "name": "Wileroltigen",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 160,
+    "churchMultiplierReformedPercent": 21.85,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 681,
+    "name": "Belprahon",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 193,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 30.6
+  },
+  {
+    "bfsNumber": 683,
+    "name": "Champoz",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 170,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 23,
+    "churchMultiplierChristCatholicPercent": 30.6
+  },
+  {
+    "bfsNumber": 687,
+    "name": "Corcelles (BE)",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 194,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 30.6
+  },
+  {
+    "bfsNumber": 690,
+    "name": "Court",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 194,
+    "churchMultiplierReformedPercent": 25.3,
+    "churchMultiplierCatholicPercent": 23,
+    "churchMultiplierChristCatholicPercent": 30.6
+  },
+  {
+    "bfsNumber": 691,
+    "name": "Crémines",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 194,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 30.6
+  },
+  {
+    "bfsNumber": 692,
+    "name": "Eschert",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 194,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 30.6
+  },
+  {
+    "bfsNumber": 694,
+    "name": "Grandval",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 174,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 30.6
+  },
+  {
+    "bfsNumber": 696,
+    "name": "Loveresse",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 194,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 23,
+    "churchMultiplierChristCatholicPercent": 30.6
+  },
+  {
+    "bfsNumber": 701,
+    "name": "Perrefitte",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 200,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 30.6
+  },
+  {
+    "bfsNumber": 703,
+    "name": "Reconvilier",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 197,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 23,
+    "churchMultiplierChristCatholicPercent": 30.6
+  },
+  {
+    "bfsNumber": 704,
+    "name": "Roches (BE)",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 194,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 30.6
+  },
+  {
+    "bfsNumber": 706,
+    "name": "Saicourt",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 195,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 23,
+    "churchMultiplierChristCatholicPercent": 30.6
+  },
+  {
+    "bfsNumber": 707,
+    "name": "Saules (BE)",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 194,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 23,
+    "churchMultiplierChristCatholicPercent": 30.6
+  },
+  {
+    "bfsNumber": 708,
+    "name": "Schelten",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 220,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 27.64,
+    "churchMultiplierChristCatholicPercent": 30.6
+  },
+  {
+    "bfsNumber": 709,
+    "name": "Seehof",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 174,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 11.5,
+    "churchMultiplierChristCatholicPercent": 30.6
+  },
+  {
+    "bfsNumber": 711,
+    "name": "Sorvilier",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 180,
+    "churchMultiplierReformedPercent": 25.3,
+    "churchMultiplierCatholicPercent": 23,
+    "churchMultiplierChristCatholicPercent": 30.6
+  },
+  {
+    "bfsNumber": 713,
+    "name": "Tavannes",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 192,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 23,
+    "churchMultiplierChristCatholicPercent": 30.6
+  },
+  {
+    "bfsNumber": 715,
+    "name": "Rebévelier",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 200,
+    "churchMultiplierReformedPercent": 32,
+    "churchMultiplierCatholicPercent": 31.16,
+    "churchMultiplierChristCatholicPercent": 30.6
+  },
+  {
+    "bfsNumber": 716,
+    "name": "Petit-Val",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 179,
+    "churchMultiplierReformedPercent": 32,
+    "churchMultiplierCatholicPercent": 24.15,
+    "churchMultiplierChristCatholicPercent": 30.6
+  },
+  {
+    "bfsNumber": 717,
+    "name": "Valbirse",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 200,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 23,
+    "churchMultiplierChristCatholicPercent": 30.6
+  },
+  {
+    "bfsNumber": 723,
+    "name": "La Neuveville",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 165,
+    "churchMultiplierReformedPercent": 20.7,
+    "churchMultiplierCatholicPercent": 13.8,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 724,
+    "name": "Nods",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 164,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 13.8,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 726,
+    "name": "Plateau de Diesse",
+    "district": "Arrondissement administratif Jura bernois",
+    "municipalMultiplierPercent": 185,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 13.8,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 731,
+    "name": "Aegerten",
+    "district": "Verwaltungskreis Biel/Bienne",
+    "municipalMultiplierPercent": 179,
+    "churchMultiplierReformedPercent": 20,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 732,
+    "name": "Bellmund",
+    "district": "Verwaltungskreis Biel/Bienne",
+    "municipalMultiplierPercent": 130,
+    "churchMultiplierReformedPercent": 21,
+    "churchMultiplierCatholicPercent": 23,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 733,
+    "name": "Brügg",
+    "district": "Verwaltungskreis Biel/Bienne",
+    "municipalMultiplierPercent": 169,
+    "churchMultiplierReformedPercent": 20,
+    "churchMultiplierCatholicPercent": 23,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 734,
+    "name": "Bühl",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 155,
+    "churchMultiplierReformedPercent": 18.36,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 735,
+    "name": "Epsach",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 170,
+    "churchMultiplierReformedPercent": 16.1,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 736,
+    "name": "Hagneck",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 150,
+    "churchMultiplierReformedPercent": 16.1,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 737,
+    "name": "Hermrigen",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 190,
+    "churchMultiplierReformedPercent": 16.1,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 738,
+    "name": "Jens",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 190,
+    "churchMultiplierReformedPercent": 20,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 739,
+    "name": "Ipsach",
+    "district": "Verwaltungskreis Biel/Bienne",
+    "municipalMultiplierPercent": 159,
+    "churchMultiplierReformedPercent": 21,
+    "churchMultiplierCatholicPercent": 23,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 740,
+    "name": "Ligerz",
+    "district": "Verwaltungskreis Biel/Bienne",
+    "municipalMultiplierPercent": 168,
+    "churchMultiplierReformedPercent": 16.83,
+    "churchMultiplierCatholicPercent": 23,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 741,
+    "name": "Merzligen",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 145,
+    "churchMultiplierReformedPercent": 20,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 742,
+    "name": "Mörigen",
+    "district": "Verwaltungskreis Biel/Bienne",
+    "municipalMultiplierPercent": 125,
+    "churchMultiplierReformedPercent": 16.1,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 743,
+    "name": "Nidau",
+    "district": "Verwaltungskreis Biel/Bienne",
+    "municipalMultiplierPercent": 170,
+    "churchMultiplierReformedPercent": 21,
+    "churchMultiplierCatholicPercent": 23,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 744,
+    "name": "Orpund",
+    "district": "Verwaltungskreis Biel/Bienne",
+    "municipalMultiplierPercent": 185,
+    "churchMultiplierReformedPercent": 19,
+    "churchMultiplierCatholicPercent": 23,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 745,
+    "name": "Port",
+    "district": "Verwaltungskreis Biel/Bienne",
+    "municipalMultiplierPercent": 169,
+    "churchMultiplierReformedPercent": 21,
+    "churchMultiplierCatholicPercent": 23,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 746,
+    "name": "Safnern",
+    "district": "Verwaltungskreis Biel/Bienne",
+    "municipalMultiplierPercent": 140,
+    "churchMultiplierReformedPercent": 19,
+    "churchMultiplierCatholicPercent": 23,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 747,
+    "name": "Scheuren",
+    "district": "Verwaltungskreis Biel/Bienne",
+    "municipalMultiplierPercent": 178,
+    "churchMultiplierReformedPercent": 19,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 748,
+    "name": "Schwadernau",
+    "district": "Verwaltungskreis Biel/Bienne",
+    "municipalMultiplierPercent": 185,
+    "churchMultiplierReformedPercent": 20,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 749,
+    "name": "Studen (BE)",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 165,
+    "churchMultiplierReformedPercent": 20,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 750,
+    "name": "Sutz-Lattrigen",
+    "district": "Verwaltungskreis Biel/Bienne",
+    "municipalMultiplierPercent": 170,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 23,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 751,
+    "name": "Täuffelen",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 159,
+    "churchMultiplierReformedPercent": 16.1,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 754,
+    "name": "Walperswil",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 165,
+    "churchMultiplierReformedPercent": 18.36,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 755,
+    "name": "Worben",
+    "district": "Verwaltungskreis Seeland",
+    "municipalMultiplierPercent": 180,
+    "churchMultiplierReformedPercent": 20,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 756,
+    "name": "Twann-Tüscherz",
+    "district": "Verwaltungskreis Biel/Bienne",
+    "municipalMultiplierPercent": 165,
+    "churchMultiplierReformedPercent": 16.83,
+    "churchMultiplierCatholicPercent": 23,
+    "churchMultiplierChristCatholicPercent": 28
+  },
+  {
+    "bfsNumber": 761,
+    "name": "Därstetten",
+    "district": "Verwaltungskreis Frutigen-Niedersimmental",
+    "municipalMultiplierPercent": 160,
+    "churchMultiplierReformedPercent": 16,
+    "churchMultiplierCatholicPercent": 23,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 762,
+    "name": "Diemtigen",
+    "district": "Verwaltungskreis Frutigen-Niedersimmental",
+    "municipalMultiplierPercent": 180,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 23,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 763,
+    "name": "Erlenbach im Simmental",
+    "district": "Verwaltungskreis Frutigen-Niedersimmental",
+    "municipalMultiplierPercent": 174,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 23,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 766,
+    "name": "Oberwil im Simmental",
+    "district": "Verwaltungskreis Frutigen-Niedersimmental",
+    "municipalMultiplierPercent": 164,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 23,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 767,
+    "name": "Reutigen",
+    "district": "Verwaltungskreis Thun",
+    "municipalMultiplierPercent": 165,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 23,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 768,
+    "name": "Spiez",
+    "district": "Verwaltungskreis Frutigen-Niedersimmental",
+    "municipalMultiplierPercent": 160,
+    "churchMultiplierReformedPercent": 17.4,
+    "churchMultiplierCatholicPercent": 23,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 769,
+    "name": "Wimmis",
+    "district": "Verwaltungskreis Frutigen-Niedersimmental",
+    "municipalMultiplierPercent": 157,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 23,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 770,
+    "name": "Stocken-Höfen",
+    "district": "Verwaltungskreis Thun",
+    "municipalMultiplierPercent": 179,
+    "churchMultiplierReformedPercent": 24.6,
+    "churchMultiplierCatholicPercent": 19.5,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 782,
+    "name": "Guttannen",
+    "district": "Verwaltungskreis Interlaken-Oberhasli",
+    "municipalMultiplierPercent": 165,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 20,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 783,
+    "name": "Hasliberg",
+    "district": "Verwaltungskreis Interlaken-Oberhasli",
+    "municipalMultiplierPercent": 210,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 20,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 784,
+    "name": "Innertkirchen",
+    "district": "Verwaltungskreis Interlaken-Oberhasli",
+    "municipalMultiplierPercent": 160,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 20,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 785,
+    "name": "Meiringen",
+    "district": "Verwaltungskreis Interlaken-Oberhasli",
+    "municipalMultiplierPercent": 180,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 20,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 786,
+    "name": "Schattenhalb",
+    "district": "Verwaltungskreis Interlaken-Oberhasli",
+    "municipalMultiplierPercent": 194,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 20,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 791,
+    "name": "Boltigen",
+    "district": "Verwaltungskreis Obersimmental-Saanen",
+    "municipalMultiplierPercent": 190,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 13.77,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 792,
+    "name": "Lenk",
+    "district": "Verwaltungskreis Obersimmental-Saanen",
+    "municipalMultiplierPercent": 179,
+    "churchMultiplierReformedPercent": 22,
+    "churchMultiplierCatholicPercent": 13.77,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 793,
+    "name": "St. Stephan",
+    "district": "Verwaltungskreis Obersimmental-Saanen",
+    "municipalMultiplierPercent": 184,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 13.77,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 794,
+    "name": "Zweisimmen",
+    "district": "Verwaltungskreis Obersimmental-Saanen",
+    "municipalMultiplierPercent": 180,
+    "churchMultiplierReformedPercent": 19.5,
+    "churchMultiplierCatholicPercent": 13.77,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 841,
+    "name": "Gsteig",
+    "district": "Verwaltungskreis Obersimmental-Saanen",
+    "municipalMultiplierPercent": 130,
+    "churchMultiplierReformedPercent": 15.3,
+    "churchMultiplierCatholicPercent": 13.77,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 842,
+    "name": "Lauenen",
+    "district": "Verwaltungskreis Obersimmental-Saanen",
+    "municipalMultiplierPercent": 160,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 13.77,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 843,
+    "name": "Saanen",
+    "district": "Verwaltungskreis Obersimmental-Saanen",
+    "municipalMultiplierPercent": 110,
+    "churchMultiplierReformedPercent": 15.3,
+    "churchMultiplierCatholicPercent": 13.77,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 852,
+    "name": "Guggisberg",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 189,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 853,
+    "name": "Rüschegg",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 174,
+    "churchMultiplierReformedPercent": 20.7,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 855,
+    "name": "Schwarzenburg",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 186,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 861,
+    "name": "Belp",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 140,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 863,
+    "name": "Burgistein",
+    "district": "Verwaltungskreis Thun",
+    "municipalMultiplierPercent": 185,
+    "churchMultiplierReformedPercent": 20,
+    "churchMultiplierCatholicPercent": 19.5,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 866,
+    "name": "Gerzensee",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 154,
+    "churchMultiplierReformedPercent": 20.7,
+    "churchMultiplierCatholicPercent": 19.5,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 867,
+    "name": "Gurzelen",
+    "district": "Verwaltungskreis Thun",
+    "municipalMultiplierPercent": 183,
+    "churchMultiplierReformedPercent": 25.3,
+    "churchMultiplierCatholicPercent": 19.5,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 868,
+    "name": "Jaberg",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 149,
+    "churchMultiplierReformedPercent": 18.5,
+    "churchMultiplierCatholicPercent": 19.5,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 869,
+    "name": "Kaufdorf",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 188,
+    "churchMultiplierReformedPercent": 20,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 870,
+    "name": "Kehrsatz",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 164,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 872,
+    "name": "Kirchdorf (BE)",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 151,
+    "churchMultiplierReformedPercent": 18.5,
+    "churchMultiplierCatholicPercent": 19.5,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 877,
+    "name": "Niedermuhlern",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 179,
+    "churchMultiplierReformedPercent": 27.5,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 879,
+    "name": "Riggisberg",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 180,
+    "churchMultiplierReformedPercent": 20.7,
+    "churchMultiplierCatholicPercent": 19.5,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 880,
+    "name": "Rüeggisberg",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 185,
+    "churchMultiplierReformedPercent": 26.5,
+    "churchMultiplierCatholicPercent": 19.5,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 883,
+    "name": "Seftigen",
+    "district": "Verwaltungskreis Thun",
+    "municipalMultiplierPercent": 174,
+    "churchMultiplierReformedPercent": 25.3,
+    "churchMultiplierCatholicPercent": 19.5,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 884,
+    "name": "Toffen",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 160,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 885,
+    "name": "Uttigen",
+    "district": "Verwaltungskreis Thun",
+    "municipalMultiplierPercent": 163,
+    "churchMultiplierReformedPercent": 18.5,
+    "churchMultiplierCatholicPercent": 19.5,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 886,
+    "name": "Wattenwil",
+    "district": "Verwaltungskreis Thun",
+    "municipalMultiplierPercent": 194,
+    "churchMultiplierReformedPercent": 22.8,
+    "churchMultiplierCatholicPercent": 19.5,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 888,
+    "name": "Wald (BE)",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 159,
+    "churchMultiplierReformedPercent": 27.5,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 889,
+    "name": "Thurnen",
+    "district": "Verwaltungskreis Bern-Mittelland",
+    "municipalMultiplierPercent": 185,
+    "churchMultiplierReformedPercent": 20,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 901,
+    "name": "Eggiwil",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 180,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 27,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 902,
+    "name": "Langnau im Emmental",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 194,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 27,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 903,
+    "name": "Lauperswil",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 185,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 27,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 904,
+    "name": "Röthenbach im Emmental",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 200,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 27,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 905,
+    "name": "Rüderswil",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 184,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 27,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 906,
+    "name": "Schangnau",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 210,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 27,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 907,
+    "name": "Signau",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 194,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 27,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 908,
+    "name": "Trub",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 184,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 27,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 909,
+    "name": "Trubschachen",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 199,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 27,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 921,
+    "name": "Amsoldingen",
+    "district": "Verwaltungskreis Thun",
+    "municipalMultiplierPercent": 185,
+    "churchMultiplierReformedPercent": 24.6,
+    "churchMultiplierCatholicPercent": 19.5,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 922,
+    "name": "Blumenstein",
+    "district": "Verwaltungskreis Thun",
+    "municipalMultiplierPercent": 175,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 19.5,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 923,
+    "name": "Buchholterberg",
+    "district": "Verwaltungskreis Thun",
+    "municipalMultiplierPercent": 180,
+    "churchMultiplierReformedPercent": 25.3,
+    "churchMultiplierCatholicPercent": 19.5,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 924,
+    "name": "Eriz",
+    "district": "Verwaltungskreis Thun",
+    "municipalMultiplierPercent": 178,
+    "churchMultiplierReformedPercent": 25.3,
+    "churchMultiplierCatholicPercent": 19.5,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 925,
+    "name": "Fahrni",
+    "district": "Verwaltungskreis Thun",
+    "municipalMultiplierPercent": 178,
+    "churchMultiplierReformedPercent": 24.15,
+    "churchMultiplierCatholicPercent": 19.5,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 927,
+    "name": "Heiligenschwendi",
+    "district": "Verwaltungskreis Thun",
+    "municipalMultiplierPercent": 189,
+    "churchMultiplierReformedPercent": 20,
+    "churchMultiplierCatholicPercent": 19.5,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 928,
+    "name": "Heimberg",
+    "district": "Verwaltungskreis Thun",
+    "municipalMultiplierPercent": 160,
+    "churchMultiplierReformedPercent": 20,
+    "churchMultiplierCatholicPercent": 19.5,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 929,
+    "name": "Hilterfingen",
+    "district": "Verwaltungskreis Thun",
+    "municipalMultiplierPercent": 155,
+    "churchMultiplierReformedPercent": 20,
+    "churchMultiplierCatholicPercent": 19.5,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 931,
+    "name": "Homberg",
+    "district": "Verwaltungskreis Thun",
+    "municipalMultiplierPercent": 184,
+    "churchMultiplierReformedPercent": 25.3,
+    "churchMultiplierCatholicPercent": 19.5,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 932,
+    "name": "Horrenbach-Buchen",
+    "district": "Verwaltungskreis Thun",
+    "municipalMultiplierPercent": 170,
+    "churchMultiplierReformedPercent": 25.3,
+    "churchMultiplierCatholicPercent": 19.5,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 934,
+    "name": "Oberhofen am Thunersee",
+    "district": "Verwaltungskreis Thun",
+    "municipalMultiplierPercent": 154,
+    "churchMultiplierReformedPercent": 20,
+    "churchMultiplierCatholicPercent": 19.5,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 935,
+    "name": "Oberlangenegg",
+    "district": "Verwaltungskreis Thun",
+    "municipalMultiplierPercent": 195,
+    "churchMultiplierReformedPercent": 25.3,
+    "churchMultiplierCatholicPercent": 19.5,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 936,
+    "name": "Pohlern",
+    "district": "Verwaltungskreis Thun",
+    "municipalMultiplierPercent": 172,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 19.5,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 938,
+    "name": "Sigriswil",
+    "district": "Verwaltungskreis Thun",
+    "municipalMultiplierPercent": 166,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 19.5,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 939,
+    "name": "Steffisburg",
+    "district": "Verwaltungskreis Thun",
+    "municipalMultiplierPercent": 162,
+    "churchMultiplierReformedPercent": 24.15,
+    "churchMultiplierCatholicPercent": 19.5,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 940,
+    "name": "Teuffenthal (BE)",
+    "district": "Verwaltungskreis Thun",
+    "municipalMultiplierPercent": 180,
+    "churchMultiplierReformedPercent": 25.3,
+    "churchMultiplierCatholicPercent": 19.5,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 941,
+    "name": "Thierachern",
+    "district": "Verwaltungskreis Thun",
+    "municipalMultiplierPercent": 181,
+    "churchMultiplierReformedPercent": 20,
+    "churchMultiplierCatholicPercent": 19.5,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 942,
+    "name": "Thun",
+    "district": "Verwaltungskreis Thun",
+    "municipalMultiplierPercent": 166,
+    "churchMultiplierReformedPercent": 20.7,
+    "churchMultiplierCatholicPercent": 19.5,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 943,
+    "name": "Uebeschi",
+    "district": "Verwaltungskreis Thun",
+    "municipalMultiplierPercent": 190,
+    "churchMultiplierReformedPercent": 20,
+    "churchMultiplierCatholicPercent": 19.5,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 944,
+    "name": "Uetendorf",
+    "district": "Verwaltungskreis Thun",
+    "municipalMultiplierPercent": 148,
+    "churchMultiplierReformedPercent": 20,
+    "churchMultiplierCatholicPercent": 19.5,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 945,
+    "name": "Unterlangenegg",
+    "district": "Verwaltungskreis Thun",
+    "municipalMultiplierPercent": 185,
+    "churchMultiplierReformedPercent": 25.3,
+    "churchMultiplierCatholicPercent": 19.5,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 946,
+    "name": "Wachseldorn",
+    "district": "Verwaltungskreis Thun",
+    "municipalMultiplierPercent": 184,
+    "churchMultiplierReformedPercent": 25.3,
+    "churchMultiplierCatholicPercent": 19.5,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 948,
+    "name": "Forst-Längenbühl",
+    "district": "Verwaltungskreis Thun",
+    "municipalMultiplierPercent": 170,
+    "churchMultiplierReformedPercent": 22.8,
+    "churchMultiplierCatholicPercent": 19.5,
+    "churchMultiplierChristCatholicPercent": 23
+  },
+  {
+    "bfsNumber": 951,
+    "name": "Affoltern im Emmental",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 186,
+    "churchMultiplierReformedPercent": 23.8,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 952,
+    "name": "Dürrenroth",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 189,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 953,
+    "name": "Eriswil",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 179,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 954,
+    "name": "Huttwil",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 169,
+    "churchMultiplierReformedPercent": 20,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 955,
+    "name": "Lützelflüh",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 170,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 956,
+    "name": "Rüegsau",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 179,
+    "churchMultiplierReformedPercent": 16,
+    "churchMultiplierCatholicPercent": 20.7,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 957,
+    "name": "Sumiswald",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 179,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 958,
+    "name": "Trachselwald",
+    "district": "Verwaltungskreis Emmental",
+    "municipalMultiplierPercent": 188,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 959,
+    "name": "Walterswil (BE)",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 186,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 960,
+    "name": "Wyssachen",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 190,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 971,
+    "name": "Attiswil",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 164,
+    "churchMultiplierReformedPercent": 20.7,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 972,
+    "name": "Berken",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 110,
+    "churchMultiplierReformedPercent": 17,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 973,
+    "name": "Bettenhausen",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 155,
+    "churchMultiplierReformedPercent": 17,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 975,
+    "name": "Farnern",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 179,
+    "churchMultiplierReformedPercent": 20.7,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 976,
+    "name": "Graben",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 180,
+    "churchMultiplierReformedPercent": 17,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 977,
+    "name": "Heimenhausen",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 155,
+    "churchMultiplierReformedPercent": 17,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 979,
+    "name": "Herzogenbuchsee",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 175,
+    "churchMultiplierReformedPercent": 17,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 980,
+    "name": "Inkwil",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 175,
+    "churchMultiplierReformedPercent": 17,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 981,
+    "name": "Niederbipp",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 165,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 982,
+    "name": "Niederönz",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 165,
+    "churchMultiplierReformedPercent": 17,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 983,
+    "name": "Oberbipp",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 159,
+    "churchMultiplierReformedPercent": 20.7,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 985,
+    "name": "Ochlenberg",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 160,
+    "churchMultiplierReformedPercent": 17,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 987,
+    "name": "Rumisberg",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 189,
+    "churchMultiplierReformedPercent": 20.7,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 988,
+    "name": "Seeberg",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 175,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 989,
+    "name": "Thörigen",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 175,
+    "churchMultiplierReformedPercent": 17,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 990,
+    "name": "Walliswil bei Niederbipp",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 90,
+    "churchMultiplierReformedPercent": 18.4,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 991,
+    "name": "Walliswil bei Wangen",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 150,
+    "churchMultiplierReformedPercent": 19.55,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 992,
+    "name": "Wangen an der Aare",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 163,
+    "churchMultiplierReformedPercent": 19.55,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  },
+  {
+    "bfsNumber": 995,
+    "name": "Wiedlisbach",
+    "district": "Verwaltungskreis Oberaargau",
+    "municipalMultiplierPercent": 197,
+    "churchMultiplierReformedPercent": 20.7,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierChristCatholicPercent": 27.6
+  }
+]

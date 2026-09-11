@@ -1,0 +1,65 @@
+{
+  "canton": "SO",
+  "year": 2026,
+  "source": {
+    "incomeTax": "https://so.ch/fileadmin/internet/fd/fd-ksta/pdf/np/Steuertarife_2026.pdf",
+    "wealthTax": "https://so.ch/fileadmin/internet/fd/fd-ksta/pdf/np/Steuertarife_2026.pdf",
+    "multiplier": "https://so.ch/fileadmin/internet/fd/fd-ksta/pdf/np/Steuertarife_2026.pdf",
+    "municipalData": "https://so.ch/fileadmin/internet/vwd/vwd-agem/pdf/Gemeindefinanzen/Statistik/2026/Statistische_Mitteilung_Steuern_und_Gebuehren_2026_V3.0.pdf",
+    "churchTaxData": "https://so.ch/fileadmin/internet/vwd/vwd-agem/pdf/Gemeindefinanzen/Statistik/2026/Statistische_Mitteilung_Steuern_und_Gebuehren_2026_V3.0.pdf",
+    "bfsMunicipalityList": "internal register data/raw/bfs_municipalities_register.csv (already present in this project, filtered to cantonCode=SO)",
+    "portal": "https://steuerbuch.so.ch/steuern/einkommenssteuer/tarif-und-steuerberechnung/",
+    "statistikPortal": "https://so.ch/verwaltung/finanzdepartement/amt-fuer-finanzen/statistikportal/oeffentliche-finanzen/steuerfuesse/"
+  },
+  "incomeTaxBrackets": {
+    "single": [
+      { "from": 0, "rate": 0.0 },
+      { "from": 12400, "rate": 0.045 },
+      { "from": 16500, "rate": 0.05 },
+      { "from": 20600, "rate": 0.065 },
+      { "from": 23700, "rate": 0.08 },
+      { "from": 25800, "rate": 0.09 },
+      { "from": 28900, "rate": 0.095 },
+      { "from": 40200, "rate": 0.10 },
+      { "from": 55700, "rate": 0.105 },
+      { "from": 101100, "rate": 0.115 },
+      { "from": 319900, "rate": 0.105 }
+    ],
+    "married": [
+      { "from": 0, "rate": 0.0 },
+      { "from": 23560, "rate": 0.045 },
+      { "from": 31350, "rate": 0.05 },
+      { "from": 39140, "rate": 0.065 },
+      { "from": 45030, "rate": 0.08 },
+      { "from": 49020, "rate": 0.09 },
+      { "from": 54910, "rate": 0.095 },
+      { "from": 76380, "rate": 0.10 },
+      { "from": 105830, "rate": 0.105 },
+      { "from": 192090, "rate": 0.115 },
+      { "from": 607810, "rate": 0.105 }
+    ]
+  },
+  "wealthTaxBrackets": {
+    "general": [
+      { "from": 0, "rate": 0.00075 },
+      { "from": 50000, "rate": 0.00100 },
+      { "from": 100000, "rate": 0.00125 },
+      { "from": 150000, "rate": 0.00100 },
+      { "from": 1000000, "rate": 0.00140 },
+      { "from": 2000000, "rate": 0.00150 },
+      { "from": 3000000, "rate": 0.00130 }
+    ]
+  },
+  "wealthTaxRateUnit": "decimal",
+  "cantonalMultiplier": {
+    "value": 104,
+    "unit": "percent",
+    "appliedOnTop": true
+  },
+  "churchTax": {
+    "variesByMunicipality": true,
+    "reformed": null,
+    "catholic": null
+  },
+  "notes": "YEAR: 2026 figures used throughout (canton's own official tariff sheet is explicitly titled 'Steuertarife für die Staatssteuer 2026' and states 'Der Steuerfuss beträgt 104%' for 2026; the municipal/church tax statistical report is likewise the official 2026 edition, dated for the 2026 tax year, downloaded 2026-09-08). MECHANISM: Solothurn computes an 'einfache Steuer' (100% base/simple tax) from a genuine discrete marginal-bracket table (source: 'Steuertarife_2026.pdf', Kantonales Steueramt SO, table 'Einkommenssteuer Grundtarif'). Both tables above were derived by treating each printed row's 'für je weitere CHF 100' column as the marginal rate applying FROM that threshold onward until the next printed threshold, and were verified by reconstructing every cumulative 'Einfache Steuer' value in the source table exactly (e.g. at CHF 130'000 -> CHF 11'752.00; at CHF 300'000 -> CHF 31'302.00) using only the breakpoints listed here — confirming the breakpoint list is complete and exact, not an approximation. QUIRK #1 (income, both tariffs): the marginal rate is NOT monotonic at the very top. For singles it rises stepwise up to 11.5% at CHF 101'100, but then at CHF 319'900 it DROPS back down to 10.5% and stays flat there forever (the source explicitly states 'Für höhere steuerbare Einkommen beträgt die einfache Steuer 10.5%' i.e. a flat/proportional 10.5% applies to all income above this point, not a continuation of the 11.5% marginal bracket). The married/Splittingtarif table has the exact same shape, mirrored at 1.9x the single thresholds (11.5% up to CHF 607'810, then a drop to a flat 10.5% beyond). This is a genuine, verified feature of SO's tariff (confirmed by reconstructing the source's own cumulative tax figures straddling the drop: CHF 300'000 -> CHF 31'302.00, CHF 319'900 -> CHF 33'590.50, using the 11.5% rate for the CHF 300'000-319'900 span, then CHF 319'929 -> CHF 33'593.55 using the new 10.5% rate) — NOT a data error, and any calculator implementation must apply marginal brackets in the order given (do not sort/dedupe on the assumption that rates only increase). QUIRK #2 (married tariff mechanism): Solothurn does NOT use full income splitting (divisor 2.0) for married couples/registered partners/single-parent families, as many other cantons do. It uses PARTIAL splitting with divisor exactly 1.9: Tax_married(X) = 1.9 * Tarif_single(X / 1.9). This was reverse-engineered and confirmed to 4-5 significant figures across all 10 rate-change thresholds in the official Splittingtarif table (every married threshold and every married cumulative-tax value in the source is exactly 1.9x the corresponding single value, e.g. single breakpoint 16'500 CHF <-> married breakpoint 31'350 CHF = 16'500*1.9; single cumulative tax at 16'500 = CHF 184.50 <-> married cumulative tax at 31'350 = CHF 350.55 = 184.50*1.9). The 'married' breakpoint table above is exactly the single table's thresholds multiplied by 1.9, same rates. The Splittingtarif also applies to eingetragene Partnerschaft, Einelternfamilien (single parents with dependent children), and widowed persons in the year of the spouse's death and the two following years. QUIRK #3 (wealth tax): the per-mille rate is explicitly NON-monotonic and has TWO downward jumps, both confirmed directly from the source text ('0.75‰ von den ersten CHF 50'000 / 1.00‰ von den nächsten CHF 50'000 / 1.25‰ von den nächsten CHF 50'000 / 1.00‰ von den nächsten CHF 850'000 [RATE DROPS from 1.25‰ back to 1.00‰ at CHF 150'000] / 1.40‰ von den nächsten CHF 1'000'000 / 1.50‰ von den nächsten CHF 1'000'000 / Ab CHF 3'000'000 beträgt die Steuer 1.3‰ [RATE DROPS from 1.50‰ to 1.30�6E flat at CHF 3'000'000]'). Both drops are real, verified, official features of the SO wealth-tax schedule, not transcription errors; cumulative tax is still always non-decreasing since no rate is negative, but a naive 'rates only increase' assumption will misclassify these two points as bugs. No separate married wealth-tax schedule exists (single unified schedule for all filers; the 1.9 splitting divisor applies ONLY to income tax per the source, which shows only one Vermögenssteuer table). Rates were given in the source as per-mille (‰) and converted to decimal per wealthTaxRateUnit (e.g. 0.75‰ -> 0.00075). CANTONAL MULTIPLIER: 104% for 2026 ('Der Steuerfuss beträgt 104%', stated directly on the official tariff sheet), applied ON TOP of the einfache Steuer computed from the bracket tables above. PERSONALSTEUER: the source also notes a flat CHF 30 poll tax ('Personalsteuer') per self-employed taxpayer resident in the canton at period end (CHF 30 for singles, 2x CHF 30 for married couples on the Splittingtarif) — this is a small separate flat levy, NOT modeled in the bracket tables above and NOT part of income/wealth tax; a developer implementing this canton should be aware it exists but it is out of scope for this dataset. MUNICIPAL & CHURCH MULTIPLIERS: per the tariff sheet itself, 'Die Einwohner- und Kirchgemeinden erheben ihre Steuer in % der einfachen Staatssteuer' — i.e. each Einwohnergemeinde (residents' municipality) and each Kirchgemeinde (parish) applies its OWN separate percentage multiplier to the SAME einfache Steuer base (summed with the cantonal 104%, not compounded/multiplied together), exactly like Aargau's mechanism. For 2026 the canton-wide average municipal multiplier is 118.2% (population-weighted average 116.5%), up from 117.4% in 2025; 16 of 105-now-104 municipalities raised their multiplier and 5 lowered it for 2026. MUNICIPALITY MERGER: Halten and Oekingen merged into Kriegstetten effective 1 January 2026 ('*Fusion per 01.01.2026 zur Einwohnergemeinde Kriegstetten', stated in the source), reducing the municipality count from 106 to 104 — the source's 2026 statistics table therefore lists no separate 2026 multiplier for Halten/Oekingen (shown as '*'); this dataset's SO_municipalities.json correctly contains only 104 rows, matching the canton's own current BFS register. DORNACH SPECIAL CASE: Dornach's 2026 municipal multiplier of 88% is flagged in the source with a double-asterisk '**Vorjahreswert' meaning the 2026 figure is provisionally CARRIED OVER from 2025 pending a final municipal decision at time of publication — flagged here in case the canton later publishes a revised, different, final 2026 value. CHURCH TAX STRUCTURE: SO recognizes three tax-levying church bodies — römisch-katholisch (72 Kirchgemeinden canton-wide), evangelisch-reformiert (21 Kirchgemeinden), and christkatholisch (only 4 Kirchgemeinden, concentrated in specific districts). Rates range 8%-25% across the canton's 97 total Kirchgemeinden (2026), with no christ-catholic parish/levy at all in the districts of Dorneck and Thierstein (shown as 'Kein Bezug' in the source, hence churchMultiplierChristCatholic=null for all 23 municipalities in those two districts in SO_municipalities.json — this is a genuine absence of that tax, not a missing data point). SUB-MUNICIPALITY QUIRK: the merged municipality of Buchegg (itself a 2014 merger of 12 former villages) is split across MULTIPLE reformed-church Kirchgemeinden at the level of its individual former-village Ortsteile (Aetigkofen/Aetingen/Bibern/Brügglen/Gossliwil/Hessigkofen/Küttigkofen/Kyburg-Buchegg/Mühledorf/Tscheppach each show a distinct reformed-tax rate of 14-15% in the source, rather than one uniform Buchegg-wide reformed rate), and Mümliswil-Ramiswil is similarly split for the catholic rate (Mümliswil Ortsteil=18%, Ramiswil Ortsteil=22%, no single blended figure given by the source). This dataset uses only the source's own top-level aggregate row for these two municipalities (Buchegg: catholic 16%, reformed 15%, christ-catholic 19%; Mümliswil-Ramiswil: reformed 18%, christ-catholic 18%, catholic left as the aggregate row's blank/no-value in the source, which meant no single catholic figure was published for the combined municipality) — a precision-sensitive implementation should consult the source's Ortsteil-level detail (Statistische_Mitteilung_Steuern_und_Gebuehren_2026_V3.0.pdf, section 4.4, pages 49-50) rather than relying on a single municipality-wide catholic rate for Mümliswil-Ramiswil specifically. FOOTNOTED EXCLAVES: several other municipalities (Solothurn city excl. Steingrubenquartier, Kammersrohr excl. parts of Mattenhof, Riedholz excl. Niederwil, Drei Höfe excl. Winistorf, Himmelried excl. Schindelboden) have small Ortsteile that belong to a NEIGHBORING municipality's Kirchgemeinde rather than their own — these boundary exceptions are noted in the source's footnotes 1-5 but not separately modeled in SO_municipalities.json (which uses each municipality's own primary/majority Kirchgemeinde rate). DATA EXTRACTION METHOD: municipal and church multiplier tables were extracted from the official PDF using coordinate-aware parsing (pdfplumber word positions) rather than plain text extraction, because the source PDF renders each table as two side-by-side columns per page; all 104 municipalities were cross-validated against this project's existing BFS municipality register (data/raw/bfs_municipalities_register.csv, cantonCode=SO) with an exact 104/104 name match after normalizing '(SO)' suffixes and a few wrapped/hyphenated names (Feldbrunnen-St. Niklaus, Lüsslingen-Nennigkofen, Welschenrohr-Gänsbrunnen) that were cross-checked by hand against the plain-text PDF dump."
+}

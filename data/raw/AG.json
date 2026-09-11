@@ -1,0 +1,174 @@
+{
+  "canton": "AG",
+  "year": 2025,
+  "source": {
+    "incomeTax": "https://www.ag.ch/media/kanton-aargau/dfr/dokumente/steuern/natuerliche-personen/steuerberechnung-tarife-natuerliche-personen/einkommenssteuertarif-2025.pdf",
+    "wealthTax": "https://www.ag.ch/media/kanton-aargau/dfr/dokumente/steuern/natuerliche-personen/steuerberechnung-tarife-natuerliche-personen/verm-genssteuertarif-2025.pdf",
+    "multiplier": "https://www.ag.ch/media/kanton-aargau/dfr/dokumente/steuern/natuerliche-personen/steuerberechnung-tarife-natuerliche-personen/gemeinde-und-kirchensteuerf-sse-2025-v6.pdf",
+    "municipalData": "https://www.ag.ch/media/kanton-aargau/dfr/dokumente/steuern/natuerliche-personen/steuerberechnung-tarife-natuerliche-personen/gemeinde-und-kirchensteuerf-sse-2025-v6.pdf",
+    "bfsMunicipalityList": "https://www.ag.ch/media/kanton-aargau/dfr/dokumente/statistik/statistische-daten/eckdaten-kt-aargau/gemeinden/gemeindeverzeichnis-ag-adressen-telefon.xlsx",
+    "portal": "https://www.ag.ch/de/verwaltung/dfr/steuern/natuerliche-personen/steuerberechnung-tarife-steuerfuesse/tarife-und-steuerfuesse"
+  },
+  "incomeTaxBrackets": {
+    "single": [
+      {
+        "from": 0,
+        "rate": 0.0
+      },
+      {
+        "from": 4300,
+        "rate": 0.01
+      },
+      {
+        "from": 8100,
+        "rate": 0.02
+      },
+      {
+        "from": 12000,
+        "rate": 0.03
+      },
+      {
+        "from": 16200,
+        "rate": 0.04
+      },
+      {
+        "from": 20500,
+        "rate": 0.05
+      },
+      {
+        "from": 25700,
+        "rate": 0.06
+      },
+      {
+        "from": 33100,
+        "rate": 0.07
+      },
+      {
+        "from": 41700,
+        "rate": 0.08
+      },
+      {
+        "from": 51300,
+        "rate": 0.085
+      },
+      {
+        "from": 63100,
+        "rate": 0.09
+      },
+      {
+        "from": 74800,
+        "rate": 0.095
+      },
+      {
+        "from": 110100,
+        "rate": 0.1
+      },
+      {
+        "from": 176400,
+        "rate": 0.105
+      },
+      {
+        "from": 352700,
+        "rate": 0.11
+      }
+    ],
+    "married": [
+      {
+        "from": 0,
+        "rate": 0.0
+      },
+      {
+        "from": 8600,
+        "rate": 0.01
+      },
+      {
+        "from": 16200,
+        "rate": 0.02
+      },
+      {
+        "from": 24000,
+        "rate": 0.03
+      },
+      {
+        "from": 32400,
+        "rate": 0.04
+      },
+      {
+        "from": 41000,
+        "rate": 0.05
+      },
+      {
+        "from": 51400,
+        "rate": 0.06
+      },
+      {
+        "from": 66200,
+        "rate": 0.07
+      },
+      {
+        "from": 83400,
+        "rate": 0.08
+      },
+      {
+        "from": 102600,
+        "rate": 0.085
+      },
+      {
+        "from": 126200,
+        "rate": 0.09
+      },
+      {
+        "from": 149600,
+        "rate": 0.095
+      },
+      {
+        "from": 220200,
+        "rate": 0.1
+      },
+      {
+        "from": 352800,
+        "rate": 0.105
+      },
+      {
+        "from": 705400,
+        "rate": 0.11
+      }
+    ]
+  },
+  "wealthTaxBrackets": {
+    "general": [
+      {
+        "from": 0,
+        "rate": 0.0007
+      },
+      {
+        "from": 107000,
+        "rate": 0.001
+      },
+      {
+        "from": 214000,
+        "rate": 0.0012
+      },
+      {
+        "from": 321000,
+        "rate": 0.0014
+      },
+      {
+        "from": 428000,
+        "rate": 0.0016
+      }
+    ]
+  },
+  "wealthTaxRateUnit": "decimal",
+  "cantonalMultiplier": {
+    "value": 111,
+    "unit": "percent",
+    "appliedOnTop": true
+  },
+  "churchTax": {
+    "variesByMunicipality": true,
+    "reformed": null,
+    "catholic": null
+  },
+  "notes": "MECHANISM: Aargau computes an 'einfache 100%ige Steuer' (base/simple tax) from a genuine discrete marginal bracket table defined in Sec. 43 StG (income) and Sec. 55 StG (wealth) — NOT a continuously-variable Prozentformel like some other cantons. The bracket table above IS the exact official schedule (source: 'Tarif fuer die Einkommenssteuer 2025' and 'Tarif fuer die Vermoegenssteuer 2025', Kantonales Steueramt AG, 6 Jan 2025), verified against the document's own worked example (steuerbares Einkommen 500'000 -> Tarif A 49'242 CHF, computed exactly from these brackets). MARRIED/TARIF B: Aargau uses full income-splitting with DIVISOR 2 for married couples living together, and for widowed/separated/divorced/single taxpayers living with children they mainly support (Tarif B). Formula: Tax_B(income) = 2 * Tarif_A(income / 2). Because Tarif_A is a marginal-bracket cumulative function, this is mathematically equivalent to simply DOUBLING every bracket threshold while keeping the same marginal rates — which is exactly how the 'married' table above was derived (and confirmed against the document's own footnote: marginal rate 10.5% between 352'800 and 705'400 = 2x the single thresholds 176'400 and 352'700). WEALTH TAX: single schedule, no splitting/Tarif B variant exists for wealth tax. Rates converted from official per-mille (‰) to decimal (e.g. 0.7‰ -> 0.0007). CANTONAL MULTIPLIER: 111% for 2025 ('Steuerfuss Kanton 111%', stated on the official Gemeinde-/Kirchensteuerfuss sheet), applied ON TOP of the einfache Steuer computed from the bracket table above. Each municipality then applies its OWN separate multiplier (Gemeindesteuerfuss, percent) on top of the same einfache Steuer, and church parishes (reformed/catholic/christ-catholic) apply a third separate multiplier, all as percentages of the same 100% base tax amount (not compounded / not multiplied together). CHURCH TAX: varies by municipality/parish (no canton-wide flat rate) — reformed, roman-catholic, and in some municipalities also christ-catholic multipliers are set per municipality/parish; see AG_municipalities.json. A handful of municipalities (Aarau, Baden, Boswil, Böttstein, Bremgarten, Brugg, Fisibach, Kaisten, Kallern, Laufenburg, Leuggern, Mettauertal, Oftringen, Schinznach, Sins, Untersiggenthal, Villmergen, Zurzach) have additional satellite/cross-border 'Zusatzkirchen' parishes with their own separate multipliers not captured in the reformed/catholic/christ-catholic columns here — see the source PDF's final page for those extra rates. DATA CAVEAT: one municipality in the official Steuerfuss list, 'Villnachern' (Gemeindesteuerfuss 120%), could not be matched to a current BFS number in the canton's own address/BFS list (gemeindeverzeichnis-ag xlsx, state 25 Aug 2026) and is included with bfsNumber=null rather than guessed — Bözberg (a 2013 merger of Villnachern/Linn/Elfingen) already appears separately with a different multiplier (96%), so this discrepancy is unresolved and should be double-checked before shipping."
+}

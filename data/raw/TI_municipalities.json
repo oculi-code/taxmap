@@ -1,0 +1,902 @@
+[
+  {
+    "bfsNumber": 5048,
+    "name": "Acquarossa",
+    "district": "Blenio",
+    "municipalMultiplier": 95.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5141,
+    "name": "Agno",
+    "district": "Lugano",
+    "municipalMultiplier": 82.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5061,
+    "name": "Airolo",
+    "district": "Leventina",
+    "municipalMultiplier": 90.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5237,
+    "name": "Alto Malcantone",
+    "district": "Lugano",
+    "municipalMultiplier": 90.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5143,
+    "name": "Aranno",
+    "district": "Lugano",
+    "municipalMultiplier": 92.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5001,
+    "name": "Arbedo-Castione",
+    "district": "Bellinzona",
+    "municipalMultiplier": 91.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5144,
+    "name": "Arogno",
+    "district": "Lugano",
+    "municipalMultiplier": 95.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5091,
+    "name": "Ascona",
+    "district": "Locarno",
+    "municipalMultiplier": 75.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5324,
+    "name": "Avegno Gordevio",
+    "district": "Vallemaggia",
+    "municipalMultiplier": 95.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5242,
+    "name": "Balerna",
+    "district": "Mendrisio",
+    "municipalMultiplier": 75.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5148,
+    "name": "Bedano",
+    "district": "Lugano",
+    "municipalMultiplier": 78.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5063,
+    "name": "Bedretto",
+    "district": "Leventina",
+    "municipalMultiplier": 60.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5002,
+    "name": "Bellinzona",
+    "district": "Bellinzona",
+    "municipalMultiplier": 93.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5281,
+    "name": "Biasca",
+    "district": "Riviera",
+    "municipalMultiplier": 95.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5151,
+    "name": "Bioggio",
+    "district": "Lugano",
+    "municipalMultiplier": 65.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5154,
+    "name": "Bissone",
+    "district": "Lugano",
+    "municipalMultiplier": 69.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5049,
+    "name": "Blenio",
+    "district": "Blenio",
+    "municipalMultiplier": 90.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5304,
+    "name": "Bosco/Gurin",
+    "district": "Vallemaggia",
+    "municipalMultiplier": 100.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5269,
+    "name": "Breggia",
+    "district": "Mendrisio",
+    "municipalMultiplier": 95.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5096,
+    "name": "Brione sopra Minusio",
+    "district": "Locarno",
+    "municipalMultiplier": 78.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5097,
+    "name": "Brissago",
+    "district": "Locarno",
+    "municipalMultiplier": 85.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5160,
+    "name": "Brusino Arsizio",
+    "district": "Lugano",
+    "municipalMultiplier": 85.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5161,
+    "name": "Cademario",
+    "district": "Lugano",
+    "municipalMultiplier": 95.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5162,
+    "name": "Cadempino",
+    "district": "Lugano",
+    "municipalMultiplier": 70.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5003,
+    "name": "Cadenazzo",
+    "district": "Bellinzona",
+    "municipalMultiplier": 88.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5307,
+    "name": "Campo (Vallemaggia)",
+    "district": "Vallemaggia",
+    "municipalMultiplier": 65.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5167,
+    "name": "Canobbio",
+    "district": "Lugano",
+    "municipalMultiplier": 78.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5226,
+    "name": "Capriasca",
+    "district": "Lugano",
+    "municipalMultiplier": 94.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5171,
+    "name": "Caslano",
+    "district": "Lugano",
+    "municipalMultiplier": 85.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5249,
+    "name": "Castel San Pietro",
+    "district": "Mendrisio",
+    "municipalMultiplier": 70.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5397,
+    "name": "Centovalli",
+    "district": "Locarno",
+    "municipalMultiplier": 95.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5309,
+    "name": "Cerentino",
+    "district": "Vallemaggia",
+    "municipalMultiplier": 100.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5310,
+    "name": "Cevio",
+    "district": "Vallemaggia",
+    "municipalMultiplier": 94.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5250,
+    "name": "Chiasso",
+    "district": "Mendrisio",
+    "municipalMultiplier": 88.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5251,
+    "name": "Coldrerio",
+    "district": "Mendrisio",
+    "municipalMultiplier": 85.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5236,
+    "name": "Collina d'Oro",
+    "district": "Lugano",
+    "municipalMultiplier": 60.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5176,
+    "name": "Comano",
+    "district": "Lugano",
+    "municipalMultiplier": 79.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5138,
+    "name": "Cugnasco-Gerra",
+    "district": "Locarno",
+    "municipalMultiplier": 90.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5180,
+    "name": "Cureglia",
+    "district": "Lugano",
+    "municipalMultiplier": 75.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5071,
+    "name": "Dalpe",
+    "district": "Leventina",
+    "municipalMultiplier": 70.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5072,
+    "name": "Faido",
+    "district": "Leventina",
+    "municipalMultiplier": 94.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5398,
+    "name": "Gambarogno",
+    "district": "Locarno",
+    "municipalMultiplier": 85.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5073,
+    "name": "Giornico",
+    "district": "Leventina",
+    "municipalMultiplier": 95.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5108,
+    "name": "Gordola",
+    "district": "Locarno",
+    "municipalMultiplier": 88.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5186,
+    "name": "Grancia",
+    "district": "Lugano",
+    "municipalMultiplier": 75.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5187,
+    "name": "Gravesano",
+    "district": "Lugano",
+    "municipalMultiplier": 70.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5009,
+    "name": "Isone",
+    "district": "Bellinzona",
+    "municipalMultiplier": 92.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5189,
+    "name": "Lamone",
+    "district": "Lugano",
+    "municipalMultiplier": 85.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5112,
+    "name": "Lavertezzo",
+    "district": "Locarno",
+    "municipalMultiplier": 100.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5323,
+    "name": "Lavizzara",
+    "district": "Vallemaggia",
+    "municipalMultiplier": 95.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5395,
+    "name": "Lema",
+    "district": "Lugano",
+    "municipalMultiplier": 95.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5315,
+    "name": "Linescio",
+    "district": "Vallemaggia",
+    "municipalMultiplier": 65.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5113,
+    "name": "Locarno",
+    "district": "Locarno",
+    "municipalMultiplier": 90.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5115,
+    "name": "Losone",
+    "district": "Locarno",
+    "municipalMultiplier": 90.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5192,
+    "name": "Lugano",
+    "district": "Lugano",
+    "municipalMultiplier": 80.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5010,
+    "name": "Lumino",
+    "district": "Bellinzona",
+    "municipalMultiplier": 90.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5317,
+    "name": "Maggia",
+    "district": "Vallemaggia",
+    "municipalMultiplier": 90.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5193,
+    "name": "Magliaso",
+    "district": "Lugano",
+    "municipalMultiplier": 78.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5194,
+    "name": "Manno",
+    "district": "Lugano",
+    "municipalMultiplier": 65.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5196,
+    "name": "Massagno",
+    "district": "Lugano",
+    "municipalMultiplier": 70.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5198,
+    "name": "Melide",
+    "district": "Lugano",
+    "municipalMultiplier": 65.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5254,
+    "name": "Mendrisio",
+    "district": "Mendrisio",
+    "municipalMultiplier": 77.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5117,
+    "name": "Mergoscia",
+    "district": "Locarno",
+    "municipalMultiplier": 100.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5199,
+    "name": "Mezzovico-Vira",
+    "district": "Lugano",
+    "municipalMultiplier": 60.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5118,
+    "name": "Minusio",
+    "district": "Locarno",
+    "municipalMultiplier": 82.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5238,
+    "name": "Monteceneri",
+    "district": "Lugano",
+    "municipalMultiplier": 92.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5257,
+    "name": "Morbio Inferiore",
+    "district": "Mendrisio",
+    "municipalMultiplier": 82.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5203,
+    "name": "Morcote",
+    "district": "Lugano",
+    "municipalMultiplier": 80.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5120,
+    "name": "Muralto",
+    "district": "Locarno",
+    "municipalMultiplier": 75.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5205,
+    "name": "Muzzano",
+    "district": "Lugano",
+    "municipalMultiplier": 75.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5206,
+    "name": "Neggio",
+    "district": "Lugano",
+    "municipalMultiplier": 90.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5260,
+    "name": "Novazzano",
+    "district": "Mendrisio",
+    "municipalMultiplier": 65.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5136,
+    "name": "Onsernone",
+    "district": "Locarno",
+    "municipalMultiplier": 95.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5208,
+    "name": "Origlio",
+    "district": "Lugano",
+    "municipalMultiplier": 70.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5121,
+    "name": "Orselina",
+    "district": "Locarno",
+    "municipalMultiplier": 82.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5210,
+    "name": "Paradiso",
+    "district": "Lugano",
+    "municipalMultiplier": 58.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5076,
+    "name": "Personico",
+    "district": "Leventina",
+    "municipalMultiplier": 90.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5077,
+    "name": "Pollegio",
+    "district": "Leventina",
+    "municipalMultiplier": 95.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5212,
+    "name": "Ponte Capriasca",
+    "district": "Lugano",
+    "municipalMultiplier": 85.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5214,
+    "name": "Porza",
+    "district": "Lugano",
+    "municipalMultiplier": 56.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5216,
+    "name": "Pura",
+    "district": "Lugano",
+    "municipalMultiplier": 87.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5079,
+    "name": "Quinto",
+    "district": "Leventina",
+    "municipalMultiplier": 90.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5263,
+    "name": "Riva San Vitale",
+    "district": "Mendrisio",
+    "municipalMultiplier": 83.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5287,
+    "name": "Riviera",
+    "district": "Riviera",
+    "municipalMultiplier": 95.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5125,
+    "name": "Ronco sopra Ascona",
+    "district": "Locarno",
+    "municipalMultiplier": 75.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5017,
+    "name": "Sant'Antonino",
+    "district": "Bellinzona",
+    "municipalMultiplier": 78.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5221,
+    "name": "Savosa",
+    "district": "Lugano",
+    "municipalMultiplier": 75.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5050,
+    "name": "Serravalle",
+    "district": "Blenio",
+    "municipalMultiplier": 93.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5225,
+    "name": "Sorengo",
+    "district": "Lugano",
+    "municipalMultiplier": 65.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5266,
+    "name": "Stabio",
+    "district": "Mendrisio",
+    "municipalMultiplier": 65.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5131,
+    "name": "Tenero-Contra",
+    "district": "Locarno",
+    "municipalMultiplier": 93.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5396,
+    "name": "Terre di Pedemonte",
+    "district": "Locarno",
+    "municipalMultiplier": 85.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5227,
+    "name": "Torricella-Taverne",
+    "district": "Lugano",
+    "municipalMultiplier": 85.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5239,
+    "name": "Tresa",
+    "district": "Lugano",
+    "municipalMultiplier": 85.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5268,
+    "name": "Vacallo",
+    "district": "Mendrisio",
+    "municipalMultiplier": 79.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5240,
+    "name": "Val Mara",
+    "district": "Lugano",
+    "municipalMultiplier": 80.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5230,
+    "name": "Vernate",
+    "district": "Lugano",
+    "municipalMultiplier": 80.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5399,
+    "name": "Verzasca",
+    "district": "Locarno",
+    "municipalMultiplier": 100.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5231,
+    "name": "Vezia",
+    "district": "Lugano",
+    "municipalMultiplier": 90.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  },
+  {
+    "bfsNumber": 5233,
+    "name": "Vico Morcote",
+    "district": "Lugano",
+    "municipalMultiplier": 65.0,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": null,
+    "churchMultiplierCatholic": null
+  }
+]

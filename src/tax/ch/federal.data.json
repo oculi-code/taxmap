@@ -1,0 +1,134 @@
+{
+  "year": 2026,
+  "incomeTax": {
+    "single": [
+      {
+        "from": 0,
+        "rate": 0
+      },
+      {
+        "from": 15200,
+        "rate": 0.0077
+      },
+      {
+        "from": 33200,
+        "rate": 0.0088
+      },
+      {
+        "from": 43500,
+        "rate": 0.0264
+      },
+      {
+        "from": 58000,
+        "rate": 0.0297
+      },
+      {
+        "from": 76200,
+        "rate": 0.0594
+      },
+      {
+        "from": 82100,
+        "rate": 0.066
+      },
+      {
+        "from": 108900,
+        "rate": 0.088
+      },
+      {
+        "from": 141500,
+        "rate": 0.11
+      },
+      {
+        "from": 185100,
+        "rate": 0.132
+      },
+      {
+        "from": 793900,
+        "rate": 0.1185
+      },
+      {
+        "from": 794000,
+        "rate": 0.115
+      }
+    ],
+    "married": [
+      {
+        "from": 0,
+        "rate": 0
+      },
+      {
+        "from": 29700,
+        "rate": 0.01
+      },
+      {
+        "from": 53400,
+        "rate": 0.02
+      },
+      {
+        "from": 61300,
+        "rate": 0.03
+      },
+      {
+        "from": 79100,
+        "rate": 0.04
+      },
+      {
+        "from": 94900,
+        "rate": 0.05
+      },
+      {
+        "from": 108700,
+        "rate": 0.06
+      },
+      {
+        "from": 120600,
+        "rate": 0.07
+      },
+      {
+        "from": 130500,
+        "rate": 0.08
+      },
+      {
+        "from": 138400,
+        "rate": 0.09
+      },
+      {
+        "from": 144300,
+        "rate": 0.1
+      },
+      {
+        "from": 148300,
+        "rate": 0.11
+      },
+      {
+        "from": 150400,
+        "rate": 0.12
+      },
+      {
+        "from": 152400,
+        "rate": 0.13
+      },
+      {
+        "from": 941300,
+        "rate": 0.12
+      },
+      {
+        "from": 941400,
+        "rate": 0.115
+      }
+    ]
+  },
+  "deductions": {
+    "childDeduction": 6800,
+    "insuranceDeductionSingle": 2700,
+    "insuranceDeductionMarried": 5550,
+    "insuranceDeductionPerChild": 700,
+    "marriedDeduction": 2800,
+    "parentTaxCreditPerChild": 263,
+    "twoEarnerDeduction": {
+      "percentOfLowerIncome": 0.5,
+      "min": 8600,
+      "max": 14100
+    }
+  }
+}

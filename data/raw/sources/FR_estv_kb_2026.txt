@@ -1,0 +1,1585 @@
+                                                 Département fédéral des finances DFF
+                                                 Administration fédérale des contributions AFC
+                                                 Division principale Politique fiscale
+                                                 Division Economie, Statistique et Documentation Fiscales
+
+
+
+
+                                      FRIBOURG
+                          PREFACE
+
+
+                          La Feuille cantonale sert de complément aux thèmes
+                          traités dans le recueil Informations fiscales et renvoie
+                          aux Brochures fiscales. A ce jour, elle se réfère à l’im­
+                          position des personnes physiques et des personnes
+                          morales. L’accent est mis sur les particularités fiscales
+                          de la compétence du canton en vertu de la Loi fédérale
+                          sur l'harmonisation des impôts directs des cantons et
+                          des communes (LHID) en faisant référence aux ex­
+                          traits de lois ad hoc.
+
+
+
+
+                          Etat en février 2026
+
+
+
+
+Editeur / Auteur
+Administration fédérale
+des contributions AFC
+Documentation Fiscale
+Eigerstrasse 65
+3003 Berne
+ist@estv.admin.ch
+www.estv.admin.ch
+Feuille cantonale Fribourg                                                           Table des matières
+
+
+
+
+Légende / Observations
+
+
+            En cliquant sur ce symbole, vous accédez directement à la brochure
+            fiscale en question (tabelle qui synthétise les données de la Confédé­
+            ration et des cantons) valable pour la période fiscale 2025.
+
+
+
+
+            Le simulateur fiscal permet de calculer approximativement vos impôts.
+
+
+
+
+Recueil Informations fiscales > Le lien mène à l’article correspondant du recueil Informations fiscales
+publié sur le site Internet de l’AFC.
+
+
+
+Pour un aperçu des impôts en vigueur à la Confédération et dans les cantons, voir le recueil Informations
+fiscales, C. Système fiscal, Impôts en vigueur.
+
+
+
+
+                                                                                                        2
+Feuille cantonale Fribourg                                                                                                                 Bases légales
+
+
+
+
+Table des matières
+BASES LÉGALES................................................................................................................................................... 4
+IMPOSITION DES PERSONNES PHYSIQUES ...................................................................................................... 5
+   Impôt sur le revenu ............................................................................................................................5
+       Revenus .......................................................................................................................................... 5
+       Revenus exonérés........................................................................................................................... 6
+       Détermination du revenu net ........................................................................................................... 7
+       Détermination du revenu imposable.............................................................................................. 12
+       Calcul de l’impôt ............................................................................................................................ 13
+       Progression à froid ........................................................................................................................ 15
+   Impôt sur les gains immobiliers .................................................................................................... 15
+       Calcul de l’impôt ............................................................................................................................ 16
+   Impôt sur la fortune ......................................................................................................................... 16
+       Objet de l’impôt sur la fortune ....................................................................................................... 16
+       Estimation de la fortune ................................................................................................................. 16
+       Détermination de la fortune imposable.......................................................................................... 17
+       Calcul de l’impôt ............................................................................................................................ 17
+       Progression à froid ........................................................................................................................ 17
+   Imposition d'après la dépense ....................................................................................................... 18
+   Multiple annuel ................................................................................................................................ 18
+   Allégements fiscaux ........................................................................................................................ 19
+IMPOSITION DES PERSONNES MORALES ....................................................................................................... 20
+   Impôt sur le bénéfice ...................................................................................................................... 20
+       Détermination du bénéfice net imposable ..................................................................................... 20
+       Calcul de l’impôt ............................................................................................................................ 21
+   Impôt sur le capital .......................................................................................................................... 23
+       Calcul de l’impôt ............................................................................................................................ 23
+   Impôt minimal .................................................................................................................................. 23
+   Disposition transitoire relative aux holdings et aux sociétés de domicile ............................... 24
+   Multiple annuel ................................................................................................................................ 24
+   Allégements fiscaux ........................................................................................................................ 24
+IMPÔTS DANS LES COMMUNES ET LES PAROISSES .................................................................................... 25
+   Impôts sur le revenu et sur la fortune, impôts sur le bénéfice et le capital dans les
+   communes........................................................................................................................................ 25
+   Impôt sur les gains immobiliers .................................................................................................... 25
+   Impôts sur le revenu et la fortune ainsi qu’impôts sur le bénéfice et le capital dans les
+   paroisses .......................................................................................................................................... 26
+CONTACT ADMINISTRATION FISCALE CANTONALE ...................................................................................... 27
+
+
+
+
+                                                                                                                                                                3
+Feuille cantonale Fribourg                                                               Bases légales
+
+
+
+Bases légales
+    •   631.1 Loi du 6 juin 2000 sur les impôts cantonaux directs (LICD)
+    •   631.12 Loi du 13 novembre 2025 fixant le coefficient annuel des impôts cantonaux directs de la
+        période fiscale 2025 (LCA2026)*
+    •   631.31 Arrêté sur l'imposition d'après la dépense (AID)*
+    •   631.33 Arrêté du 9 avril 1992 concernant l'imposition des immeubles non agricoles (AINA)*
+    •   631.411 Ordonnance DFIN du 14 novembre 2006 sur la déduction des frais professionnels des
+        personnes exerçant une activité lucrative dépendante (OFP)*
+    •   631.421 Ordonnance DFIN du 11 décembre 2019 sur la déduction des frais relatifs aux im­
+        meubles privés ainsi que des investissements destinés à économiser l'énergie et à ménager
+        l'environnement (ODFIP)*
+    •   631.48 Ordonnance du 8 septembre 2020 concernant la déduction des primes d'assurance-
+        maladie et accidents (OPAMA)*
+    •   632.1 Loi du 10 mai 1963 sur les impôts communaux (LICo)
+    •   140.6 Loi du 22 mars 2018 sur les finances communales (LFCo)
+    •   190.1 Loi du 26 septembre 1990 concernant les rapports entre les Eglises et l’Etat (LEE)
+    D’autres ordonnances et arrêtés sont publiés dans le recueil systématique de la législation fribour­
+    geoise (BDLF).
+*Ces abréviations ont été définies exclusivement pour cette feuille cantonale.
+
+
+
+
+                                                                                                      4
+Feuille cantonale Fribourg                                                                  Personnes physiques
+
+
+
+
+Imposition des personnes physiques
+   Art. 1, al. 1, let. a LICD
+   1 L'Etat perçoit, conformément à la présente loi :
+
+   a. un impôt sur le revenu et un impôt sur la fortune des personnes physiques,
+
+
+
+Impôt sur le revenu
+(Art.17 à 40 LICD)
+
+Recueil Informations fiscales, D. Impôts divers, Impôt sur le revenu des personnes physiques
+Recueil Informations fiscales, D. Impôts divers, Imposition de l’activité lucrative indépendante
+Recueil Informations fiscales, F. Problèmes fiscaux, Imposition de la valeur locative
+
+
+Revenus
+(Art. 17 à 24 LICD ; AINA)
+Le revenu total brut se compose notamment du revenu provenant de l’activité dépendante ou indépen­
+dante, y compris les revenus accessoires ou ceux acquis en compensation, des rendements imposables
+de la fortune mobilière et immobilière, des prestations en capital découlant de la prévoyance ainsi que
+des gains de loteries mais aussi de la valeur locative pour des personnes utilisant leur propre logement.
+
+
+Les particularités cantonales suivantes sont à relever :
+
+   Imposition partielle des revenus produits par les participations de la fortune commerciale
+   Art. 19b, al. 1 LICD
+   1 Les dividendes, les parts de bénéfice, les excédents de liquidation et les prestations appréciables en
+
+   argent provenant d'actions, de parts à des sociétés à responsabilité limitée, de parts à des sociétés
+   coopératives et de bons de participation ainsi que les bénéfices provenant de l'aliénation de tels droits
+   de participation sont imposables, après déduction des charges imputables, à hauteur de 70 %, lorsque
+   ces droits de participation équivalent à 10 % au moins du capital-actions ou du capital social d'une so­
+   ciété de capitaux ou d'une société coopérative.
+
+
+   Résultat provenant de brevets et de droits comparables
+   Art. 20a LICD
+   1 Les articles 103a et 103b s'appliquent par analogie aux revenus provenant de brevets et de droits
+
+   comparables en cas d'activité lucrative indépendante.
+
+
+   Rendement de la fortune mobilière
+   Art. 21, al. 1bis LICD
+   1bis
+        Les dividendes, les parts de bénéfice, les excédents de liquidation et les avantages appréciables en
+   argent provenant d'actions, de parts à des sociétés à responsabilité limitée, de parts à des sociétés
+   coopératives et de bons de participation (y compris les actions gratuites, les augmentations gratuites de
+   la valeur nominale, etc.) sont imposables à hauteur de 70 %, lorsque ces droits de participation équiva­
+   lent à 10 % au moins du capital-actions ou du capital social d'une société de capitaux ou d'une société
+   coopérative.
+
+
+
+
+                                                                                                               5
+Feuille cantonale Fribourg                                                                    Personnes physiques
+
+
+   Valeur locative
+   Art. 22, al. 1, let. b et al. 2 LICD
+   1 Est imposable le rendement de la fortune immobilière, en particulier:
+
+   b) la valeur locative des immeubles ou des parties d'immeubles dont le contribuable se réserve l'usage
+        en raison de son droit de propriété ou d'un droit de jouissance obtenu à titre gratuit ;
+   2 Le Conseil d'Etat édicte les prescriptions nécessaires à la fixation des valeurs locatives en tenant
+
+   compte en particulier des conditions locales ou régionales du marché du logement et de manière à
+   favoriser l'accession à la propriété individuelle du logement et le maintien de celle-ci.
+   Art. 1 AINA
+   1 La valeur locative d'un immeuble non agricole ou d'un appartement occupé par le propriétaire ou l'usu­
+
+   fruitier est fixée sur la base de normes.
+   2
+     Les normes sont établies sur la base du nombre d'unités de chambre, des locaux supplémentaires et
+   garages.
+   Art. 2, al. 1 AINA
+   1 Le nombre d'unités de chambre est calculé sur la base de la surface habitable.
+
+   Art. 3 AINA
+   1 La valeur attribuée à l'unité de chambre est fixée en fonction de l'année de construction, de transfor­
+
+   mation ou de rénovation de l'immeuble, compte tenu de son aménagement et de sa situation.
+   2 L'aménagement et la situation de l'immeuble sont déterminés sur la base de points.
+
+   Art. 10, al. 1 AINA
+   1 Pour tenir compte des différences régionales, un quotient est attribué à chaque commune.
+
+   Instructions spéciales sur la manière de remplir le questionnaire pour l’estimation des valeurs locatives
+   et fiscales des immeubles non agricoles, Edition 2023
+
+
+   Revenus provenant de la prévoyance
+   Art. 23, al. 1 à 3 LICD
+   1
+     Sont imposables tous les revenus provenant de l’assurance-vieillesse et survivants, de l’assurance-
+   invalidité ainsi que tous ceux qui proviennent d’institutions de prévoyance professionnelle ou qui sont
+   fournis selon des formes reconnues de prévoyance individuelle liée, y compris les prestations en capital
+   et le remboursement des versements, primes et cotisations.
+   2
+     Sont notamment considérées comme revenus provenant d’institutions de prévoyance professionnelle
+   les prestations des caisses de prévoyance, des assurances d’épargne et de groupe ainsi que des polices
+   de libre-passage.
+   3 Les assurances de rentes viagères ainsi que les contrats de rentes viagères et d'entretien viager sont
+
+   imposables à raison de leur part de rendement. […].
+
+
+Revenus exonérés
+(Art. 25 LICD)
+
+
+   Solde des sapeurs-pompiers de milice
+   Art. 25, al. 1, let. fbis LICD
+   1
+     Sont exonérés de l‘impôt :
+    bis)
+   f la solde des sapeurs-pompiers de milice, jusqu’à concurrence d’un montant annuel de 9000 francs,
+         pour les activités liées à l’accomplissement de leurs tâches essentielles (exercices, services de pi­
+         quet, cours, inspections et interventions, notamment pour le sauvetage, la lutte contre le feu, la lutte
+         contre les sinistres en général et la lutte contre les sinistres causés par les éléments naturels) ; les
+         indemnités supplémentaires forfaitaires pour les cadres, les indemnités supplémentaires de fonction,
+         les indemnités pour les travaux administratifs et les indemnités pour les prestations fournies volon­
+         tairement ne sont pas exonérées ;
+
+
+
+
+                                                                                                                    6
+Feuille cantonale Fribourg                                                                        Personnes physiques
+
+
+   Gains provenant de jeux d’argent
+   Art. 25, al. 1, let. i à j LICD
+   1 Sont exonérés de l‘impôt :
+
+   i) les gains provenant des jeux de casino exploités dans les maisons de jeu et autorisés par la loi
+         fédérale sur les jeux d'argent (LJAr), à la condition que ces gains ne soient pas issus d'une activité
+         lucrative indépendant ;
+    bis
+   i ) les gains unitaires jusqu'à concurrence d'un montant de 1 million de francs provenant de la partici­
+         pation à un jeu de grande envergure autorisé par la LJAr et de la participation en ligne à des jeux de
+         casino autorisés par la LJAr ;
+   iter) les gains provenant d'un jeu de petite envergure autorisé par la LJAr ;
+   j) les gains unitaires jusqu'à concurrence d'un montant de 1000 francs provenant d'un jeu d'adresse ou
+         d'une loterie destinés à promouvoir les ventes qui ne sont pas soumis à la LJAr selon l'article 1 al. 2
+         let. d et e de cette loi.
+
+
+Détermination du revenu net
+(Art. 26 à 34a LICD)
+Le revenu net se calcule en défalquant du total des revenus imposables les frais et les déductions
+générales.
+
+Déductions
+(Art. 27 à 34a LICD ; OFP ; ODFIP)
+
+   Frais
+   (Art. 27, 31 et 33 LICD ; Art. 3, 3a, 6 et 9 OFP ; Art. 8 ODFIP)
+
+
+   Mesures COVID-19 relatives aux déductions des frais professionnels
+   Principales nouveautés fiscales pour les périodes 2021/2022, point 11. Particularités liées au COVID-19
+
+
+   Déduction forfaitaire en cas de surplus de dépenses pour repas
+
+
+   Déduction pour le séjour hors du domicile
+
+
+   Frais professionnels en cas de télétravail
+   Art. 7 OFP
+   1 Le contribuable qui effectue tout ou partie de son activité professionnelle en télétravail doit l'indiquer
+
+   dans sa déclaration d'impôt.
+   2
+     La déduction des frais prévus aux articles 3, 4, 5 al. 2 et 3 est réduite en proportion des jours télétra­
+   vaillés. Le calcul est effectué en tenant compte de 220 jours travaillés par année pour un taux d'activité
+   à 100 %.
+   3
+     Le contribuable peut revendiquer la déduction des frais engagés pour l'achat du matériel nécessaire
+   au télétravail s'il n'est pas mis à disposition ou financé par l'employeur et si ce dernier impose le télétra­
+   vail.
+   4 Le contribuable peut déduire les frais effectifs d'une chambre de travail (loyer, chauffage, etc.) s'il justifie
+
+   qu'il lui est indispensable d'utiliser régulièrement et à titre principal une chambre de son logement pour
+   s'acquitter de tâches exclusivement professionnelles; c'est en particulier le cas lorsque son employeur
+   impose le télétravail. Si la chambre prévue n'est pas adaptée à ce but, si elle est employée également à
+   d'autres fins ou si l'utilisation en est seulement occasionnelle, il n'a pas droit à une déduction.
+
+
+
+
+                                                                                                                        7
+Feuille cantonale Fribourg                                                                       Personnes physiques
+
+
+   Frais de transport
+   Art. 27, al. 1, let. a et al. 2 LICD
+   1 Les frais professionnels qui peuvent être déduits sont :
+
+   a) les frais de déplacement nécessaires entre le domicile et le lieu de travail jusqu'à concurrence de
+        12'000 francs ;
+   2 Les frais professionnels mentionnés à l'alinéa 1 let. a à c sont estimés forfaitairement par la Direction
+
+   dont relèvent les impôts directs (ci-après: la Direction); dans les cas de l'alinéa 1 let. a et c, le contri­
+   buable peut justifier des frais plus élevés.
+   Art. 2 OFP
+   1 Si, au lieu de la déduction forfaitaire mentionnée aux articles 3 al. 3, 6 al. 1 et 9 al. 1, le contribuable
+
+   fait valoir des frais plus élevés, il doit justifier la totalité des dépenses effectives ainsi que leur nécessité
+   sur le plan professionnel.
+   Art. 3, al. 1 et 2, let. a OFP
+   1 Les frais nécessaires de déplacement entre le domicile et le lieu de travail sont déductibles en cas de
+
+   distance notable, soit au minimum 1,5 km, mais au maximum jusqu'à concurrence de 12'000 francs par
+   an.
+   2 La déduction est fixée comme il suit :
+
+   a) Lorsque le contribuable utilise les transports publics : les frais effectifs ;
+   Art. 3, al. 3, let. b OFP
+   3 Si le contribuable n’a pas de transports publics à sa disposition ou s’il ne peut les utiliser (p. ex. en
+
+   raison d’infirmité, d’éloignement, d’horaire défavorable), il peut déduire :
+   b) pour les automobiles, peu importe la catégorie de véhicule utilisé :
+           70 centimes par kilomètre jusqu’à 10 000 kilomètres,
+           60 centimes par kilomètre pour les 10 000 kilomètres suivants (de 10 001 à 20 000 km),
+           50 centimes par kilomètre pour le surplus (dès 20 001 km).
+   La justification de frais professionnels plus élevés est réservée (art. 2).
+   Pour le trajet d’aller et retour à midi, il ne peut toutefois être compté que 15 francs au maximum par jour
+   ou 3200 francs par an.
+   Art. 3a OFP
+   1
+     S'il utilise gratuitement un véhicule de fonction pour des déplacements à des fins privées, le revenu qui
+   en découle, soit la part privée, peut être calculée de façon forfaitaire au lieu d'établir un décompte des
+   frais effectifs de l'utilisation privée. Cette part ne comprend pas les frais de déplacement entre le domicile
+   et le lieu de travail.
+   2
+     Aux fins du calcul forfaitaire de la part privée, 0,9 % du prix d'achat du véhicule est considéré comme
+   un revenu mensuel provenant de cette utilisation.
+
+
+   Autres frais professionnels
+   Art. 6 OFP
+   1 Pour les autres dépenses professionnelles telles que frais pour l'outillage professionnel (y compris le
+
+   matériel informatique et les logiciels), les ouvrages professionnels, l'utilisation d'une chambre de travail
+   privée, les vêtements professionnels, l'usure exceptionnelle des chaussures et des vêtements, l'exécu­
+   tion de travaux pénibles, le contribuable peut déduire 3 % de son salaire net selon le certificat de salaire,
+   mais au minimum 2000 francs et au maximum 4000 francs par an. La justification de frais plus élevés
+   demeure réservée (art. 2 et 7 al. 4).
+
+
+   Activité accessoire
+   Art. 27, al. 1, let. c LICD
+   1 Les frais professionnels qui peuvent être déduits sont :
+
+   c) les autres frais indispensables à l’exercice de la profession ; l’article 34 al. 1 let. j est réservé ;
+   Art. 9, al. 1 OFP
+   1 Pour les frais inhérents à l’exercice d’une activité accessoire, il est accordé une déduction de 20 % du
+
+   salaire net provenant de cette activité, au minimum 800 francs mais au maximum 2400 francs par an
+   pour l’ensemble de ces gains. Cette déduction est censée couvrir toutes les dépenses professionnelles
+   liées à l’exercice de cette activité. La justification de frais plus élevés demeure réservée (art. 2).
+
+
+
+
+                                                                                                                       8
+Feuille cantonale Fribourg                                                                    Personnes physiques
+
+
+   Activité lucrative dépendante
+   Art. 27, al. 2 LICD
+   2 Les frais professionnels mentionnés à l’alinéa 1 let. a à c sont estimés forfaitairement par la Direction
+
+   des finances dont relèvent les impôts directs ; dans les cas de l’alinéa 1 let. a et c, le contribuable peut
+   justifier des frais plus élevés.
+
+   Art. 6, al. 1 OFP
+   1 Pour les autres dépenses professionnelles telles que frais pour l’outillage professionnel (y compris le
+
+   matériel informatique et les logiciels), les ouvrages professionnels, l’utilisation d’une chambre de travail
+   privée, les vêtements professionnels, l’usure exceptionnelle des chaussures et des vêtements, l’exécu­
+   tion de travaux pénibles, le contribuable peut déduire 3 % de son salaire net selon le certificat de salaire,
+   mais au minimum 2000 francs et au maximum 4000 francs par an. La justification de frais plus élevés
+   demeure réservée (art. 2).
+
+
+   Provisions pour futurs mandats de recherche et de développement confiés à des tiers
+   Art. 30, al. 1 let. d LICD
+   1 Des provisions peuvent être constituées à la charge du compte de résultats pour:
+
+   d) les futurs mandats de recherche et de développement confiés à des tiers, jusqu'à 10 % au plus du
+       bénéfice commercial imposable, mais au total jusqu'à 1 million de francs au maximum.
+
+
+   Provision pour remploi
+   Art. 31, al. 1 et 2 LICD
+   1 Lorsque des biens immobilisés nécessaires à l'exploitation sont remplacés, les réserves latentes de
+
+   ces biens peuvent être reportées sur les biens immobilisés acquis en remploi, si ces biens sont égale­
+   ment nécessaires à l'exploitation et se trouvent en Suisse. L'imposition en cas de remplacement d'im­
+   meubles par des biens mobiliers est réservée.
+   2 Lorsque le remploi n'intervient pas pendant le même exercice, une provision correspondant aux ré­
+
+   serves latentes peut être constituée. Cette provision doit être dissoute et utilisée pour l'amortissement
+   de l'élément acquis en remploi ou portée au crédit du compte de résultats dans un délai raisonnable.
+
+
+   Déduction des dépenses de recherche et de développement
+   Art. 32a LICD
+   1
+     L'article 101a s'applique par analogie à la déduction des dépenses de recherche et de développement
+   en cas d'activité lucrative indépendante.
+
+
+   Frais d’entretien d’immeubles privés
+   Art. 33, al. 2 à 4 LICD
+   2
+     Le contribuable qui possède des immeubles privés peut déduire les frais nécessaires à leur entretien,
+   les frais de remise en état d'immeubles acquis récemment, les primes d'assurances relatives à ces im­
+   meubles et les frais d'administration par des tiers. Il peut déduire, en outre, les dépenses d'investisse­
+   ment destinées à économiser l'énergie et à ménager l'environnement qui sont admises en déduction
+   pour l'impôt fédéral direct. Les frais de démolition en vue d'une construction de remplacement sont as­
+   similés aux frais d'entretien.
+   2a
+      Les coûts d'investissement visés à l'alinéa 2, 2e phr., et les frais de démolition en vue d'une construc­
+   tion de remplacement sont déductibles au cours des deux périodes fiscales suivantes, lorsqu'ils ne peu­
+   vent pas être entièrement pris en considération durant la période fiscale en cours, pendant laquelle les
+   dépenses ont été effectuées.
+   3 Sont en outre déductibles les frais occasionnés par des travaux de restauration de biens culturels
+
+   immeubles que le contribuable entreprend en vertu de dispositions légales, en accord avec les autorités
+   ou sur leur ordre, pour la part non couverte par des subventions.
+   4 Au lieu du montant effectif des frais et primes se rapportant aux immeubles privés, le contribuable peut
+
+   faire valoir une déduction forfaitaire.
+
+
+
+
+                                                                                                                   9
+Feuille cantonale Fribourg                                                                 Personnes physiques
+
+
+   Art. 8 ODFIP
+   1
+     Le ou la contribuable peut faire valoir une déduction forfaitaire au lieu des frais effectifs:
+   a) d’entretien;
+   b) de remise en état d'immeubles acquis récemment;
+   c) d'administration par des tiers;
+   d) d'investissements destinés à économiser l'énergie et à ménager l'environnement;
+   e) de démolition en vue d'une construction de remplacement;
+   f) de primes d'assurances.
+   2
+     La déduction forfaitaire se monte à:
+   a) 10 % du rendement brut des loyers ou de la valeur locative déterminante pour l'impôt sur le revenu,
+       si l'âge du bâtiment au début de la période fiscale est inférieur ou égal à dix ans;
+   b) 20 % du rendement brut des loyers ou de la valeur locative déterminante pour l'impôt sur le revenu,
+       si l'âge du bâtiment au début de la période fiscale est supérieur à dix ans.
+   3
+     La déduction forfaitaire n'entre pas en ligne de compte pour les immeubles suivants:
+   a) immeubles faisant partie de la fortune commerciale;
+   b) immeubles utilisés par des tiers principalement à des fins commerciales;
+   c) immeubles non bâtis (places d'entreposage, places de parc, etc.);
+   d) immeubles pour lesquels le ou la contribuable touche une rente pour l'octroi d'un droit de superficie.
+   4
+     Le ou la contribuable peut choisir, lors de chaque période fiscale et pour chaque immeuble, entre la
+   déduction des frais effectifs et la déduction forfaitaire.
+   Notice spéciale pour la déduction des frais effectifs relatifs aux immeubles privés et des investissements
+   destinés à économiser l’énergie à et ménager l’environnement, valable dès la période fiscale 2020 :
+   Point 4.1 Investissements déductibles
+   Les investissements destinés à économiser l’énergie et à ménager l’environnement comprennent no­
+   tamment : […] Aucune déduction n’est admise pour les investissements effectués sur un immeuble neuf
+   et dans les cinq premières années suivant sa construction.
+
+   Déductions générales
+   (Art. 34 et 34a LICD ; OPAMA)
+
+
+   Primes d’assurances-maladie et intérêts des capitaux d‘épargne
+   Art. 34, al. 1, let. g LICD
+   1 Sont déduits du revenu :
+
+   g) les versements, cotisations et primes d’assurances-vie, d’assurances maladie et d’assurances-acci­
+       dents qui ne tombent pas sous le coup de la lettre f ainsi que les intérêts des capitaux d’épargne du
+       contribuable et des personnes à l’entretien desquelles il pourvoit.
+         1.    Le Conseil d’Etat arrête pour chaque période fiscale le montant maximal déductible, à l’inté­
+               rieur duquel sont admis au maximum :
+         1.1. les primes de base pour l’assurance-maladie et accidents, fixées forfaitairement par le Conseil
+               d’Etat pour chaque catégorie d’assurés, sous déduction des réductions de primes communi­
+               quées au Service cantonal des contributions par l’Etablissement cantonal des assurances
+               sociales ;
+         1.2. les primes d’assurances-vie, jusqu’à concurrence de 1500 francs pour les personnes mariées
+               vivant en ménage commun et de 750 francs pour les autres contribuables ;
+         1.3. les intérêts de capitaux d’épargne, jusqu’à concurrence de 300 francs pour les personnes
+               mariées vivant en ménage commun et de 150 francs pour les autres contribuables.
+   2. Aucune compensation n’est possible entre les diverses déductions ;
+   Art. 1, al. 1 OPAMA
+   1 Les primes d'assurance-maladie et accidents déductibles annuellement sont fixées forfaitairement,
+
+   pour chaque catégorie de personnes assurées, de la manière suivante:
+   a) adultes :                                                                    Fr. 4 810.-
+   b) jeunes adultes en formation à charge (de 18 ans révolus à 25 ans) :          Fr. 4 210.-
+   c) enfants à charge (jusqu'à 18 ans révolus) :                                  Fr. 1 140.-
+
+
+
+
+                                                                                                                10
+Feuille cantonale Fribourg                                                                    Personnes physiques
+
+
+   Déduction pour activité lucrative des deux conjoints
+   Art. 34, al. 2 LICD
+   2 Lorsque les époux vivent en ménage commun, un montant de 500 francs est déduit du produit du travail
+
+   qu’obtient l’un des conjoints pour une activité indépendante de la profession, du commerce ou de l’en­
+   treprise de l’autre ; une déduction analogue est accordée lorsque l’un des conjoints fournit un travail
+   important pour seconder l’autre dans sa profession, son commerce ou son entreprise ;
+
+
+   Frais médicaux
+   Art. 34, al. 1, let. h LICD
+   1 Sont déduits du revenu :
+
+   h) les frais provoqués par la maladie et les accidents du contribuable ou d’une personne à l’entretien
+       de laquelle il subvient, lorsque le contribuable supporte lui-même ces frais et que ceux-ci excèdent
+       5 % des revenus imposables diminués des déductions prévues aux articles 27 à 34 ;
+
+
+   Frais liés au handicap
+   Art. 34, al. 1, let. hbis LICD
+   1 Sont déduits du revenu :
+
+   hbis) les frais liés au handicap du contribuable ou d’une personne à l’entretien de laquelle il subvient,
+        lorsque le contribuable ou cette personne est handicapé au sens de la loi fédérale du 13 décembre
+        2002 sur l’égalité pour les handicapés et que le contribuable supporte lui-même les frais ;
+
+
+   Versements aux partis politiques
+   Art. 34, al. 1, let. i LICD
+   1 Sont déduits du revenu :
+
+   i) les cotisations et les versements, à concurrence d’un montant de 5000 francs, en faveur d’un parti
+       politique, à l’une des conditions suivantes :
+         1.    être inscrit au registre des partis conformément à l’article 76a de la loi fédérale du 17 dé­
+               cembre 1976 sur les droits politiques ;
+         2.    être représenté dans un Parlement cantonal ;
+         3.    avoir obtenu au moins 3 % des voix lors des dernières élections au Parlement d'un canton ;
+
+
+   Frais de perfectionnement et de reconversion professionnels
+   Art. 34, al. 1, let. j LICD
+   1
+     Sont déduits du revenu :
+   j) les frais de formation et de perfectionnement à des fins professionnelles, frais de reconversion com­
+       pris, jusqu’à concurrence de 12 000 francs, si le contribuable remplit l’une des conditions suivantes :
+         1.    il est titulaire d’un diplôme du degré secondaire II ;
+         2.    il a atteint l’âge de 20 ans et suit une formation visant à l’obtention d’un diplôme autre qu’un
+               premier diplôme du degré secondaire II.
+
+
+   Frais de garde des enfants
+   Art. 34, al. 3 LICD
+   3
+     Un montant de 12 000 francs au plus par enfant dont la garde est assurée par un tiers est déduit du
+   revenu si l’enfant a moins de 14 ans et vit dans le même ménage que le contribuable assurant son
+   entretien et si les frais de garde, documentés, ont un lien de causalité direct avec l’activité lucrative, la
+   formation ou l’incapacité de gain du contribuable.
+
+
+   Déduction des enjeux
+   Art. 34, al. 4 LICD
+   4 Sont déduits des gains unitaires provenant des jeux d'argent non exonérés de l'impôt, selon l'article 25
+
+   al. 1 let. i à j, 5 % à titre de mise, mais au plus 5000 francs.
+
+
+
+
+                                                                                                                   11
+Feuille cantonale Fribourg                                                                Personnes physiques
+
+
+   Dons
+   Art. 34a LICD
+   Sont également déduits du revenu les dons en espèces et sous forme d’autres valeurs patrimoniales en
+   faveur de personnes morales qui ont leur siège en Suisse et sont exonérées de l’impôt en raison de
+   leurs buts de service public ou d’utilité publique, jusqu’à concurrence de 20 % des revenus diminués des
+   déductions prévues aux articles 27 à 34, à condition que ces dons s’élèvent au moins à 100 francs par
+   année fiscale. Les dons en faveur de la Confédération, des cantons, des communes et de leurs établis­
+   sements sont déductibles dans la même mesure. Dans des cas particuliers à intérêt public prépondérant,
+   le Conseil d’Etat peut autoriser une déduction plus élevée ; il statue à titre définitif.
+
+
+Détermination du revenu imposable
+(Art. 36 LICD)
+Le revenu imposable correspond au revenu net diminué des déductions sociales. Celui-ci sert de base
+pour l’impôt sur le revenu.
+
+Déductions sociales
+(Art. 36 LICD)
+
+
+   Déduction sociale pour enfants
+   Art. 36, al. 1, let. a LICD
+   1 Sont déduits du revenu net :
+
+   a) 8600 francs pour chaque enfant mineur ou faisant un apprentissage ou des études, si l’enfant est à
+       la charge exclusive du contribuable et que le revenu net n’excède pas la limite déterminante ; la
+       déduction est portée à 9600 francs dès et y compris le troisième enfant. La déduction est réduite de
+       100 francs pour chaque tranche de 1000 francs de revenu dépassant la limite déterminante ; elle ne
+       peut toutefois être inférieure à 7100 francs pour chaque enfant, montant porté à 8100 francs dès et
+       y compris le troisième enfant. La limite de revenu déterminante est de 62 700 francs pour le premier
+       enfant ; elle est augmentée de 10 100 francs pour chaque enfant supplémentaire ;
+
+
+   Orphelin de père et mère
+   Art. 36, al. 1, let. b LICD
+   1
+     Sont déduits du revenu net :
+   b) 8600 francs du revenu de l’orphelin de père et mère, s’il est mineur, aux études ou en apprentissage
+       et que son revenu net n’excède pas 62 700 francs. La déduction est réduite de 100 francs pour
+       chaque tranche de 1000 francs de revenu en plus. La déduction ne peut toutefois être inférieure à
+       7100 francs ;
+
+
+   Autre personne à charge
+   Art. 36, al. 1, let. c LICD
+   1 Sont déduits du revenu net :
+
+   c) 5000 francs pour toute autre personne incapable de subvenir à ses besoins, dont le contribuable
+       supporte la principale charge d’entretien ;
+
+
+   Contribuable aux études ou en apprentissage
+   Art. 36, al. 1, let. d LICD
+   1
+     Sont déduits du revenu net :
+   d) un montant de 3600 francs du salaire du contribuable aux études ou en apprentissage jusqu’à l’âge
+       de 25 ans révolus ;
+
+
+   Contribuable en fauteuil roulant
+   Art. 36, al. 1, let. e LICD
+   1 Sont déduits du revenu net :
+
+   e) un montant de 2500 francs pour tout contribuable en fauteuil roulant qui exerce une activité lucrative
+       sans être au bénéfice d’une rente AVS/AI ;
+
+
+
+
+                                                                                                               12
+Feuille cantonale Fribourg                                                                   Personnes physiques
+
+
+   Aide et soin à domicile
+   Art. 36, al. 1, let. j LICD
+   1 Sont déduits du revenu net :
+
+   j) le montant effectivement reçu à titre d’indemnités forfaitaires en matière d’aide et de soins à domicile.
+
+
+   Déduction pour contribuables à revenu modeste
+   Art. 36, al. 2, let. a et b LICD
+   2
+     Sont en outre déductibles :
+   a) un montant de 4100 francs pour tout contribuable n'ayant pas de charge d'entretien, à l'exclusion des
+       bénéficiaires de prestations AVS/ AI, dont le revenu, après déduction des montants selon l'alinéa 1
+       ci-dessus, n'excède pas 20 300 francs. La déduction est réduite de 200 francs pour chaque tranche
+       de 1000 francs de revenu en plus ;
+   b) un montant de 5100 francs pour tout contribuable ayant charge d’entretien, à l’exclusion des bénéfi­
+       ciaires de prestations AVS/AI, dont le revenu, après déduction des montants selon l’alinéa 1 ci-des­
+       sus, n’excède pas 24 300 francs. La déduction est réduite de 200 francs pour chaque tranche de
+       1000 francs de revenu en plus ;
+
+
+   Déduction pour contribuables à revenu modeste bénéficiaires de prestations AVS/AI
+   Art. 36, al. 2, let. c et d LICD
+   2 Sont en outre déductibles :
+
+   c) un montant de 9100 francs pour tout bénéficiaire de prestations AVS/AI n’ayant pas de charge d’en­
+       tretien, dont le revenu, après déduction des montants selon l’alinéa 1 ci-dessus, n’excède pas
+       24 300 francs. La déduction est réduite de 300 francs pour chaque tranche de 1000 francs de revenu
+       en plus ;
+   d) un montant de 11 100 francs pour tout bénéficiaire de prestations AVS/AI ayant charge d’entretien,
+       dont le revenu, après déduction des montants selon l’alinéa 1 ci-dessus, n’excède pas 30 300 francs.
+       La déduction est réduite de 400 francs pour chaque tranche de 1000 francs de revenu en plus.
+
+
+Calcul de l’impôt
+(Art. 37 LICD ; LCA2026)
+
+Taux
+(Art. 37 LICD)
+
+
+   Taux
+   Art. 37, al. 1 LICD
+   1
+     L’impôt sur le revenu est fixé par classes, selon un barème détaillé établi par le Service cantonal des
+   contributions et comprenant les taux suivants :
+                   %                         %                       Fr.                         Fr.
+   de              1,0000     à             4,1598       de            5 200       à               17 499
+   de              4,1745     à             6,2031       de          17 500        à               31 399
+   de              6,2139     à             8,0283       de          31 400        à               48 299
+   de              8,0352     à             9,0978       de          48 300        à               63 799
+   de              9,1042     à              9,981       de          63 800        à               77 599
+   de              9,9846     à            10,8630       de          77 600        à             102 099
+   de             10,8662     à            11,7142       de         102 100        à             128 699
+   de             11,7172     à            12,5332       de         128 700        à             155 999
+   de             12,5355     à            13,1082       de         156 000        à             180 999
+   de             13,1097     à            13,4997       de         181 000        à             207 099
+   de             13,5000                                de         207 100        et             au-delà
+
+
+
+
+                                                                                                                  13
+Feuille cantonale Fribourg                                                                    Personnes physiques
+
+
+   Réduction du taux d’imposition pour les personnes mariées et les familles monoparentales
+   Art. 37, al. 3 LICD
+   3 Le revenu global imposable des personnes mariées vivant en ménage commun et des contribuables
+
+   veufs, séparés, divorcés ou célibataires qui font ménage commun avec des enfants ou des personnes
+   nécessiteuses et dont ils assurent pour l’essentiel l’entretien est frappé au taux correspondant à 50 %
+   de ce revenu. Le taux minimal de l’impôt reste applicable.
+
+
+   Transfert d’immeubles dans la fortune privée
+   Art. 37, al. 6 LICD
+   6
+     Lorsque des immeubles sont transférés dans la fortune privée, un abattement de 50 % est accordé sur
+   la part de l'impôt afférent auxdits immeubles si leur aliénation n'intervient pas dans les cinq ans. Dans le
+   cas contraire, l'impôt est rappelé en application des articles 192 et suivants. L'abattement de 50 % est
+   également accordé en cas de transfert à titre gratuit aux enfants, suite au transfert dans la fortune privée.
+   Le présent alinéa ne s'applique pas en cas d'application de l'article 38b.
+
+Cas particuliers
+(Art. 38 et 39 LICD)
+
+
+   Bénéfices de liquidation
+   Art. 38b LICD
+   1
+     Le total des réserves latentes réalisées au cours des deux derniers exercices commerciaux est impo­
+   sable séparément des autres revenus si le contribuable âgé de 55 ans révolus cesse définitivement
+   d'exercer son activité lucrative indépendante ou s'il est incapable de poursuivre cette activité pour cause
+   d'invalidité. Les rachats au sens de l'article 34 al. 1 let. d sont déductibles. Si un tel rachat n'est pas
+   effectué, l'impôt est calculé, sur la base des taux inscrits à l'article 39, sur la part des réserves latentes
+   réalisées correspondant au montant dont le contribuable prouve l'admissibilité comme rachat au sens
+   de l'article 34 al. 1 let. d. Sur le solde des réserves latentes réalisées, seul un cinquième de ce montant
+   est déterminant pour la fixation du taux applicable selon l'article 37 al. 1 à 4, mais au moins au taux de
+   6 %.
+   2
+     L'alinéa 1 s'applique également au conjoint survivant, aux autres héritiers et aux légataires, pour autant
+   qu'ils ne poursuivent pas l'exploitation de l'entreprise qu'ils ont reprise; le décompte fiscal a lieu au plus
+   tard cinq années civiles après la fin de l'année civile dans laquelle le contribuable est décédé.
+
+
+   Prestations en capital provenant de la prévoyance
+   Art. 39 LICD
+   1 Les prestations en capital selon l’article 23 ainsi que les sommes versées ensuite de décès, de dom­
+
+   mages corporels permanents ou d’atteinte durable à la santé sont imposées séparément. Elles sont
+   dans tous les cas soumises à un impôt annuel entier :
+   2
+     L’impôt se monte à :
+        – 1 % pour les premiers 50 000 francs ;
+        – 2 % pour les prochains 50 000 francs ;
+        – 3 % pour les prochains 50 000 francs ;
+        – 4 % pour les prochains 50 000 francs ;
+        – 5 % pour tous les autres montants.
+   2bis
+        Une déduction de 10 000 francs est accordée sur les prestations en capital versées à des personnes
+   mariées vivant en ménage commun ou à des contribuables veufs, séparés, divorcés ou célibataires qui
+   font ménage commun avec des enfants ou des personnes nécessiteuses et dont ils assurent pour l’es­
+   sentiel l’entretien.
+   3
+     Les déductions sociales prévues à l’article 36 ne sont pas autorisées.
+   4 Toutes les prestations en capital acquises pendant la même année civile sont additionnées. Les pres­
+
+   tations en capital dont le total annuel net est inférieur à 10 000 francs sont exonérées d’impôt.
+   5
+     Une déduction de 50 % est accordée sur la part de l’impôt afférent aux prestations en capital versées
+   pour perte de gain en cas d’invalidité.
+
+
+
+
+                                                                                                                    14
+Feuille cantonale Fribourg                                                                   Personnes physiques
+
+
+Progression à froid
+(Art. 40 LICD)
+
+Recueil Informations fiscales, E. Notions fiscales, Progression à froid
+
+
+   Compensation des effets de la progression à froid
+   Art. 40 LICD
+   1 Les effets de la progression à froid sur l'impôt frappant le revenu des personnes physiques doivent être
+
+   compensés périodiquement, mais au moins tous les trois ans, totalement ou partiellement, par une adap­
+   tation du barème et des déductions sociales.
+   2
+     Le Conseil d’Etat présente un rapport et des propositions au Grand Conseil au début de l’année civile
+   précédant une période fiscale, lorsque l’indice suisse des prix à la consommation a augmenté d’au moins
+   5 % depuis le 1er janvier qui précède l’entrée en vigueur de la présente loi ou depuis la dernière adap­
+   tation. Est déterminant l’indice en vigueur une année avant le début de la période fiscale.
+
+
+
+Impôt sur les gains immobiliers
+(Art. 41 à 51 LICD)
+
+Recueil Informations fiscales, D. Impôts divers, Imposition des gains immobiliers
+
+   Art. 1, al. 1, let. d LICD
+   1
+     L'Etat perçoit, conformément à la présente loi :
+   d. un impôt sur les gains immobiliers,
+
+
+Les particularités cantonales suivantes sont à relever :
+
+   Imposition des gains immobiliers, souveraineté fiscale et calcul de l’impôt sur les gains immobiliers
+
+
+   Objet
+   Art. 41 LICD
+   1
+     L'impôt sur les gains immobiliers a pour objet les gains réalisés:
+   a) lors de l'aliénation de tout ou partie d'un immeuble faisant partie de la fortune privée du contribuable;
+   b) lors de l'aliénation de tout ou partie d'un immeuble agricole ou sylvicole, à condition que le produit de
+        l'aliénation soit supérieur aux dépenses d'investissements;
+   c) lors de l'aliénation de tout ou partie d'un immeuble appartenant à l'une des personnes morales exo­
+        nérées selon l'article 97 al. 1 let. e à h et j.
+
+
+   Exonération
+   Art. 45 LICD
+   1
+     L'impôt sur les gains immobiliers n'est pas perçu lorsque l'aliénateur est une personne morale, à l'ex­
+   ception des cas visés par l'article 41 let. c.
+
+
+   Déduction des pertes
+   Art. 50 LICD
+   1 Le contribuable peut déduire des gains immobiliers réalisés au cours de l'année fiscale les pertes
+
+   subies en raison de l'aliénation d'immeubles au cours de la même année ou l'excédent éventuel de telles
+   pertes qui n'a pas pu être compensé l'année précédente.
+   2
+     Toutefois, ne peuvent être déduites que les pertes subies lors de transactions immobilières intervenues
+   dans le canton.
+   3
+     Les pertes se déterminent de la même manière que le gain.
+
+
+
+
+                                                                                                                  15
+Feuille cantonale Fribourg                                                                  Personnes physiques
+
+
+Calcul de l’impôt
+(Art. 51 LICD)
+   Art. 51 LICD
+   1
+     L'impôt sur le gain immobilier est perçu aux taux suivants.
+   a) 22 % pour une durée de propriété allant jusqu'à deux ans;
+   b) 20 % jusqu'à quatre ans;
+   c) 18 % jusqu'à six ans;
+   d) 16 % jusqu'à huit ans;
+   e) 14 % jusqu'à dix ans;
+   f) 12 % jusqu'à quinze ans;
+   g) 10 % plus de quinze ans.
+   Barème impôt sur le gain immobilier (Barème IGI)
+   2
+     Lorsque le total des gains réalisés sur des objets dont la durée de propriété a été inférieure à cinq ans
+   dépasse 400'000 francs durant une année civile, la part de l'impôt afférent au gain dépassant cette limite
+   est majorée de 40 %.
+   3 Les gains immobiliers inférieurs à 6000 francs pour l'ensemble des opérations immobilières faites au
+
+   cours de l'année civile ne sont pas imposés. Est déterminant pour le calcul de cette somme le bénéfice
+   global, quels que soient la forme sous laquelle s'exerçait la propriété de l'immeuble et le nombre de
+   bénéficiaire.
+   Calcul du gain imposable
+
+Service cantonal des contributions Fribourg > Impôt sur les gains immobilier
+
+
+
+Impôt sur la fortune
+(Art. 52 à 62a LICD)
+
+Recueil Informations fiscales, D. Impôts divers, Impôt sur la fortune des personnes physiques
+
+
+Objet de l’impôt sur la fortune
+(Art. 52 LICD)
+L’objet de l’impôt est constitué de la fortune nette. Celle-ci comprend toutes les valeurs et tous les droits
+appartenant au contribuable ou dont il est usufruitier, principalement la fortune mobilière et immobilière,
+les assurances-vie et de rentes susceptibles de rachats ainsi que la fortune investie dans l’exploitation
+d’une entreprise commerciale ou agricole.
+
+
+Estimation de la fortune
+(Art. 53 à 59a LICD)
+Selon la LHID et selon le droit fiscal cantonal les actifs doivent en principe être estimés à leur valeur
+vénale. D’autres estimations peuvent être appliquées notamment pour les assurances, les papiers-va­
+leurs ainsi que les immeubles. La fortune commerciale du contribuable est estimée à la valeur détermi­
+nante pour l’impôt sur le revenu.
+
+
+Les particularités cantonales suivantes sont à relever :
+
+   Fortune immobilière
+   Art. 54 LICD
+   1
+     Les immeubles non agricoles sont imposés à leur valeur fiscale. Celle-ci correspond à la valeur vénale
+   du terrain et de la construction, en tenant compte de façon appropriée de la valeur de rendement.
+   2
+     La valeur vénale correspond au prix de vente qui peut être réalisé dans des conditions normales,
+   exclusion faite de circonstances inhabituelles ou de situations personnelles.
+   3 La valeur de rendement correspond à la valeur locative annuelle capitalisée. Pour les immeubles mis
+
+   en location, la valeur de rendement se détermine sur la base de l’état locatif, à savoir le loyer net (sans
+   charges) des appartements, locaux ou autres parts d’immeuble.
+
+
+
+                                                                                                                 16
+Feuille cantonale Fribourg                                                                    Personnes physiques
+
+
+   Art. 55 LICD
+   Les immeubles affectés à l’agriculture ou à la sylviculture, y compris les bâtiments indispensables à
+   l’exploitation, sont estimés à leur valeur de rendement, tant que dure cette affectation.
+
+
+Détermination de la fortune imposable
+(Art. 60 et 61 LICD)
+La fortune nette résulte de la fortune brute dont les dettes ont été défalquées. Pour déterminer la fortune
+imposable il faut encore en déduire les déductions sociales. A cela s’ajoute un minimum imposable.
+
+   Déductions sociales
+   Art. 61, al. 1 et 2 LICD
+   1 Pour les personnes mariées vivant en ménage commun et les contribuables veufs, séparés, divorcés
+
+   ou célibataires qui font ménage commun avec des enfants ou des personnes nécessiteuses et dont ils
+   assurent pour l’essentiel l’entretien, il est déduit 105 000 francs lorsque la fortune nette n’excède pas
+   125 000 francs. Cette déduction est réduite de 20 000 francs pour chaque tranche de 35 000 francs de
+   fortune nette en plus.
+   2 Pour les personnes seules, il est déduit 55 000 francs lorsque la fortune nette totale n’excède pas
+
+   75 000 francs. Cette déduction est réduite de 10 000 francs pour chaque tranche de 25 000 francs de
+   fortune nette en plus.
+
+
+Calcul de l’impôt
+(Art. 62 LICD)
+   Art. 62 al. 1a, 2 et 3 LICD
+   1a
+       L'impôt sur la fortune est calculé d'après l'échelle suivante, laquelle fixe le taux selon la grandeur de
+   la fortune imposable.
+     a)         pour les 50'000 premiers francs de fortune:                                           0,5 ‰
+     b)         pour la tranche de fortune comprise entre 50'001 et 100'000 francs:                   1,1 ‰
+     c)         pour la tranche de fortune comprise entre 100'001 et 200'000 francs:                  1,8 ‰
+     d)         pour la tranche de fortune comprise entre 200'001 et 400'000 francs:                  2,5 ‰
+     e)         pour la tranche de fortune comprise entre 400'001 et 700'000 francs:                  3,1 ‰
+     f)         pour la tranche de fortune comprise entre 700'001 et 1'000'000 de francs:             3,5 ‰
+     g)         pour la tranche de fortune comprise entre 1'000'001 et 1'200'000 francs:              3,7 ‰
+     h)         pour les montants supérieurs à 1'200'000 francs:                                      2,9 ‰
+   2 Les fractions de fortune sont arrondies au millier inférieur.
+
+   3
+      Le taux d'impôt moyen déterminé conformément à l'alinéa 1a est réduit de 40 % pour la part de la
+   fortune privée afférant aux droits de participation du capital-actions ou du capital social d'une société de
+   capitaux ou d'une société coopérative suisse et dont les titres ne sont pas cotés en bourse ou régulière­
+   ment négociés hors bourse.
+
+
+Progression à froid
+(Art. 62a LICD)
+
+Recueil Informations fiscales, E. Notions fiscales, Progression à froid
+
+
+   Compensation des effets de la progression à froid
+   Art. 62a LICD
+   1
+     Les effets de la progression à froid sur l'impôt frappant la fortune des personnes physiques doivent être
+   compensés périodiquement, mais au moins tous les trois ans, totalement ou partiellement, par une adap­
+   tation du barème et des déductions sociales.
+   2 Le rapport et les propositions que le Conseil d’Etat doit présenter au Grand Conseil sur les effets de la
+
+   progression à froid sur l’impôt frappant le revenu des personnes physiques tiennent également compte
+   des effets en matière d’impôt sur la fortune.
+
+
+
+
+                                                                                                                   17
+Feuille cantonale Fribourg                                                                    Personnes physiques
+
+
+
+Imposition d'après la dépense
+(Art. 14 LICD; AID)
+
+
+Les particularités cantonales suivantes sont à relever :
+
+   Imposition d'après la dépense
+   Art. 14, al. 3 – 7 LICD:
+   3 L'impôt qui remplace l'impôt sur le revenu est calculé sur la base des dépenses annuelles du contri­
+
+   buable et des personnes dont il a la charge effectuées durant la période de calcul en Suisse et à l'étran­
+   ger pour assurer leur train de vie, mais au minimum d'après le plus élevé des montants suivants:
+   a) un montant fixé par le Conseil d'Etat;
+   b) pour les contribuables chefs de ménage: sept fois le loyer annuel ou la valeur locative fixée par les
+         autorités compétentes;
+   c) pour les autres contribuables: trois fois le prix de la pension annuelle pour le logement et la nourriture
+         au lieu du domicile au sens de l'article 3.
+   4 L'impôt sur la fortune est calculé sur une fortune qui représente au minimum quatre fois le montant fixé
+
+   selon l'alinéa 3.
+   5 L'impôt est perçu d'après les barèmes de l'impôt ordinaire.
+
+   6
+     Le montant de l'impôt d'après la dépense doit être au moins égal à la somme des impôts sur le revenu
+   et sur la fortune calculés selon le barème ordinaire sur le montant total des éléments bruts suivants:
+   a) la fortune immobilière sise en Suisse et son rendement;
+   b) les objets mobiliers se trouvant en Suisse et les revenus qu'ils produisent;
+   c) les capitaux mobiliers placés en Suisse, y compris les créances garanties par gage immobilier et les
+        revenus qu'ils produisent;
+   d) les droits d'auteur, brevets et droits analogues exploités en Suisse et les revenus qu'ils produisent;
+   e) les retraites, rentes et pensions de sources suisses;
+   f) les revenus pour lesquels le contribuable requiert un dégrèvement partiel ou total d'impôts étrangers
+        en application d'une convention contre les doubles impositions conclue par la Suisse.
+   7 Si les revenus provenant d'un Etat étranger y sont exonérés à la condition que la Suisse les impose,
+
+   seuls ou avec d'autres revenus, au taux du revenu total, l'impôt est calculé non seulement sur la base
+   des revenus mentionnés à l'alinéa 6, mais aussi de tous les éléments du revenu provenant de l'Etat-
+   source qui sont attribués à la Suisse en vertu de la convention correspondante contre les doubles impo­
+   sitions.
+   Art. 2 AID
+   1 L'imposition d'après la dépense est calculée selon les taux des barèmes généraux de l'impôt sur le
+
+   revenu et la fortune des personnes physiques, prévus aux articles 37* et 62** LICD.
+   2 Le seuil minimal de l'assiette de l'impôt selon l'article 14 al. 3 let. a LICD se monte à 250'000 francs.
+
+   *Compensation des effets de la progression à froid selon l'article 40, alinéa 1 LICD.
+   **Compensation des effets de la progression à froid selon l'article 62a, alinéa 1 LICD.
+Service cantonal des contributions Fribourg > Taxation selon la dépense
+
+
+
+Multiple annuel
+(Art. 2 LICD ; LCA2026)
+
+Recueil Informations fiscales, E. Notions fiscales, Taux et coefficients d’impôts
+
+   Art. 2 LICD
+   1
+     Le coefficient annuel des impôts cantonaux directs est fixé chaque année par le Grand Conseil, en
+   application des dispositions de la loi sur les finances de l’Etat.
+   2 Pour l’impôt sur les prestations en capital imposées séparément et l’impôt sur les gains immobiliers,
+
+   les taux prévus par la présente loi sont fixes.
+   Art. 1, al. 1 et 2 LCA2026
+   1
+     Le coefficient annuel des impôts sur le revenu des personnes physiques de la période fiscale 2026 est
+   fixé à 96 % des taux prévus à l'article 37 al. 1 LICD.
+   2 Le coefficient annuel des impôts sur la fortune des personnes physiques de la période fiscale 2026 est
+
+   fixé à 100% des taux prévus à l'article 62 LICD.
+
+
+
+                                                                                                                   18
+Feuille cantonale Fribourg                                                                Personnes physiques
+
+
+
+Allégements fiscaux
+(Art. 15 LICD)
+   Art. 15 LICD :
+   1
+     Des allégements fiscaux peuvent être accordés à des entreprises nouvellement créées qui servent les
+   intérêts économiques du canton sur les impôts sur le revenu et la fortune pour l'année de fondation de
+   l'entreprise et pour les neuf années suivantes. Une modification importante de l'activité de l'entreprise
+   est assimilée à une fondation nouvelle.
+   2
+     Le Conseil d'Etat statue définitivement sur les demandes d'allégements après consultation de la com­
+   mune.
+
+
+
+
+                                                                                                               19
+Feuille cantonale Fribourg                                                                       Personnes morales
+
+
+
+
+Imposition des personnes morales
+Recueil Informations fiscales, D. Impôts divers, Imposition des personnes morales
+
+   Art. 1, al. 1, let. b LICD
+   1 L'Etat perçoit, conformément à la présente loi :
+
+   b. un impôt sur le bénéfice et un impôt sur le capital des personnes morales ainsi qu'un impôt minimal
+       sur les recettes brutes des sociétés de capitaux et des sociétés coopératives,
+
+
+
+Impôt sur le bénéfice
+(Art. 99 à 109 LICD)
+
+
+Détermination du bénéfice net imposable
+(Art. 100 à 114 LICD)
+Pour la détermination du bénéfice net imposable, sont rajoutés au solde du compte de résultat les charges non
+justifiées par l’usage commercial, les produits et les bénéfices en capital, de liquidation et de réévaluation qui n’ont
+pas été portés au crédit de ce compte ainsi que les intérêts sur le capital propre dissimulé. Sont déduites les charges
+justifiées par l’usage commercial et les pertes éventuelles des sept exercices précédant la période fiscale.
+Les cotisations versées aux associations par leurs membres ne font pas partie du bénéfice imposable. Les dé­
+penses liées à l’acquisition des recettes imposables des associations peuvent être entièrement déduites de ces
+recettes. Les autres dépenses ne peuvent l’être que dans la mesure où elles excédent les cotisations des membres.
+Les apports à la fortune des fondations ne font pas partie du bénéfice imposable.
+
+Les placements collectifs qui possèdent des immeubles en propriété directe sont soumis à l’impôt sur le bénéfice
+pour le rendement de ces immeubles.
+
+
+Les particularités cantonales suivantes sont à relever :
+
+   Dons
+   Art. 101, al. 1, let. c LICD
+   1
+     Les charges justifiées par l'usage commercial comprennent également:
+   c) les dons en espèces et sous forme d'autres valeurs patrimoniales, jusqu'à concurrence de 20 % du
+       bénéfice net, en faveur de personnes morales qui ont leur siège en Suisse et sont exonérées de
+       l'impôt en raison de leurs buts de service public ou d'utilité publique ou en faveur de la Confédération,
+       des cantons, des communes et de leurs établissements. Dans des cas particuliers à intérêt public
+       prépondérant, le Conseil d'Etat peut autoriser une déduction plus élevée; il statue à titre définitif;
+
+
+   Déduction supplémentaire des dépenses de recherche et de développement
+   Art. 101a, al. 1 LICD
+   1 Sur demande, les dépenses de recherche et de développement que le contribuable a engagées en
+
+   Suisse, directement ou par l'intermédiaire de tiers, sont déductibles à hauteur d'un montant dépassant
+   de 50 % au plus les dépenses de recherche et de développement justifiées par l'usage commercial.
+
+
+   Brevets et droits comparables
+   Art. 103b, al. 1 et 3 LICD
+   1 Si le contribuable en fait la demande, le bénéfice net provenant de brevets et de droits comparables
+
+   est pris en compte dans le calcul du bénéfice net imposable en proportion des dépenses de recherche
+   et de développement éligibles par rapport aux dépenses totales de recherche et de développement par
+   brevet ou droit comparable (quotient Nexus) avec une réduction de 90 %.
+   3 Lorsque le bénéfice net provenant de brevets et de droits comparables est imposé pour la première
+
+   fois de façon réduite, les dépenses de recherche et de développement qui ont déjà été prises en compte
+   lors de périodes fiscales antérieures, ainsi qu'une éventuelle déduction au sens de l'article 101a, sont
+
+
+
+                                                                                                                     20
+Feuille cantonale Fribourg                                                                   Personnes morales
+
+
+   ajoutées au bénéfice net imposable. Une réserve latente imposée doit être constituée dans la mesure
+   du montant ajouté.
+
+
+   Limitation de la réduction fiscale
+   Art. 103e al. 1 LICD
+   1 La réduction fiscale totale fondée sur les articles 101a, 103a et 103b ne doit pas dépasser 20 % du
+
+   bénéfice imposable avant compensation des pertes, à l'exclusion du rendement net des participations
+   selon les articles 111 et 112 et avant déduction des réductions susdites.
+
+
+   Provision pour futurs mandats de recherche et de développement confiés à des tiers
+   Art. 105, al. 1, let. d LICD
+   1 Des provisions peuvent être constituées à la charge du compte de résultats pour:
+
+   d) les futurs mandats de recherche et de développement confiés à des tiers, jusqu'à 10 % au plus du
+   bénéfice imposable, mais au total jusqu'à 1 million de francs au maximum.
+
+
+   Provision pour remploi
+   Art. 106, al. 2 LICD
+   2 Lorsque le remploi n'intervient pas pendant le même exercice, une provision correspondant aux ré­
+
+   serves latentes peut être constituée. Cette provision doit être dissoute et utilisée pour l'amortissement
+   de l'élément acquis en remploi ou portée au crédit du compte de résultats dans un délai raisonnable.
+
+
+   Personnes morales poursuivant des buts idéaux
+   Art. 108a LICD
+   1 Sont exonérés de l'impôt les bénéfices des personnes morales qui poursuivent des buts idéaux, à
+
+   condition qu'ils n'excèdent pas 20'000 francs et qu'ils soient affectés exclusivement et irrévocablement
+   à ces buts.
+
+
+Calcul de l’impôt
+(Art. 110 à 114 LICD)
+
+
+   Sociétés de capitaux et coopératives
+   Art. 110 LICD
+   1 L'impôt sur le bénéfice des sociétés de capitaux et des sociétés coopératives est de 4 % du bénéfice
+
+   net.
+
+
+   Associations, fondations et autres personnes morales
+   Art. 113, al. 1, 3 et 4 LICD
+   1 L'impôt sur le bénéfice des associations, fondations et autres personnes morales est de 4 % du béné­
+
+   fice net.
+   3 Le bénéfice n'est pas imposé lorsqu'il n'atteint pas 5000 francs.
+
+   4 Le bénéfice qui a été réalisé lors de l'organisation occasionnelle d'une manifestation par une associa­
+
+   tion sportive ou culturelle à but idéal est imposé au taux de 1 %. En outre, un amortissement extraordi­
+   naire ou une provision pour amortissement extraordinaire peut être admis.
+
+
+   Placements collectifs de capitaux
+   Art. 114 LICD
+   1 L'impôt sur le bénéfice des placements collectifs qui possèdent des immeubles en propriété directe est
+
+   de 4 % du bénéfice net.
+
+
+
+
+                                                                                                               21
+Feuille cantonale Fribourg                                                                        Personnes morales
+
+
+
+Impôt sur le capital
+(Art. 115 à 122 LICD)
+L’impôt sur le capital a pour objet le capital propre. S’agissant tout d’abord des sociétés de capitaux et
+des sociétés coopératives, le capital propre imposable comprend le capital-actions ou le capital social
+libéré, les réserves ouvertes et les réserves latentes constituées au moyen de bénéfices imposés ainsi
+que le capital propre dissimulé.
+Le capital propre imposable pour les associations, les fondations et les autres personnes morales, com­
+prend la fortune nette déterminée conformément aux dispositions applicables aux personnes physiques.
+
+
+Les particularités cantonales suivantes sont à relever :
+
+   Personnes morales poursuivant des buts idéaux
+   Art. 120a LICD
+   1
+     Est exonéré de l'impôt le capital des personnes morales qui poursuivent des buts idéaux, à condition
+   qu'il n'excède pas 200'000 francs et qu'il soit affecté exclusivement et irrévocablement à ces buts.
+
+
+Calcul de l’impôt
+(Art. 121 et 122 LICD)
+
+
+   Sociétés de capitaux et coopératives
+   Art. 121, al. 1 et 3 LICD
+   1
+     L'impôt sur le capital est calculé au taux invariable de 1 ‰.
+   3
+     L'impôt sur le bénéfice dû par les sociétés de capitaux et les sociétés coopératives est imputé à l'impôt
+   sur le capital, au maximum jusqu'à concurrence de ce dernier.
+
+
+   Réduction d’impôt pour le capital propre afférent aux brevets et droits de participation
+   Art. 121, al. 2 LICD
+   2 Il est calculé au taux de 0,1 ‰ pour le capital propre afférent aux droits de participation visés aux
+
+   articles 111 et 112 et aux droits visés à l'article 103a ainsi qu'aux prêts consentis à des sociétés de
+   groupe.
+
+
+   Associations, fondations et autres personnes morales
+   Art. 122 LICD
+   1 L'impôt sur le capital des associations, fondations et autres personnes morales est calculé au taux
+
+   invariable de 1 ‰.
+   2 Le capital propre n'est pas imposé lorsqu'il n'atteint pas 100'000 francs.
+
+   3
+      L'impôt sur le bénéfice dû par les associations, fondations et autres personnes morales est imputé à
+   l'impôt sur le capital, au maximum jusqu'à concurrence de ce dernier.
+
+
+
+Impôt minimal
+(Art. 123 à 126 LICD)
+
+
+Les particularités cantonales suivantes sont à relever :
+
+   Impôt minimal
+   Art. 123 LICD
+   1 Les sociétés de capitaux et les sociétés coopératives qui exploitent une entreprise paient un impôt
+
+   minimal sur leurs recettes brutes, lorsqu'il est plus élevé que l'impôt ordinaire sur le bénéfice et le capital
+   (art. 90, 99ss et 115ss).
+
+
+
+
+                                                                                                                     23
+Feuille cantonale Fribourg                                                                       Personnes morales
+
+
+   Art. 126 LICD
+   1
+     L'impôt minimal se calcule au taux de 0,25 ‰ sur les recettes brutes provenant du commerce en gros
+   et des entreprises de fabrication et de 0,7 ‰ sur les autres recettes brutes.
+   2 Pour le calcul de l'impôt minimal, les recettes brutes n'interviennent que pour le montant dépassant
+
+   500'000 francs par an.
+
+
+   Sociétés nouvellement constituées
+   Art. 124, al. 1 LICD
+   1 Les sociétés nouvellement constituées qui ne résultent pas de transformations sont dispensées de
+
+   l'impôt minimal pendant l'année de fondation et les deux années suivantes.
+
+
+
+Disposition transitoire relative aux holdings et aux sociétés
+de domicile (2020 – 2024)
+(Art. 248e LICD)
+
+
+   Disposition transitoire relative à la modification du 13 décembre 2018
+   Art. 248e LICD
+   1 Pour les personnes morales qui ont été imposées sur la base des articles 127 et 128 de l'ancien droit,
+
+   les réserves latentes existant à la fin de cette imposition, y compris la plus-value créée par le contribuable
+   lui-même, doivent, lors de leur réalisation, être imposées séparément dans les cinq ans qui suivent, dans
+   la mesure où elles n'ont pas été imposables jusqu'alors. Elles sont imposées au taux de 4 %.
+   2 Le montant des réserves latentes que le contribuable fait valoir, y compris la plus-value créée par le
+
+   contribuable lui-même, est fixé par une décision de l'autorité de taxation.
+
+
+
+Multiple annuel
+(Art. 2 LICD ; LCA2026)
+
+Recueil Informations fiscales, E. Notions fiscales, Taux et coefficients d’impôts
+
+   Art. 2, al. 1 LICD
+   1
+     Le coefficient annuel des impôts cantonaux directs est fixé chaque année par le Grand Conseil, en
+   application des dispositions de la loi sur les finances de l’Etat.
+   Art. 1, al. 4 LCA2026
+   4 Le coefficient annuel des impôts sur le bénéfice et le capital des personnes morales et de l'impôt mini­
+
+   mal de la période fiscale 2026 est fixé à 100 % des taux prévus aux articles 110, 113, 114, 121, 122 et
+   126 LICD.
+
+
+
+Allégements fiscaux
+(Art. 98 LICD)
+
+
+   Allégement fiscaux
+   Art. 98 LICD
+   1
+     Des allégements fiscaux peuvent être accordés à des entreprises nouvellement créées qui servent les
+   intérêts économiques du canton sur les impôts sur le bénéfice et le capital pour l’année de fondation de
+   l’entreprise et pour les neuf années suivantes. Une modification importante de l’activité de l’entreprise
+   est assimilée à une fondation.
+   2
+     Le Conseil d’Etat statue définitivement sur les demandes d’allégements après consultation de la com­
+   mune.
+
+
+
+
+                                                                                                                    24
+Feuille cantonale Fribourg                                                                Communes et paroisses
+
+
+
+
+Impôts dans les communes et les paroisses
+Recueil Informations fiscales, E. Notions fiscales, Taux et coefficients d’impôts
+Recueil Informations fiscales, D. Impôts divers, Impôt sur les gains immobiliers
+Recueil Informations fiscales, D. Impôts divers, Impôt ecclésiastique
+
+
+
+Impôts sur le revenu et sur la fortune, impôts sur le bénéfice
+et le capital dans les communes
+(Art. 2 à 5 et 18 LICo ; art. 64 LFCo)
+
+   Art. 2, al. 7 LICo
+   7
+     Les allégements fiscaux accordés par le Conseil d'Etat aux entreprises nouvellement créées s'étendent
+   aux impôts communaux.
+   Art. 3, al. 1 et 3 LICo
+   1
+     Les impôts communaux ordinaires sont :
+   1. pour les personnes physiques :
+   a) l’impôt sur le revenu ;
+   b) l’impôt sur la fortune.
+   2. pour les personnes morales :
+   a) l’impôt sur le bénéfice ;
+   b) l’impôt sur le capital.
+   3
+     Le coefficient des impôts communaux ordinaires est fixé en pour-cent de l’impôt cantonal de base
+   correspondant.
+   Art. 4 LICo
+   1 Le coefficient de l’impôt sur le revenu et sur la fortune ne peut dépasser 100 % de l’impôt cantonal de
+
+   base.
+   2 Exceptionnellement, le Conseil d’Etat peut autoriser une commune à élever ce coefficient jusqu’à
+
+   125 %.
+   3
+     Les coefficients de l’impôt sur le revenu et sur la fortune ne peuvent être différents.
+   Art. 5 LICo
+   1
+     Le coefficient de l'impôt sur le bénéfice et sur le capital est fixé dans les limites de l'article 4 al. 1.
+   2
+     Les coefficients de l’impôt sur le bénéfice et sur le capital ne peuvent être différents.
+   Art. 64, al. 1 et 4 LFCo
+   1
+     La commune fixe les coefficients et taux d’impôts communaux selon ses besoins financiers et confor­
+   mément à la législation fiscale.
+   4
+     Toute modification de coefficient ou de taux d’impôt est communiquée au Service. Les compétences
+   et procédures en matière d'impôts communaux sont régies par la législation sur les finances commu­
+   nales.
+
+
+
+Impôt sur les gains immobiliers
+(Art. 18 LICo ; art. 64 LFCo)
+
+
+   Imposition des gains immobiliers, souveraineté fiscale et calcul de l’impôt sur les gains immobiliers
+   Art. 18 LICo
+   1
+     Les communes perçoivent des centimes additionnels à l'impôt sur les gains immobiliers à raison de 60
+   centimes par franc de l'impôt perçu par l'Etat.
+
+
+
+
+                                                                                                                   25
+Feuille cantonale Fribourg                                                            Communes et paroisses
+
+
+
+Impôts sur le revenu et la fortune ainsi qu’impôts sur le bé­
+néfice et le capital dans les paroisses
+(Art. 12, 15 et 16 LEE)
+   Art. 12, al. 1 LEE
+   1
+     Les paroisses peuvent prélever des impôts pour subvenir à l’accomplissement de leurs tâches et as­
+   sumer leurs obligations financières.
+   Art. 12a LEE
+   1
+     Les allégements fiscaux accordés par le Conseil d'Etat aux entreprises nouvellement créées s'étendent
+   aux impôts ecclésiastiques.
+   Art. 15, al. 1 LEE
+   1 Les impôts ecclésiastiques sont :
+
+   1. pour les personnes physiques :
+   a) l’impôt sur le revenu ;
+   b) l’impôt sur la fortune
+   2. pour les personnes morales:
+   a) l'impôt sur le bénéfice;
+   b) l'impôt sur le capital;
+   c) l'impôt minimal.
+   Art. 16 LEE
+   1 Le coefficient des impôts ecclésiastiques est fixé en pour-cent de l’impôt cantonal de base correspon­
+
+   dant.
+   2 Le coefficient des impôts ne peut dépasser :
+
+   a) 20 % de l’impôt cantonal de base, pour les personnes physiques.
+   b) 10% de l'impôt cantonal de base, pour les personnes morales.
+
+
+
+
+                                                                                                              26
+Feuille cantonale Fribourg               Contact Administration fiscale cantonale
+
+
+
+
+Contact Administration fiscale cantonale
+Service cantonal des contributions SCC
+Rue Joseph-Piller 13
+Case postale
+CH-1701 Fribourg
+
+Nous contacter
+
+Tel. +41 26 305 33 00
+https://www.fr.ch/scc
+
+
+
+
+                                                                               27
+

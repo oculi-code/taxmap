@@ -1,0 +1,17 @@
+[
+  {
+    "bfsNumber": 1632,
+    "name": "Glarus",
+    "municipalMultiplierPercent": 61
+  },
+  {
+    "bfsNumber": 1630,
+    "name": "Glarus Nord",
+    "municipalMultiplierPercent": 63
+  },
+  {
+    "bfsNumber": 1631,
+    "name": "Glarus Süd",
+    "municipalMultiplierPercent": 63
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "bfsNumber": 1701,
+    "name": "Baar",
+    "district": null,
+    "municipalMultiplier": 47.53,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 6,
+    "churchMultiplierCatholic": 6.65
+  },
+  {
+    "bfsNumber": 1702,
+    "name": "Cham",
+    "district": null,
+    "municipalMultiplier": 54,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 6,
+    "churchMultiplierCatholic": 8.1
+  },
+  {
+    "bfsNumber": 1703,
+    "name": "Hünenberg",
+    "district": null,
+    "municipalMultiplier": 53,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 6,
+    "churchMultiplierCatholic": 8.1
+  },
+  {
+    "bfsNumber": 1704,
+    "name": "Menzingen",
+    "district": null,
+    "municipalMultiplier": 55,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 6,
+    "churchMultiplierCatholic": 9
+  },
+  {
+    "bfsNumber": 1705,
+    "name": "Neuheim",
+    "district": null,
+    "municipalMultiplier": 59,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 6,
+    "churchMultiplierCatholic": 9
+  },
+  {
+    "bfsNumber": 1706,
+    "name": "Oberägeri",
+    "district": null,
+    "municipalMultiplier": 54,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 6,
+    "churchMultiplierCatholic": 9
+  },
+  {
+    "bfsNumber": 1707,
+    "name": "Risch",
+    "district": null,
+    "municipalMultiplier": 54,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 6,
+    "churchMultiplierCatholic": 8
+  },
+  {
+    "bfsNumber": 1708,
+    "name": "Steinhausen",
+    "district": null,
+    "municipalMultiplier": 53,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 6,
+    "churchMultiplierCatholic": 9
+  },
+  {
+    "bfsNumber": 1709,
+    "name": "Unterägeri",
+    "district": null,
+    "municipalMultiplier": 53,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 6,
+    "churchMultiplierCatholic": 7.5
+  },
+  {
+    "bfsNumber": 1710,
+    "name": "Walchwil",
+    "district": null,
+    "municipalMultiplier": 51,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 6,
+    "churchMultiplierCatholic": 11
+  },
+  {
+    "bfsNumber": 1711,
+    "name": "Zug",
+    "district": null,
+    "municipalMultiplier": 52,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 6,
+    "churchMultiplierCatholic": 5.95
+  }
+]

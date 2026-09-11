@@ -1,0 +1,35 @@
+{
+  "canton": "UR",
+  "year": 2026,
+  "source": {
+    "incomeTax": "https://www.ur.ch/dienstleistungen/3196",
+    "wealthTax": "https://www.ur.ch/dienstleistungen/3196",
+    "multiplier": "https://www.ur.ch/dienstleistungen/3196",
+    "municipalData": "https://www.ur.ch/dienstleistungen/3196"
+  },
+  "incomeTaxBrackets": {
+    "single": [
+      { "from": 0, "rate": 0.071 }
+    ],
+    "married": [
+      { "from": 0, "rate": 0.071 }
+    ]
+  },
+  "wealthTaxBrackets": {
+    "general": [
+      { "from": 0, "rate": 0.001 }
+    ]
+  },
+  "wealthTaxRateUnit": "decimal",
+  "cantonalMultiplier": {
+    "value": 100,
+    "unit": "percent",
+    "appliedOnTop": true
+  },
+  "churchTax": {
+    "variesByMunicipality": true,
+    "reformed": 115,
+    "catholic": null
+  },
+  "notes": "YEAR CHOICE: Used 2026. The document 'UR_steuersaetze_2026.pdf' (official Steuerfuss table, downloaded from ur.ch/dienstleistungen/3196) and the ESTV Kantonsblatt Uri (Stand Februar 2026, updated 30.03.2026) are both already in force for the 2026 tax period, so 2026 was used throughout. A 2025 table (UR_steuersaetze_2025.pdf) was also retained for comparison; only Seedorf's and Spiringen's municipal Steuerfuss changed between 2025 and 2026 (Seedorf 90->95, Spiringen 110->105), everything else identical. MAJOR QUIRK -- URI USES A GENUINE FLAT-RATE (NOT PROGRESSIVE-BRACKET) SYSTEM FOR BOTH INCOME AND WEALTH TAX, at all three layers (canton, municipality, church): Art. 42 Abs. 1 Bst. a StG states the 'einfache Steuer' for the canton is simply '7,1 Prozent des steuerbaren Einkommens' -- a single flat percentage with NO brackets/no marginal-rate schedule at all (confirmed directly in the ESTV Kantonsblatt text, which lists no tariff table because there isn't one). Art. 57 Bst. a StG likewise sets the cantonal wealth tax 'einfache Steuer' flat at '1,0 Promille des steuerbaren Vermögens'. This is consistent with Uri's tax-law reform (~2023) that replaced the former progressive bracket tariff with a flat rate. Progressivity/family relief is instead achieved ENTIRELY through fixed-CHF deductions (Sozialabzuege), not through a bracket schedule or a splitting divisor: couples get a flat CHF 26'900 'Abzug fuer Verheiratete' plus a higher basic exemption baseline, vs CHF 15'300 for single filers (Art. 41 Abs. 1 Bst. e/g StG); for wealth tax, couples deduct CHF 211'700 vs CHF 105'800 for others, plus CHF 31'800 per child (Art. 56 Abs. 1 StG). Because the marginal RATE itself never changes with income or marital status, the 'married' bracket array above is identical to 'single' (both are the single-entry [{from:0, rate:0.071}] array the task spec calls for when a canton is flat-rate) -- the real difference between single and married taxpayers lives entirely in the (much larger, not modeled in these bracket files) deduction amounts, which a developer must apply to compute taxable income/wealth BEFORE running it through this flat rate. SECOND LAYER SURPRISE: not just the canton but the MUNICIPALITIES and CHURCH PARISHES also use the SAME flat-rate mechanism, just with their own distinct base ('einfache Steuer') rates before their own Steuerfuss multiplier: Art. 1389/1390 area of the Kantonsblatt (municipal section) sets the municipal 'einfache Steuer' at a flat 7,1% of income / 1,0 permille of wealth (i.e. IDENTICAL base rate to the canton), and the church 'einfache Steuer' at a flat 1% of income / 0,3 permille of wealth. Each of the three layers (Kanton, Einwohnergemeinde, Kirchgemeinde) then multiplies ITS OWN einfache Steuer by its OWN annually-set Steuerfuss percentage (Art. 2 StG: 'Der Steuerbetrag wird errechnet, indem die einfache Steuer mit dem festgelegten Steuerfuss vervielfacht wird'). For 2026 the CANTONAL Steuerfuss is fixed at 100% for every municipality (i.e. cantonal tax = exactly the 7,1%/1,0 permille einfache Steuer, no cantonal markup currently applied, though Art. 2 Abs. 4 StG allows the Landrat to change it, subject to mandatory referendum if raised to >=110%). Municipal Steuerfuss for 2026 ranges from 91% (Schattdorf) to 117% (Isenthal); church (Kirchgemeinde) Steuerfuss for 2026 ranges from 82% (Altdorf) to 150% (Isenthal, Seelisberg). CHURCH TAX STRUCTURE -- ANOTHER QUIRK: the per-municipality 'Kirchgemeinde' Steuerfuss column in the official table represents the ROMAN CATHOLIC parish rate (UR is historically overwhelmingly Catholic and, in most municipalities, the Roman Catholic Kirchgemeinde boundaries coincide with the political Einwohnergemeinde boundaries -- hence one row per municipality). The Evangelisch-reformierte ('Reformed') church, by contrast, is organized as a SINGLE canton-wide 'Evangelisch-reformierte Landeskirche Uri' with ONE common Steuerfuss for the whole canton (115% for 2026, stored as churchTax.reformed above) -- EXCEPT for four sub-municipal historical exception districts that are administratively fractions of larger municipalities but retain their own distinct Reformed parish rate: Wyler (133%, part of Gurtnellen), Bauen (100%, part of Seedorf), Amsteg (140%, part of Silenen), and Bristen (178%, part of Silenen). These four exceptions are BELOW the BFS-municipality granularity the output schema supports and are therefore NOT represented in UR_municipalities.json (which uses churchMultiplierReformed=115 uniformly) -- flagged here explicitly since a resident of e.g. Bristen actually pays a materially different (178% vs 115%) Reformed church rate than the canton-wide figure implies. Uri also levies a small fixed per-capita 'Kopfsteuer' (head tax) alongside the ordinary system: CHF 70 (canton) + CHF 30 (church, Catholic/Reformed only) = CHF 100 total for Catholic/Reformed taxpayers, or CHF 70 only (no church share) for taxpayers of other/no confession -- this is a flat CHF amount, not modeled in the bracket JSON, but a developer computing a full tax bill should account for it as a floor/addition. SPECIAL SCHEDULE FOR LUMP-SUM PENSION PAYOUTS (Kapitalleistungen aus Vorsorge, Art. 45 StG): taxed separately from ordinary income at DIFFERENT flat rates -- 1,9% cantonal, 1,9% municipal, 0,5% church (not the ordinary 7,1%/1% rates), with no Sozialabzuege granted -- not represented in the bracket JSON above (which covers only ordinary income) but worth noting for a developer building a full calculator. MONOTONICITY: trivially satisfied since the schedule is a single flat rate from CHF 0 (tax is exactly proportional to taxable base after deductions)."
+}

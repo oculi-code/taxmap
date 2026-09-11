@@ -1,0 +1,1442 @@
+[
+  {
+    "bfsNumber": 1,
+    "name": "Aeugst a.A.",
+    "district": null,
+    "municipalMultiplier": 92,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 2,
+    "name": "Affoltern a.A.",
+    "district": null,
+    "municipalMultiplier": 122,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 3,
+    "name": "Bonstetten",
+    "district": null,
+    "municipalMultiplier": 106,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 11
+  },
+  {
+    "bfsNumber": 4,
+    "name": "Hausen a.A.",
+    "district": null,
+    "municipalMultiplier": 112,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 14
+  },
+  {
+    "bfsNumber": 5,
+    "name": "Hedingen",
+    "district": null,
+    "municipalMultiplier": 100,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 6,
+    "name": "Kappel a.A.",
+    "district": null,
+    "municipalMultiplier": 102,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 14
+  },
+  {
+    "bfsNumber": 7,
+    "name": "Knonau",
+    "district": null,
+    "municipalMultiplier": 116,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 14
+  },
+  {
+    "bfsNumber": 8,
+    "name": "Maschwanden",
+    "district": null,
+    "municipalMultiplier": 128,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 14
+  },
+  {
+    "bfsNumber": 9,
+    "name": "Mettmenstetten",
+    "district": null,
+    "municipalMultiplier": 98,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 14
+  },
+  {
+    "bfsNumber": 10,
+    "name": "Obfelden",
+    "district": null,
+    "municipalMultiplier": 118,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 11,
+    "name": "Ottenbach",
+    "district": null,
+    "municipalMultiplier": 115,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 12,
+    "name": "Rifferswil",
+    "district": null,
+    "municipalMultiplier": 120,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 14
+  },
+  {
+    "bfsNumber": 13,
+    "name": "Stallikon",
+    "district": null,
+    "municipalMultiplier": 101,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 11,
+    "churchMultiplierCatholic": 11
+  },
+  {
+    "bfsNumber": 14,
+    "name": "Wettswil a.A.",
+    "district": null,
+    "municipalMultiplier": 89,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 11,
+    "churchMultiplierCatholic": 11
+  },
+  {
+    "bfsNumber": 22,
+    "name": "Benken",
+    "district": null,
+    "municipalMultiplier": 110,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 14
+  },
+  {
+    "bfsNumber": 23,
+    "name": "Berg a.I.",
+    "district": null,
+    "municipalMultiplier": 98,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 24,
+    "name": "Buch a.I.",
+    "district": null,
+    "municipalMultiplier": 106,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 25,
+    "name": "Dachsen",
+    "district": null,
+    "municipalMultiplier": 111,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 14
+  },
+  {
+    "bfsNumber": 26,
+    "name": "Dorf",
+    "district": null,
+    "municipalMultiplier": 99,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 27,
+    "name": "Feuerthalen",
+    "district": null,
+    "municipalMultiplier": 114,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 14
+  },
+  {
+    "bfsNumber": 28,
+    "name": "Flaach",
+    "district": null,
+    "municipalMultiplier": 107,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 29,
+    "name": "Flurlingen",
+    "district": null,
+    "municipalMultiplier": 111,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 14
+  },
+  {
+    "bfsNumber": 31,
+    "name": "Henggart",
+    "district": null,
+    "municipalMultiplier": 111,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 33,
+    "name": "Kleinandelfingen",
+    "district": null,
+    "municipalMultiplier": 118,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 14
+  },
+  {
+    "bfsNumber": 34,
+    "name": "Laufen-Uhwiesen",
+    "district": null,
+    "municipalMultiplier": 104,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 14
+  },
+  {
+    "bfsNumber": 35,
+    "name": "Marthalen",
+    "district": null,
+    "municipalMultiplier": 107,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 14
+  },
+  {
+    "bfsNumber": 37,
+    "name": "Ossingen",
+    "district": null,
+    "municipalMultiplier": 113,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 14
+  },
+  {
+    "bfsNumber": 38,
+    "name": "Rheinau",
+    "district": null,
+    "municipalMultiplier": 112,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 14
+  },
+  {
+    "bfsNumber": 39,
+    "name": "Thalheim a.d.Th.",
+    "district": null,
+    "municipalMultiplier": 117,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 12
+  },
+  {
+    "bfsNumber": 40,
+    "name": "Trüllikon",
+    "district": null,
+    "municipalMultiplier": 110,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 14
+  },
+  {
+    "bfsNumber": 41,
+    "name": "Truttikon",
+    "district": null,
+    "municipalMultiplier": 107,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 14
+  },
+  {
+    "bfsNumber": 43,
+    "name": "Volken",
+    "district": null,
+    "municipalMultiplier": 111,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 51,
+    "name": "Bachenbülach",
+    "district": null,
+    "municipalMultiplier": 106,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 10,
+    "churchMultiplierCatholic": 11
+  },
+  {
+    "bfsNumber": 52,
+    "name": "Bassersdorf",
+    "district": null,
+    "municipalMultiplier": 114,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 9
+  },
+  {
+    "bfsNumber": 53,
+    "name": "Bülach",
+    "district": null,
+    "municipalMultiplier": 114,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 10,
+    "churchMultiplierCatholic": 11
+  },
+  {
+    "bfsNumber": 54,
+    "name": "Dietlikon",
+    "district": null,
+    "municipalMultiplier": 105,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 11,
+    "churchMultiplierCatholic": 8
+  },
+  {
+    "bfsNumber": 55,
+    "name": "Eglisau",
+    "district": null,
+    "municipalMultiplier": 113,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 13,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 56,
+    "name": "Embrach",
+    "district": null,
+    "municipalMultiplier": 112,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 57,
+    "name": "Freienstein-Teufen",
+    "district": null,
+    "municipalMultiplier": 99,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 58,
+    "name": "Glattfelden",
+    "district": null,
+    "municipalMultiplier": 120,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 59,
+    "name": "Hochfelden",
+    "district": null,
+    "municipalMultiplier": 116,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 10,
+    "churchMultiplierCatholic": 11
+  },
+  {
+    "bfsNumber": 60,
+    "name": "Höri",
+    "district": null,
+    "municipalMultiplier": 110,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 10,
+    "churchMultiplierCatholic": 11
+  },
+  {
+    "bfsNumber": 61,
+    "name": "Hüntwangen",
+    "district": null,
+    "municipalMultiplier": 108,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 62,
+    "name": "Kloten",
+    "district": null,
+    "municipalMultiplier": 100,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 9,
+    "churchMultiplierCatholic": 9
+  },
+  {
+    "bfsNumber": 63,
+    "name": "Lufingen",
+    "district": null,
+    "municipalMultiplier": 97,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 64,
+    "name": "Nürensdorf",
+    "district": null,
+    "municipalMultiplier": 90,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 9
+  },
+  {
+    "bfsNumber": 65,
+    "name": "Oberembrach",
+    "district": null,
+    "municipalMultiplier": 117,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 66,
+    "name": "Opfikon",
+    "district": null,
+    "municipalMultiplier": 94,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 8,
+    "churchMultiplierCatholic": 7
+  },
+  {
+    "bfsNumber": 67,
+    "name": "Rafz",
+    "district": null,
+    "municipalMultiplier": 113,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 68,
+    "name": "Rorbas",
+    "district": null,
+    "municipalMultiplier": 103,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 69,
+    "name": "Wallisellen",
+    "district": null,
+    "municipalMultiplier": 93,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 7,
+    "churchMultiplierCatholic": 8
+  },
+  {
+    "bfsNumber": 70,
+    "name": "Wasterkingen",
+    "district": null,
+    "municipalMultiplier": 116,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 71,
+    "name": "Wil",
+    "district": null,
+    "municipalMultiplier": 97,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 72,
+    "name": "Winkel",
+    "district": null,
+    "municipalMultiplier": 76,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 10,
+    "churchMultiplierCatholic": 11
+  },
+  {
+    "bfsNumber": 81,
+    "name": "Bachs",
+    "district": null,
+    "municipalMultiplier": 128,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 10
+  },
+  {
+    "bfsNumber": 82,
+    "name": "Boppelsen",
+    "district": null,
+    "municipalMultiplier": 94,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 13,
+    "churchMultiplierCatholic": 10
+  },
+  {
+    "bfsNumber": 83,
+    "name": "Buchs",
+    "district": null,
+    "municipalMultiplier": 105,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 11,
+    "churchMultiplierCatholic": 10
+  },
+  {
+    "bfsNumber": 84,
+    "name": "Dällikon",
+    "district": null,
+    "municipalMultiplier": 107,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 11,
+    "churchMultiplierCatholic": 10
+  },
+  {
+    "bfsNumber": 85,
+    "name": "Dänikon",
+    "district": null,
+    "municipalMultiplier": 120,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 11,
+    "churchMultiplierCatholic": 10
+  },
+  {
+    "bfsNumber": 86,
+    "name": "Dielsdorf",
+    "district": null,
+    "municipalMultiplier": 105,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 10
+  },
+  {
+    "bfsNumber": 87,
+    "name": "Hüttikon",
+    "district": null,
+    "municipalMultiplier": 113,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 13,
+    "churchMultiplierCatholic": 10
+  },
+  {
+    "bfsNumber": 88,
+    "name": "Neerach",
+    "district": null,
+    "municipalMultiplier": 77,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 10
+  },
+  {
+    "bfsNumber": 89,
+    "name": "Niederglatt",
+    "district": null,
+    "municipalMultiplier": 106,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 13,
+    "churchMultiplierCatholic": 10
+  },
+  {
+    "bfsNumber": 90,
+    "name": "Niederhasli",
+    "district": null,
+    "municipalMultiplier": 112,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 13,
+    "churchMultiplierCatholic": 10
+  },
+  {
+    "bfsNumber": 91,
+    "name": "Niederweningen",
+    "district": null,
+    "municipalMultiplier": 100,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 10,
+    "churchMultiplierCatholic": 10
+  },
+  {
+    "bfsNumber": 92,
+    "name": "Oberglatt",
+    "district": null,
+    "municipalMultiplier": 119,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 13,
+    "churchMultiplierCatholic": 10
+  },
+  {
+    "bfsNumber": 93,
+    "name": "Oberweningen",
+    "district": null,
+    "municipalMultiplier": 94,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 10,
+    "churchMultiplierCatholic": 10
+  },
+  {
+    "bfsNumber": 94,
+    "name": "Otelfingen",
+    "district": null,
+    "municipalMultiplier": 108,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 13,
+    "churchMultiplierCatholic": 10
+  },
+  {
+    "bfsNumber": 95,
+    "name": "Regensberg",
+    "district": null,
+    "municipalMultiplier": 115,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 10
+  },
+  {
+    "bfsNumber": 96,
+    "name": "Regensdorf",
+    "district": null,
+    "municipalMultiplier": 117,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 11,
+    "churchMultiplierCatholic": 10
+  },
+  {
+    "bfsNumber": 97,
+    "name": "Rümlang",
+    "district": null,
+    "municipalMultiplier": 113,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 14
+  },
+  {
+    "bfsNumber": 98,
+    "name": "Schleinikon",
+    "district": null,
+    "municipalMultiplier": 106,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 10,
+    "churchMultiplierCatholic": 10
+  },
+  {
+    "bfsNumber": 99,
+    "name": "Schöfflisdorf",
+    "district": null,
+    "municipalMultiplier": 94,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 10,
+    "churchMultiplierCatholic": 10
+  },
+  {
+    "bfsNumber": 100,
+    "name": "Stadel",
+    "district": null,
+    "municipalMultiplier": 111,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 101,
+    "name": "Steinmaur",
+    "district": null,
+    "municipalMultiplier": 108,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 10
+  },
+  {
+    "bfsNumber": 102,
+    "name": "Weiach",
+    "district": null,
+    "municipalMultiplier": 96,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 11,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 111,
+    "name": "Bäretswil",
+    "district": null,
+    "municipalMultiplier": 104,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 112,
+    "name": "Bubikon",
+    "district": null,
+    "municipalMultiplier": 118,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 113,
+    "name": "Dürnten",
+    "district": null,
+    "municipalMultiplier": 113,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 114,
+    "name": "Fischenthal",
+    "district": null,
+    "municipalMultiplier": 122,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 115,
+    "name": "Gossau",
+    "district": null,
+    "municipalMultiplier": 117,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 14
+  },
+  {
+    "bfsNumber": 116,
+    "name": "Grüningen",
+    "district": null,
+    "municipalMultiplier": 116,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 117,
+    "name": "Hinwil",
+    "district": null,
+    "municipalMultiplier": 116,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 16
+  },
+  {
+    "bfsNumber": 118,
+    "name": "Rüti",
+    "district": null,
+    "municipalMultiplier": 119,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 119,
+    "name": "Seegräben",
+    "district": null,
+    "municipalMultiplier": 111,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 14
+  },
+  {
+    "bfsNumber": 120,
+    "name": "Wald",
+    "district": null,
+    "municipalMultiplier": 122,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 12
+  },
+  {
+    "bfsNumber": 121,
+    "name": "Wetzikon",
+    "district": null,
+    "municipalMultiplier": 119,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 14
+  },
+  {
+    "bfsNumber": 131,
+    "name": "Adliswil",
+    "district": null,
+    "municipalMultiplier": 104,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 11,
+    "churchMultiplierCatholic": 11
+  },
+  {
+    "bfsNumber": 135,
+    "name": "Kilchberg",
+    "district": null,
+    "municipalMultiplier": 72,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 8,
+    "churchMultiplierCatholic": 6
+  },
+  {
+    "bfsNumber": 136,
+    "name": "Langnau a.A.",
+    "district": null,
+    "municipalMultiplier": 106,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 11,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 137,
+    "name": "Oberrieden",
+    "district": null,
+    "municipalMultiplier": 84,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 11
+  },
+  {
+    "bfsNumber": 138,
+    "name": "Richterswil",
+    "district": null,
+    "municipalMultiplier": 99,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 14
+  },
+  {
+    "bfsNumber": 139,
+    "name": "Rüschlikon",
+    "district": null,
+    "municipalMultiplier": 75,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 10,
+    "churchMultiplierCatholic": 10
+  },
+  {
+    "bfsNumber": 141,
+    "name": "Thalwil",
+    "district": null,
+    "municipalMultiplier": 78,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 11,
+    "churchMultiplierCatholic": 10
+  },
+  {
+    "bfsNumber": 151,
+    "name": "Erlenbach",
+    "district": null,
+    "municipalMultiplier": 76,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 8,
+    "churchMultiplierCatholic": 7
+  },
+  {
+    "bfsNumber": 152,
+    "name": "Herrliberg",
+    "district": null,
+    "municipalMultiplier": 73,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 9,
+    "churchMultiplierCatholic": 8
+  },
+  {
+    "bfsNumber": 153,
+    "name": "Hombrechtikon",
+    "district": null,
+    "municipalMultiplier": 113,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 11,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 154,
+    "name": "Küsnacht",
+    "district": null,
+    "municipalMultiplier": 73,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 7,
+    "churchMultiplierCatholic": 7
+  },
+  {
+    "bfsNumber": 155,
+    "name": "Männedorf",
+    "district": null,
+    "municipalMultiplier": 87,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 11,
+    "churchMultiplierCatholic": 11
+  },
+  {
+    "bfsNumber": 156,
+    "name": "Meilen",
+    "district": null,
+    "municipalMultiplier": 79,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 9,
+    "churchMultiplierCatholic": 7
+  },
+  {
+    "bfsNumber": 157,
+    "name": "Oetwil a.S.",
+    "district": null,
+    "municipalMultiplier": 114,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 9
+  },
+  {
+    "bfsNumber": 158,
+    "name": "Stäfa",
+    "district": null,
+    "municipalMultiplier": 83,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 11,
+    "churchMultiplierCatholic": 11
+  },
+  {
+    "bfsNumber": 159,
+    "name": "Uetikon a.S.",
+    "district": null,
+    "municipalMultiplier": 84,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 11,
+    "churchMultiplierCatholic": 11
+  },
+  {
+    "bfsNumber": 160,
+    "name": "Zumikon",
+    "district": null,
+    "municipalMultiplier": 71,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 8,
+    "churchMultiplierCatholic": 8
+  },
+  {
+    "bfsNumber": 161,
+    "name": "Zollikon",
+    "district": null,
+    "municipalMultiplier": 76,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 8,
+    "churchMultiplierCatholic": 8
+  },
+  {
+    "bfsNumber": 172,
+    "name": "Fehraltorf",
+    "district": null,
+    "municipalMultiplier": 111,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 13,
+    "churchMultiplierCatholic": 11
+  },
+  {
+    "bfsNumber": 173,
+    "name": "Hittnau",
+    "district": null,
+    "municipalMultiplier": 113,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 13,
+    "churchMultiplierCatholic": 11
+  },
+  {
+    "bfsNumber": 176,
+    "name": "Lindau",
+    "district": null,
+    "municipalMultiplier": 106,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 177,
+    "name": "Pfäffikon",
+    "district": null,
+    "municipalMultiplier": 110,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 11
+  },
+  {
+    "bfsNumber": 178,
+    "name": "Russikon",
+    "district": null,
+    "municipalMultiplier": 113,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 11
+  },
+  {
+    "bfsNumber": 180,
+    "name": "Weisslingen",
+    "district": null,
+    "municipalMultiplier": 116,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 13,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 181,
+    "name": "Wila",
+    "district": null,
+    "municipalMultiplier": 122,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 182,
+    "name": "Wildberg",
+    "district": null,
+    "municipalMultiplier": 124,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 191,
+    "name": "Dübendorf",
+    "district": null,
+    "municipalMultiplier": 92,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 11,
+    "churchMultiplierCatholic": 11
+  },
+  {
+    "bfsNumber": 192,
+    "name": "Egg",
+    "district": null,
+    "municipalMultiplier": 101,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 9
+  },
+  {
+    "bfsNumber": 193,
+    "name": "Fällanden",
+    "district": null,
+    "municipalMultiplier": 99,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 11,
+    "churchMultiplierCatholic": 11
+  },
+  {
+    "bfsNumber": 194,
+    "name": "Greifensee",
+    "district": null,
+    "municipalMultiplier": 101,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 11,
+    "churchMultiplierCatholic": 10
+  },
+  {
+    "bfsNumber": 195,
+    "name": "Maur",
+    "district": null,
+    "municipalMultiplier": 81,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 9,
+    "churchMultiplierCatholic": 9
+  },
+  {
+    "bfsNumber": 196,
+    "name": "Mönchaltorf",
+    "district": null,
+    "municipalMultiplier": 108,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 13,
+    "churchMultiplierCatholic": 9
+  },
+  {
+    "bfsNumber": 197,
+    "name": "Schwerzenbach",
+    "district": null,
+    "municipalMultiplier": 103,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 11,
+    "churchMultiplierCatholic": 11
+  },
+  {
+    "bfsNumber": 198,
+    "name": "Uster",
+    "district": null,
+    "municipalMultiplier": 112,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 11,
+    "churchMultiplierCatholic": 10
+  },
+  {
+    "bfsNumber": 199,
+    "name": "Volketswil",
+    "district": null,
+    "municipalMultiplier": 101,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 10,
+    "churchMultiplierCatholic": 10
+  },
+  {
+    "bfsNumber": 200,
+    "name": "Wangen-Brüttisellen",
+    "district": null,
+    "municipalMultiplier": 101,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 11,
+    "churchMultiplierCatholic": 8
+  },
+  {
+    "bfsNumber": 211,
+    "name": "Altikon",
+    "district": null,
+    "municipalMultiplier": 114,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 12
+  },
+  {
+    "bfsNumber": 213,
+    "name": "Brütten",
+    "district": null,
+    "municipalMultiplier": 85,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 214,
+    "name": "Dägerlen",
+    "district": null,
+    "municipalMultiplier": 106,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 12
+  },
+  {
+    "bfsNumber": 215,
+    "name": "Dättlikon",
+    "district": null,
+    "municipalMultiplier": 112,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 216,
+    "name": "Dinhard",
+    "district": null,
+    "municipalMultiplier": 90,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 12
+  },
+  {
+    "bfsNumber": 218,
+    "name": "Ellikon a.d.Th.",
+    "district": null,
+    "municipalMultiplier": 117,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 12
+  },
+  {
+    "bfsNumber": 219,
+    "name": "Elsau",
+    "district": null,
+    "municipalMultiplier": 117,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 12
+  },
+  {
+    "bfsNumber": 220,
+    "name": "Hagenbuch",
+    "district": null,
+    "municipalMultiplier": 121,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 14
+  },
+  {
+    "bfsNumber": 221,
+    "name": "Hettlingen",
+    "district": null,
+    "municipalMultiplier": 97,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 13,
+    "churchMultiplierCatholic": 12
+  },
+  {
+    "bfsNumber": 223,
+    "name": "Neftenbach",
+    "district": null,
+    "municipalMultiplier": 98,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 10,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 224,
+    "name": "Pfungen",
+    "district": null,
+    "municipalMultiplier": 112,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 225,
+    "name": "Rickenbach",
+    "district": null,
+    "municipalMultiplier": 112,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 12
+  },
+  {
+    "bfsNumber": 226,
+    "name": "Schlatt",
+    "district": null,
+    "municipalMultiplier": 123,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 12
+  },
+  {
+    "bfsNumber": 227,
+    "name": "Seuzach",
+    "district": null,
+    "municipalMultiplier": 100,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 12
+  },
+  {
+    "bfsNumber": 228,
+    "name": "Turbenthal",
+    "district": null,
+    "municipalMultiplier": 122,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 230,
+    "name": "Winterthur",
+    "district": null,
+    "municipalMultiplier": 125,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 13,
+    "churchMultiplierCatholic": 17
+  },
+  {
+    "bfsNumber": 231,
+    "name": "Zell",
+    "district": null,
+    "municipalMultiplier": 115,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 12
+  },
+  {
+    "bfsNumber": 241,
+    "name": "Aesch",
+    "district": null,
+    "municipalMultiplier": 91,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 11,
+    "churchMultiplierCatholic": 10
+  },
+  {
+    "bfsNumber": 242,
+    "name": "Birmensdorf",
+    "district": null,
+    "municipalMultiplier": 112,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 11,
+    "churchMultiplierCatholic": 10
+  },
+  {
+    "bfsNumber": 243,
+    "name": "Dietikon",
+    "district": null,
+    "municipalMultiplier": 121,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 244,
+    "name": "Geroldswil",
+    "district": null,
+    "municipalMultiplier": 112,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 11,
+    "churchMultiplierCatholic": 9
+  },
+  {
+    "bfsNumber": 245,
+    "name": "Oberengstringen",
+    "district": null,
+    "municipalMultiplier": 109,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 10,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 246,
+    "name": "Oetwil a.d.L.",
+    "district": null,
+    "municipalMultiplier": 107,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 11,
+    "churchMultiplierCatholic": 9
+  },
+  {
+    "bfsNumber": 247,
+    "name": "Schlieren",
+    "district": null,
+    "municipalMultiplier": 111,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 11,
+    "churchMultiplierCatholic": 10
+  },
+  {
+    "bfsNumber": 248,
+    "name": "Uitikon",
+    "district": null,
+    "municipalMultiplier": 78,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 10,
+    "churchMultiplierCatholic": 10
+  },
+  {
+    "bfsNumber": 249,
+    "name": "Unterengstringen",
+    "district": null,
+    "municipalMultiplier": 102,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 11,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 250,
+    "name": "Urdorf",
+    "district": null,
+    "municipalMultiplier": 115,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 10,
+    "churchMultiplierCatholic": 11
+  },
+  {
+    "bfsNumber": 251,
+    "name": "Weiningen",
+    "district": null,
+    "municipalMultiplier": 107,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 11,
+    "churchMultiplierCatholic": 9
+  },
+  {
+    "bfsNumber": 261,
+    "name": "Zürich",
+    "district": null,
+    "municipalMultiplier": 119,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 10,
+    "churchMultiplierCatholic": 10
+  },
+  {
+    "bfsNumber": 291,
+    "name": "Andelfingen",
+    "district": null,
+    "municipalMultiplier": 119,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 12,
+    "churchMultiplierCatholic": 14
+  },
+  {
+    "bfsNumber": 292,
+    "name": "Stammheim",
+    "district": null,
+    "municipalMultiplier": 112,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 14
+  },
+  {
+    "bfsNumber": 293,
+    "name": "Wädenswil",
+    "district": null,
+    "municipalMultiplier": 102,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 11,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 294,
+    "name": "Elgg",
+    "district": null,
+    "municipalMultiplier": 119,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 14
+  },
+  {
+    "bfsNumber": 295,
+    "name": "Horgen",
+    "district": null,
+    "municipalMultiplier": 90,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 10,
+    "churchMultiplierCatholic": 8
+  },
+  {
+    "bfsNumber": 296,
+    "name": "Illnau-Effretikon",
+    "district": null,
+    "municipalMultiplier": 113,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 13,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 297,
+    "name": "Bauma",
+    "district": null,
+    "municipalMultiplier": 120,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 13
+  },
+  {
+    "bfsNumber": 298,
+    "name": "Wiesendangen",
+    "district": null,
+    "municipalMultiplier": 86,
+    "municipalMultiplierUnit": "percent",
+    "churchMultiplierReformed": 14,
+    "churchMultiplierCatholic": 12
+  }
+]

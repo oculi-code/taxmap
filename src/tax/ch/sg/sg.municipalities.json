@@ -1,0 +1,752 @@
+[
+  {
+    "bfsNumber": 3201,
+    "name": "Häggenschwil",
+    "district": "St. Gallen",
+    "municipalMultiplierPercent": 115,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 16,
+    "churchMultiplierCatholicPercent": 24,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3202,
+    "name": "Muolen",
+    "district": "St. Gallen",
+    "municipalMultiplierPercent": 116,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 20,
+    "churchMultiplierCatholicPercent": 24,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3203,
+    "name": "St. Gallen",
+    "district": "St. Gallen",
+    "municipalMultiplierPercent": 138,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 26,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3204,
+    "name": "Wittenbach",
+    "district": "St. Gallen",
+    "municipalMultiplierPercent": 119,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 25,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3211,
+    "name": "Berg (SG)",
+    "district": "Rorschach",
+    "municipalMultiplierPercent": 123,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 16,
+    "churchMultiplierCatholicPercent": 22,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3212,
+    "name": "Eggersriet",
+    "district": "St. Gallen",
+    "municipalMultiplierPercent": 120,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 24,
+    "churchMultiplierCatholicPercent": 24,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3213,
+    "name": "Goldach",
+    "district": "Rorschach",
+    "municipalMultiplierPercent": 99,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 27,
+    "churchMultiplierCatholicPercent": 22,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3214,
+    "name": "Mörschwil",
+    "district": "Rorschach",
+    "municipalMultiplierPercent": 67,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 27,
+    "churchMultiplierCatholicPercent": 16,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3215,
+    "name": "Rorschach",
+    "district": "Rorschach",
+    "municipalMultiplierPercent": 129,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 26,
+    "churchMultiplierCatholicPercent": 22,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3216,
+    "name": "Rorschacherberg",
+    "district": "Rorschach",
+    "municipalMultiplierPercent": 105,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 26,
+    "churchMultiplierCatholicPercent": 22,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3217,
+    "name": "Steinach",
+    "district": "Rorschach",
+    "municipalMultiplierPercent": 122,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 27,
+    "churchMultiplierCatholicPercent": 16,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3218,
+    "name": "Tübach",
+    "district": "Rorschach",
+    "municipalMultiplierPercent": 79,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 27,
+    "churchMultiplierCatholicPercent": 24,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3219,
+    "name": "Untereggen",
+    "district": "Rorschach",
+    "municipalMultiplierPercent": 119,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 27,
+    "churchMultiplierCatholicPercent": 22,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3231,
+    "name": "Au (SG)",
+    "district": "Rheintal",
+    "municipalMultiplierPercent": 99,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 21,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3232,
+    "name": "Balgach",
+    "district": "Rheintal",
+    "municipalMultiplierPercent": 61,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 17,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3233,
+    "name": "Berneck",
+    "district": "Rheintal",
+    "municipalMultiplierPercent": 92,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 17,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3234,
+    "name": "Diepoldsau",
+    "district": "Rheintal",
+    "municipalMultiplierPercent": 85,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3235,
+    "name": "Rheineck",
+    "district": "Rheintal",
+    "municipalMultiplierPercent": 113,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 28,
+    "churchMultiplierCatholicPercent": 25,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3236,
+    "name": "St. Margrethen",
+    "district": "Rheintal",
+    "municipalMultiplierPercent": 109,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 28,
+    "churchMultiplierCatholicPercent": 24,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3237,
+    "name": "Thal",
+    "district": "Rorschach",
+    "municipalMultiplierPercent": 89,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 28,
+    "churchMultiplierCatholicPercent": 24,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3238,
+    "name": "Widnau",
+    "district": "Rheintal",
+    "municipalMultiplierPercent": 76,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 17,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3251,
+    "name": "Altstätten",
+    "district": "Rheintal",
+    "municipalMultiplierPercent": 107,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 28,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3252,
+    "name": "Eichberg",
+    "district": "Rheintal",
+    "municipalMultiplierPercent": 104,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 28,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3253,
+    "name": "Marbach (SG)",
+    "district": "Rheintal",
+    "municipalMultiplierPercent": 102,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 28,
+    "churchMultiplierCatholicPercent": 24,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3254,
+    "name": "Oberriet (SG)",
+    "district": "Rheintal",
+    "municipalMultiplierPercent": 95,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 28,
+    "churchMultiplierCatholicPercent": 25,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3255,
+    "name": "Rebstein",
+    "district": "Rheintal",
+    "municipalMultiplierPercent": 108,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 28,
+    "churchMultiplierCatholicPercent": 24,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3256,
+    "name": "Rüthi (SG)",
+    "district": "Rheintal",
+    "municipalMultiplierPercent": 109,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 28,
+    "churchMultiplierCatholicPercent": 24,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3271,
+    "name": "Buchs (SG)",
+    "district": "Werdenberg",
+    "municipalMultiplierPercent": 118,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 18,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3272,
+    "name": "Gams",
+    "district": "Werdenberg",
+    "municipalMultiplierPercent": 115,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 27,
+    "churchMultiplierCatholicPercent": 24,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3273,
+    "name": "Grabs",
+    "district": "Werdenberg",
+    "municipalMultiplierPercent": 100,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 27,
+    "churchMultiplierCatholicPercent": 18,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3274,
+    "name": "Sennwald",
+    "district": "Werdenberg",
+    "municipalMultiplierPercent": 70,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 28,
+    "churchMultiplierCatholicPercent": 16,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3275,
+    "name": "Sevelen",
+    "district": "Werdenberg",
+    "municipalMultiplierPercent": 118,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 24,
+    "churchMultiplierCatholicPercent": 20,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3276,
+    "name": "Wartau",
+    "district": "Werdenberg",
+    "municipalMultiplierPercent": 145,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 28,
+    "churchMultiplierCatholicPercent": 24,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3291,
+    "name": "Bad Ragaz",
+    "district": "Sarganserland",
+    "municipalMultiplierPercent": 92,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 22,
+    "churchMultiplierCatholicPercent": 17,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3292,
+    "name": "Flums",
+    "district": "Sarganserland",
+    "municipalMultiplierPercent": 125,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 24,
+    "churchMultiplierCatholicPercent": 24,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3293,
+    "name": "Mels",
+    "district": "Sarganserland",
+    "municipalMultiplierPercent": 125,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 22,
+    "churchMultiplierCatholicPercent": 20,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3294,
+    "name": "Pfäfers",
+    "district": "Sarganserland",
+    "municipalMultiplierPercent": 136,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 22,
+    "churchMultiplierCatholicPercent": 24,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3295,
+    "name": "Quarten",
+    "district": "Sarganserland",
+    "municipalMultiplierPercent": 102,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 24,
+    "churchMultiplierCatholicPercent": 24,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3296,
+    "name": "Sargans",
+    "district": "Sarganserland",
+    "municipalMultiplierPercent": 129,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 22,
+    "churchMultiplierCatholicPercent": 21,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3297,
+    "name": "Vilters-Wangs",
+    "district": "Sarganserland",
+    "municipalMultiplierPercent": 117,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 22,
+    "churchMultiplierCatholicPercent": 24,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3298,
+    "name": "Walenstadt",
+    "district": "Sarganserland",
+    "municipalMultiplierPercent": 110,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 24,
+    "churchMultiplierCatholicPercent": 24,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3311,
+    "name": "Amden",
+    "district": "See-Gaster",
+    "municipalMultiplierPercent": 99,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 26,
+    "churchMultiplierCatholicPercent": 25,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3312,
+    "name": "Benken (SG)",
+    "district": "See-Gaster",
+    "municipalMultiplierPercent": 117,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 24,
+    "churchMultiplierCatholicPercent": 24,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3313,
+    "name": "Kaltbrunn",
+    "district": "See-Gaster",
+    "municipalMultiplierPercent": 110,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 24,
+    "churchMultiplierCatholicPercent": 21,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3315,
+    "name": "Schänis",
+    "district": "See-Gaster",
+    "municipalMultiplierPercent": 125,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 20,
+    "churchMultiplierCatholicPercent": 25,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3316,
+    "name": "Weesen",
+    "district": "See-Gaster",
+    "municipalMultiplierPercent": 115,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 26,
+    "churchMultiplierCatholicPercent": 26,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3338,
+    "name": "Schmerikon",
+    "district": "See-Gaster",
+    "municipalMultiplierPercent": 113,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 24,
+    "churchMultiplierCatholicPercent": 24,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3339,
+    "name": "Uznach",
+    "district": "See-Gaster",
+    "municipalMultiplierPercent": 115,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 24,
+    "churchMultiplierCatholicPercent": 24,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3340,
+    "name": "Rapperswil-Jona",
+    "district": "See-Gaster",
+    "municipalMultiplierPercent": 74,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 20,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3341,
+    "name": "Gommiswald",
+    "district": "See-Gaster",
+    "municipalMultiplierPercent": 103,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 24,
+    "churchMultiplierCatholicPercent": 24,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3342,
+    "name": "Eschenbach (SG)",
+    "district": "See-Gaster",
+    "municipalMultiplierPercent": 117,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 24,
+    "churchMultiplierCatholicPercent": 24,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3352,
+    "name": "Ebnat-Kappel",
+    "district": "Toggenburg",
+    "municipalMultiplierPercent": 139,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 28,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3359,
+    "name": "Wildhaus-Alt St. Johann",
+    "district": "Toggenburg",
+    "municipalMultiplierPercent": 118,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 28,
+    "churchMultiplierCatholicPercent": 24,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3360,
+    "name": "Nesslau",
+    "district": "Toggenburg",
+    "municipalMultiplierPercent": 114,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 28,
+    "churchMultiplierCatholicPercent": 18,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3374,
+    "name": "Lichtensteig",
+    "district": "Toggenburg",
+    "municipalMultiplierPercent": 129,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 28,
+    "churchMultiplierCatholicPercent": 24,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3379,
+    "name": "Wattwil",
+    "district": "Toggenburg",
+    "municipalMultiplierPercent": 129,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 28,
+    "churchMultiplierCatholicPercent": 26,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3392,
+    "name": "Kirchberg (SG)",
+    "district": "Toggenburg",
+    "municipalMultiplierPercent": 120,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 26,
+    "churchMultiplierCatholicPercent": 23,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3393,
+    "name": "Lütisburg",
+    "district": "Toggenburg",
+    "municipalMultiplierPercent": 155,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 28,
+    "churchMultiplierCatholicPercent": 24,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3394,
+    "name": "Mosnang",
+    "district": "Toggenburg",
+    "municipalMultiplierPercent": 129,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 28,
+    "churchMultiplierCatholicPercent": 24,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3395,
+    "name": "Bütschwil-Ganterschwil",
+    "district": "Toggenburg",
+    "municipalMultiplierPercent": 119,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 28,
+    "churchMultiplierCatholicPercent": 24,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3396,
+    "name": "Neckertal",
+    "district": "Toggenburg",
+    "municipalMultiplierPercent": 120,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 28,
+    "churchMultiplierCatholicPercent": 24,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3401,
+    "name": "Degersheim",
+    "district": "Wil",
+    "municipalMultiplierPercent": 138,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 28,
+    "churchMultiplierCatholicPercent": 25,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3402,
+    "name": "Flawil",
+    "district": "Wil",
+    "municipalMultiplierPercent": 127,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 28,
+    "churchMultiplierCatholicPercent": 25,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3405,
+    "name": "Jonschwil",
+    "district": "Wil",
+    "municipalMultiplierPercent": 129,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 24,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3407,
+    "name": "Oberuzwil",
+    "district": "Wil",
+    "municipalMultiplierPercent": 117,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 24,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3408,
+    "name": "Uzwil",
+    "district": "Wil",
+    "municipalMultiplierPercent": 122,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 23,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3422,
+    "name": "Niederbüren",
+    "district": "Wil",
+    "municipalMultiplierPercent": 116,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 28,
+    "churchMultiplierCatholicPercent": 24,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3423,
+    "name": "Niederhelfenschwil",
+    "district": "Wil",
+    "municipalMultiplierPercent": 104,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 24,
+    "churchMultiplierCatholicPercent": 24,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3424,
+    "name": "Oberbüren",
+    "district": "Wil",
+    "municipalMultiplierPercent": 100,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 25,
+    "churchMultiplierCatholicPercent": 27,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3426,
+    "name": "Zuzwil (SG)",
+    "district": "Wil",
+    "municipalMultiplierPercent": 77,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 21,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3427,
+    "name": "Wil (SG)",
+    "district": "Wil",
+    "municipalMultiplierPercent": 118,
+    "municipalMultiplierEstimated": true,
+    "churchMultiplierReformedPercent": 26,
+    "churchMultiplierCatholicPercent": 24,
+    "churchMultiplierEstimated": true
+  },
+  {
+    "bfsNumber": 3441,
+    "name": "Andwil (SG)",
+    "district": "St. Gallen",
+    "municipalMultiplierPercent": 113,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 19,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3442,
+    "name": "Gaiserwald",
+    "district": "St. Gallen",
+    "municipalMultiplierPercent": 99,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 21,
+    "churchMultiplierCatholicPercent": 21,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3443,
+    "name": "Gossau (SG)",
+    "district": "St. Gallen",
+    "municipalMultiplierPercent": 116,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 23,
+    "churchMultiplierCatholicPercent": 20,
+    "churchMultiplierEstimated": false
+  },
+  {
+    "bfsNumber": 3444,
+    "name": "Waldkirch",
+    "district": "St. Gallen",
+    "municipalMultiplierPercent": 122,
+    "municipalMultiplierEstimated": false,
+    "churchMultiplierReformedPercent": 28,
+    "churchMultiplierCatholicPercent": 24,
+    "churchMultiplierEstimated": false
+  }
+]

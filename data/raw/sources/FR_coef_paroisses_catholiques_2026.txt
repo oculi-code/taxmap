@@ -1,0 +1,228 @@
+  Coefficients d'impôt des paroisses catholiques, par commune, état au 1er août 2026
+  Steuerfüsse der katholischen Pfarreien nach Gemeinde, Stand am 1. August 2026
+  —
+  En % de l'impôt cantonal de base / In % der einfachen Kantonssteuer
+
+
+                                                                                     Personnes physiques / Natürliche Personen      Personnes morales / Juristische Personen
+                                                                                       Impôt sur le revenu   Impôt sur la fortune   Impôt sur le bénéfice   Impôt sur le capital
+                                                                                           Steuer auf dem        Steuer auf dem           Steuer auf dem    Steuer auf dem
+  Commune / Gemeinde                      Paroisse / Pfarrei                                  Einkommen               Vermögen                   Gewinn     Kapital
+
+
+  Broye / Broye
+  Belmont-Broye                           Belmont                                                     7.5                    7.5                     7.5                       7.5
+  Châtillon (FR)                          Estavayer                                                   8.5                   11.0                     9.0                      10.0
+  Cheyres-Châbles                         Estavayer                                                   8.5                   11.0                     9.0                      10.0
+  Cugy (FR)                               Estavayer                                                   8.5                   11.0                     9.0                      10.0
+  Delley-Portalban                        Saint-François d'Orsens                                     8.0                    8.0                     8.0                       8.0
+  Estavayer                               Estavayer                                                   8.5                   11.0                     9.0                      10.0
+  Fétigny-Ménières                        Fétigny-Ménières                                           10.0                   15.0                    10.0                      10.0
+  Gletterens                              Saint-François d'Orsens                                     8.0                    8.0                     8.0                       8.0
+  Lully (FR)                              Estavayer                                                   8.5                   11.0                     9.0                      10.0
+  Montagny (FR)                           Mannens-Grandsivaz                                          9.0                    9.0                     9.0                       9.0
+                                          Montagny-Tours                                              9.0                    9.0                     9.0                       9.0
+  Les Montets                             Estavayer                                                   8.5                   11.0                     9.0                      10.0
+  Nuvilly                                 Estavayer                                                   8.5                   11.0                     9.0                      10.0
+  Prévondavaux                            Estavayer                                                   8.5                   11.0                     9.0                      10.0
+  Saint-Aubin (FR)                        St-Aubin                                                    6.5                    6.5                     6.5                       6.5
+  Sévaz                                   Estavayer                                                   8.5                   11.0                     9.0                      10.0
+  Surpierre                               Surpierre                                                  11.0                   20.0                    10.0                      10.0
+  Vallon                                  Saint-François d'Orsens                                     8.0                    8.0                     8.0                       8.0
+
+
+  Glâne / Glane
+  Billens-Hennens                         Billens                                                     8.0                    8.0                     8.0                       8.0
+  Le Châtelard                            Le Châtelard                                               12.0                   12.0                     8.0                       8.0
+  Châtonnaye                              Châtonnaye                                                 10.0                   10.0                    10.0                      10.0
+  Grangettes                              Le Châtelard                                               12.0                   12.0                     8.0                       8.0
+  Massonnens                              Le Châtelard                                               12.0                   12.0                     8.0                       8.0
+  Mézières (FR)                           Mézières                                                    8.0                   10.0                    10.0                      10.0
+  Romont (FR)                             Romont                                                      8.0                   20.0                     8.0                      10.0
+                                          Villaz                                                      8.0                   20.0                     8.0                      10.0
+  Rue                                     Chapelle                                                   11.0                   15.0                    10.0                      10.0
+                                          Promasens                                                  11.0                   15.0                    10.0                      10.0
+                                          Rue                                                        11.0                   15.0                    10.0                      10.0
+  Siviriez                                Siviriez-Villaraboud                                       10.0                   10.0                    10.0                      10.0
+  Torny                                   Middes-Torny-Pittet                                        10.0                   10.0                    10.0                      10.0
+                                          Torny-le-Grand                                             10.0                   10.0                    10.0                      10.0
+  Ursy                                    Ursy                                                        7.0                   20.0                    10.0                      10.0
+  Villaz                                  Villaz                                                      8.0                   20.0                     8.0                      10.0
+  Villorsonnens                           Orsonnens                                                   9.0                   10.0                     9.0                      10.0
+                                          Villarsiviriaux                                             9.0                   10.0                     9.0                      10.0
+                                          Villaz                                                      8.0                   20.0                     8.0                      10.0
+  Vuisternens-devant-Romont               Le Crêt-Progens                                            10.0                   10.0                    10.0                      10.0
+                                          Sommentier                                                 10.0                   10.0                    10.0                      10.0
+                                          Vuisternens-La Joux                                        10.0                   12.0                    10.0                      10.0
+
+
+
+
+Service de la statistique et de la donnée du canton de Fribourg
+J:\Outils\Coefficients d'impots\2026\coef_impots_catholiques_2026-17.08.2026-12:27                                                                                                 1/3
+  Coefficients d'impôt des paroisses catholiques, par commune, état au 1er août 2026
+  Steuerfüsse der katholischen Pfarreien nach Gemeinde, Stand am 1. August 2026
+  —
+  En % de l'impôt cantonal de base / In % der einfachen Kantonssteuer
+
+
+                                                                                     Personnes physiques / Natürliche Personen      Personnes morales / Juristische Personen
+                                                                                       Impôt sur le revenu   Impôt sur la fortune   Impôt sur le bénéfice   Impôt sur le capital
+                                                                                           Steuer auf dem        Steuer auf dem           Steuer auf dem    Steuer auf dem
+  Commune / Gemeinde                      Paroisse / Pfarrei                                  Einkommen               Vermögen                   Gewinn     Kapital
+
+
+
+  Gruyère / Greyerz
+  Bas-Intyamon                            Bas-Intyamon                                                7.5                   20.0                    10.0                      10.0
+  Botterens                               Botterens                                                  10.0                   10.0                    10.0                      10.0
+  Broc                                    Broc                                                       10.0                   20.0                    10.0                      10.0
+  Bulle                                   Bulle-La Tour                                               4.0                   15.0                     4.0                      10.0
+  Châtel-sur-Montsalvens                  Crésuz                                                      8.0                    8.0                     8.0                       8.0
+  Corbières                               Le Solitou                                                  8.0                    8.0                     8.0                       8.0
+  Crésuz                                  Crésuz                                                      8.0                    8.0                     8.0                       8.0
+  Echarlens                               Echarlens                                                   8.0                    8.0                     5.0                       5.0
+  Grandvillard                            Grandvillard                                               10.0                   20.0                    10.0                      10.0
+  Gruyères                                Gruyères                                                    8.0                    8.0                     8.0                       8.0
+  Hauteville                              Le Solitou                                                  8.0                    8.0                     8.0                       8.0
+  Haut-Intyamon                           Haut-Intyamon                                              10.0                   10.0                    10.0                      10.0
+  Jaun                                    Jaun                                                       15.0                   10.0                     5.0                      10.0
+  Marsens                                 Vuippens                                                    7.0                    7.0                     4.0                       4.0
+  Morlon                                  Morlon                                                     10.0                   10.0                    10.0                      10.0
+  Le Pâquier (FR)                         Le Pâquier                                                  6.0                    6.0                     8.0                       8.0
+  Pont-en-Ogoz                            Avry-devant-Pont                                            6.0                    9.0                     8.0                       8.0
+  Pont-la-Ville                           Pont-la-Ville                                               9.0                   15.0                    10.0                      10.0
+  Riaz                                    Riaz                                                        7.0                   10.0                     7.0                      10.0
+  La Roche                                La Roche                                                   10.0                   10.0                    10.0                      10.0
+  Sâles                                   Sâles                                                       7.0                   20.0                     7.0                      10.0
+  Sorens                                  Sorens                                                      7.0                   17.0                     7.0                       7.0
+  Val-de-Charmey                          Val-de-Charmey                                              8.0                   18.0                     8.0                      10.0
+  Vaulruz                                 Vaulruz                                                    10.0                   20.0                    10.0                      10.0
+  Vuadens                                 Vuadens                                                     6.0                   16.0                     8.0                      10.0
+
+
+  Sarine / Saane
+  Autigny                                 Autigny                                                     8.0                    8.0                     8.0                       8.0
+  Avry                                    Matran                                                      4.5                   15.0                     8.0                      10.0
+  Belfaux                                 Belfaux                                                     8.0                   15.0                     8.0                      10.0
+  Bois-d'Amont                            Arconciel                                                   8.0                    8.0                     8.0                       8.0
+                                          Ependes                                                     8.0                    8.0                     8.0                       8.0
+  La Brillaz                              La Brillaz                                                  8.0                    8.0                     8.0                       8.0
+  Chénens                                 Autigny                                                     8.0                    8.0                     8.0                       8.0
+  Corminboeuf                             Belfaux                                                     8.0                   15.0                     8.0                      10.0
+  Cottens (FR)                            Cottens                                                     8.0                   20.0                    10.0                      10.0
+  Ferpicloz                               Ependes                                                     8.0                    8.0                     8.0                       8.0
+  Fribourg / Freiburg                     Christ-Roi, Fribourg                                        6.0                   18.0                    10.0                      10.0
+                                          St-Jean, Fribourg                                           6.0                   18.0                    10.0                      10.0
+                                          St-Maurice, Fribourg                                        6.0                   18.0                    10.0                      10.0
+                                          St-Nicolas et St-Paul, Fribourg                             6.0                   18.0                    10.0                      10.0
+                                          St-Pierre, Fribourg                                         6.0                   18.0                    10.0                      10.0
+                                          Ste-Thérèse, Fribourg                                       6.0                   18.0                    10.0                      10.0
+  Gibloux                                 Corpataux-Magnedens                                         9.0                   10.0                     9.0                      10.0
+                                          Farvagny                                                    8.0                    8.0                     9.0                       9.0
+                                          Le Glèbe                                                   10.0                   10.0                     9.0                       9.0
+                                          Rossens                                                     8.0                   10.0                     9.0                       9.0
+                                          Vuisternens-en-Ogoz                                        10.0                   15.0                     9.0                       9.0
+  Givisiez                                Givisiez                                                    4.0                   15.0                     5.0                      10.0
+  Granges-Paccot                          Givisiez                                                    4.0                   15.0                     5.0                      10.0
+  Grolley-Ponthaux                        Grolley                                                    10.0                   10.0                    10.0                      10.0
+                                          Ponthaux                                                   10.0                   20.0                    10.0                      10.0
+  Hauterive (FR)                          Ecuvillens                                                  7.0                    7.0                     8.0                       8.0
+  Marly                                   Marly                                                       6.0                   17.0                    10.0                       8.0
+  Matran                                  Matran                                                      4.5                   15.0                     8.0                      10.0
+  Le Mouret                               Le Mouret                                                   7.0                   19.0                    10.0                      10.0
+                                          Treyvaux                                                    9.0                    9.0                     9.0                       9.0
+  Neyruz (FR)                             Neyruz                                                      7.0                   18.0                     8.0                      10.0
+  Pierrafortscha                          Marly                                                       6.0                   17.0                    10.0                       8.0
+  Prez                                    Prez                                                       10.0                   10.0                    10.0                      10.0
+  La Sonnaz                               Belfaux                                                     8.0                   15.0                     8.0                      10.0
+  Treyvaux                                Treyvaux                                                    9.0                    9.0                     9.0                       9.0
+  Villars-sur-Glâne                       Villars-sur-Glâne                                           4.0                   15.0                     5.0                      10.0
+  Villarsel-sur-Marly                     Marly                                                       6.0                   17.0                    10.0                       8.0
+
+
+
+
+Service de la statistique et de la donnée du canton de Fribourg
+J:\Outils\Coefficients d'impots\2026\coef_impots_catholiques_2026-17.08.2026-12:27                                                                                                 2/3
+  Coefficients d'impôt des paroisses catholiques, par commune, état au 1er août 2026
+  Steuerfüsse der katholischen Pfarreien nach Gemeinde, Stand am 1. August 2026
+  —
+  En % de l'impôt cantonal de base / In % der einfachen Kantonssteuer
+
+
+                                                                                     Personnes physiques / Natürliche Personen      Personnes morales / Juristische Personen
+                                                                                       Impôt sur le revenu   Impôt sur la fortune   Impôt sur le bénéfice   Impôt sur le capital
+                                                                                           Steuer auf dem        Steuer auf dem           Steuer auf dem    Steuer auf dem
+  Commune / Gemeinde                      Paroisse / Pfarrei                                  Einkommen               Vermögen                   Gewinn     Kapital
+
+
+
+  See / Lac
+  Courgevaux                              Murten                                                      8.0                    8.0                     8.0                       8.0
+  Courtepin                               Barberêche                                                 11.0                   18.0                    10.0                      10.0
+                                          Villarepos                                                 11.0                   18.0                    10.0                      10.0
+                                          Wallenried                                                 11.0                   18.0                    10.0                      10.0
+  Cressier (FR)                           Cressier-sur-Morat                                         11.0                   11.0                    10.0                      10.0
+  Fräschels                               Murten                                                      8.0                    8.0                     8.0                       8.0
+  Greng                                   Murten                                                      8.0                    8.0                     8.0                       8.0
+  Gurmels                                 Gurmels                                                    12.0                   20.0                    10.0                      10.0
+                                          Murten                                                      8.0                    8.0                     8.0                       8.0
+  Kerzers                                 Murten                                                      8.0                    8.0                     8.0                       8.0
+  Kleinbösingen                           Gurmels                                                    12.0                   20.0                    10.0                      10.0
+  Meyriez                                 Murten                                                      8.0                    8.0                     8.0                       8.0
+  Misery-Courtion                         Courtion                                                   10.0                   10.0                    10.0                      10.0
+  Mont-Vully                              Murten                                                      8.0                    8.0                     8.0                       8.0
+  Muntelier                               Murten                                                      8.0                    8.0                     8.0                       8.0
+  Murten / Morat                          Murten                                                      8.0                    8.0                     8.0                       8.0
+  Ried bei Kerzers                        Murten                                                      8.0                    8.0                     8.0                       8.0
+
+
+  Sense / Singine
+  Bösingen                                Bösingen                                                   11.5                   17.0                    10.0                      10.0
+                                          Schmitten                                                  10.0                   10.0                     8.0                       8.0
+  Brünisried                              Plaffeien                                                  12.0                   20.0                    10.0                      10.0
+                                          Rechthalten-Brünisried                                     12.0                   20.0                    10.0                      10.0
+  Düdingen                                Düdingen                                                    8.0                   10.0                     8.0                      10.0
+                                          Tafers                                                     10.0                   20.0                    10.0                      10.0
+  Giffers                                 Giffers-Tentlingen                                          9.0                    9.0                     9.0                       9.0
+  Heitenried                              Heitenried                                                 14.0                   14.0                    10.0                      10.0
+                                          St. Antoni                                                 12.0                   18.0                    10.0                      10.0
+  Plaffeien                               Plaffeien                                                  12.0                   20.0                    10.0                      10.0
+  Plasselb                                Plasselb                                                   12.0                   20.0                    10.0                      10.0
+  Rechthalten                             Rechthalten-Brünisried                                     12.0                   20.0                    10.0                      10.0
+  St. Silvester                           St. Silvester                                              10.0                   20.0                    10.0                      10.0
+  St. Ursen                               Alterswil                                                  10.0                   15.0                    10.0                      10.0
+                                          Rechthalten-Brünisried                                     12.0                   20.0                    10.0                      10.0
+                                          St. Ursen                                                  10.0                   20.0                    10.0                      20.0
+  Schmitten (FR)                          St. Antoni                                                 12.0                   18.0                    10.0                      10.0
+                                          Schmitten                                                  10.0                   10.0                     8.0                       8.0
+                                          Tafers                                                     10.0                   20.0                    10.0                      10.0
+  Tafers                                  Alterswil                                                  10.0                   15.0                    10.0                      10.0
+                                          Heitenried                                                 14.0                   14.0                    10.0                      10.0
+                                          St. Antoni                                                 12.0                   18.0                    10.0                      10.0
+                                          Schmitten                                                  10.0                   10.0                     8.0                       8.0
+                                          Tafers                                                     10.0                   20.0                    10.0                      10.0
+                                          Ueberstorf                                                 10.5                   15.0                    10.0                      10.0
+  Tentlingen                              Giffers-Tentlingen                                          9.0                    9.0                     9.0                       9.0
+  Ueberstorf                              Ueberstorf                                                 10.5                   15.0                    10.0                      10.0
+  Wünnewil-Flamatt                        Wünnewil-Flamatt                                           12.0                   20.0                    10.0                      10.0
+
+
+  Veveyse / Vivisbach
+  Attalens                                Attalens                                                    8.0                    8.0                     8.0                       8.0
+  Bossonnens                              Attalens                                                    8.0                    8.0                     8.0                       8.0
+  Châtel-Saint-Denis                      Châtel-St-Denis                                             6.0                   10.0                     6.0                      10.0
+  Le Flon                                 Porsel                                                     10.0                   10.0                    10.0                      10.0
+  Granges (Veveyse)                       Attalens                                                    8.0                    8.0                     8.0                       8.0
+  Remaufens                               Remaufens                                                   9.0                   20.0                    10.0                      10.0
+  Saint-Martin (FR)                       Saint-Martin                                               10.0                   10.0                    10.0                      10.0
+  Semsales                                Semsales                                                    9.0                   19.0                     9.0                       9.0
+  La Verrerie                             Le Crêt-Progens                                            10.0                   10.0                    10.0                      10.0
+
+
+
+
+Service de la statistique et de la donnée du canton de Fribourg
+J:\Outils\Coefficients d'impots\2026\coef_impots_catholiques_2026-17.08.2026-12:27                                                                                                 3/3
+

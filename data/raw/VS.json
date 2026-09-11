@@ -1,0 +1,811 @@
+{
+  "canton": "VS",
+  "year": 2025,
+  "source": {
+    "incomeTax": "https://www.vs.ch/documents/508074/628286/IC_173.pdf/8655997a-6f75-6783-f705-f95b84c1f595?t=1743596311032",
+    "incomeTaxFormula": "https://www.vs.ch/documents/508074/628286/Calcul_IC_site_FR.pdf/1b3253e2-8f6c-9115-a982-4b0c1fa4a2d8?t=1735904248516",
+    "wealthTax": "https://www.vs.ch/documents/508074/628286/Vermoegen_Nat_Personen.pdf/71f42ead-6893-466d-8d3d-b500c11c7d56",
+    "multiplier": "https://www.vs.ch/documents/508074/628286/Coefficients_Indexations_Communes_2022-2027.pdf/53d0770a-3e87-6d30-03d7-011ca4c7a3e0?t=1675666086332",
+    "municipalData": "https://www.vs.ch/documents/508074/628286/Coefficients_Indexations_Communes_2022-2027.pdf/53d0770a-3e87-6d30-03d7-011ca4c7a3e0?t=1675666086332",
+    "bfsMunicipalityList": "https://fr.wikipedia.org/wiki/Communes_du_canton_du_Valais (No OFS column; cross-checked against vs.ch commune/sector code list at https://www.vs.ch/documents/15726774/18619563/Liste+des+communes+et+des+secteurs+de+commune+avec+codes+2024.pdf.xlsx)",
+    "portal": "https://www.vs.ch/web/scc/baremes-canton-communes"
+  },
+  "incomeTaxBrackets": {
+    "single": [
+      {
+        "from": 0,
+        "rate": 0.0
+      },
+      {
+        "from": 5000,
+        "rate": 0.0413
+      },
+      {
+        "from": 9700,
+        "rate": 0.02
+      },
+      {
+        "from": 10000,
+        "rate": 0.0294
+      },
+      {
+        "from": 12000,
+        "rate": 0.0327
+      },
+      {
+        "from": 14000,
+        "rate": 0.0359
+      },
+      {
+        "from": 16000,
+        "rate": 0.0391
+      },
+      {
+        "from": 18000,
+        "rate": 0.0423
+      },
+      {
+        "from": 20000,
+        "rate": 0.0476
+      },
+      {
+        "from": 22000,
+        "rate": 0.0512
+      },
+      {
+        "from": 24000,
+        "rate": 0.0549
+      },
+      {
+        "from": 26000,
+        "rate": 0.0584
+      },
+      {
+        "from": 28000,
+        "rate": 0.062
+      },
+      {
+        "from": 30000,
+        "rate": 0.0656
+      },
+      {
+        "from": 32000,
+        "rate": 0.0692
+      },
+      {
+        "from": 34000,
+        "rate": 0.0728
+      },
+      {
+        "from": 36000,
+        "rate": 0.0764
+      },
+      {
+        "from": 38000,
+        "rate": 0.0799
+      },
+      {
+        "from": 40000,
+        "rate": 0.0816
+      },
+      {
+        "from": 42000,
+        "rate": 0.0849
+      },
+      {
+        "from": 44000,
+        "rate": 0.0882
+      },
+      {
+        "from": 46000,
+        "rate": 0.0916
+      },
+      {
+        "from": 48000,
+        "rate": 0.095
+      },
+      {
+        "from": 50000,
+        "rate": 0.0984
+      },
+      {
+        "from": 52000,
+        "rate": 0.1018
+      },
+      {
+        "from": 54000,
+        "rate": 0.1052
+      },
+      {
+        "from": 56000,
+        "rate": 0.1085
+      },
+      {
+        "from": 58000,
+        "rate": 0.112
+      },
+      {
+        "from": 60000,
+        "rate": 0.107
+      },
+      {
+        "from": 62000,
+        "rate": 0.1089
+      },
+      {
+        "from": 64000,
+        "rate": 0.1117
+      },
+      {
+        "from": 66000,
+        "rate": 0.1144
+      },
+      {
+        "from": 68000,
+        "rate": 0.1172
+      },
+      {
+        "from": 70000,
+        "rate": 0.1201
+      },
+      {
+        "from": 72000,
+        "rate": 0.1228
+      },
+      {
+        "from": 74000,
+        "rate": 0.1257
+      },
+      {
+        "from": 76000,
+        "rate": 0.1283
+      },
+      {
+        "from": 78000,
+        "rate": 0.1312
+      },
+      {
+        "from": 84000,
+        "rate": 0.1351
+      },
+      {
+        "from": 86000,
+        "rate": 0.1377
+      },
+      {
+        "from": 88000,
+        "rate": 0.1402
+      },
+      {
+        "from": 90000,
+        "rate": 0.143
+      },
+      {
+        "from": 92000,
+        "rate": 0.1454
+      },
+      {
+        "from": 94000,
+        "rate": 0.1481
+      },
+      {
+        "from": 96000,
+        "rate": 0.1506
+      },
+      {
+        "from": 98000,
+        "rate": 0.1532
+      },
+      {
+        "from": 100000,
+        "rate": 0.1642
+      },
+      {
+        "from": 102000,
+        "rate": 0.1689
+      },
+      {
+        "from": 104000,
+        "rate": 0.1719
+      },
+      {
+        "from": 106000,
+        "rate": 0.1749
+      },
+      {
+        "from": 108000,
+        "rate": 0.1779
+      },
+      {
+        "from": 110000,
+        "rate": 0.1809
+      },
+      {
+        "from": 112000,
+        "rate": 0.1839
+      },
+      {
+        "from": 114000,
+        "rate": 0.1869
+      },
+      {
+        "from": 116000,
+        "rate": 0.1898
+      },
+      {
+        "from": 118000,
+        "rate": 0.1929
+      },
+      {
+        "from": 120000,
+        "rate": 0.1863
+      },
+      {
+        "from": 124000,
+        "rate": 0.1889
+      },
+      {
+        "from": 126000,
+        "rate": 0.1915
+      },
+      {
+        "from": 128000,
+        "rate": 0.1943
+      },
+      {
+        "from": 130000,
+        "rate": 0.1966
+      },
+      {
+        "from": 132000,
+        "rate": 0.1991
+      },
+      {
+        "from": 134000,
+        "rate": 0.202
+      },
+      {
+        "from": 136000,
+        "rate": 0.2043
+      },
+      {
+        "from": 138000,
+        "rate": 0.2071
+      },
+      {
+        "from": 140000,
+        "rate": 0.2043
+      },
+      {
+        "from": 144000,
+        "rate": 0.2073
+      },
+      {
+        "from": 146000,
+        "rate": 0.2099
+      },
+      {
+        "from": 148000,
+        "rate": 0.2121
+      },
+      {
+        "from": 150000,
+        "rate": 0.2147
+      },
+      {
+        "from": 152000,
+        "rate": 0.2168
+      },
+      {
+        "from": 154000,
+        "rate": 0.2193
+      },
+      {
+        "from": 156000,
+        "rate": 0.2218
+      },
+      {
+        "from": 158000,
+        "rate": 0.224
+      },
+      {
+        "from": 160000,
+        "rate": 0.1629
+      },
+      {
+        "from": 165000,
+        "rate": 0.1561
+      },
+      {
+        "from": 170000,
+        "rate": 0.1576
+      },
+      {
+        "from": 175000,
+        "rate": 0.1591
+      },
+      {
+        "from": 180000,
+        "rate": 0.1525
+      },
+      {
+        "from": 195000,
+        "rate": 0.1544
+      },
+      {
+        "from": 200000,
+        "rate": 0.141
+      },
+      {
+        "from": 240000,
+        "rate": 0.1425
+      },
+      {
+        "from": 280000,
+        "rate": 0.1444
+      },
+      {
+        "from": 320000,
+        "rate": 0.1464
+      },
+      {
+        "from": 360000,
+        "rate": 0.1484
+      },
+      {
+        "from": 401700,
+        "rate": 0.14
+      },
+      {
+        "from": 401700,
+        "rate": 0.14
+      }
+    ],
+    "married": [
+      {
+        "from": 0,
+        "rate": 0.0
+      },
+      {
+        "from": 22000,
+        "rate": 0.0382
+      },
+      {
+        "from": 24000,
+        "rate": 0.0549
+      },
+      {
+        "from": 26000,
+        "rate": 0.0584
+      },
+      {
+        "from": 28000,
+        "rate": 0.062
+      },
+      {
+        "from": 30000,
+        "rate": 0.0656
+      },
+      {
+        "from": 32000,
+        "rate": 0.0692
+      },
+      {
+        "from": 34000,
+        "rate": 0.0728
+      },
+      {
+        "from": 36000,
+        "rate": 0.0764
+      },
+      {
+        "from": 38000,
+        "rate": 0.0799
+      },
+      {
+        "from": 40000,
+        "rate": 0.072
+      },
+      {
+        "from": 42000,
+        "rate": 0.0552
+      },
+      {
+        "from": 44000,
+        "rate": 0.0573
+      },
+      {
+        "from": 46000,
+        "rate": 0.0595
+      },
+      {
+        "from": 48000,
+        "rate": 0.0617
+      },
+      {
+        "from": 50000,
+        "rate": 0.0639
+      },
+      {
+        "from": 52000,
+        "rate": 0.0662
+      },
+      {
+        "from": 54000,
+        "rate": 0.0684
+      },
+      {
+        "from": 56000,
+        "rate": 0.0705
+      },
+      {
+        "from": 58000,
+        "rate": 0.0728
+      },
+      {
+        "from": 60000,
+        "rate": 0.0696
+      },
+      {
+        "from": 64000,
+        "rate": 0.0726
+      },
+      {
+        "from": 66000,
+        "rate": 0.0744
+      },
+      {
+        "from": 68000,
+        "rate": 0.0762
+      },
+      {
+        "from": 70000,
+        "rate": 0.078
+      },
+      {
+        "from": 72000,
+        "rate": 0.0799
+      },
+      {
+        "from": 74000,
+        "rate": 0.0817
+      },
+      {
+        "from": 76000,
+        "rate": 0.0834
+      },
+      {
+        "from": 78000,
+        "rate": 0.0853
+      },
+      {
+        "from": 84000,
+        "rate": 0.0878
+      },
+      {
+        "from": 86000,
+        "rate": 0.0895
+      },
+      {
+        "from": 88000,
+        "rate": 0.0911
+      },
+      {
+        "from": 90000,
+        "rate": 0.0929
+      },
+      {
+        "from": 92000,
+        "rate": 0.0945
+      },
+      {
+        "from": 94000,
+        "rate": 0.0963
+      },
+      {
+        "from": 96000,
+        "rate": 0.0979
+      },
+      {
+        "from": 98000,
+        "rate": 0.0996
+      },
+      {
+        "from": 100000,
+        "rate": 0.1067
+      },
+      {
+        "from": 102000,
+        "rate": 0.1098
+      },
+      {
+        "from": 104000,
+        "rate": 0.1117
+      },
+      {
+        "from": 106000,
+        "rate": 0.1137
+      },
+      {
+        "from": 108000,
+        "rate": 0.1157
+      },
+      {
+        "from": 110000,
+        "rate": 0.1176
+      },
+      {
+        "from": 112000,
+        "rate": 0.1196
+      },
+      {
+        "from": 114000,
+        "rate": 0.1215
+      },
+      {
+        "from": 116000,
+        "rate": 0.1234
+      },
+      {
+        "from": 118000,
+        "rate": 0.1254
+      },
+      {
+        "from": 120000,
+        "rate": 0.1211
+      },
+      {
+        "from": 124000,
+        "rate": 0.1228
+      },
+      {
+        "from": 126000,
+        "rate": 0.1362
+      },
+      {
+        "from": 128000,
+        "rate": 0.1943
+      },
+      {
+        "from": 130000,
+        "rate": 0.1966
+      },
+      {
+        "from": 132000,
+        "rate": 0.1991
+      },
+      {
+        "from": 134000,
+        "rate": 0.202
+      },
+      {
+        "from": 136000,
+        "rate": 0.2043
+      },
+      {
+        "from": 138000,
+        "rate": 0.2071
+      },
+      {
+        "from": 140000,
+        "rate": 0.2043
+      },
+      {
+        "from": 144000,
+        "rate": 0.2073
+      },
+      {
+        "from": 146000,
+        "rate": 0.2099
+      },
+      {
+        "from": 148000,
+        "rate": 0.2121
+      },
+      {
+        "from": 150000,
+        "rate": 0.2147
+      },
+      {
+        "from": 152000,
+        "rate": 0.2168
+      },
+      {
+        "from": 154000,
+        "rate": 0.2193
+      },
+      {
+        "from": 156000,
+        "rate": 0.2218
+      },
+      {
+        "from": 158000,
+        "rate": 0.224
+      },
+      {
+        "from": 160000,
+        "rate": 0.1629
+      },
+      {
+        "from": 165000,
+        "rate": 0.1561
+      },
+      {
+        "from": 170000,
+        "rate": 0.1576
+      },
+      {
+        "from": 175000,
+        "rate": 0.1591
+      },
+      {
+        "from": 180000,
+        "rate": 0.1525
+      },
+      {
+        "from": 195000,
+        "rate": 0.1544
+      },
+      {
+        "from": 200000,
+        "rate": 0.141
+      },
+      {
+        "from": 240000,
+        "rate": 0.1425
+      },
+      {
+        "from": 280000,
+        "rate": 0.1444
+      },
+      {
+        "from": 320000,
+        "rate": 0.1464
+      },
+      {
+        "from": 360000,
+        "rate": 0.1484
+      },
+      {
+        "from": 401700,
+        "rate": 0.14
+      },
+      {
+        "from": 401700,
+        "rate": 0.14
+      }
+    ]
+  },
+  "wealthTaxBrackets": {
+    "general": [
+      {
+        "from": 0,
+        "rate": 0.001
+      },
+      {
+        "from": 10000,
+        "rate": 0.0032
+      },
+      {
+        "from": 11000,
+        "rate": 0.0012
+      },
+      {
+        "from": 20000,
+        "rate": 0.0033
+      },
+      {
+        "from": 21000,
+        "rate": 0.0013
+      },
+      {
+        "from": 30000,
+        "rate": 0.0075
+      },
+      {
+        "from": 31000,
+        "rate": 0.0015
+      },
+      {
+        "from": 50000,
+        "rate": 0.0117
+      },
+      {
+        "from": 51000,
+        "rate": 0.0017
+      },
+      {
+        "from": 100000,
+        "rate": 0.0219
+      },
+      {
+        "from": 101000,
+        "rate": 0.0019
+      },
+      {
+        "from": 200000,
+        "rate": 0.002
+      },
+      {
+        "from": 300000,
+        "rate": 0.0021
+      },
+      {
+        "from": 400000,
+        "rate": 0.0022
+      },
+      {
+        "from": 500000,
+        "rate": 0.00226
+      },
+      {
+        "from": 600000,
+        "rate": 0.00232
+      },
+      {
+        "from": 700000,
+        "rate": 0.00238
+      },
+      {
+        "from": 800000,
+        "rate": 0.00244
+      },
+      {
+        "from": 900000,
+        "rate": 0.0025
+      },
+      {
+        "from": 1000000,
+        "rate": 0.00255
+      },
+      {
+        "from": 1100000,
+        "rate": 0.0026
+      },
+      {
+        "from": 1200000,
+        "rate": 0.00265
+      },
+      {
+        "from": 1300000,
+        "rate": 0.0027
+      },
+      {
+        "from": 1400000,
+        "rate": 0.00275
+      },
+      {
+        "from": 1500000,
+        "rate": 0.0028
+      },
+      {
+        "from": 1600000,
+        "rate": 0.00285
+      },
+      {
+        "from": 1700000,
+        "rate": 0.0029
+      },
+      {
+        "from": 1800000,
+        "rate": 0.00295
+      },
+      {
+        "from": 1900000,
+        "rate": 0.003
+      }
+    ]
+  },
+  "wealthTaxRateUnit": "decimal",
+  "cantonalMultiplier": {
+    "value": 100,
+    "unit": "percent",
+    "appliedOnTop": false
+  },
+  "churchTax": {
+    "variesByMunicipality": true,
+    "reformed": null,
+    "catholic": null
+  },
+  "notes": "MECHANISM (very different from Aargau): Valais does NOT use a discrete marginal bracket table. Both income tax and wealth tax use a continuous 'taux moyen' (average-rate) formula: an average rate Taux(X) is looked up/computed for the taxable amount X, and the tax due is X * Taux(X) (not a sum over marginal brackets). The canton publishes Taux(X) as a piecewise-LINEAR function of X (12 segments for income, defined in Sec./Art. 'CALCUL DU TAUX POUR L'IMPOT CANTONAL', formula quoted below), so the resulting Tax(X)=X*Taux(X) is piecewise-QUADRATIC, meaning the true marginal rate changes continuously within each segment (it is NOT a step function). Also there is NO separate cantonal multiplier applied on top: the bracket table already represents the full cantonal tax (cantonalMultiplier.appliedOnTop=false); communes instead apply their own communal coefficient (1.00-1.50, see municipalities file) to the SAME computed amount to get communal tax. INDEXATION: taxable income must be de-indexed via a chain of historical annual indexation factors before the base (2026-vintage) formula is applied, then the resulting average rate is applied to the actual (indexed/nominal) income. This chain is NOT a simple divide-by-1.73 despite the canton quoting 'Indexation 173%' for 2025 (worked example in the source: CHF 100'000 nominal de-indexes to CHF 49'818 base income via 7 successive /1.10 steps and one /1.03 step, i.e. a cumulative ratio of about 2.007, not 1.73 - '173%' apparently refers to something else in the historical indexation sequence, not a single conversion factor). Rather than re-implement this opaque de-indexation chain, this dataset uses the canton's own OFFICIAL PRE-COMPUTED, ALREADY-INDEXED lookup table for 2025 ('Barème 1', file IC_173.pdf, Index 173, published by SCC) directly - it lists, for every CHF 100 of nominal 2025 income from CHF 9'700 up to CHF 401'700+, the average rate (Ansatz) and exact resulting tax (Steuerbetrag). Below CHF 9'700 nominal, cantonal income tax is 0. Above CHF 401'700 the average rate is flat at the ceiling 14.0000% (per the base formula's top segment '>200'000 CHF unindexed: 14.0000%'), so both average and marginal rate are 14% from that point on. THE BREAKPOINT TABLES ABOVE are a piecewise-linear approximation of the MARGINAL rate, derived by numerically differentiating this official Tax(X) table between sampled points (denser sampling - every 1'000-2'000 CHF - in the CHF 10'000-160'000 range where curvature is highest, coarser above). A standard 'sum across marginal brackets' tax calculator using these breakpoints will reproduce the official Tax(X) values closely at the sample points and reasonably in between. IMPORTANT CAVEAT: because average rate is increasing, the TRUE marginal rate is always higher than the average/quoted rate, and it is NOT monotonic in a simple sense here either - it rises to a local maximum of roughly 22% around CHF 150'000-160'000 nominal income, then DROPS back down to roughly 14-15% before slowly climbing back to the 14% asymptote beyond ~CHF 400'000. This hump is a real, correct feature of Valais's continuous-rate design (confirmed by cross-checking multiple points against the official table), not a data error - flag this clearly to any developer surprised by 'decreasing' marginal rates in that range. UNINDEXED BASE FORMULA (for reference / future re-derivation, from 'Calcul_IC_site_FR.pdf', valid nominal-100% brackets): 0-5'000: 2.0000%; 5'000-10'000: 2.0000+(X-5000)/100*0.0160; 10'000-20'000: 2.8000+(X-10000)/100*0.0180; 20'000-30'000: 4.6000+(X-20000)/100*0.0140; 30'000-40'000: 6.0000+(X-30000)/100*0.0140; 40'000-50'000: 7.4000+(X-40000)/100*0.0130; 50'000-60'000: 8.7000+(X-50000)/100*0.0150; 60'000-70'000: 10.2000+(X-60000)/100*0.0130; 70'000-80'000: 11.5000+(X-70000)/100*0.0150; 80'000-90'000: 13.0000+(X-80000)/100*0.0030; 90'000-100'000: 13.3000+(X-90000)/100*0.0020; 100'000-200'000: 13.5000+(X-100000)/100*0.0005; >200'000: 14.0000% flat. MARRIED/COUPLES: Valais does NOT use an income-splitting divisor. Instead it applies a flat REBATE ('rabais d'impôt pour couples mariés') of 35% of the tax computed on the single/general schedule, with the rebate itself floored at CHF 680 and capped at CHF 4'900 (i.e. rebate = clamp(0.35*Tax_single(X), 680, 4900); Tax_married(X) = Tax_single(X) - rebate). An additional flat CHF 300 deduction per dependent child applies separately (not modeled here - affects taxable income, not the rate schedule) and is NOT included in this dataset. The 'married' breakpoint table above was derived by applying this exact rebate formula to the official single Tax(X) table and re-differentiating, which introduces two additional kinks around the points where 0.35*Tax_single(X) crosses the CHF 680 and CHF 4'900 bounds (approx. X~= a few thousand CHF, and X~=CHF 127'700 respectively) - verify this derivation against the canton's own married-schedule publication before relying on it for precision-critical use, since only the mechanism (not an official pre-computed married table) was available for this rebate. WEALTH TAX: also uses the continuous average-rate design, but is a HYBRID: from CHF 0-200'000 the average rate is stepped in a sparse table (per-mille, only changing at points such as 11'000/21'000/31'000/41'000/51'000/101'000 - flat between those), producing sharp marginal-rate SPIKES right at each step transition (e.g. ~3.2 permille for the single CHF 1'000 band at CHF 10'000-11'000, dropping back to ~1.2 permille immediately after) - this is real and matches the official table exactly, not a parsing artifact. Above CHF 200'000, the source switches to genuine marginal per-CHF-100'000 brackets (2.0 permille 201k-300k, up to a flat ceiling of 3.0 permille above CHF 2'000'001) which are used directly (no derivation needed there). Source rates were per-mille (‰) in the original document and have been converted to decimal (e.g. 1.9‰ -> 0.0019) per wealthTaxRateUnit. No separate married wealth-tax schedule exists (single unified schedule for all filers). MUNICIPALITIES: each of the 122 communes sets its own 'coefficient communal' (a FACTOR from 1.00 to 1.50, per Art. 178 LF 1976) applied to the same cantonal bracket-computed tax amount to get the communal tax portion - this is the 'municipalMultiplier' field (unit: factor, NOT percent) in VS_municipalities.json. Separately and unusually, each commune ALSO has its OWN indexation percentage (captured as 'communalIndexation2025Percent', e.g. 176% vs the canton's 173%) which in principle affects the de-indexation chain used for that commune's own taxable-income lookup - this dataset does NOT attempt to build a full per-commune indexed bracket table (would require replicating the opaque historical indexation chain per commune); the cantonal breakpoint tables above (index 173%) should be treated as an approximation when computing communal tax, with an error that is likely small but unquantified. CHURCH TAX: Valais is unusual in that the 'impot ecclesiastique' (Catholic and Reformed) is an OPTIONAL levy that individual communes may choose to raise via their general commune budget rather than a distinct, canton-wide or per-parish multiplier structure like Aargau's; only a small number of communes (reportedly including Sion) are known to apply anything resembling a distinct church coefficient, and no structured canton-wide dataset of per-commune church multipliers was found from official sources - churchMultiplierReformed/Catholic are left null for all VS municipalities rather than guessed. BFS NUMBERS: sourced from the French Wikipedia 'Communes du canton du Valais' table (No OFS column), cross-checked commune-by-commune against the canton's own coefficient/indexation list (122 communes matched exactly, including handling French/German name pairs such as Leuk/Loeche, Visp/Viege, Salgesch/Salquenen, Varen/Varonne, Raron/Rarogne, Leukerbad/Loeche-les-Bains, Brig-Glis/Brigue-Glis). One Wikipedia data-entry error was caught and corrected: the row for BFS 6102 had an anchor-text/hyperlink mismatch (displayed as 'Arbignon' but linking to and clearly corresponding to 'Albinen'); corrected to 'Albinen' here."
+}

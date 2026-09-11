@@ -1,0 +1,158 @@
+{
+  "year": 2026,
+  "incomeTax": {
+    "single": [
+      {
+        "from": 0,
+        "rate": 0
+      },
+      {
+        "from": 11600,
+        "rate": 0.005
+      },
+      {
+        "from": 14000,
+        "rate": 0.01
+      },
+      {
+        "from": 15200,
+        "rate": 0.012
+      },
+      {
+        "from": 16400,
+        "rate": 0.014
+      },
+      {
+        "from": 17600,
+        "rate": 0.016
+      },
+      {
+        "from": 18800,
+        "rate": 0.018
+      },
+      {
+        "from": 20000,
+        "rate": 0.02
+      },
+      {
+        "from": 21200,
+        "rate": 0.022
+      },
+      {
+        "from": 22400,
+        "rate": 0.024
+      },
+      {
+        "from": 23600,
+        "rate": 0.026
+      },
+      {
+        "from": 24800,
+        "rate": 0.028
+      },
+      {
+        "from": 32800,
+        "rate": 0.029
+      },
+      {
+        "from": 50100,
+        "rate": 0.03
+      },
+      {
+        "from": 81300,
+        "rate": 0.031
+      },
+      {
+        "from": 116000,
+        "rate": 0.032
+      },
+      {
+        "from": 148800,
+        "rate": 0.033
+      }
+    ],
+    "married": [
+      {
+        "from": 0,
+        "rate": 0
+      },
+      {
+        "from": 21460,
+        "rate": 0.005
+      },
+      {
+        "from": 25900,
+        "rate": 0.01
+      },
+      {
+        "from": 28120,
+        "rate": 0.012
+      },
+      {
+        "from": 30340,
+        "rate": 0.014
+      },
+      {
+        "from": 32560,
+        "rate": 0.016
+      },
+      {
+        "from": 34780,
+        "rate": 0.018
+      },
+      {
+        "from": 37000,
+        "rate": 0.02
+      },
+      {
+        "from": 39220,
+        "rate": 0.022
+      },
+      {
+        "from": 41440,
+        "rate": 0.024
+      },
+      {
+        "from": 43660,
+        "rate": 0.026
+      },
+      {
+        "from": 45880,
+        "rate": 0.028
+      },
+      {
+        "from": 60680,
+        "rate": 0.029
+      },
+      {
+        "from": 92685,
+        "rate": 0.03
+      },
+      {
+        "from": 150405,
+        "rate": 0.031
+      },
+      {
+        "from": 214600,
+        "rate": 0.032
+      },
+      {
+        "from": 275280,
+        "rate": 0.033
+      }
+    ]
+  },
+  "incomeTaxCapThreshold": {
+    "single": 166300,
+    "married": 307655
+  },
+  "incomeTaxCapRate": 0.0275,
+  "wealthTax": [
+    {
+      "from": 0,
+      "rate": 0.00025
+    }
+  ],
+  "cantonalMultiplierFactor": 2.61,
+  "churchMultiplierReformedFactor": 0.26
+}

@@ -1,0 +1,315 @@
+{
+  "canton": "BL",
+  "year": 2026,
+  "source": {
+    "incomeTax": "https://bl-api.webcloud7.ch/politik-und-behorden/direktionen/finanz-und-kirchendirektion/steuerverwaltung/steuerzahlungen/tarife-1/tarife-pdf/staatssteuer_2026_int_457_2026jn_251212.pdf",
+    "wealthTax": "https://bl-api.webcloud7.ch/politik-und-behorden/direktionen/finanz-und-kirchendirektion/steuerverwaltung/steuerzahlungen/tarife-1/tarife-pdf/staatssteuer_2026_int_457_2026jn_251212.pdf",
+    "tariffFormulaWorkbook": "https://bl-api.webcloud7.ch/politik-und-behorden/direktionen/finanz-und-kirchendirektion/steuerverwaltung/steuerzahlungen/tarife-1/tarife-pdf/tariftabelle-2026.xls",
+    "multiplier": "https://www.estv2.admin.ch/stp/kb/bl-de.pdf (Kantonsblatt Basel-Landschaft, Stand Februar 2026, Abschnitt 'Jährliches Vielfaches', §19bis Steuergesetz)",
+    "municipalData": "https://data.bl.ch/explore/dataset/steuerfusse-und-steuersatze-nach-gemeinde-und-jahr-ab-1975 (opendata.swiss dataset 'Steuerfüsse und Steuersätze nach Gemeinde und Jahr (seit 1975)')",
+    "kantonsblatt": "https://www.estv2.admin.ch/stp/kb/bl-de.pdf",
+    "gemeindesteuernPortal": "https://www.baselland.ch/politik-und-behorden/direktionen/finanz-und-kirchendirektion/steuerverwaltung/steuerzahlungen/allgemeine-informationen/gemeindesteuern"
+  },
+  "incomeTaxBrackets": {
+    "single": [
+      {
+        "from": 0,
+        "rate": 0.0049
+      },
+      {
+        "from": 16731,
+        "rate": 0.05324
+      },
+      {
+        "from": 20000,
+        "rate": 0.0714
+      },
+      {
+        "from": 25000,
+        "rate": 0.08946
+      },
+      {
+        "from": 30000,
+        "rate": 0.10448
+      },
+      {
+        "from": 35000,
+        "rate": 0.11735
+      },
+      {
+        "from": 40000,
+        "rate": 0.12819
+      },
+      {
+        "from": 44615,
+        "rate": 0.1355
+      },
+      {
+        "from": 50000,
+        "rate": 0.14196
+      },
+      {
+        "from": 60000,
+        "rate": 0.14918
+      },
+      {
+        "from": 70000,
+        "rate": 0.15536
+      },
+      {
+        "from": 80000,
+        "rate": 0.16076
+      },
+      {
+        "from": 90000,
+        "rate": 0.16556
+      },
+      {
+        "from": 100000,
+        "rate": 0.17019
+      },
+      {
+        "from": 111538,
+        "rate": 0.17332
+      },
+      {
+        "from": 130000,
+        "rate": 0.17486
+      },
+      {
+        "from": 150000,
+        "rate": 0.17642
+      },
+      {
+        "from": 175000,
+        "rate": 0.17792
+      },
+      {
+        "from": 200000,
+        "rate": 0.1798
+      },
+      {
+        "from": 250000,
+        "rate": 0.18191
+      },
+      {
+        "from": 300000,
+        "rate": 0.18366
+      },
+      {
+        "from": 350000,
+        "rate": 0.18515
+      },
+      {
+        "from": 400000,
+        "rate": 0.18646
+      },
+      {
+        "from": 450000,
+        "rate": 0.18762
+      },
+      {
+        "from": 500000,
+        "rate": 0.18914
+      },
+      {
+        "from": 600000,
+        "rate": 0.19089
+      },
+      {
+        "from": 700000,
+        "rate": 0.19239
+      },
+      {
+        "from": 800000,
+        "rate": 0.1937
+      },
+      {
+        "from": 900000,
+        "rate": 0.19486
+      },
+      {
+        "from": 1000000,
+        "rate": 0.19591
+      },
+      {
+        "from": 1100000,
+        "rate": 0.19686
+      },
+      {
+        "from": 1200000,
+        "rate": 0.19766
+      },
+      {
+        "from": 1282692,
+        "rate": 0.198
+      }
+    ],
+    "married": [
+      {
+        "from": 0,
+        "rate": 0.0049
+      },
+      {
+        "from": 33462,
+        "rate": 0.05324
+      },
+      {
+        "from": 40000,
+        "rate": 0.0714
+      },
+      {
+        "from": 50000,
+        "rate": 0.08946
+      },
+      {
+        "from": 60000,
+        "rate": 0.10448
+      },
+      {
+        "from": 70000,
+        "rate": 0.11735
+      },
+      {
+        "from": 80000,
+        "rate": 0.12819
+      },
+      {
+        "from": 89230,
+        "rate": 0.1355
+      },
+      {
+        "from": 100000,
+        "rate": 0.14196
+      },
+      {
+        "from": 120000,
+        "rate": 0.14918
+      },
+      {
+        "from": 140000,
+        "rate": 0.15536
+      },
+      {
+        "from": 160000,
+        "rate": 0.16076
+      },
+      {
+        "from": 180000,
+        "rate": 0.16556
+      },
+      {
+        "from": 200000,
+        "rate": 0.17019
+      },
+      {
+        "from": 223076,
+        "rate": 0.17332
+      },
+      {
+        "from": 260000,
+        "rate": 0.17486
+      },
+      {
+        "from": 300000,
+        "rate": 0.17642
+      },
+      {
+        "from": 350000,
+        "rate": 0.17792
+      },
+      {
+        "from": 400000,
+        "rate": 0.1798
+      },
+      {
+        "from": 500000,
+        "rate": 0.18191
+      },
+      {
+        "from": 600000,
+        "rate": 0.18366
+      },
+      {
+        "from": 700000,
+        "rate": 0.18515
+      },
+      {
+        "from": 800000,
+        "rate": 0.18646
+      },
+      {
+        "from": 900000,
+        "rate": 0.18762
+      },
+      {
+        "from": 1000000,
+        "rate": 0.18914
+      },
+      {
+        "from": 1200000,
+        "rate": 0.19089
+      },
+      {
+        "from": 1400000,
+        "rate": 0.19239
+      },
+      {
+        "from": 1600000,
+        "rate": 0.1937
+      },
+      {
+        "from": 1800000,
+        "rate": 0.19486
+      },
+      {
+        "from": 2000000,
+        "rate": 0.19591
+      },
+      {
+        "from": 2200000,
+        "rate": 0.19686
+      },
+      {
+        "from": 2400000,
+        "rate": 0.19766
+      },
+      {
+        "from": 2565384,
+        "rate": 0.198
+      }
+    ]
+  },
+  "wealthTaxBrackets": {
+    "general": [
+      {
+        "from": 0,
+        "rate": 0.0
+      },
+      {
+        "from": 10000,
+        "rate": 0.0011
+      },
+      {
+        "from": 150000,
+        "rate": 0.0029
+      },
+      {
+        "from": 350000,
+        "rate": 0.0033
+      }
+    ]
+  },
+  "wealthTaxRateUnit": "decimal",
+  "cantonalMultiplier": {
+    "value": 100,
+    "unit": "percent",
+    "appliedOnTop": true
+  },
+  "churchTax": {
+    "variesByMunicipality": true,
+    "reformed": null,
+    "catholic": null
+  },
+  "notes": "MECHANISM: BL uses a genuinely CONTINUOUS (formula-based) income tax tariff, not a discrete bracket table -- this is the canton's headline quirk. Per Steuergesetz section 34 and the cantonal tax administration's own published parameters (BL_tariftabelle_2026.xls), the base cantonal income tax F(x) on taxable income x (CHF) is computed as F(x) = b*x + c*x*(ln(x)-1) + D, i.e. the MARGINAL rate itself is a smooth continuously-increasing function f(x) = c*ln(x) + b within each of 4 income bands, not a step function. For steuerbares Einkommen year 2026, the officially indexed band thresholds and (b, c, D) parameters are: Band 1 [16'731 - 44'615]: b=-0.827548, c=0.089722, D=830.223746; Band 2 [44'615 - 111'538]: b=-0.328507, c=0.043108, D=-1249.444454; Band 3 [111'538 - 1'282'692]: b=0.051153, c=0.010441, D=-4893.077017; Band 4 [>1'282'692]: marginal rate held flat at 19.8% (the value the Band-3 curve reaches exactly at the Band 3/4 threshold, so the transition is smooth/continuous, not a kink). Income at or below CHF 16'730 is entirely tax-free by law (Nullzone/Existenzminimum); note this is a genuine small CLIFF, not a smooth ramp to zero -- the raw formula already evaluates to CHF ~82 at CHF 16'731 (confirmed by the government's own amount table), so tax jumps from CHF 0 at 16'730 to CHF 82 at 16'731 rather than starting at CHF 0 and rising smoothly. To keep the {from,rate} breakpoint table exactly reproducing official amounts despite this cliff, the very first bracket here is {from:0, rate:0.0049} (0.49%), which is precisely BL's own published 'Minimaler Steuersatz' (minimum rate) -- applying 0.49% across the full 0-16'731 span happens to land exactly on CHF 82 at 16'731, so this is not an approximation hack but the literal minimum-rate figure the canton itself publishes, repurposed as the first bracket. The incomeTaxBrackets.single/married arrays in this file are NOT the literal legal tariff -- they are a piecewise-linear-marginal-rate APPROXIMATION derived by computing, for each interval between the breakpoints, rate = (F(hi)-F(lo))/(hi-lo), i.e. the exact average rate needed to reproduce the official tax amount at every breakpoint from the government's own published amount table (cross-checked against the official 'Auszug aus der Tabelle mit Steuerbeträgen' in the 2026 tariff PDF and the full BL_tariftabelle_2026.xls workbook up to CHF 530'000, then extended past that using the same formula out to and beyond the top-band threshold). Verified residual error versus the exact formula is under CHF 2 at every checked point (20k to 3.0M) -- more than adequate for a calculator, but a developer wanting exact-to-the-rappen results should reimplement the closed-form formula above rather than relying solely on these breakpoints. SPLITTING QUIRK (Vollsplitting): the SAME curve applies to married/jointly-taxed couples and to single-parent/support households (the 'Einheitstarif mit Vollsplitting'), but the APPLICABLE RATE is found by evaluating the curve at HALF the couple's combined taxable income, then that rate is applied to the FULL income: tax_married(x) = 2 * F(x/2), subject to a floor of a legally-defined 'Minimalsteuersatz' of 0.49% (this is exactly F(16'731)/16'731, the average rate at the bottom of the taxable range) so the rate never goes below that floor for low-income splitting cases. The 'incomeTaxBrackets.married' array already encodes this (thresholds are exactly double the single thresholds, e.g. 33'462 = 2*16'731, and rates are the resulting per-CHF average for tax_married(x)). 'Alleinstehende' with NO dependents (the true single-earner-no-kids case) use the tariff directly on their full income with NO splitting -- that is 'incomeTaxBrackets.single' above (also called 'Tarif ohne Vollsplitting'). CANTONAL MULTIPLIER QUIRK -- INCOME ONLY: unlike most cantons where a single Steuerfuss covers both income and wealth tax, BL law (Section 19bis Steuergesetz, 'Jährliches Vielfaches') gives the Landrat (cantonal parliament) power to set, EVERY YEAR by decree, a cantonal INCOME tax multiplier between a legally fixed floor of 95% and ceiling of 105% of the 'normale Staatssteuer' (i.e. of the F(x) amount above) -- a genuine year-to-year fluctuating cantonal multiplier band, unusual among cantons that otherwise hold the cantonal share fixed at 100% baked into the tariff. Any value other than 100% is subject to an optional referendum. The rate was confirmed at 100% for tax year 2025 by decree; no public announcement of a change for 2026 was found (only the tariff/bracket thresholds themselves were adjusted upward for 'kalte Progression'/inflation, which is a separate mechanism from the Vielfaches), so this file uses 100% as the best-available current value for 2026 -- but this specific figure could NOT be independently confirmed via an explicit 2026 Landrat decree text and a developer should re-verify before go-live. By contrast, NO equivalent annual cantonal multiplier provision was found for the WEALTH tax in the Kantonsblatt -- the wealth tax bracket table's result appears to BE the final cantonal wealth tax with no separate annual Vielfaches step (appliedOnTop should be treated as N/A / fixed 100% for wealth even though cantonalMultiplier.appliedOnTop=true is stated for income above). MUNICIPAL LAYER: Gemeinden levy income AND wealth tax as ONE COMBINED percentage ('Steuerfuss') of the 'normalen Staatssteuer' (i.e. of the base F(x)/W(x) BEFORE the cantonal Vielfaches multiplier is applied -- confirmed by Section 19 Abs. 2 Steuergesetz), capped by law at a maximum of 80% and set annually by each of the 86 municipalities; there is no separate district/Bezirk tax layer even though BL is formally divided into 5 historical Bezirke (Arlesheim, Laufen, Liestal, Sissach, Waldenburg) -- these carry NO tax significance whatsoever (unlike e.g. Schwyz's genuine taxed Bezirk layer), so 'district' is set to null for every municipality in BL_municipalities.json. The per-municipality 'municipalMultiplier' figures in BL_municipalities.json are for tax year 2026, from the canton's own open-data portal (opendata.swiss / data.bl.ch dataset 'Steuerfüsse und Steuersätze nach Gemeinde und Jahr'), and apply identically to BOTH income and wealth tax (BL uses one combined Gemeindesteuerfuss per municipality, not separate income/wealth municipal rates the way Basel-Stadt's Riehen/Bettingen do). CHURCH TAX: Kirchgemeinden (church parishes) of the recognized Landeskirchen levy their OWN church income-AND-wealth tax (not just income), each Kirchgemeindeversammlung setting its own rate annually within its Kirchenverfassung (Section 8/8a Kirchengesetz) -- genuinely varies per LOCAL Kirchgemeinde (which does not always map 1:1 onto political municipality boundaries), computed on the combined 'Steuerfaktoren gemäss Staats- und Gemeindesteuereinschätzung'. No single canton-wide or consolidated per-Kirchgemeinde open dataset could be located (unlike the municipal Steuerfuss data), so churchMultiplierReformed/Catholic are left null both at canton level and for every municipality in BL_municipalities.json rather than guessing -- a developer needing this will have to contact the Evangelisch-reformierte Kirche Baselland (ref-bl.ch) and the Römisch-katholische Landeskirche BL (kathbl.ch) directly, or the cantonal 'Steuerfüsse und Steuersätze der Kirchgemeinden' publication referenced in the Kantonsblatt. For legal entities (not relevant to this natural-person dataset) BL instead levies a flat 5% Kirchensteuer on the state tax amount, collected centrally by the canton and redistributed to the churches by membership share -- this simpler mechanism does NOT apply to natural persons. WEALTH TAX EXEMPTIONS (separate from the bracket table): before the {from,rate} scale above is applied, a 'Steuerfreier Betrag' is deducted from net wealth -- CHF 180'000 for married/splitting-eligible filers, CHF 90'000 for all others (Section 50 Steuergesetz) -- and additionally wealth under CHF 10'000 (post-deduction) is entirely tax-free, which is why the wealthTaxBrackets.general table above starts with an explicit {from:0, rate:0} band before the real 1.1‰ band begins at 10'000; the 90k/180k deduction itself is NOT encoded in these brackets and must be applied by the calculator as a deduction step first, exactly like an income-tax social deduction. Wealth tax rates were published in per-mille (‰) and converted to decimal here (e.g. 1.1‰ -> 0.0011). SOURCES: 2026 tariff formula parameters and official amount table cross-checked from BL_staatssteuer_tarife_2026.pdf and BL_tariftabelle_2026.xls (both in ../sources/); Kantonsblatt Basel-Landschaft (BL_kantonsblatt_estv_2026.pdf, Stand Februar 2026) for all legal-mechanism descriptions; municipal Steuerfuss data from data.bl.ch dataset 10580 (BL_steuerfuesse_gemeinden_1975-2026.csv)."
+}

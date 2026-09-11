@@ -1,0 +1,52 @@
+{
+  "canton": "JU",
+  "year": 2025,
+  "source": {
+    "incomeTax": "https://rsju.jura.ch/fr/viewdocument.html?idn=20113&id=39175&download=1",
+    "wealthTax": "https://rsju.jura.ch/fr/viewdocument.html?idn=20113&id=39175&download=1",
+    "multiplier": "https://www.jura.ch/Htdocs/Files/v/b4857e03e3089589e6b260324a123de49d2188c8f7f67b920139aab558cd60f1.pdf/quotites_2025.pdf",
+    "municipalData": "https://www.jura.ch/Htdocs/Files/v/b4857e03e3089589e6b260324a123de49d2188c8f7f67b920139aab558cd60f1.pdf/quotites_2025.pdf",
+    "lawText": "https://rsju.jura.ch/fr/viewdocument.html?idn=20113&id=37000 (641.11 Loi d'impôt du 26 mai 1988, articles 35 and 48)",
+    "estvSummary": "https://www.estv2.admin.ch/stp/kb/ju-fr.pdf (Feuille cantonale Jura, Administration fédérale des contributions)"
+  },
+  "incomeTaxBrackets": {
+    "single": [
+      { "from": 0, "rate": 0.0 },
+      { "from": 6800, "rate": 0.01667 },
+      { "from": 14600, "rate": 0.03149 },
+      { "from": 28600, "rate": 0.04029 },
+      { "from": 50400, "rate": 0.04909 },
+      { "from": 92500, "rate": 0.05558 },
+      { "from": 204900, "rate": 0.05789 }
+    ],
+    "married": [
+      { "from": 0, "rate": 0.0 },
+      { "from": 12600, "rate": 0.0088 },
+      { "from": 18800, "rate": 0.02269 },
+      { "from": 28100, "rate": 0.03242 },
+      { "from": 48400, "rate": 0.04122 },
+      { "from": 90500, "rate": 0.04771 },
+      { "from": 202900, "rate": 0.05697 },
+      { "from": 437200, "rate": 0.05789 }
+    ]
+  },
+  "wealthTaxBrackets": {
+    "general": [
+      { "from": 0, "rate": 0.0005 },
+      { "from": 112000, "rate": 0.00075 },
+      { "from": 448000, "rate": 0.00095 },
+      { "from": 841000, "rate": 0.0011 },
+      { "from": 1683000, "rate": 0.0012 }
+    ]
+  },
+  "wealthTaxRateUnit": "decimal",
+  "wealthTaxExemptionThreshold": 58000,
+  "cantonalMultiplier": { "value": 2.85, "unit": "factor", "appliedOnTop": true },
+  "churchTax": {
+    "variesByMunicipality": true,
+    "reformed": 0.081,
+    "catholic": null,
+    "baseType": "cantonalTaxAfterMultiplier"
+  },
+  "notes": "MECHANISM: Jura's 'barème' (Art. 35 LI, as indexed for fiscal year 2025 by the Arrêté du 11 mars 2025 / ADLI 2025, RSJU 641.111.23) is already a marginal-rate table producing the 'impôt simple' (simple/base tax). The bracket tables above are exactly this taux-unitaire table converted from 'X% for the next N francs' tranche notation into cumulative {from,rate} breakpoints - no derivation/approximation was needed, these are the literal statutory tranches for FY2025. State tax actually owed ('impôt de l'Etat') = impôt simple x cantonal multiplier (quotité cantonale) = impôt simple x 2.85 (unchanged for FY2025 and FY2026 per the official 'Quotités d'impôt des communes' bulletins, source of cantonalMultiplier.value). Municipal tax = impôt simple x the commune's own quotité (see JU_municipalities.json, municipalMultiplier, factor e.g. 1.30-2.35 for 2025). So BOTH cantonal and municipal levels apply their own separate multiplier directly to the same impôt simple base (mechanism: separate cantonal AND municipal multipliers on a shared base tax, not baked into the bracket table and not a municipal-multiplier-on-cantonal-tax scheme). 'single' table = Art. 35 al. 2 LI (autres contribuables); 'married' table = Art. 35 al. 1 LI, which ALSO covers unmarried heads of household with dependent children/support obligations (no splitting divisor is used - Jura does not use an income-splitting divisor; married/parental status simply selects the more favourable al.1 tariff directly, it is a fully separate bracket schedule, not al.2 divided by a factor). WEALTH TAX: Art. 48 LI gives rates in per-mille (‰); converted to decimal by dividing by 1000 (e.g. 0.50‰ -> 0.0005) per wealthTaxRateUnit. A wealth-tax-specific rule (Art. 48 al. 2 LI, not represented as a bracket): taxable wealth below CHF 58,000 (2025) is entirely exempt (no tax at all), rather than being taxed at a 0% marginal bracket that phases in gradually - at/above CHF 58,000 the full amount is taxed via the table above starting from CHF 0. Also note substantial wealth/income deductions apply before the bracket tables (e.g. Art. 47 LI: CHF 57,000 deducted from net wealth for married couples filing jointly, half that for others/per child; various personal deductions under Art. 34 LI) - not modeled in these bracket tables, which apply to already-determined taxable income/wealth. CHURCH TAX: per Art. 17-18 LREE (Loi du 26 octobre 1978 concernant les rapports entre les Eglises et l'Etat) and the annual 'Quotités d'impôt des communes et taux d'impôts' bulletin, impots ecclesiastiques for individuals are levied as a PERCENTAGE OF THE CANTONAL TAX ALREADY DUE (impôt de l'Etat, i.e. after the 2.85 multiplier has been applied) - NOT a percentage of impôt simple and NOT stacked the same way as the municipal multiplier. The Reformed church (Eglise reformee evangelique jurassienne) sets ONE canton-wide uniform rate, confirmed at 8.10% of the cantonal tax for FY2025 (source: quotites_2025.pdf, column 'Taux réf.', identical value 8.10 in every one of the 68 rows) - hence churchTax.reformed = 0.081 above. The Catholic church, by contrast, has autonomous parishes that each set their OWN rate (ranging roughly 6.40%-11.50% across parishes in FY2025), so churchTax.catholic is left null at the canton level; per-commune/per-parish catholic rates are in JU_municipalities.json (churchMultiplierCatholic). Both church rates use churchMultiplierUnit 'percentOfCantonalTax' in the municipalities file, i.e. churchTaxOwed = rate x (impôt simple x 2.85), which a developer must NOT confuse with the municipal 'factor' multiplier (which multiplies impôt simple directly). Taxpayers with no religious affiliation pay 0 church tax; legal entities (personnes morales) pay a separate uniform rate not included in this dataset (task scope = individuals). CURRENCY OF DATA: current date at research time was 2026-09-08; both a 2025 (ADLI/quotités) and a 2026 (quotités, Feuille cantonale) dataset were available and cross-checked - deduction AMOUNTS are frozen ('reste inchangé') for FY2026 vs FY2025, but the income-tax bracket WIDTHS did shift slightly for FY2026 (e.g. married 4th tranche 42,100 in 2025 vs 42,200 in 2026) while the cantonal multiplier (2.85) and wealth-tax bracket structure appear unchanged between the two years per the sources fetched. This file deliberately reports FY2025 (ADLI 2025, RSJU 641.111.23) as requested; if the app needs FY2026 instead, re-derive using the JU_quotites_communales_2026.pdf and Feuille-cantonale figures archived in data/raw/sources/. Raw source PDFs for every figure in this file and in JU_municipalities.json are archived under data/raw/sources/ (JU_ADLI_2025_taux_deductions.pdf = primary source for both bracket tables and the CHF 58,000 wealth exemption threshold; JU_quotites_communales_2025.pdf = primary source for the 2.85 cantonal multiplier, all 68 municipal rows, and the uniform 8.10% reformed church rate; JU_feuille_cantonale_estv_2026.pdf = ESTV's independent cross-check summary of the same law; JU_loi_impot_modif_2022_art35.pdf and JU_quotites_communales_2026.pdf kept for context/comparison).\n\nERRATA (added 2026-09-11): Moutier (BFS 6831) transferred from canton Bern to canton Jura effective 2026 following its 2021 self-determination vote, becoming the seat of a new 'District de Moutier'. This was already correctly reflected in the app's map boundary layer (cantonCode JU) via the independently-sourced BFS municipality register, but this canton's own tax-data research (above) predates/didn't account for the transfer, so JU_municipalities.json had no row for it at all -- the app was showing only federal+cantonal tax for anyone who selected Moutier, with no municipal or church tax line, and no indication that anything was missing. Added a row using REASONABLE ESTIMATES rather than researched figures, clearly flagged: municipalMultiplier=1.975 (the average of Delémont's 1.9 and Porrentruy's 2.05 -- JU's other two district-capital towns, chosen as the closest comparable peer group since Moutier is now itself a district capital and district capitals in JU trend lower than the small-village average of 2.11), municipalMultiplierEstimated=true. churchMultiplierReformed is left null so it correctly falls back to the uniform canton-wide 0.081 constant every other JU municipality uses (this is NOT an estimate, it's the real confirmed rate). churchMultiplierCatholic=0.068 (average of Delémont's 0.064 and Porrentruy's 0.072), churchMultiplierCatholicEstimated=true. These estimates should be replaced with Moutier's actual JU quotité once the canton publishes one (as of the transfer, Moutier's real 2026 rates may still be governed by transitional/Bernese arrangements -- this was not researched, only approximated)."
+}

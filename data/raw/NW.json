@@ -1,0 +1,62 @@
+{
+  "canton": "NW",
+  "year": 2026,
+  "source": {
+    "incomeTax": "https://www.estv2.admin.ch/stp/kb/nw-de.pdf",
+    "wealthTax": "https://www.estv2.admin.ch/stp/kb/nw-de.pdf",
+    "multiplier": "https://www.steuern-nw.ch/app/uploads/2025/12/NW-1173433-v1-Steuerfuesse_2026.pdf",
+    "municipalData": "https://www.steuern-nw.ch/app/uploads/2025/12/NW-1173433-v1-Steuerfuesse_2026.pdf",
+    "law": "https://www.steuern-nw.ch/app/uploads/2026/02/Steuergesetz_2026.pdf"
+  },
+  "incomeTaxBrackets": {
+    "single": [
+      { "from": 0, "rate": 0.000 },
+      { "from": 11600, "rate": 0.005 },
+      { "from": 14000, "rate": 0.010 },
+      { "from": 15200, "rate": 0.012 },
+      { "from": 16400, "rate": 0.014 },
+      { "from": 17600, "rate": 0.016 },
+      { "from": 18800, "rate": 0.018 },
+      { "from": 20000, "rate": 0.020 },
+      { "from": 21200, "rate": 0.022 },
+      { "from": 22400, "rate": 0.024 },
+      { "from": 23600, "rate": 0.026 },
+      { "from": 24800, "rate": 0.028 },
+      { "from": 32800, "rate": 0.029 },
+      { "from": 50100, "rate": 0.030 },
+      { "from": 81300, "rate": 0.031 },
+      { "from": 116000, "rate": 0.032 },
+      { "from": 148800, "rate": 0.033 },
+      { "from": 166300, "rate": 0.0275 }
+    ],
+    "married": [
+      { "from": 0, "rate": 0.000 },
+      { "from": 21460, "rate": 0.005 },
+      { "from": 25900, "rate": 0.010 },
+      { "from": 28120, "rate": 0.012 },
+      { "from": 30340, "rate": 0.014 },
+      { "from": 32560, "rate": 0.016 },
+      { "from": 34780, "rate": 0.018 },
+      { "from": 37000, "rate": 0.020 },
+      { "from": 39220, "rate": 0.022 },
+      { "from": 41440, "rate": 0.024 },
+      { "from": 43660, "rate": 0.026 },
+      { "from": 45880, "rate": 0.028 },
+      { "from": 60680, "rate": 0.029 },
+      { "from": 92685, "rate": 0.030 },
+      { "from": 150405, "rate": 0.031 },
+      { "from": 214600, "rate": 0.032 },
+      { "from": 275280, "rate": 0.033 },
+      { "from": 307655, "rate": 0.0275 }
+    ]
+  },
+  "wealthTaxBrackets": {
+    "general": [
+      { "from": 0, "rate": 0.00025 }
+    ]
+  },
+  "wealthTaxRateUnit": "decimal",
+  "cantonalMultiplier": { "value": 2.61, "unit": "factor", "appliedOnTop": true },
+  "churchTax": { "variesByMunicipality": true, "reformed": 0.26, "catholic": null },
+  "notes": "YEAR CHOSEN: 2026 figures used throughout (confirmed enacted; Steuerfuesse 2026 published 17 Dec 2025, Steuergesetz consolidated Feb 2026, income-tax bracket table explicitly marked 'Wird angewendet ab Steuerperiode 2026'). \n\nNOT A FLAT-RATE SYSTEM (correcting the brief's premise): NW's income tax is a genuine 18-step progressive marginal-bracket schedule (Art. 40 Abs. 1 StG) from 0% up to 3.30% -- this is NOT the famous 'flat rate' feature. The real, well-known NW quirk is different and much more interesting: for taxable income >= CHF 166'300, the ENTIRE income (not just the amount above the threshold) is taxed at a flat AVERAGE rate of 2.75% -- which is LOWER than the marginal rate (3.30%) that applies to the bracket immediately below it. This produces a genuinely regressive tail at the very top of the income scale: a taxpayer earning just below the threshold can, in principle, face a higher marginal burden than one earning more. This 'Tarifbremse'/rate-cap was a deliberate, politically controversial policy move (NW is known for aggressively courting high-income/wealthy residents with one of the lowest effective top rates in Switzerland) and is precisely the kind of mechanism that needs dedicated code: DO NOT implement the 166'300 breakpoint as a normal continuation of the marginal-bracket cumulative sum -- for income >= 166'300 the correct formula is simply tax = income * 0.0275 (flat, average-rate, NOT marginal-additive). I verified this by reconstructing the cumulative marginal tax at the boundary (~CHF 4'561-4'571) against 0.0275*166'300 (~CHF 4'573): they are very close but not exactly equal (small residual from independent CHF-100 rounding of thresholds under the 'kalte Progression' indexation rule in Art. 43 StG), confirming the top band really is a separate flat-average rule layered on top of, not a seamless extension of, the marginal table. The bracket array above still lists the cap as a final {from:166300, rate:0.0275} entry for schema-conformance, but a correct implementation MUST special-case income >= 166'300 as flat-rate-times-total-income.\n\nMARRIED/JOINT FILERS: NW uses full income-splitting via a divisor, not a separate bracket table (Art. 40 Abs. 2 StG): the applicable RATE is determined by dividing taxable income by 1.85, looking up the resulting average rate on the single schedule, then applying that rate to the FULL (undivided) income. The same rate also applies to widowed/separated/divorced/single taxpayers who live with and principally support children. This is mathematically exactly equivalent to scaling every single-schedule threshold by 1.85 while keeping the same marginal rates (proof: if g(x) = 1.85*f(x/1.85), then g'(x) = f'(x/1.85), i.e. the marginal rate at the scaled breakpoint is identical) -- so the 'married' array above is an exact transformation, not an approximation, INCLUDING the same flat-rate-cap caveat at the scaled threshold (CHF 307'655 = 166'300*1.85).\n\nWEALTH TAX: flat single-rate schedule, 0.25 permille (0.00025) of taxable wealth (Art. 54 Abs. 1 StG) -- represented as a single-entry bracket array per the flat-rate convention. A reduced rate of 0.20 permille (0.0002) applies to qualifying holdings (>=10% stake in a company/cooperative), and there is a separate real-estate minimum tax (0.3 permille of assessed value, Art. 55/56 StG) that applies instead of income+wealth tax when higher -- neither of these special cases is in the bracket array; a developer implementing this should add them as separate rules.\n\nCANTONAL MULTIPLIER: expressed as 'Einheiten' (a raw factor, not percent -- e.g. 2.66 means the cantonal tax = 2.66x the 'einfache Steuer' from the bracket table). For 2026 the nominal/statutory cantonal Einheiten is 2.66, but Art. 3a StG allows the Landrat to grant a one-year 'Rabatt' (rebate) on top of the statutory rate; for 2026 this rebate is 0.05, so the EFFECTIVE 2026 cantonal multiplier actually charged is 2.61 (the value used in cantonalMultiplier above). The SAME multiplier (Einheiten) applies to both income AND wealth tax -- no BL/GE-style split by tax type. I verified the ord-minus-Rabatt arithmetic against the pre-computed 'Total' column in the source PDF for several municipalities (e.g. Stans: (2.66-0.05)+(2.35-0.00)+(0.40-0.00) = 5.36, exactly matching the published total) -- confirms rebates subtract directly from the ordinary Einheiten.\n\nCHURCH TAX: NOT canton-wide flat -- reformed (evangelisch-reformiert) IS effectively canton-wide flat at 0.26 Einheiten in every single one of the 11 municipalities/Kirchgemeinden (with zero rebate everywhere), so churchTax.reformed=0.26 is safe to treat as a constant. Roman Catholic (röm.-kath.) Kirchgemeinde multipliers vary meaningfully by municipality, from 0.21 (Hergiswil) to 0.55 (Emmetten) -- see NW_municipalities.json for the per-municipality catholic values; churchTax.catholic is therefore null at the canton level by design. NW has no christ-catholic (Christkatholische) parishes. There is also a fixed per-capita 'Kopfsteuer' of CHF 50 (church-independent, not modeled here) and a Feuerwehr-Ersatzabgabe (fire-service exemption levy) of 4 permille of taxable income (min CHF 50, max CHF 400) -- both are separate from the income/wealth tax system and out of scope for this dataset.\n\nMUNICIPALITIES: NW has exactly 11 political municipalities (Beckenried, Buochs, Dallenwil, Emmetten, Ennetbürgen, Ennetmoos, Hergiswil, Oberdorf, Stans, Stansstad, Wolfenschiessen), no districts (Bezirke). The source table also lists a few named hamlets/localities (Obbürgen under Ennetbürgen and again under Stansstad; Büren under Oberdorf; Kehrsiten under Stansstad; Oberrickenbach under Wolfenschiessen) with numbers identical to their parent municipality -- these are NOT separate municipalities, just named sub-localities sharing the parent's tax figures, and were excluded from the municipalities file to avoid double-counting."
+}
