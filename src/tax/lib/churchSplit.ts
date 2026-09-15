@@ -43,9 +43,3 @@ export function churchSplitParts(input: TaxInput): ChurchSplitPart[] {
   if (input.spouseFaith !== 'none') parts.push({ faith: input.spouseFaith, fraction: 0.5, owner: 'spouse' })
   return parts
 }
-
-/** `"you, "` / `"spouse, "` / `""` — prefix for a church-tax component label,
- * e.g. `` `Church tax (${churchOwnerPrefix(part)}${part.faith})` ``. */
-export function churchOwnerPrefix(part: ChurchSplitPart): string {
-  return part.owner ? `${part.owner}, ` : ''
-}

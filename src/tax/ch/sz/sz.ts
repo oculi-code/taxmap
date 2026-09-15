@@ -1,7 +1,8 @@
 import type { TaxComponent } from '../../../types'
 import { scaleBracketsForSplitting, taxFromBrackets } from '../../lib/bracket'
 import type { CantonTaxModule } from '../../lib/cantonModule'
-import { churchOwnerPrefix, churchSplitParts } from '../../lib/churchSplit'
+import { churchSplitParts } from '../../lib/churchSplit'
+import { cantonalTaxLabel, churchTaxLabel, districtTaxLabel, municipalTaxLabel } from '../../lib/labels'
 import data from './sz.data.json'
 import municipalities from './sz.municipalities.json'
 
@@ -44,7 +45,7 @@ export const sz: CantonTaxModule = {
     const cantonalFraction = data.cantonalMultiplierPercent / 100
     const components: TaxComponent[] = [
       {
-        label: 'Cantonal tax (SZ)',
+        label: cantonalTaxLabel('SZ'),
         baseTax: cantonalBaseTax,
         multiplier: cantonalFraction,
         amount: cantonalBaseTax * cantonalFraction,
@@ -55,7 +56,7 @@ export const sz: CantonTaxModule = {
     if (muni) {
       const districtFraction = muni.districtMultiplierPercent / 100
       components.push({
-        label: `District tax (${muni.district})`,
+        label: districtTaxLabel(muni.district),
         baseTax,
         multiplier: districtFraction,
         amount: baseTax * districtFraction,
@@ -64,7 +65,7 @@ export const sz: CantonTaxModule = {
       if (muni.municipalMultiplierPercent > 0) {
         const muniFraction = muni.municipalMultiplierPercent / 100
         components.push({
-          label: `Municipal tax (${muni.name})`,
+          label: municipalTaxLabel(muni.name),
           baseTax,
           multiplier: muniFraction,
           amount: baseTax * muniFraction,
@@ -78,7 +79,7 @@ export const sz: CantonTaxModule = {
         const churchFraction = churchPercent / 100
         const partBase = baseTax * part.fraction
         components.push({
-          label: `Church tax (${churchOwnerPrefix(part)}${part.faith})`,
+          label: churchTaxLabel(part),
           baseTax: partBase,
           multiplier: churchFraction,
           amount: partBase * churchFraction,

@@ -1,7 +1,8 @@
 import type { TaxComponent } from '../../../types'
 import { taxFromBrackets } from '../../lib/bracket'
 import type { CantonTaxModule } from '../../lib/cantonModule'
-import { churchOwnerPrefix, churchSplitParts } from '../../lib/churchSplit'
+import { churchSplitParts } from '../../lib/churchSplit'
+import { cantonalTaxLabel, churchTaxLabel, municipalTaxInclSchoolLabel } from '../../lib/labels'
 import data from './tg.data.json'
 import municipalities from './tg.municipalities.json'
 
@@ -21,14 +22,14 @@ export const tg: CantonTaxModule = {
 
     const cantonalFraction = data.cantonalMultiplierPercent / 100
     const components: TaxComponent[] = [
-      { label: 'Cantonal tax (TG)', baseTax, multiplier: cantonalFraction, amount: baseTax * cantonalFraction },
+      { label: cantonalTaxLabel('TG'), baseTax, multiplier: cantonalFraction, amount: baseTax * cantonalFraction },
     ]
 
     const muni = bfsNumber != null ? municipalities.find((m) => m.bfsNumber === bfsNumber) : undefined
     if (muni) {
       const muniFraction = muni.municipalMultiplierPercent / 100
       components.push({
-        label: `Municipal tax (${muni.name}, incl. school)`,
+        label: municipalTaxInclSchoolLabel(muni.name),
         baseTax,
         multiplier: muniFraction,
         amount: baseTax * muniFraction,
@@ -41,7 +42,7 @@ export const tg: CantonTaxModule = {
         const churchFraction = churchPercent / 100
         const partBase = baseTax * part.fraction
         components.push({
-          label: `Church tax (${churchOwnerPrefix(part)}${part.faith})`,
+          label: churchTaxLabel(part),
           baseTax: partBase,
           multiplier: churchFraction,
           amount: partBase * churchFraction,

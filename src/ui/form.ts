@@ -1,3 +1,4 @@
+import { t } from '../i18n/translations'
 import type { Faith, MaritalStatus, TaxInput } from '../types'
 
 export interface TaxFormOptions {
@@ -5,10 +6,10 @@ export interface TaxFormOptions {
   onChange: (input: TaxInput) => void
 }
 
-const faithOptions = `
-  <option value="none">None / not affiliated</option>
-  <option value="reformed">Reformed (evangelisch-reformiert)</option>
-  <option value="catholic">Roman Catholic</option>
+const faithOptions = () => `
+  <option value="none">${t('faithNone')}</option>
+  <option value="reformed">${t('faithReformed')}</option>
+  <option value="catholic">${t('faithCatholic')}</option>
 `
 
 /** Renders the input form into `container` and calls `onChange` whenever any
@@ -19,49 +20,49 @@ export function mountTaxForm(container: HTMLElement, options: TaxFormOptions) {
   container.innerHTML = `
     <form class="tax-form">
       <fieldset>
-        <legend>Household, Income &amp; Wealth (CHF)</legend>
+        <legend>${t('formLegend')}</legend>
 
         <div class="field-row">
           <label class="field">
-            <span>Marital status</span>
+            <span>${t('maritalStatusLabel')}</span>
             <select name="maritalStatus">
-              <option value="single">Single</option>
-              <option value="married">Married</option>
+              <option value="single">${t('maritalSingle')}</option>
+              <option value="married">${t('maritalMarried')}</option>
             </select>
           </label>
 
           <label class="field">
-            <span>Children</span>
+            <span>${t('childrenLabel')}</span>
             <input type="number" name="numberOfChildren" min="0" max="10" step="1" />
           </label>
         </div>
 
         <div class="field-row married-only-row">
           <label class="field">
-            <span id="income-label">Taxable income (CHF/year)</span>
+            <span id="income-label">${t('incomeLabelSingle')}</span>
             <input type="number" name="income" min="0" step="1000" inputmode="numeric" />
           </label>
 
-          <label class="field married-only" hidden title="Kept separate so we can preview individual/separate taxation.">
-            <span>Spouse's income</span>
+          <label class="field married-only" hidden title="${t('spouseIncomeTitle')}">
+            <span>${t('spouseIncomeLabel')}</span>
             <input type="number" name="spouseIncome" min="0" step="1000" inputmode="numeric" />
           </label>
         </div>
 
         <div class="field-row married-only-row">
           <label class="field">
-            <span id="faith-label">Religion (for church tax)</span>
-            <select name="faith">${faithOptions}</select>
+            <span id="faith-label">${t('faithLabelSingle')}</span>
+            <select name="faith">${faithOptions()}</select>
           </label>
 
-          <label class="field married-only" hidden title="Swiss church tax splits 50/50 between spouses of differing confessions, rather than using one shared household faith.">
-            <span>Spouse's religion</span>
-            <select name="spouseFaith">${faithOptions}</select>
+          <label class="field married-only" hidden title="${t('spouseFaithTitle')}">
+            <span>${t('spouseFaithLabel')}</span>
+            <select name="spouseFaith">${faithOptions()}</select>
           </label>
         </div>
 
         <label class="field">
-          <span>Taxable wealth (CHF)</span>
+          <span>${t('wealthLabel')}</span>
           <input type="number" name="wealth" min="0" step="10000" inputmode="numeric" />
         </label>
       </fieldset>
@@ -92,8 +93,8 @@ export function mountTaxForm(container: HTMLElement, options: TaxFormOptions) {
   function syncMarriedUi() {
     const married = state.maritalStatus === 'married'
     spouseFields.forEach((el) => (el.hidden = !married))
-    incomeLabel.textContent = married ? 'Your income' : 'Taxable income (CHF/year)'
-    faithLabel.textContent = married ? 'Your religion' : 'Religion (for church tax)'
+    incomeLabel.textContent = married ? t('incomeLabelMarried') : t('incomeLabelSingle')
+    faithLabel.textContent = married ? t('faithLabelMarried') : t('faithLabelSingle')
   }
 
   function emit() {

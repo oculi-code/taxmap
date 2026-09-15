@@ -1,7 +1,9 @@
+import { t } from '../../../i18n/translations'
 import type { TaxComponent } from '../../../types'
 import { taxFromBrackets } from '../../lib/bracket'
 import type { CantonTaxModule } from '../../lib/cantonModule'
-import { churchOwnerPrefix, churchSplitParts } from '../../lib/churchSplit'
+import { churchSplitParts } from '../../lib/churchSplit'
+import { cantonalTaxLabel, churchTaxLabel, municipalTaxLabel } from '../../lib/labels'
 import data from './ju.data.json'
 import municipalities from './ju.municipalities.json'
 
@@ -25,20 +27,18 @@ export const ju: CantonTaxModule = {
 
     const cantonalAmount = baseTax * data.cantonalMultiplierFactor
     const components: TaxComponent[] = [
-      { label: 'Cantonal tax (JU)', baseTax, multiplier: data.cantonalMultiplierFactor, amount: cantonalAmount },
+      { label: cantonalTaxLabel('JU'), baseTax, multiplier: data.cantonalMultiplierFactor, amount: cantonalAmount },
     ]
 
     const muni = bfsNumber != null ? municipalities.find((m) => m.bfsNumber === bfsNumber) : undefined
     if (muni) {
       const muniFactor = muni.municipalMultiplierFactor
       components.push({
-        label: `Municipal tax (${muni.name})`,
+        label: municipalTaxLabel(muni.name),
         baseTax,
         multiplier: muniFactor,
         amount: baseTax * muniFactor,
-        warning: muni.municipalMultiplierEstimated
-          ? `${muni.name} transferred from canton Bern to Jura in 2026 and has no confirmed municipal tax rate yet — this uses an estimate averaged from JU's other district-capital towns (Delémont, Porrentruy).`
-          : undefined,
+        warning: muni.municipalMultiplierEstimated ? t('warningJuMunicipal', { name: muni.name }) : undefined,
       })
 
       for (const part of churchSplitParts(input)) {
@@ -49,13 +49,13 @@ export const ju: CantonTaxModule = {
         if (!churchRate) continue
         const partBase = cantonalAmount * part.fraction
         components.push({
-          label: `Church tax (${churchOwnerPrefix(part)}${part.faith})`,
+          label: churchTaxLabel(part),
           baseTax: partBase,
           multiplier: churchRate,
           amount: partBase * churchRate,
           warning:
             part.faith === 'catholic' && muni.churchMultiplierCatholicEstimated
-              ? `${muni.name} has no confirmed catholic church tax rate yet — this uses an estimate averaged from JU's other district-capital towns.`
+              ? t('warningJuChurch', { name: muni.name })
               : undefined,
         })
       }

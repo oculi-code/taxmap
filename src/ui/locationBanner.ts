@@ -1,3 +1,5 @@
+import { t } from '../i18n/translations'
+
 export interface LocationBannerState {
   name: string
   cantonCode: string | null
@@ -8,7 +10,7 @@ export interface LocationBannerState {
 
 export function renderLocationBanner(container: HTMLElement, selection: LocationBannerState | null) {
   if (!selection) {
-    container.innerHTML = `<div class="location-banner location-banner-empty">No municipality selected</div>`
+    container.innerHTML = `<div class="location-banner location-banner-empty">${t('locationNoneSelected')}</div>`
     return
   }
   container.innerHTML = `
@@ -16,11 +18,7 @@ export function renderLocationBanner(container: HTMLElement, selection: Location
       <span class="location-name">${escapeHtml(selection.name)}</span>
       ${selection.cantonCode ? `<span class="location-canton">(${escapeHtml(selection.cantonCode)})</span>` : ''}
     </div>
-    ${
-      selection.nonCommunal
-        ? `<p class="hint">Not a residential municipality — this is uninhabited state forest / shared inter-communal land with no tax jurisdiction of its own. Pick a nearby town or village instead.</p>`
-        : ''
-    }
+    ${selection.nonCommunal ? `<p class="hint">${t('locationNonCommunalHint')}</p>` : ''}
   `
 }
 

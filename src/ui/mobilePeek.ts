@@ -1,3 +1,4 @@
+import { t } from '../i18n/translations'
 import type { TaxBreakdown } from '../types'
 
 export interface MobilePeekState {
@@ -18,10 +19,10 @@ const chf = new Intl.NumberFormat('de-CH', { style: 'currency', currency: 'CHF',
 export function renderMobilePeek(container: HTMLElement, state: MobilePeekState, expanded: boolean) {
   const title = state.name
     ? `${escapeHtml(state.name)}${state.cantonCode ? ` (${escapeHtml(state.cantonCode)})` : ''}`
-    : 'Swiss Tax Map'
+    : t('appTitle')
   const amountRow = state.breakdown
     ? `<span class="mobile-peek-amount">${chf.format(state.breakdown.totalTax)}</span><span class="mobile-peek-rate">${(state.breakdown.effectiveRate * 100).toFixed(1)}%</span>`
-    : `<span class="mobile-peek-hint">Tap to search a municipality &amp; enter details</span>`
+    : `<span class="mobile-peek-hint">${escapeHtml(t('mobilePeekHint'))}</span>`
 
   container.innerHTML = `
     <span class="mobile-peek-handle" aria-hidden="true"></span>

@@ -1,3 +1,4 @@
+import { t } from '../i18n/translations'
 import type { MunicipalityListEntry } from '../types'
 
 const MAX_RESULTS = 8
@@ -13,7 +14,7 @@ export interface MunicipalitySearchOptions {
 export function mountMunicipalitySearch(container: HTMLElement, options: MunicipalitySearchOptions) {
   container.innerHTML = `
     <div class="muni-search">
-      <input type="text" class="muni-search-input" placeholder="Search municipality…" autocomplete="off" />
+      <input type="text" class="muni-search-input" placeholder="${t('searchPlaceholder')}" autocomplete="off" />
       <ul class="muni-search-dropdown" hidden></ul>
     </div>
   `

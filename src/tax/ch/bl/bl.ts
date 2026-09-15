@@ -1,6 +1,7 @@
 import type { TaxComponent } from '../../../types'
 import { taxFromBrackets } from '../../lib/bracket'
 import type { CantonTaxModule } from '../../lib/cantonModule'
+import { cantonalIncomeTaxLabel, cantonalWealthTaxLabel, municipalTaxLabel } from '../../lib/labels'
 import data from './bl.data.json'
 import municipalities from './bl.municipalities.json'
 
@@ -23,12 +24,12 @@ export const bl: CantonTaxModule = {
     const cantonalIncomeFraction = data.cantonalIncomeMultiplierPercent / 100
     const components: TaxComponent[] = [
       {
-        label: 'Cantonal income tax (BL)',
+        label: cantonalIncomeTaxLabel('BL'),
         baseTax: incomeBase,
         multiplier: cantonalIncomeFraction,
         amount: incomeBase * cantonalIncomeFraction,
       },
-      { label: 'Cantonal wealth tax (BL)', baseTax: wealthBase, multiplier: null, amount: wealthBase },
+      { label: cantonalWealthTaxLabel('BL'), baseTax: wealthBase, multiplier: null, amount: wealthBase },
     ]
 
     const muni = bfsNumber != null ? municipalities.find((m) => m.bfsNumber === bfsNumber) : undefined
@@ -36,7 +37,7 @@ export const bl: CantonTaxModule = {
       const muniFraction = muni.municipalMultiplierPercent / 100
       const combinedBase = incomeBase + wealthBase
       components.push({
-        label: `Municipal tax (${muni.name})`,
+        label: municipalTaxLabel(muni.name),
         baseTax: combinedBase,
         multiplier: muniFraction,
         amount: combinedBase * muniFraction,

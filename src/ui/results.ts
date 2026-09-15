@@ -1,3 +1,4 @@
+import { t } from '../i18n/translations'
 import type { SeparateTaxationComparison, TaxBreakdown } from '../types'
 
 const chf = new Intl.NumberFormat('de-CH', { style: 'currency', currency: 'CHF', maximumFractionDigits: 0 })
@@ -10,20 +11,20 @@ export function renderResults(
   emptyHint?: string,
 ) {
   if (!breakdown) {
-    container.innerHTML = `<p class="hint">${escapeHtml(emptyHint ?? 'Enter your details and pick a municipality on the map to see an estimate.')}</p>`
+    container.innerHTML = `<p class="hint">${escapeHtml(emptyHint ?? t('resultsEmptyHint'))}</p>`
     return
   }
 
   container.innerHTML = `
     <div class="results">
       <div class="results-total">
-        <span class="results-total-label">Estimated total tax</span>
+        <span class="results-total-label">${t('resultsTotalLabel')}</span>
         <span class="results-total-amount">${chf.format(breakdown.totalTax)}</span>
-        <span class="results-total-sub">${pct(breakdown.effectiveRate)} of gross income</span>
+        <span class="results-total-sub">${t('resultsTotalSub', { pct: pct(breakdown.effectiveRate) })}</span>
         ${
           !breakdown.precise
-            ? `<span class="badge badge-approx">Approximate — precise cantonal tax law not yet modeled for this canton</span>`
-            : `<span class="badge badge-precise">Based on modeled cantonal tax law</span>`
+            ? `<span class="badge badge-approx">${t('badgeApprox')}</span>`
+            : `<span class="badge badge-precise">${t('badgePrecise')}</span>`
         }
       </div>
 
@@ -36,7 +37,7 @@ export function renderResults(
       }
 
       <table class="results-table">
-        <thead><tr><th>Component</th><th>Base</th><th>Rate</th><th>Amount</th></tr></thead>
+        <thead><tr><th>${t('tableComponent')}</th><th>${t('tableBase')}</th><th>${t('tableRate')}</th><th>${t('tableAmount')}</th></tr></thead>
         <tbody>
           ${breakdown.components
             .map(
@@ -53,11 +54,11 @@ export function renderResults(
       </table>
 
       <details class="deductions">
-        <summary>Deductions applied (${chf.format(breakdown.grossIncome - breakdown.taxableIncome)} total)</summary>
+        <summary>${t('deductionsSummary', { amount: chf.format(breakdown.grossIncome - breakdown.taxableIncome) })}</summary>
         <ul>
           ${breakdown.deductions.map((d) => `<li>${escapeHtml(d.label)}: ${chf.format(d.amount)}</li>`).join('')}
         </ul>
-        <p class="hint">Deduction amounts use the federal schedule for all cantons in this preview, even where a canton's own rules differ — only the tax rates themselves are canton-specific.</p>
+        <p class="hint">${t('deductionsHint')}</p>
       </details>
 
       ${separate ? renderSeparateTaxation(separate) : ''}
@@ -67,20 +68,16 @@ export function renderResults(
 
 function renderSeparateTaxation(s: SeparateTaxationComparison) {
   const delta = s.difference
-  const direction = delta < 0 ? 'less' : delta > 0 ? 'more' : 'the same'
+  const direction = delta < 0 ? t('directionLess') : delta > 0 ? t('directionMore') : t('directionSame')
   return `
     <div class="separate-taxation">
-      <h3>Preview: individual/separate taxation</h3>
-      <p class="hint">
-        Switzerland does not yet have separate taxation of spouses — this is a simulation of a proposed
-        reform with no finalized official formula. It models each spouse being taxed individually on
-        their own income (wealth split evenly), then summed.
-      </p>
+      <h3>${t('separateTaxationTitle')}</h3>
+      <p class="hint">${t('separateTaxationHint')}</p>
       <table class="results-table">
         <tbody>
-          <tr><td>Current joint taxation</td><td>${chf.format(s.jointTotal)}</td></tr>
-          <tr><td>Simulated separate taxation</td><td>${chf.format(s.separateTotal)}</td></tr>
-          <tr><td>Difference</td><td>${chf.format(Math.abs(delta))} ${direction}</td></tr>
+          <tr><td>${t('currentJointTaxation')}</td><td>${chf.format(s.jointTotal)}</td></tr>
+          <tr><td>${t('simulatedSeparateTaxation')}</td><td>${chf.format(s.separateTotal)}</td></tr>
+          <tr><td>${t('difference')}</td><td>${chf.format(Math.abs(delta))} ${direction}</td></tr>
         </tbody>
       </table>
     </div>

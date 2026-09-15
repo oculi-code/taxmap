@@ -1,6 +1,7 @@
 import type { TaxComponent } from '../../../types'
 import { taxFromBrackets } from '../../lib/bracket'
 import type { CantonTaxModule } from '../../lib/cantonModule'
+import { cantonalTaxLabel, municipalTaxLabel } from '../../lib/labels'
 import data from './vs.data.json'
 import municipalities from './vs.municipalities.json'
 
@@ -17,12 +18,12 @@ export const vs: CantonTaxModule = {
     const incomeBrackets = input.maritalStatus === 'married' ? data.incomeTax.married : data.incomeTax.single
     const baseTax = taxFromBrackets(taxableIncome, incomeBrackets) + taxFromBrackets(input.wealth, data.wealthTax)
 
-    const components: TaxComponent[] = [{ label: 'Cantonal tax (VS)', baseTax, multiplier: null, amount: baseTax }]
+    const components: TaxComponent[] = [{ label: cantonalTaxLabel('VS'), baseTax, multiplier: null, amount: baseTax }]
 
     const muni = bfsNumber != null ? municipalities.find((m) => m.bfsNumber === bfsNumber) : undefined
     if (muni) {
       const factor = muni.municipalMultiplierFactor
-      components.push({ label: `Municipal tax (${muni.name})`, baseTax, multiplier: factor, amount: baseTax * factor })
+      components.push({ label: municipalTaxLabel(muni.name), baseTax, multiplier: factor, amount: baseTax * factor })
     }
 
     return components

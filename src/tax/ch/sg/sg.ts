@@ -1,7 +1,9 @@
+import { t } from '../../../i18n/translations'
 import type { TaxComponent } from '../../../types'
 import { taxFromBrackets } from '../../lib/bracket'
 import type { CantonTaxModule } from '../../lib/cantonModule'
-import { churchOwnerPrefix, churchSplitParts } from '../../lib/churchSplit'
+import { churchSplitParts } from '../../lib/churchSplit'
+import { cantonalTaxLabel, churchTaxLabel, municipalTaxLabel } from '../../lib/labels'
 import data from './sg.data.json'
 import municipalities from './sg.municipalities.json'
 
@@ -23,20 +25,18 @@ export const sg: CantonTaxModule = {
 
     const cantonalFraction = data.cantonalMultiplierPercent / 100
     const components: TaxComponent[] = [
-      { label: 'Cantonal tax (SG)', baseTax, multiplier: cantonalFraction, amount: baseTax * cantonalFraction },
+      { label: cantonalTaxLabel('SG'), baseTax, multiplier: cantonalFraction, amount: baseTax * cantonalFraction },
     ]
 
     const muni = bfsNumber != null ? municipalities.find((m) => m.bfsNumber === bfsNumber) : undefined
     if (muni?.municipalMultiplierPercent != null) {
       const muniFraction = muni.municipalMultiplierPercent / 100
       components.push({
-        label: `Municipal tax (${muni.name})`,
+        label: municipalTaxLabel(muni.name),
         baseTax,
         multiplier: muniFraction,
         amount: baseTax * muniFraction,
-        warning: muni.municipalMultiplierEstimated
-          ? `${muni.name}'s 2026 municipal tax rate is not yet finalized — a binding referendum (27 Sept 2026) will set it at 115%, 118%, or 121%. This uses an estimate (the average of the three proposals) until the result is known.`
-          : undefined,
+        warning: muni.municipalMultiplierEstimated ? t('warningSgMunicipal', { name: muni.name }) : undefined,
       })
 
       for (const part of churchSplitParts(input)) {
@@ -46,13 +46,11 @@ export const sg: CantonTaxModule = {
         const churchFraction = churchPercent / 100
         const partBase = baseTax * part.fraction
         components.push({
-          label: `Church tax (${churchOwnerPrefix(part)}${part.faith})`,
+          label: churchTaxLabel(part),
           baseTax: partBase,
           multiplier: churchFraction,
           amount: partBase * churchFraction,
-          warning: muni.churchMultiplierEstimated
-            ? `${muni.name}'s church tax rate is also pending the same referendum outcome — this uses the district average as a placeholder.`
-            : undefined,
+          warning: muni.churchMultiplierEstimated ? t('warningSgChurch', { name: muni.name }) : undefined,
         })
       }
     }
