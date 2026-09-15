@@ -1,19 +1,25 @@
 import './style.css'
+import { onLocaleChange } from './i18n/i18n'
+import { t } from './i18n/translations'
 import { loadPersistedState, savePersistedState } from './lib/persistence'
 import { MapView, type MunicipalityClickEvent } from './map/mapView'
 import { PRECISE_CANTONS } from './tax/lib/cantonRegistry'
 import { computeSeparateTaxationPreview, computeTaxBreakdown } from './tax/lib/engine'
-import type { CantonCode, TaxBreakdown, TaxInput } from './types'
+import type { CantonCode, MunicipalityListEntry, TaxBreakdown, TaxInput } from './types'
 import { mountTaxForm } from './ui/form'
-import { renderLocationBanner } from './ui/locationBanner'
+import { mountLanguageSelector } from './ui/languageSelector'
+import { renderLocationBanner, type LocationBannerState } from './ui/locationBanner'
 import { renderMobilePeek } from './ui/mobilePeek'
 import { mountMunicipalitySearch } from './ui/municipalitySearch'
 import { renderResults } from './ui/results'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <header class="app-header">
-    <h1>Swiss Tax Map</h1>
-    <p>Click a municipality to estimate income &amp; wealth tax — federal, cantonal, communal and church.</p>
+    <div class="app-header-top">
+      <h1 id="app-title"></h1>
+      <div id="lang-mount"></div>
+    </div>
+    <p id="app-subtitle"></p>
   </header>
   <div class="app-body">
     <aside class="sidebar">
@@ -23,19 +29,8 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
       <div id="form-mount"></div>
       <div id="results-mount"></div>
       <details class="about">
-        <summary>About this data</summary>
-        <p>
-          Federal tax figures follow the official 2026 ESTV tariff and deductions. Cantonal/communal/church
-          tax is precisely modeled for <strong>all 26 cantons</strong> — Zürich, Bern, Lucerne, Uri, Schwyz,
-          Obwalden, Nidwalden, Glarus, Zug, Fribourg, Solothurn, Basel-Stadt, Basel-Landschaft, Schaffhausen,
-          Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Aargau, Thurgau, Ticino,
-          Vaud, Valais, Neuchâtel, Geneva and Jura — from each canton's own current tax law and municipal
-          multiplier tables.
-          Deduction amounts use the federal schedule everywhere
-          (cantons' own deduction rules differ but aren't modeled here); the deductions actually applied are
-          always shown. Boundaries are © swisstopo / BFS GEOSTAT (swiss-maps), non-commercial use with
-          attribution.
-        </p>
+        <summary id="about-summary"></summary>
+        <p id="about-body"></p>
       </details>
     </aside>
     <main id="map-mount"></main>
@@ -49,6 +44,21 @@ const searchMount = document.querySelector<HTMLElement>('#search-mount')!
 const formMount = document.querySelector<HTMLElement>('#form-mount')!
 const resultsMount = document.querySelector<HTMLElement>('#results-mount')!
 const mobilePeekMount = document.querySelector<HTMLButtonElement>('#mobile-peek-mount')!
+const langMount = document.querySelector<HTMLElement>('#lang-mount')!
+const appTitle = document.querySelector<HTMLElement>('#app-title')!
+const appSubtitle = document.querySelector<HTMLElement>('#app-subtitle')!
+const aboutSummary = document.querySelector<HTMLElement>('#about-summary')!
+const aboutBody = document.querySelector<HTMLElement>('#about-body')!
+
+mountLanguageSelector(langMount)
+
+function renderStaticText() {
+  appTitle.textContent = t('appTitle')
+  appSubtitle.textContent = t('appSubtitle')
+  aboutSummary.textContent = t('aboutSummary')
+  aboutBody.innerHTML = t('aboutBody')
+}
+renderStaticText()
 
 let selected: MunicipalityClickEvent | null = null
 let nonCommunalSelection: MunicipalityClickEvent | null = null
@@ -87,7 +97,21 @@ function updateMobilePeek() {
   sidebar.style.setProperty('--peek-height', `${mobilePeekMount.offsetHeight}px`)
 }
 
-renderLocationBanner(locationMount, null)
+let currentBannerSelection: LocationBannerState | null = null
+function renderBanner() {
+  renderLocationBanner(locationMount, currentBannerSelection)
+}
+
+let municipalityList: MunicipalityListEntry[] = []
+function mountSearch() {
+  mountMunicipalitySearch(searchMount, {
+    municipalities: municipalityList,
+    // getMunicipalityList() already excludes non-communal entries.
+    onSelect: (entry) => selectMunicipality({ ...entry, nonCommunal: false }, { pan: true }),
+  })
+}
+
+renderBanner()
 renderResults(resultsMount, null, null)
 updateMobilePeek()
 
@@ -105,14 +129,13 @@ const defaultInput: TaxInput = {
 }
 const initialInput: TaxInput = persisted ? { ...defaultInput, ...persisted.household } : defaultInput
 
-const form = mountTaxForm(formMount, {
-  initial: initialInput,
-  onChange: () => {
-    recompute()
-    scheduleChoroplethUpdate()
-    persistState()
-  },
-})
+function onFormChange() {
+  recompute()
+  scheduleChoroplethUpdate()
+  persistState()
+}
+
+let form = mountTaxForm(formMount, { initial: initialInput, onChange: onFormChange })
 
 const map = new MapView(mapMount)
 
@@ -128,7 +151,8 @@ function selectMunicipality(e: MunicipalityClickEvent, opts: { pan: boolean }) {
   form.setBfsNumber(e.nonCommunal ? null : e.bfsNumber)
   map.setSelectedMunicipality(e.bfsNumber)
   if (opts.pan) map.flyToMunicipality(e.bfsNumber)
-  renderLocationBanner(locationMount, { name: e.name, cantonCode: e.cantonCode, nonCommunal: e.nonCommunal })
+  currentBannerSelection = { name: e.name, cantonCode: e.cantonCode, nonCommunal: e.nonCommunal }
+  renderBanner()
   recompute()
   if (!e.nonCommunal) persistState()
   setSidebarExpanded(false)
@@ -144,9 +168,7 @@ map.onMunicipalityClick((e) => selectMunicipality(e, { pan: false }))
 function recompute() {
   if (!selected) {
     lastBreakdown = null
-    const hint = nonCommunalSelection
-      ? `${nonCommunalSelection.name} has no tax jurisdiction of its own — pick a nearby town or village instead.`
-      : undefined
+    const hint = nonCommunalSelection ? t('nonCommunalHint', { name: nonCommunalSelection.name }) : undefined
     renderResults(resultsMount, null, null, hint)
     updateMobilePeek()
     return
@@ -202,14 +224,11 @@ function scheduleChoroplethUpdate() {
 map
   .init()
   .then(() => {
-    mountMunicipalitySearch(searchMount, {
-      municipalities: map.getMunicipalityList(),
-      // getMunicipalityList() already excludes non-communal entries.
-      onSelect: (entry) => selectMunicipality({ ...entry, nonCommunal: false }, { pan: true }),
-    })
+    municipalityList = map.getMunicipalityList()
+    mountSearch()
 
     if (persisted?.selectedBfsNumber != null) {
-      const entry = map.getMunicipalityList().find((m) => m.bfsNumber === persisted.selectedBfsNumber)
+      const entry = municipalityList.find((m) => m.bfsNumber === persisted.selectedBfsNumber)
       if (entry) selectMunicipality({ ...entry, nonCommunal: false }, { pan: true })
     }
 
@@ -217,5 +236,18 @@ map
   })
   .catch((err) => {
     console.error('Failed to load map', err)
-    mapMount.innerHTML = `<p class="hint" style="padding:16px">Failed to load map data. Run <code>npm run prep:boundaries</code> first.</p>`
+    mapMount.innerHTML = `<p class="hint" style="padding:16px">${t('mapLoadError')}</p>`
   })
+
+// Re-render every piece of UI-chrome text (and re-run the tax computation,
+// whose empty-state hint is also translated) when the user picks a different
+// language — everything here is cheap enough to just redo from current
+// state rather than tracking which specific strings are on screen.
+onLocaleChange(() => {
+  renderStaticText()
+  mountLanguageSelector(langMount)
+  form = mountTaxForm(formMount, { initial: form.getState(), onChange: onFormChange })
+  if (municipalityList.length > 0) mountSearch()
+  renderBanner()
+  recompute()
+})

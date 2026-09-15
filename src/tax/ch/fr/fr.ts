@@ -1,7 +1,15 @@
+import { t } from '../../../i18n/translations'
 import type { TaxComponent } from '../../../types'
 import { taxFromBrackets } from '../../lib/bracket'
 import type { CantonTaxModule } from '../../lib/cantonModule'
-import { churchOwnerPrefix, churchSplitParts } from '../../lib/churchSplit'
+import { churchSplitParts } from '../../lib/churchSplit'
+import {
+  cantonalIncomeTaxLabel,
+  cantonalWealthTaxLabel,
+  churchIncomeTaxLabel,
+  churchWealthTaxLabel,
+  municipalTaxLabel,
+} from '../../lib/labels'
 import data from './fr.data.json'
 import municipalities from './fr.municipalities.json'
 
@@ -35,13 +43,13 @@ export const fr: CantonTaxModule = {
     const cantonalWealthFraction = data.cantonalWealthMultiplierPercent / 100
     const components: TaxComponent[] = [
       {
-        label: 'Cantonal income tax (FR)',
+        label: cantonalIncomeTaxLabel('FR'),
         baseTax: incomeBase,
         multiplier: cantonalIncomeFraction,
         amount: incomeBase * cantonalIncomeFraction,
       },
       {
-        label: 'Cantonal wealth tax (FR)',
+        label: cantonalWealthTaxLabel('FR'),
         baseTax: wealthBase,
         multiplier: cantonalWealthFraction,
         amount: wealthBase * cantonalWealthFraction,
@@ -53,13 +61,11 @@ export const fr: CantonTaxModule = {
       const muniFraction = muni.municipalMultiplierPercent / 100
       const combinedBase = incomeBase + wealthBase
       components.push({
-        label: `Municipal tax (${muni.name})`,
+        label: municipalTaxLabel(muni.name),
         baseTax: combinedBase,
         multiplier: muniFraction,
         amount: combinedBase * muniFraction,
-        warning: muni.municipalMultiplierEstimated
-          ? `${muni.name} was formed by a 2025 merger and isn't in the canton's published 2026 commune-coefficient dataset yet — this uses an estimate (the average of its two predecessor communes' last known rates).`
-          : undefined,
+        warning: muni.municipalMultiplierEstimated ? t('warningFrMunicipal', { name: muni.name }) : undefined,
       })
     }
 
@@ -76,7 +82,7 @@ export const fr: CantonTaxModule = {
           const f = incomePercent / 100
           const partBase = incomeBase * part.fraction
           components.push({
-            label: `Church income tax (${churchOwnerPrefix(part)}${part.faith})`,
+            label: churchIncomeTaxLabel(part),
             baseTax: partBase,
             multiplier: f,
             amount: partBase * f,
@@ -86,7 +92,7 @@ export const fr: CantonTaxModule = {
           const f = wealthPercent / 100
           const partBase = wealthBase * part.fraction
           components.push({
-            label: `Church wealth tax (${churchOwnerPrefix(part)}${part.faith})`,
+            label: churchWealthTaxLabel(part),
             baseTax: partBase,
             multiplier: f,
             amount: partBase * f,

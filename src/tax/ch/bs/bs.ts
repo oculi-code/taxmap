@@ -1,7 +1,14 @@
 import type { TaxComponent } from '../../../types'
 import { taxFromBrackets } from '../../lib/bracket'
 import type { CantonTaxModule } from '../../lib/cantonModule'
-import { churchOwnerPrefix, churchSplitParts } from '../../lib/churchSplit'
+import { churchSplitParts } from '../../lib/churchSplit'
+import {
+  cantonalIncomeTaxLabel,
+  cantonalWealthTaxLabel,
+  churchTaxIncomeOnlyLabel,
+  municipalIncomeTaxLabel,
+  municipalWealthTaxLabel,
+} from '../../lib/labels'
 import data from './bs.data.json'
 import municipalities from './bs.municipalities.json'
 
@@ -38,13 +45,13 @@ export const bs: CantonTaxModule = {
 
     const components: TaxComponent[] = [
       {
-        label: 'Cantonal income tax (BS)',
+        label: cantonalIncomeTaxLabel('BS'),
         baseTax: incomeBase,
         multiplier: cantonalIncomeFraction,
         amount: incomeBase * cantonalIncomeFraction,
       },
       {
-        label: 'Cantonal wealth tax (BS)',
+        label: cantonalWealthTaxLabel('BS'),
         baseTax: wealthBase,
         multiplier: cantonalWealthFraction,
         amount: wealthBase * cantonalWealthFraction,
@@ -53,13 +60,13 @@ export const bs: CantonTaxModule = {
 
     if (muni && (municipalIncomeFraction > 0 || municipalWealthFraction > 0)) {
       components.push({
-        label: `Municipal income tax (${muni.name})`,
+        label: municipalIncomeTaxLabel(muni.name),
         baseTax: incomeBase,
         multiplier: municipalIncomeFraction,
         amount: incomeBase * municipalIncomeFraction,
       })
       components.push({
-        label: `Municipal wealth tax (${muni.name})`,
+        label: municipalWealthTaxLabel(muni.name),
         baseTax: wealthBase,
         multiplier: municipalWealthFraction,
         amount: wealthBase * municipalWealthFraction,
@@ -74,7 +81,7 @@ export const bs: CantonTaxModule = {
         const churchFraction = churchPercent / 100
         const partBase = incomeBase * part.fraction
         components.push({
-          label: `Church tax (${churchOwnerPrefix(part)}${part.faith}, income only)`,
+          label: churchTaxIncomeOnlyLabel(part),
           baseTax: partBase,
           multiplier: churchFraction,
           amount: partBase * churchFraction,

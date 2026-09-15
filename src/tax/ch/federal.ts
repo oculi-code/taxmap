@@ -1,5 +1,13 @@
 import type { DeductionLine, TaxInput } from '../../types'
 import { taxFromBrackets } from '../lib/bracket'
+import {
+  childDeductionLabel,
+  insuranceDeductionPerChildLabel,
+  insurancePremiumDeductionLabel,
+  marriedCoupleDeductionLabel,
+  parentTaxCreditLabel,
+  twoEarnerDeductionLabel,
+} from '../lib/labels'
 import federal from './federal.data.json'
 
 export interface FederalComputation {
@@ -21,31 +29,31 @@ export function computeFederalIncomeTax(input: TaxInput): FederalComputation {
 
   if (input.numberOfChildren > 0) {
     deductions.push({
-      label: `Child deduction × ${input.numberOfChildren}`,
+      label: childDeductionLabel(input.numberOfChildren),
       amount: federal.deductions.childDeduction * input.numberOfChildren,
     })
   }
 
   const insuranceBase =
     input.maritalStatus === 'married' ? federal.deductions.insuranceDeductionMarried : federal.deductions.insuranceDeductionSingle
-  deductions.push({ label: 'Insurance premium deduction', amount: insuranceBase })
+  deductions.push({ label: insurancePremiumDeductionLabel(), amount: insuranceBase })
 
   if (input.numberOfChildren > 0) {
     deductions.push({
-      label: `Insurance deduction per child × ${input.numberOfChildren}`,
+      label: insuranceDeductionPerChildLabel(input.numberOfChildren),
       amount: federal.deductions.insuranceDeductionPerChild * input.numberOfChildren,
     })
   }
 
   if (input.maritalStatus === 'married') {
-    deductions.push({ label: 'Married-couple deduction (Verheiratetenabzug)', amount: federal.deductions.marriedDeduction })
+    deductions.push({ label: marriedCoupleDeductionLabel(), amount: federal.deductions.marriedDeduction })
   }
 
   if (input.maritalStatus === 'married' && input.spouseIncome > 0) {
     const lower = Math.min(input.income, input.spouseIncome)
     const { percentOfLowerIncome, min, max } = federal.deductions.twoEarnerDeduction
     const amount = Math.min(max, Math.max(min, lower * percentOfLowerIncome))
-    deductions.push({ label: 'Two-earner deduction', amount })
+    deductions.push({ label: twoEarnerDeductionLabel(), amount })
   }
 
   const totalDeductions = deductions.reduce((sum, d) => sum + d.amount, 0)
@@ -60,7 +68,7 @@ export function computeFederalIncomeTax(input: TaxInput): FederalComputation {
   const credits: DeductionLine[] = []
   if (usesParentTariff && input.numberOfChildren > 0) {
     credits.push({
-      label: `Parent tax credit (Elterntarif) × ${input.numberOfChildren}`,
+      label: parentTaxCreditLabel(input.numberOfChildren),
       amount: federal.deductions.parentTaxCreditPerChild * input.numberOfChildren,
     })
   }

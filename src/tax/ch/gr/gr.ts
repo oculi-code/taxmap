@@ -1,7 +1,8 @@
 import type { TaxComponent } from '../../../types'
 import { taxFromBrackets } from '../../lib/bracket'
 import type { CantonTaxModule } from '../../lib/cantonModule'
-import { churchOwnerPrefix, churchSplitParts } from '../../lib/churchSplit'
+import { churchSplitParts } from '../../lib/churchSplit'
+import { cantonalTaxLabel, churchTaxLabel, churchTaxReformedLandeskircheLabel, municipalTaxLabel } from '../../lib/labels'
 import data from './gr.data.json'
 import municipalities from './gr.municipalities.json'
 
@@ -24,14 +25,14 @@ export const gr: CantonTaxModule = {
 
     const cantonalFraction = data.cantonalMultiplierPercent / 100
     const components: TaxComponent[] = [
-      { label: 'Cantonal tax (GR)', baseTax, multiplier: cantonalFraction, amount: baseTax * cantonalFraction },
+      { label: cantonalTaxLabel('GR'), baseTax, multiplier: cantonalFraction, amount: baseTax * cantonalFraction },
     ]
 
     const muni = bfsNumber != null ? municipalities.find((m) => m.bfsNumber === bfsNumber) : undefined
     if (muni) {
       const muniFraction = muni.municipalMultiplierPercent / 100
       components.push({
-        label: `Municipal tax (${muni.name})`,
+        label: municipalTaxLabel(muni.name),
         baseTax,
         multiplier: muniFraction,
         amount: baseTax * muniFraction,
@@ -44,7 +45,7 @@ export const gr: CantonTaxModule = {
           if (churchPercent == null) continue
           const churchFraction = (churchPercent + data.churchReformedCantonalPercent) / 100
           components.push({
-            label: `Church tax (${churchOwnerPrefix(part)}reformed, local + cantonal Landeskirche)`,
+            label: churchTaxReformedLandeskircheLabel(part),
             baseTax: partBase,
             multiplier: churchFraction,
             amount: partBase * churchFraction,
@@ -52,7 +53,7 @@ export const gr: CantonTaxModule = {
         } else if (muni.churchMultiplierCatholicPercent) {
           const churchFraction = muni.churchMultiplierCatholicPercent / 100
           components.push({
-            label: `Church tax (${churchOwnerPrefix(part)}catholic)`,
+            label: churchTaxLabel(part),
             baseTax: partBase,
             multiplier: churchFraction,
             amount: partBase * churchFraction,

@@ -2,13 +2,14 @@ import type { CantonCode, SeparateTaxationComparison, TaxBreakdown, TaxInput } f
 import { computeFederalIncomeTax } from '../ch/federal'
 import { getCantonModule } from './cantonRegistry'
 import { computeGenericCantonalComponents } from './generic'
+import { federalTaxLabel } from './labels'
 
 export function computeTaxBreakdown(input: TaxInput, cantonCode: CantonCode | null, bfsNumber: number | null): TaxBreakdown {
   const fed = computeFederalIncomeTax(input)
   const cantonModule = cantonCode ? getCantonModule(cantonCode) : null
 
   const components = [
-    { label: 'Federal tax (direkte Bundessteuer)', baseTax: fed.taxableIncome, multiplier: null, amount: fed.tax },
+    { label: federalTaxLabel(), baseTax: fed.taxableIncome, multiplier: null, amount: fed.tax },
     ...(cantonModule
       ? cantonModule.computeComponents(input, fed.taxableIncome, bfsNumber)
       : computeGenericCantonalComponents(input, fed.taxableIncome)),

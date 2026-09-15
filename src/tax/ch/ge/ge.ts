@@ -1,6 +1,7 @@
 import type { TaxComponent } from '../../../types'
 import { taxFromBrackets } from '../../lib/bracket'
 import type { CantonTaxModule } from '../../lib/cantonModule'
+import { cantonalIncomeTaxLabel, cantonalWealthTaxLabel, municipalTaxLabel, supplementaryWealthTaxLabel } from '../../lib/labels'
 import data from './ge.data.json'
 import municipalities from './ge.municipalities.json'
 
@@ -39,13 +40,13 @@ export const ge: CantonTaxModule = {
 
     const components: TaxComponent[] = [
       {
-        label: 'Cantonal income tax (GE)',
+        label: cantonalIncomeTaxLabel('GE'),
         baseTax: incomeBase,
         multiplier: cantonalIncomeFraction,
         amount: incomeBase * cantonalIncomeFraction,
       },
       {
-        label: 'Cantonal wealth tax (GE)',
+        label: cantonalWealthTaxLabel('GE'),
         baseTax: wealthBase,
         multiplier: cantonalFraction,
         amount: wealthBase * cantonalFraction,
@@ -57,7 +58,7 @@ export const ge: CantonTaxModule = {
       const muniFraction = muni.municipalMultiplierPercent / 100
       const combinedBase = incomeBase + wealthBase
       components.push({
-        label: `Municipal tax (${muni.name})`,
+        label: municipalTaxLabel(muni.name),
         baseTax: combinedBase,
         multiplier: muniFraction,
         amount: combinedBase * muniFraction,
@@ -65,7 +66,7 @@ export const ge: CantonTaxModule = {
     }
 
     components.push({
-      label: 'Supplementary wealth tax (GE, no multiplier applies)',
+      label: supplementaryWealthTaxLabel('GE'),
       baseTax: input.wealth,
       multiplier: null,
       amount: supplementaryWealthTax,

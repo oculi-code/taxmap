@@ -1,5 +1,6 @@
 import type { TaxComponent, TaxInput } from '../../types'
 import { taxFromBrackets } from './bracket'
+import { genericApproxLabel } from './labels'
 import type { Bracket } from './types'
 
 /**
@@ -44,7 +45,7 @@ export function computeGenericCantonalComponents(input: TaxInput, taxableIncome:
   const wealthTax = taxFromBrackets(input.wealth, GENERIC_WEALTH_BRACKETS)
   return [
     {
-      label: 'Cantonal + communal + church tax (approximate — generic model)',
+      label: genericApproxLabel(),
       baseTax: taxableIncome + input.wealth,
       multiplier: null,
       amount: incomeTax + wealthTax,
